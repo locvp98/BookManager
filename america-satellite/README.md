@@ -34,3 +34,9 @@ The first and last 0.4 seconds fade. Other shots cross-dissolve over 12 frames. 
 - The dashed Great Plains band is an approximate visual aid. It is not a surveyed boundary, not an 800,000 km² area calculation, and does not assert that nobody lives there. Existing town lights remain visible. Narration statistics have not been independently fact-checked in this preview task.
 
 No background music was added, preserving the supplied voiceover for review. No LA–NY–Paris route is included: that user example was a style reference, while this composition follows the US Great Plains narration.
+
+## Full narration
+
+- Full 23-minute composition: `SatelliteFull` in Remotion Studio.
+- [Full edit notes and render command](america-satellite/FULL-VERSION.md).
+- The 40-second review video remains linked above.

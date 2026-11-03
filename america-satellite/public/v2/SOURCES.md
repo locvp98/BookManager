@@ -7,3 +7,8 @@
 - `narration-timing.srt`: user-supplied timing reference; never rendered as text.
 - City and prairie illustrations reuse the project's existing AI-generated images, animated with frame-driven camera movement. They are illustrative, not documentary drone footage.
 - The existing orbital shot uses the project's original Earth texture. The new high-resolution regional plate is used for every flat-map shot and comparison.
+
+- `narration-full.mp3`: the complete user-supplied Japanese narration; `SatelliteFull` uses the full original track. `narration-timing.srt` covers the complete narration through 23:16.527.
+
+- The full version uses 60 separately timed, animated illustration shots alongside 31 standalone map/comparison shots. Twelve newly generated cinematic illustrations in `scenes/` show subjects and historical settings described in narration; they are not archival or geolocated evidence. Existing city, prairie, irrigation, and wind-farm artwork is used only where it fits the narration. The same source image is not used in adjacent illustration shots.
+- Map overlays animate city-light connections, geographic routes, moisture and rainfall paths, well markers, and comparison wipes. The pale Great Plains locator, rainfall gradients, rain-shadow paths, and well pulses are explanatory graphics, not surveyed boundaries or measured climate/groundwater data.

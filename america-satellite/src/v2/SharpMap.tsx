@@ -1,5 +1,5 @@
 import React from 'react';
-import {AbsoluteFill, CanvasImage, Easing, interpolate, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, CanvasImage, Easing, Img, interpolate, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 
 export type MapMode = 'east'|'west'|'gap'|'scan'|'ribbon'|'scale';
 const world=32768;
@@ -15,7 +15,7 @@ export const MapView=({lon,lat,span,children}:{lon:number;lat:number;span:number
  const [cx,cy]=point(lon,lat);const scale=1920/span;
  return <AbsoluteFill style={{overflow:'hidden',background:'#020611'}}>
   <div style={{position:'absolute',width:6371,height:4514,transformOrigin:'0 0',transform:`translate(960px,540px) scale(${scale}) translate(${-cx}px,${-cy}px)`}}>
-   <CanvasImage src={staticFile('v2/usa-night-6371.jpg')} style={{position:'absolute',width:6371,height:4514,maxWidth:'none',filter:'brightness(1.12) saturate(.82) contrast(1.04)'}}/>
+   <Img src={staticFile('v2/usa-night-6371.jpg')} width={6371} height={4514} style={{position:'absolute',width:6371,height:4514,maxWidth:'none',filter:'brightness(1.12) saturate(.82) contrast(1.04)'}}/>
    <svg width={6371} height={4514} style={{position:'absolute',overflow:'visible'}}>{children}</svg>
   </div>
   <AbsoluteFill style={{background:'radial-gradient(ellipse at 50% 50%,transparent 45%,rgba(0,4,12,.48))',pointerEvents:'none'}}/>

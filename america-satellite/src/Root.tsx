@@ -2,6 +2,7 @@ import React from 'react';
 import {SatellitePreview} from './v2/SatellitePreview';
 import {SharpMap,CoastComparison,DensityComparison} from './v2/SharpMap';
 import {CinematicInsert} from './v2/CinematicInsert';
+import {FullStory} from './v2/FullStory';
 import {AbsoluteFill,Composition,Folder,Sequence,useVideoConfig,interpolate,useCurrentFrame,staticFile} from 'remotion';
 import {Audio} from '@remotion/media';
 import {Orbit} from './Orbit';
@@ -29,6 +30,7 @@ const Opening=()=>{
  </AbsoluteFill>;
 };
 export const RemotionRoot=()=> <>
+ <Composition id="SatelliteFull" component={FullStory} durationInFrames={41896} fps={30} width={1920} height={1080}/>
  <Composition id="SatellitePreviewV2" component={SatellitePreview} durationInFrames={1200} fps={30} width={1920} height={1080}/>
  <Folder name="SatelliteV2-Scenes">
  <Composition id="V2-EasternLights" component={SharpMap} defaultProps={{mode:'east' as const}} durationInFrames={76} fps={30} width={1920} height={1080}/>
