@@ -1,4 +1,7 @@
 import React from 'react';
+import {SatellitePreview} from './v2/SatellitePreview';
+import {SharpMap,CoastComparison,DensityComparison} from './v2/SharpMap';
+import {CinematicInsert} from './v2/CinematicInsert';
 import {AbsoluteFill,Composition,Folder,Sequence,useVideoConfig,interpolate,useCurrentFrame,staticFile} from 'remotion';
 import {Audio} from '@remotion/media';
 import {Orbit} from './Orbit';
@@ -26,6 +29,21 @@ const Opening=()=>{
  </AbsoluteFill>;
 };
 export const RemotionRoot=()=> <>
+ <Composition id="SatellitePreviewV2" component={SatellitePreview} durationInFrames={1200} fps={30} width={1920} height={1080}/>
+ <Folder name="SatelliteV2-Scenes">
+ <Composition id="V2-EasternLights" component={SharpMap} defaultProps={{mode:'east' as const}} durationInFrames={76} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-PacificCorridor" component={SharpMap} defaultProps={{mode:'west' as const}} durationInFrames={58} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-CoastComparison" component={CoastComparison} durationInFrames={110} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-CentralGap" component={SharpMap} defaultProps={{mode:'gap' as const}} durationInFrames={105} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-NorthSouthScan" component={SharpMap} defaultProps={{mode:'scan' as const}} durationInFrames={152} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-RibbonReveal" component={SharpMap} defaultProps={{mode:'ribbon' as const}} durationInFrames={97} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-DensityComparison" component={DensityComparison} durationInFrames={99} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-ScalePullback" component={SharpMap} defaultProps={{mode:'scale' as const}} durationInFrames={109} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-EasternCity" component={CinematicInsert} defaultProps={{asset:'east-city.png',focus:'60% 45%',startScale:1.03,endScale:1.13,drift:12}} durationInFrames={85} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-LosAngeles" component={CinematicInsert} defaultProps={{asset:'la-city.png',focus:'60% 50%',startScale:1.12,endScale:1.03,drift:-12}} durationInFrames={74} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-Prairie" component={CinematicInsert} defaultProps={{asset:'prairie.png',focus:'50% 58%',startScale:1.04,endScale:1.19,drift:8}} durationInFrames={109} fps={30} width={1920} height={1080}/>
+ <Composition id="V2-Farmstead" component={CinematicInsert} defaultProps={{asset:'prairie.png',focus:'24% 54%',startScale:1.75,endScale:1.95,drift:-8}} durationInFrames={100} fps={30} width={1920} height={1080}/>
+ </Folder>
  <Composition id="AmericaPreview40" component={Opening} durationInFrames={1200} fps={30} width={1920} height={1080}/>
  <Folder name="Scenes">
  <Composition id="OrbitalApproach" component={Orbit} durationInFrames={134} fps={30} width={1920} height={1080}/>

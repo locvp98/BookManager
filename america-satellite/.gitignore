@@ -1,4 +1,5 @@
 node_modules/
 out/*
 !out/america-preview-40s.mp4
+!out/satellite-v2-github-40s.mp4
 .DS_Store
