@@ -1,0 +1,31 @@
+{
+  "name": "america-satellite",
+  "version": "1.0.0",
+  "description": "40-second Japanese geographic documentary preview \u2014 American Great Plains",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port=3000",
+    "typecheck": "tsc --noEmit",
+    "render:preview": "remotion render src/index.ts AmericaPreview40 out/america-preview-40s.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=2 --crf=20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.540",
+    "@remotion/media": "4.0.540",
+    "@remotion/three": "4.0.540",
+    "@remotion/transitions": "4.0.540",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.540",
+    "three": "0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "typescript": "^7.0.2"
+  }
+}
