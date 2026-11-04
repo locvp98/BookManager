@@ -12,3 +12,6 @@ Extract. Keep enough free storage for the ZIP and the extracted MP4.
 
 The original Japanese subtitle file is also included as
 `america-satellite-subtitles-ja.srt`.
+
+For CapCut, use `america-satellite-subtitles-ja-capcut.srt`. It keeps the same
+subtitle text and timings, with UTF-8 BOM encoding and Windows-style line endings.
