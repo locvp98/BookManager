@@ -9,3 +9,6 @@ Download `america-satellite-full-v4.zip` and extract it to get
 
 On Android, download the ZIP, open it in Files or ZArchiver, then choose
 Extract. Keep enough free storage for the ZIP and the extracted MP4.
+
+The original Japanese subtitle file is also included as
+`america-satellite-subtitles-ja.srt`.
