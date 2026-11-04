@@ -1,3 +1,6 @@
 america-satellite/out/satellite-full-1080p-30fps.mp4 filter=lfs diff=lfs merge=lfs -text
 america-satellite/downloads/*.z01 filter=lfs diff=lfs merge=lfs -text
 america-satellite/downloads/*.zip filter=lfs diff=lfs merge=lfs -text
+
+america-satellite/video-v3/*.z01 filter=lfs diff=lfs merge=lfs -text
+america-satellite/video-v3/*.zip filter=lfs diff=lfs merge=lfs -text
