@@ -20,6 +20,6 @@
   "preview": "first 40 seconds, continuous original narration",
   "illustrationSceneTargetForFull": 97,
   "fullStoryboardStatus": "not requested yet",
-  "illustrationMotion": "slow gentle continuous, no shake/jitter",
+  "illustrationMotion": "User-set linear forward camera push from 100% to 112% over 8 seconds, no shake",
   "mapStyle": "NASA satellite/globe, independent vector comparison, population share, night lights"
 }

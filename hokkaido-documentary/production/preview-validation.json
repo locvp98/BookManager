@@ -2,7 +2,7 @@
   "exports": [
     {
       "path": "preview/hokkaido-preview-40s-1080p30.mp4",
-      "bytes": 45813539,
+      "bytes": 42817923,
       "frames": 1200,
       "fps": 30,
       "width": 1920,
@@ -68,11 +68,11 @@
       ],
       "fullDecode": "passed",
       "decodedFrames": 1200,
-      "sha256": "9b091c2126c32e565718e2eb399fb45b094efed0c332a8a7dadb46c3c83e9e63"
+      "sha256": "674b072ca2999b0aa7b490047f56e48ff0d6e37b0ef7e4eeb00d5ae665dcc781"
     },
     {
       "path": "preview/hokkaido-preview-40s-720p30.mp4",
-      "bytes": 7025810,
+      "bytes": 6639979,
       "frames": 1200,
       "fps": 30,
       "width": 1280,
@@ -138,11 +138,11 @@
       ],
       "fullDecode": "passed",
       "decodedFrames": 1200,
-      "sha256": "759e19774b43f61dc190cac9edd913bce5513943388d0bae4375cde68bf5fe9a"
+      "sha256": "7bb5da004fd40ae2a6130d86d2f662b33bb334223357ee6b8578dfad2690a231"
     },
     {
       "path": "preview/hokkaido-camera-forward-7s.mp4",
-      "bytes": 4351388,
+      "bytes": 3145278,
       "frames": 210,
       "fps": 30,
       "width": 1280,
@@ -208,7 +208,7 @@
       ],
       "fullDecode": "passed",
       "decodedFrames": 210,
-      "sha256": "c9edcc5d54bd4d3252774ba0861b780e1e0dc3a7656e45c6ee8de71a3d442929"
+      "sha256": "63bdfbd96590a23ea8d2d46fa33c3f8af59d4c12d7ce04b39ebe23f80aece2b8"
     }
   ],
   "visualReview": {
@@ -251,9 +251,9 @@
     "subtitles": false,
     "mapNotes": true,
     "cornerFrame": false,
-    "motion": "Constant 3% forward push, anchored at 73%/28% toward road vanishing point; no shake, spring, oscillation or per-cue reset."
+    "motion": "Constant linear forward push from 1.00 to 1.12 over 240 frames (8s), approximately 1.5 percentage points per second; same anchor 73% 28%; no shake or direction change"
   },
   "sourceFingerprintRecheck": "V1 checkpoint hashes verified; only RuralScene implementation changed; rebuilt absolute frames [600,900); copied other chunks without re-encoding.",
   "fullLengthFilmProduced": false,
-  "revision": "V2: gentle forward push in the non-map illustration"
+  "revision": "V3: user requested 100% to 112% forward push"
 }
