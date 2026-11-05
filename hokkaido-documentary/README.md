@@ -25,3 +25,11 @@ across the full audio.
 Both contain the same 40-second edit and audio. Git LFS is used for MP3/MP4 files;
 run `git lfs install` and `git lfs pull` after cloning. Install Noto Sans CJK JP
 for Japanese map annotations. QA results and contact sheets are in `production/`.
+
+## Motion revision V2
+
+The rural illustration now uses one slow, constant forward push (3% over 8 seconds),
+anchored toward the vanishing point of the road. No shake or direction changes.
+The map design, narration and edit timings are unchanged. Only the affected
+20–30 second render chunk was rebuilt; other verified chunks were reused.
+`preview/hokkaido-camera-forward-7s.mp4` isolates 21.5–28.5 seconds for quick review.

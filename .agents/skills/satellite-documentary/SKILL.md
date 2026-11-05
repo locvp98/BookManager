@@ -38,6 +38,8 @@ markup, maps và render theo công việc cụ thể; không giả định mọi
   tiết chế, chuyển cảnh êm. Không shake, jitter, glitch, flash, zoom bật, overshoot
   hay đổi hướng đột ngột. Không reset zoom/rung theo từng ảnh; xem clip chuyển động
   và điểm nối để kiểm tra, không chỉ duyệt ảnh tĩnh.
+  Với ảnh phù hợp, ưu tiên cú camera tiến chậm về điểm chú ý (gentle push-in),
+  mức phóng nhẹ khoảng 1–3% trong một shot; không thêm hiệu ứng rung hay nảy.
 - Mỗi lần trở lại map phải có phát hiện thị giác mới đúng lời thoại: vị trí, phạm
   vi, dòng chảy, đường đi, biến động, mật độ hoặc so sánh. Chỉ đổi zoom/màu/scan
   trên cùng một bản đồ chưa đủ để được tính là thông tin mới.
