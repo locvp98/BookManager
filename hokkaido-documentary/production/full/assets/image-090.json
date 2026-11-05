@@ -1,0 +1,16 @@
+{
+  "id": "image-090",
+  "cueIds": [
+    214
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Illustrative modern semiconductor-related industrial campus in Chitose, Hokkaido, clean functional low-rise buildings and construction infrastructure, daylight, no claim to show a specific real factory, no logos or text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-090.png",
+  "status": "reviewed: accepted",
+  "bytes": 3101581,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "67bc529a44d27a33825600c179618ddcf67e1f2cc7aa98d8c7029e3dd987d347",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

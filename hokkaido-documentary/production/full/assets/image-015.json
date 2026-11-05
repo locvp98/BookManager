@@ -1,0 +1,16 @@
+{
+  "id": "image-015",
+  "cueIds": [
+    48
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Direct overhead aerial of a small rural Hokkaido crossroads amid very large fields, a single modest residence and farm shed, crisp geometry and true scale, gentle soft light, different location and composition from earlier farm scenes. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-015.png",
+  "status": "reviewed: accepted",
+  "bytes": 3637774,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "95bf0ecce616b687ba78225e15c3e524fae71d0f432ca8df7ad3129d05c921c7",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

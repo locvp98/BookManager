@@ -1,0 +1,16 @@
+{
+  "id": "image-003",
+  "cueIds": [
+    13
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. High aerial view of the forested interior of central Hokkaido at dusk, mountains opening onto a wide uninhabited-looking basin, no city lights or buildings in the visible valley, natural terrain scale, luminous fading sky. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-003.png",
+  "status": "reviewed: accepted",
+  "bytes": 2457714,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "a13deaa217f967557ebdbfa0d62883c1c0dcd69d375c36e3aa0646ac637f5b05",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

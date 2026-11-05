@@ -1,0 +1,16 @@
+{
+  "id": "image-026",
+  "cueIds": [
+    73
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historical illustration of Japanese rice farming before modern mechanization, workers small in a warm southern Japanese paddy, traditional practical farm clothing, wooden irrigation channels, no modern tools, no text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-026.png",
+  "status": "reviewed: accepted",
+  "bytes": 3603529,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "29cf59c4af375ef699d9feb0cc3ac4bcf685a1c00e9549fd4bb26a8ddc2254d5",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

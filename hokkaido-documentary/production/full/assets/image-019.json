@@ -1,0 +1,16 @@
+{
+  "id": "image-019",
+  "cueIds": [
+    56
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Ordinary residential street in Rome on a mild January morning, stone facades, pedestrians in light winter coats and a few bare deciduous trees, natural sunlight, no famous monument needed, no readable signs. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-019.png",
+  "status": "reviewed: accepted",
+  "bytes": 3613784,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "c923fd9e89367f823e3f56a84303e50a5b5c0c196e885d6f80f02d66c3f17ef3",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

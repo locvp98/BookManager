@@ -1,0 +1,16 @@
+{
+  "id": "image-033",
+  "cueIds": [
+    82
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Vast remote Hokkaido grassland after a light summer rain, low cloud over a distant forested ridge and a small farmhouse almost lost in the landscape, new low-angle composition with no repeated assets. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-033.png",
+  "status": "reviewed: accepted",
+  "bytes": 3043602,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "72afde6402d7a158167a9a5577b266796659cc92b7db7aaaf92c0d96d195d976",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

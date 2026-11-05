@@ -1,0 +1,16 @@
+{
+  "id": "image-074",
+  "cueIds": [
+    175
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A sealed former coal-mine adit in a Hokkaido hillside, aging concrete portal partly screened by ferns and birch trees, calm modern documentary framing, no readable inscription. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-074.png",
+  "status": "reviewed: accepted",
+  "bytes": 3792781,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "56464b5df760e2ed2edc22e65a8484913cc1411238f3ee17c2093e871e1a6811",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

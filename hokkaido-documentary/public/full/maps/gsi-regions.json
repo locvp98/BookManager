@@ -1,0 +1,47 @@
+{
+  "sapporo": {
+    "bbox": [
+      141.295166015625,
+      43.02071359427861,
+      141.39404296875,
+      43.09296067711629
+    ],
+    "projection": "EPSG:3857 tile mosaic",
+    "size": [
+      2304,
+      2304
+    ],
+    "source": "GSI seamlessphoto; aerial dates vary; source attribution required",
+    "zoom": 15
+  },
+  "betsukai": {
+    "bbox": [
+      144.755859375,
+      43.06888777416962,
+      145.458984375,
+      43.707593504052944
+    ],
+    "projection": "EPSG:3857 tile mosaic",
+    "size": [
+      2048,
+      2560
+    ],
+    "source": "GSI seamlessphoto; aerial dates vary; source attribution required",
+    "zoom": 12
+  },
+  "kushiro-wetland": {
+    "bbox": [
+      144.140625,
+      42.97250158602596,
+      144.580078125,
+      43.32517767999294
+    ],
+    "projection": "EPSG:3857 tile mosaic",
+    "size": [
+      2560,
+      2816
+    ],
+    "source": "GSI seamlessphoto; aerial dates vary; source attribution required",
+    "zoom": 13
+  }
+}

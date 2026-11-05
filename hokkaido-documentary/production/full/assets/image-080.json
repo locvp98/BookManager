@@ -1,0 +1,16 @@
+{
+  "id": "image-080",
+  "cueIds": [
+    191
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A young Japanese adult seen from behind on a train platform arriving in a large northern Japanese city, simple luggage, restrained everyday mood, natural light, no readable destination boards. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-080.png",
+  "status": "reviewed: accepted",
+  "bytes": 2506819,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "7391537251cd14f978a56c753bb59bde847f752507124fd780cc79f94331bcfd",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

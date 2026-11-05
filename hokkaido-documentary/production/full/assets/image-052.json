@@ -1,0 +1,16 @@
+{
+  "id": "image-052",
+  "cueIds": [
+    120
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A red-crowned crane standing in the lush reeds and shallow water of a Hokkaido wetland, distant forest and morning mist, realistic wildlife photography style, no text, respectful natural habitat. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-052.png",
+  "status": "reviewed: accepted",
+  "bytes": 2771840,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "4a0e1987071c1291584c2c42a1f7c336d3d68dd885b17376183466492d56b21d",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

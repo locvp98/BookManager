@@ -1,0 +1,77 @@
+{
+  "ipss": {
+    "1000": [
+      "1000",
+      "a",
+      "北海道",
+      "5224614",
+      "5007066",
+      "4791556",
+      "4562362",
+      "4319217",
+      "4067642",
+      "3820016",
+      "100",
+      "95.836094302851848",
+      "91.711196272107372",
+      "87.324384155461061",
+      "82.67054752753026",
+      "77.855359266732421",
+      "73.115755537155465"
+    ],
+    "1100": [
+      "1100",
+      "1",
+      "北海道",
+      "札幌市",
+      "1973395",
+      "1970144",
+      "1949619",
+      "1916129",
+      "1868252",
+      "1809025",
+      "1745608",
+      "100",
+      "99.835258526549424",
+      "98.795172785985571",
+      "97.098097441211721",
+      "94.671973933247017",
+      "91.670699479830446",
+      "88.457100580471732"
+    ],
+    "1209": [
+      "1209",
+      "2",
+      "北海道",
+      "夕張市",
+      "7334",
+      "6065",
+      "4978",
+      "4056",
+      "3290",
+      "2669",
+      "2154",
+      "100",
+      "82.697027542950636",
+      "67.875647668393782",
+      "55.304063266975731",
+      "44.859558221979825",
+      "36.392146168530132",
+      "29.370057267521133"
+    ]
+  },
+  "ipssSource": "https://www.ipss.go.jp/pp-shicyoson/j/shicyoson23/2gaiyo_hyo/kekkahyo1.xlsx",
+  "foodSelfSufficiency": {
+    "year": 2023,
+    "status": "confirmed",
+    "calorieBasedPercent": 213,
+    "display": "200%超",
+    "source": "https://www.maff.go.jp/j/zyukyu/zikyu_ritu/attach/pdf/zikyu_10-20.pdf"
+  },
+  "temperatureComparison": {
+    "display": "Approximate values from narration: Rome 8C, Sapporo -3C",
+    "caveat": "Not presented as an identical-station-period comparison; Rome WMO 1971–2000 mean January daily min/max are 3.1/11.9C, consistent with an approximate 8C winter comparison. WMO meanTemp itself is not supplied.",
+    "romeSource": "https://worldweather.wmo.int/en/json/201_en.json",
+    "sapporoSource": "https://www.data.jma.go.jp/stats/etrn/view/nml_sfc_ym.php?prec_no=14&block_no=47412&view="
+  }
+}

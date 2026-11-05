@@ -1,0 +1,16 @@
+{
+  "id": "image-036",
+  "cueIds": [
+    89
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A small Hokkaido town fitted into a narrow buildable valley between wooded hills, houses and cultivated plots following the river, high oblique aerial documentary framing, realistic terrain constraints. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-036.png",
+  "status": "reviewed: accepted",
+  "bytes": 3537041,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "824587f36aa2d494da308c215c90c5cef93f385f4cd410f8c4ce650ef8e7be61",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

@@ -1,0 +1,18 @@
+{
+  "id": "image-065",
+  "cueIds": [
+    153,
+    154
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historical illustrative view of a traditional Hokkaido riverside dwelling at the edge of newly cleared settler fields, forest cut back and ordinary domestic objects near the house, focus on loss of land and livelihood, no caricature or invented ceremony. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-065.png",
+  "status": "reviewed: accepted",
+  "bytes": 3552372,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "87020de2c4c90edd9c81de4929ba4781e90d7d367f84f928ae660582b5c8dd72",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "image-032",
+  "cueIds": [
+    81
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Well-engineered irrigation sluice and orderly farm channels in a modern Hokkaido agricultural district, water entering a rice field, detailed gates and flowing water, calm morning documentary shot. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-032.png",
+  "status": "reviewed: accepted",
+  "bytes": 3336966,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "ac784251b693b29aee1bcbe0c91fc51fa84e492218b12d8c3975425f97d934fb",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

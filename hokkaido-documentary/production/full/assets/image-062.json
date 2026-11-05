@@ -1,0 +1,17 @@
+{
+  "id": "image-062",
+  "cueIds": [
+    149
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed exterior of a modest late nineteenth-century Hokkaido tondenhei settler farm dwelling beside a cultivated plot, practical timber construction and simple tools, no military battle scene, no invented symbols or writing. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-062.png",
+  "status": "reviewed: accepted",
+  "bytes": 3534351,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "b5d54ab2a57fc53a686639c3030fe9e760d79a662c31ca99c234846cdb13463a",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

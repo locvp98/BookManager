@@ -1,0 +1,16 @@
+{
+  "id": "image-051",
+  "cueIds": [
+    118
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Interior of a modern Japanese dairy milking parlor, clean stainless steel equipment and calm Holstein cows, a worker seen from behind monitoring the process, documentary lighting, no readable signage. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-051.png",
+  "status": "reviewed: accepted",
+  "bytes": 2723913,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "a35e8f863c20ad650f8339f0182337f90f25f0221459cf0db145529c8409aa58",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

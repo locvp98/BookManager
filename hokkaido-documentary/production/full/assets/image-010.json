@@ -1,0 +1,16 @@
+{
+  "id": "image-010",
+  "cueIds": [
+    23
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Close landscape view of exposed layered earth beside a Hokkaido stream, peat-dark soil, pale volcanic material and rooted plants visible naturally in the cut bank, soft side lighting, realistic geology illustration without labels. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-010.png",
+  "status": "reviewed: accepted",
+  "bytes": 3669478,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "86464f304502e39a8d7dab42b8d534bcebe4c41858a0be3760db296042665bd2",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

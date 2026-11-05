@@ -1,0 +1,16 @@
+{
+  "id": "image-018",
+  "cueIds": [
+    55
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A mild winter agricultural landscape in central Italy, olive trees and old stone farmhouses under soft low winter sun, no snow, subdued natural colors, documentary illustration of a contrasting climate. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-018.png",
+  "status": "reviewed: accepted",
+  "bytes": 3527232,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "28916cb22705f8bb2a38b34c19911439f8bdb28e893a4123c2a2f9f39614838b",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

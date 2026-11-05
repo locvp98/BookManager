@@ -1,0 +1,17 @@
+{
+  "id": "image-056",
+  "cueIds": [
+    129
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Underwater wildlife view of salmon swimming upstream in a clear cold Hokkaido river, pebbles, aquatic plants and natural shafts of daylight, accurate fish anatomy and movement implied, no humans or text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-056.png",
+  "status": "reviewed: accepted",
+  "bytes": 3257512,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "150baff8c5864de0c54b03e9db901a169077b4cfa3e06857c4cf73f306055fe1",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "image-061",
+  "cueIds": [
+    148
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed early agricultural training station in Meiji Hokkaido, practical timber buildings and experimental crop plots, a few small figures in period work clothing, natural daylight, no readable signs. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-061.png",
+  "status": "reviewed: accepted",
+  "bytes": 3590378,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f67d53c482ee9f4eb4d9580597451f8768f3c622f1f72334d416d67554c8c746",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

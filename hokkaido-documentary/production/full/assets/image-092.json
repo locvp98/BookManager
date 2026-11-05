@@ -1,0 +1,16 @@
+{
+  "id": "image-092",
+  "cueIds": [
+    216
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Railway snow-clearing equipment working along a rural Hokkaido track corridor, distant mountains and deep snowbanks, ordinary safe operations, realistic machinery without branding, distinct from the city snowplow scene. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-092.png",
+  "status": "reviewed: accepted",
+  "bytes": 2869087,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "6f2f174850b5c0f012bb3f7bd05a9d1ed8030a837d4874267f985a863d36dab4",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

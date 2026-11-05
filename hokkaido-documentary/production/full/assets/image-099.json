@@ -1,0 +1,16 @@
+{
+  "id": "image-099",
+  "cueIds": [
+    231
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Interior of a modern Japanese agricultural packing line handling potatoes and onions in separate crates, workers in clean practical clothing, no logos or readable labels, realistic documentary lighting. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-099.png",
+  "status": "reviewed: accepted",
+  "bytes": 2731342,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "d8edf12e86f308697bfa0757b685e1f695b5491531d262fd0a2066d74366fa26",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

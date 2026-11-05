@@ -1,0 +1,17 @@
+{
+  "created": 103,
+  "reviewed": 103,
+  "distinctSHA256": 103,
+  "reusedPreviousFilmAssets": 0,
+  "contactSheets": [
+    "review-01.jpg",
+    "review-02.jpg",
+    "review-03.jpg",
+    "review-04.jpg",
+    "review-05.jpg",
+    "review-06.jpg",
+    "review-07.jpg",
+    "review-late.jpg"
+  ],
+  "note": "Historical and natural-landscape images are illustrations, not documentary evidence of a specific site."
+}

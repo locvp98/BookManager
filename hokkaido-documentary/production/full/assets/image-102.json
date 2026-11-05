@@ -1,0 +1,16 @@
+{
+  "id": "image-102",
+  "cueIds": [
+    242
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Close low-angle view of healthy crops and dark fertile Hokkaido soil with working farmland extending toward distant hills, warm late-summer sunlight, gentle optimistic documentary atmosphere, no text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-102.png",
+  "status": "reviewed: accepted",
+  "bytes": 3028213,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f9a4246435b5de2c771a5095636dbc570855a76f36c81fabce3fbffb22a65f80",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

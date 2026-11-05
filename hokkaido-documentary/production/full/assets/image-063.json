@@ -1,0 +1,18 @@
+{
+  "id": "image-063",
+  "cueIds": [
+    150,
+    151
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Interior of a modest Hokkaido settler farmhouse after a poor harvest, sparse tools, a small storage basket and a cold window looking onto an early frosted field, human hardship conveyed through setting without exaggerated misery. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-063.png",
+  "status": "reviewed: accepted",
+  "bytes": 2795590,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "3bb39cb315bfcd17b6cd29dadfb2fd57a7ddd7ad5461af737ac167dcdefeda82",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

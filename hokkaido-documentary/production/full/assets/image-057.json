@@ -1,0 +1,17 @@
+{
+  "id": "image-057",
+  "cueIds": [
+    130
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Natural forest foods gathered in simple woven baskets beside a Hokkaido woodland path, edible nuts and mountain greens in a historically plausible domestic setting, no ceremonial symbolism, soft documentary light. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-057.png",
+  "status": "reviewed: accepted",
+  "bytes": 3385751,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "ea80ac6ee998ac37a36e8cbf619a4fbabeccdbef2a1b8b14d88bcac0b6764056",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

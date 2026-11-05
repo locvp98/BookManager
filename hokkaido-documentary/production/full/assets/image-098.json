@@ -1,0 +1,16 @@
+{
+  "id": "image-098",
+  "cueIds": [
+    230
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Carefully composed natural still life of Hokkaido staple foods on a plain wooden farm table: potatoes, onions, wheat stalks and milk in an unbranded glass bottle, soft window light, no text or labels. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-098.png",
+  "status": "reviewed: accepted",
+  "bytes": 2635341,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "8415db6ae1cff2ca9ee0c99d22a8666d6e71d67fc56a619c99971288dded3d4d",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

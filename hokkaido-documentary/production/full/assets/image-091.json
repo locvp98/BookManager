@@ -1,0 +1,16 @@
+{
+  "id": "image-091",
+  "cueIds": [
+    215
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. A maintenance crew inspecting a long rural Hokkaido road bridge above a river, workers small in frame and wide landscape around the infrastructure, documentary daylight, no readable markings. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-091.png",
+  "status": "reviewed: accepted",
+  "bytes": 3114351,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "48152a3108803507c75238330ae4e76445128d83014a6e6fdd808ee893940d78",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

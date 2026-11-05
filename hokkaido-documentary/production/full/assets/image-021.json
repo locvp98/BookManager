@@ -1,0 +1,16 @@
+{
+  "id": "image-021",
+  "cueIds": [
+    60
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Aerial illustration of the immense snow-covered Siberian taiga in midwinter, frozen braided river winding through dense conifer forest, deep cold natural blue shadows under low sun, no settlement or labels. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-021.png",
+  "status": "reviewed: accepted",
+  "bytes": 3542816,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "fd19c48666a833accab6be0549ebf2d89c2ddfb1db8edc9b8dd5e61b90f30c1c",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

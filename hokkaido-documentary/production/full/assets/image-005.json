@@ -1,0 +1,18 @@
+{
+  "id": "image-005",
+  "cueIds": [
+    15,
+    16,
+    17
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Street-level northern Hokkaido village in midwinter with deep realistic snowbanks flanking a narrow road, modest Japanese timber houses and a lone bundled resident in the distance, soft overcast daylight, snow visibly covering roofs, calm winter atmosphere. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-005.png",
+  "status": "reviewed: accepted",
+  "bytes": 2894404,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "eca8401ae0db331ceb6ae0e340f48c16668efcf450dccc1756a6c8cf45a4047a",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

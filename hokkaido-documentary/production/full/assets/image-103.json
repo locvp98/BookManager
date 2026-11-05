@@ -1,0 +1,16 @@
+{
+  "id": "image-103",
+  "cueIds": [
+    243
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Wide coastal Hokkaido landscape at sunset, quiet sea, natural headland and distant low mountains, restrained amber light fading into blue, dignified cinematic closing image, no text or decorative frame. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-103.png",
+  "status": "reviewed: accepted",
+  "bytes": 2650173,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "d1f30d4ed0f72441ce4c0912f4cb74b97777fb77bedf0c6bbd97f1d6b5da69d1",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

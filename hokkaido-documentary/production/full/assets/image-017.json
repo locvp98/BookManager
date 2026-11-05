@@ -1,0 +1,16 @@
+{
+  "id": "image-017",
+  "cueIds": [
+    51
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Wide view of an inland Hokkaido residential street during a cold winter morning, fine frost on utility wires and snow-covered houses, a bus in the distance, natural daylight, quiet realistic northern Japanese life. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-017.png",
+  "status": "reviewed: accepted",
+  "bytes": 3217053,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "14fe09f9f9b296349d2bf7c52ab84fcaed2ad35994dcef4ce05649e6a0f8ace1",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

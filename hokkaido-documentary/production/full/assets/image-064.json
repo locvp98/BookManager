@@ -1,0 +1,17 @@
+{
+  "id": "image-064",
+  "cueIds": [
+    152
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Respectful historical reconstruction of Hokkaido road construction by prisoner labor in the late nineteenth century, distant workers moving earth on a mountain track under guard, no graphic injuries, no spectacle, restrained factual documentary illustration. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-064.png",
+  "status": "reviewed: accepted",
+  "bytes": 3730709,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "8aa970f561783624c9bea7a267bc375b3c99f2e8417edc0a416c8366db36dec4",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

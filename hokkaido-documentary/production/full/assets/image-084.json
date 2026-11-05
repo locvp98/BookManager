@@ -1,0 +1,16 @@
+{
+  "id": "image-084",
+  "cueIds": [
+    199
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Quiet airport departure waiting area in northern Japan, a few young adult travelers looking out toward an aircraft, natural overcast window light, restrained documentary mood, no readable boards or logos. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-084.png",
+  "status": "reviewed: accepted",
+  "bytes": 2253480,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "18e5d6b55d360cc2a010f91742b9f58c388775ea65e975399227e94321a514d8",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

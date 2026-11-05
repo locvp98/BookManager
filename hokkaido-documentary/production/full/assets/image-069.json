@@ -1,0 +1,16 @@
+{
+  "id": "image-069",
+  "cueIds": [
+    168
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historical row of modest timber miners' family houses in a Hokkaido mountain valley, late 1950s everyday domestic setting with laundry and small gardens, natural daylight, period accuracy, no modern appliances outdoors. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-069.png",
+  "status": "reviewed: accepted",
+  "bytes": 3638536,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "343c4574dffb13f552dcf83e5dd665451b2efdd1e6f5ebff3e773acd6846d2f6",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

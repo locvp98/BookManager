@@ -1,0 +1,16 @@
+{
+  "id": "image-020",
+  "cueIds": [
+    57
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Sapporo neighborhood in January seen at pedestrian height, compact Japanese houses behind piled snow, bundled commuters and cold pale daylight, calm documentary atmosphere, new composition distinct from prior winter villages. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-020.png",
+  "status": "reviewed: accepted",
+  "bytes": 2848977,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "514ccfad17d65323c696fd7c30c9bbcd965a9cdc3cec44a269461587fe7f542e",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

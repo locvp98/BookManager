@@ -1,0 +1,16 @@
+{
+  "id": "image-076",
+  "cueIds": [
+    181
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. An elderly resident waiting at a modest rural Hokkaido replacement bus shelter beside a quiet road, small bus in the distance and fields beyond, dignified documentary framing, no readable timetable. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-076.png",
+  "status": "reviewed: accepted",
+  "bytes": 2963019,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "c372752fa653b6ad02bfc4fb192426ca475699c52b2f24fbcd653c30596377dd",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

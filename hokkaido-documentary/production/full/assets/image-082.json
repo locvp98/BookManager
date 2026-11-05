@@ -1,0 +1,16 @@
+{
+  "id": "image-082",
+  "cueIds": [
+    193
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Quiet shopping street in a small Hokkaido town with several closed modest storefronts and one open shop suggested by warm interior light, everyday contemporary setting, no readable signs. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-082.png",
+  "status": "reviewed: accepted",
+  "bytes": 3058891,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "18e415a3918d604f69549f13dbffc4857645314d582f42317a686f3787a1fdd1",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

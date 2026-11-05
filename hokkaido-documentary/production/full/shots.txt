@@ -1,0 +1,159 @@
+1|map|Globe Đông Á, định vị Nhật Bản
+2-3|map|Camera toàn Nhật Bản vào Hokkaido, trace đường biên
+4|map|Diện tích Hokkaido và phần chia trong diện tích Nhật Bản
+5|map|Silhouette Hokkaido, Kyushu, Shikoku trên cùng phép chiếu đồng diện tích
+6|image|High oblique aerial of an immense eastern Hokkaido agricultural plain in September, scattered isolated farmsteads occupying a tiny fraction of open land, sinuous stream and larch shelterbelts, soft early morning side light, camera aimed into distant horizon. Entirely new composition, not the earlier preview's straight-road farm.
+7-8|map|Từ câu hỏi phân bố sang lớp VIIRS ban đêm, toàn đảo và các điểm sáng
+9|map|Dải ánh sáng Tokyo–Nagoya–Osaka–Tây Nhật Bản, tuyến vẽ có hướng
+10-11|map|So sánh đêm Honshu/Hokkaido, camera tập trung Sapporo ở cùng thang sáng
+12|image|Ground-level blue-hour view from a remote northern Hokkaido river valley, one tiny inhabited house with warm window light far across a vast dark meadow, mountain silhouettes, restrained realistic twilight, no exaggerated stars.
+13|image|High aerial view of the forested interior of central Hokkaido at dusk, mountains opening onto a wide uninhabited-looking basin, no city lights or buildings in the visible valley, natural terrain scale, luminous fading sky.
+14|image|Low roadside view of a long quiet rural Hokkaido highway entering broad grassland and distant hills, only one small vehicle near the horizon, autumn windbreak trees, tranquil late-afternoon documentary composition.
+15-17|image|Street-level northern Hokkaido village in midwinter with deep realistic snowbanks flanking a narrow road, modest Japanese timber houses and a lone bundled resident in the distance, soft overcast daylight, snow visibly covering roofs, calm winter atmosphere.
+18|map|Khí hậu là một lớp giải thích, không đồng nhất vùng lạnh với vùng không người
+19|image|Historically informed reconstruction of a flourishing Hokkaido coal settlement in the early twentieth century, wooden Japanese houses along a hillside, smoke from distant industrial works, period clothing on small distant figures, no cars or modern electronics, no readable signs, clearly an illustrative reconstruction.
+20|image|Historically informed 1930s Hokkaido mountain railway town, steam train passing a small station beside wooden shops and a simple school building, modest period crowds seen from afar, authentic northern Japanese architecture, no invented readable signage.
+21|image|Present-day former mining village in Hokkaido, quiet residential lane with weathered low houses, carefully maintained gardens beside some vacant properties, green hills beyond, documentary afternoon light, respectful ordinary life rather than dystopian ruin.
+22|image|Empty community meeting room in a small Hokkaido town, rows of modest chairs, daylight through large windows onto a quiet street, subtle signs of time and sparse use, no writing, calm reflective framing.
+23|image|Close landscape view of exposed layered earth beside a Hokkaido stream, peat-dark soil, pale volcanic material and rooted plants visible naturally in the cut bank, soft side lighting, realistic geology illustration without labels.
+24|image|Museum-style still life of late nineteenth-century northern Japanese pioneering farm tools, a weathered spade, simple wooden surveying tripod and work gloves on a wooden bench, subdued natural window light, no labels, no text, no modern plastic.
+25-26|map|Sơ đồ địa lý các nhóm nguyên nhân: khí hậu, đất, lịch sử và đô thị; mỗi nhóm reveal theo câu
+27-29|map|Map diện tích đảo: góc nhìn toàn vùng, note khoảng 83 nghìn km² và thứ hạng
+30-31|map|Bản sao silhouette đồng diện tích di chuyển đặt lên Tokyo–Tohoku, giữ mốc vị trí thật
+32-33|map|Hai đoạn Hakodate–Nemuro và Tokyo–Osaka trên cùng thước đo khoảng cách
+34-35|map|Hokkaido và Áo, đồng diện tích trên hai map định vị khác nhau
+36-38|map|Mật độ dân số Nhật Bản và Hokkaido, cùng đơn vị diện tích và cùng thước đo người
+39-40|map|Map phân bố thực, zoom vào tương phản đô thị và vùng nội địa; không chia chấm giả
+41|image|New photorealistic aerial over modern Sapporo's dense urban core, geometric street grid, mid-rise buildings, a few taller towers and distant mountains, clear cool daylight, no exaggerated skyline and no readable signs.
+42|map|Sapporo: khoảng 40% dân số Hokkaido, biểu đồ phần chia neo theo tọa độ thành phố
+43|map|Định vị riêng Dōtō và Dōhoku trên toàn đảo, giữ Sapporo làm mốc
+44|image|Drone-level view across a long stretch of northern Hokkaido forest and open moor between two tiny distant settlements, road barely visible along the edge, expansive summer greenery, realistic northern landscape.
+45|image|View through the front windshield of a car moving along a quiet two-lane eastern Hokkaido road, fields and windbreaks, no houses along the immediate stretch, natural dashboard edge, clear daylight, no text or logos.
+46-47|map|Map ô lưới dân cư có dữ liệu thật: reveal ô có người/không người, giữ nguồn và năm
+48|image|Direct overhead aerial of a small rural Hokkaido crossroads amid very large fields, a single modest residence and farm shed, crisp geometry and true scale, gentle soft light, different location and composition from earlier farm scenes.
+49|map|So sánh sự phân bố Nhật Bản với Hokkaido, giữ cùng cơ sở dữ liệu và tỉ lệ
+50|image|Early spring Hokkaido farm with lingering snow in field margins and small fresh green shoots near a farmhouse, low hills under a pale cool sky, seasonal transition that explains the short growing window.
+51|image|Wide view of an inland Hokkaido residential street during a cold winter morning, fine frost on utility wires and snow-covered houses, a bus in the distance, natural daylight, quiet realistic northern Japanese life.
+52-54|map|Globe vĩ tuyến 43°N từ Sapporo tới miền bắc Ý, không đặt Rome trên 43°N
+55|image|A mild winter agricultural landscape in central Italy, olive trees and old stone farmhouses under soft low winter sun, no snow, subdued natural colors, documentary illustration of a contrasting climate.
+56|image|Ordinary residential street in Rome on a mild January morning, stone facades, pedestrians in light winter coats and a few bare deciduous trees, natural sunlight, no famous monument needed, no readable signs.
+57|image|Sapporo neighborhood in January seen at pedestrian height, compact Japanese houses behind piled snow, bundled commuters and cold pale daylight, calm documentary atmosphere, new composition distinct from prior winter villages.
+58|map|So sánh khí hậu Rome và Sapporo: mốc đúng tọa độ, nhiệt độ tháng 1 có năm/chu kỳ chuẩn
+59|map|Map đại lục Á–Âu, nhấn vị trí phía đông và quan hệ với Siberia
+60|image|Aerial illustration of the immense snow-covered Siberian taiga in midwinter, frozen braided river winding through dense conifer forest, deep cold natural blue shadows under low sun, no settlement or labels.
+61-62|map|Gió mùa tây bắc vượt biển Nhật Bản, thu ẩm rồi tuyết ở núi; map kết hợp mặt cắt
+63-64|map|Đại Tây Dương, dòng biển ấm và gió tây sang châu Âu; phân biệt hướng với độ lớn đo đạc
+65|image|Northern Hokkaido coastal village in a severe winter, sea ice fragments near a breakwater and snow-covered modest houses, a grey-blue sea and overcast sky, documentary realism without exaggerated disaster.
+66-67|map|Định vị Asahikawa, record −41°C năm 1902, mốc thời gian rõ ràng
+68|image|Wide urban aerial of central Sapporo during active gentle snowfall, densely packed buildings and plowed streets, a functioning large city under snow, evening soft light, no readable commercial signs.
+69|image|Close documentary view of a municipal snowplow clearing a Sapporo residential road, realistic snow curl at the blade and worker seen safely from behind, clear morning light, no brand text or logos.
+70-72|image|Cold Hokkaido agricultural field at dawn with frost on young plants and a narrow band of thawed soil, distant farm buildings under a short pale sunrise, a visual explanation of a limited growing season.
+73|image|Historical illustration of Japanese rice farming before modern mechanization, workers small in a warm southern Japanese paddy, traditional practical farm clothing, wooden irrigation channels, no modern tools, no text.
+74|image|Detailed macro of healthy young rice seedlings in shallow clear paddy water, soil and delicate roots visible, soft warm sunlight, botanical accuracy, no labels or artificial glow.
+75|image|Hokkaido countryside in late spring, snow still lingering in a shaded windbreak while newly prepared fields remain bare, farmhouses far away and a cool grey sky, realistic seasonal contrast.
+76|image|Illustrative close view of immature rice stalks damaged by an early autumn frost in northern Japan, small ice crystals and pale leaf edges, low morning light, no exaggerated ruined landscape.
+77|map|Phạm vi lịch sử canh tác lúa miền nam Hokkaido; lớp định tính có nguồn, không bịa biên đo đạc
+78-79|image|Modern Hokkaido rice harvest with a combine moving through a golden paddy, broad fields and shelterbelts, small distant operator, bright cool autumn daylight, realistic contemporary agricultural machinery with no logo.
+80|image|Modern Japanese rice-breeding research greenhouse, neat trays of rice seedlings and a researcher seen from behind examining plants, practical laboratory clothing, daylight, no readable screens or text.
+81|image|Well-engineered irrigation sluice and orderly farm channels in a modern Hokkaido agricultural district, water entering a rice field, detailed gates and flowing water, calm morning documentary shot.
+82|image|Vast remote Hokkaido grassland after a light summer rain, low cloud over a distant forested ridge and a small farmhouse almost lost in the landscape, new low-angle composition with no repeated assets.
+83|image|Close, tactile view of a naturally exposed volcanic rock outcrop and dark soil in Hokkaido, moss and grass roots at the edge, geological layers readable through texture, natural side light, no labels.
+84-86|map|DEM thật: Daisetsuzan, Hidaka và Tokachidake, chuyển từ trên xuống góc nghiêng địa hình 3D
+87|image|Wide ground-level panorama of the flat Tokachi plain in Hokkaido, large fields extending to a low horizon, a line of larches and distant agricultural silos, crisp summer light, quiet sense of scale.
+88|map|Địa hình và đồi núi từ DEM, không giả lập bằng xoay một ảnh phẳng
+89|image|A small Hokkaido town fitted into a narrow buildable valley between wooded hills, houses and cultivated plots following the river, high oblique aerial documentary framing, realistic terrain constraints.
+90-92|map|Ishikari plain: địa hình thấp và lớp đất ngập nước lịch sử, định vị Sapporo theo thời kỳ
+93|image|Illustrative aerial of a broad floodplain in historical Hokkaido before major river engineering, muddy water spreading among reed beds and meandering channels, no modern city or roads, natural restrained colors.
+94|image|Detailed side view of an intact peat soil core from a cold Japanese wetland, dark fibrous organic layers and waterlogged plant material, photographic scientific illustration, no measurement labels or writing.
+95|image|Underwater cutaway-style photorealistic illustration of dead reeds and moss accumulating layer by layer in a cold wetland, surface water above and dark organic sediment below, physically plausible, no arrows or text.
+96|image|Close scientific illustration of saturated fibrous peat holding abundant water like a sponge, visible plant fibers and droplets against a neutral natural background, no hands, no labels, no surreal elements.
+97|image|A modest rural road and low house on soft reclaimed Hokkaido ground, subtle uneven pavement and settling drainage edge shown realistically, no collapse or disaster, calm daylight, explanatory reconstruction.
+98|image|Historically informed illustration of late nineteenth-century Hokkaido land reclamation, workers seen from a distance digging a drainage ditch through wet meadow with hand tools, simple period clothes and timber walkways, no modern vehicles.
+99-102|map|Ishikari: vẽ uốn khúc cũ, tuyến cắt dòng và hướng nước; mặt cắt kỹ thuật và mốc lịch sử
+103|image|High aerial of a crescent-shaped oxbow lake on the Ishikari plain, fields around the old meander and a separate straightened river channel in the distance, photorealistic geographic illustration, no labels.
+104-105|map|Định vị Tokachi và Konsen; lớp đất chịu ảnh hưởng tro núi lửa có nguồn, phân biệt định tính
+106|image|Photorealistic scientific soil cutaway of porous volcanic ash soil in an eastern Hokkaido field, rainwater filtering rapidly through visible layers, real material textures, no arrows, no text, no decorative framing.
+107|image|Historically informed Hokkaido pioneer farmers preparing a difficult volcanic-soil field, a modest early twentieth-century farmstead, small distant figures with period tools and a horse-drawn cart, restrained reconstruction.
+108-111|map|Dòng biển lạnh và sương mù Kushiro–Nemuro, map bờ biển kết hợp mặt cắt cơ chế ngưng tụ
+112|image|A low bank of summer sea fog rolling over eastern Hokkaido pasture and a windbreak, only the tops of distant farm buildings visible, luminous grey overcast daylight, calm documentary image.
+113|image|Close view of a cool-climate crop field under persistent low cloud near the Hokkaido Pacific coast, damp leaves and muted light, subtle plant stress rather than dramatic crop failure, no text.
+114|image|Broad dairy pasture in the Konsen region of eastern Hokkaido, rotational grazing paddocks, a small group of Holstein cows and low farm buildings far away, clear cool summer light, new composition.
+115|map|Betsukai: tọa độ, vùng chăn nuôi và quan hệ với cảnh đồng cỏ, không giả số liệu đàn bò
+116|image|Wide documentary image of many Holstein dairy cows spread across an immense Hokkaido pasture with a very small farmhouse in the distance, natural grazing behavior, low morning sunlight, no crowding or text.
+117|image|High aerial of a single extensive Hokkaido dairy farm with long barns and fields, sparse housing across the surrounding landscape, functioning farm infrastructure, believable Japanese rural scale, no branding.
+118|image|Interior of a modern Japanese dairy milking parlor, clean stainless steel equipment and calm Holstein cows, a worker seen from behind monitoring the process, documentary lighting, no readable signage.
+119|map|Kushiro wetland: phạm vi có nguồn và vị trí phía bắc Kushiro, góc nhìn sinh cảnh mới
+120|image|A red-crowned crane standing in the lush reeds and shallow water of a Hokkaido wetland, distant forest and morning mist, realistic wildlife photography style, no text, respectful natural habitat.
+121|image|Wide untouched Hokkaido forest and mountain landscape with a river threading through a broad valley, soft late-summer haze and no visible settlement, natural scale, distinct viewpoint from all prior landscapes.
+122-125|image|Illustrative quiet riverbank in preindustrial Hokkaido, a simple historically appropriate wooden dugout canoe pulled onto reeds beside fishing gear, northern forest beyond, no invented ceremonial objects or costume, no people, no text.
+126-128|image|Historically informed Ainu kotan in premodern Hokkaido, a small group of traditional chise houses built from reeds and timber beside a river, viewed respectfully from across the water, accurate ordinary domestic architecture, no fantasy or invented ceremony.
+129|image|Underwater wildlife view of salmon swimming upstream in a clear cold Hokkaido river, pebbles, aquatic plants and natural shafts of daylight, accurate fish anatomy and movement implied, no humans or text.
+130|image|Natural forest foods gathered in simple woven baskets beside a Hokkaido woodland path, edible nuts and mountain greens in a historically plausible domestic setting, no ceremonial symbolism, soft documentary light.
+131|image|Ground-level historical illustration of an ordinary riverside Ainu settlement, one reed-walled chise house near flowing water and useful domestic tools, culturally respectful, no stereotypes, no invented ritual, different site and composition from the wide kotan scene.
+132|image|Historically informed fish-preservation work area in northern Japan, salmon hanging in a modest wooden drying structure beside a riverside dwelling, utilitarian daily-life focus, no readable labels, no invented ceremonial objects.
+133-137|map|Sapporo, Wakkanai và Shiretoko: địa danh và cấu trúc sông/địa hình; nguồn từ nguyên riêng
+138-140|map|Matsumae và miền nam Hokkaido thời Edo, lớp cư trú lịch sử định tính có mốc thời kỳ
+141-144|map|Mốc 1869, phạm vi Hokkaido và tuyến khai khẩn/phòng thủ, không vẽ luồng như số đo di cư
+145|image|Historical reconstruction of Meiji-era road clearing in Hokkaido, workers small in the distance cutting a practical track through woodland with hand tools, timber stumps and muddy ground, no modern machinery.
+146-147|map|Sapporo: map grid đường phố thật, reveal quy hoạch ô bàn cờ và hướng phát triển
+148|image|Historically informed early agricultural training station in Meiji Hokkaido, practical timber buildings and experimental crop plots, a few small figures in period work clothing, natural daylight, no readable signs.
+149|image|Historically informed exterior of a modest late nineteenth-century Hokkaido tondenhei settler farm dwelling beside a cultivated plot, practical timber construction and simple tools, no military battle scene, no invented symbols or writing.
+150-151|image|Interior of a modest Hokkaido settler farmhouse after a poor harvest, sparse tools, a small storage basket and a cold window looking onto an early frosted field, human hardship conveyed through setting without exaggerated misery.
+152|image|Respectful historical reconstruction of Hokkaido road construction by prisoner labor in the late nineteenth century, distant workers moving earth on a mountain track under guard, no graphic injuries, no spectacle, restrained factual documentary illustration.
+153-154|image|Historical illustrative view of a traditional Hokkaido riverside dwelling at the edge of newly cleared settler fields, forest cut back and ordinary domestic objects near the house, focus on loss of land and livelihood, no caricature or invented ceremony.
+155-156|image|A weathered traditional reed-and-timber house beside a changing Hokkaido landscape, old riverbank woodland on one side and cleared agricultural ground in the distance, contemplative historical reconstruction, no text.
+157|map|Dân số tăng theo thời gian trên map nhập cư lịch sử, note năm và nguồn
+158-159|image|Close documentary illustration of a rough lump of coal in a miner's gloved hands in a Hokkaido mine work area, natural black mineral texture and soft work light, no logos or text, no unsafe dramatic glow.
+160-162|map|1920 và thập niên 1960: đồ thị dân số có nguồn gắn bản đồ khai khẩn
+163-165|map|Sorachi: Yubari, Mikasa, Ashibetsu, Akabira và Utashinai đúng tọa độ, mạng khai mỏ
+166-167|image|Historically informed bustling Hokkaido coal town in the late 1950s, ordinary families on a modest shopping street, bicycles and period Japanese vehicles, mine infrastructure on a distant hillside, no readable signs.
+168|image|Historical row of modest timber miners' family houses in a Hokkaido mountain valley, late 1950s everyday domestic setting with laundry and small gardens, natural daylight, period accuracy, no modern appliances outdoors.
+169|image|Interior of a busy mid-twentieth-century Japanese coal-town school classroom, wooden desks and school bags, small distant pupils seen from behind, authentic simple architecture, no writing on blackboard or readable text.
+170|map|Mạng đường sắt kết nối khai mỏ và cư trú theo nguồn lịch sử, vẽ từng đoạn đúng thời kỳ
+171-172|image|Historically informed Yubari-like mountain coal town around 1960, wide elevated view of dense housing and ordinary busy pedestrian life in a narrow valley, no falsely identifiable landmark, reconstruction rather than archival photograph.
+173|image|Quiet entrance to a closed Hokkaido coal mine, sealed industrial gate and weathered machinery surrounded by growing vegetation, overcast contemporary daylight, no readable warning signs or dramatic ruin.
+174|image|Japanese coastal oil terminal during the 1960s energy transition, cylindrical storage tanks and a tanker at a distant pier, realistic industrial scale and period setting, no branding or text.
+175|image|A sealed former coal-mine adit in a Hokkaido hillside, aging concrete portal partly screened by ferns and birch trees, calm modern documentary framing, no readable inscription.
+176|image|Vacant workers' housing in a former Hokkaido coal town, a quiet lane with closed modest houses and encroaching grass, respectful ordinary daylight, no exaggerated post-apocalyptic atmosphere.
+177-178|map|Yubari: dân số theo mốc năm và mốc tài chính 2007, định vị một thành phố cụ thể
+179-180|map|Mạng đường sắt trước/sau có nguồn và niên đại, reveal tuyến còn/đóng rõ ràng
+181|image|An elderly resident waiting at a modest rural Hokkaido replacement bus shelter beside a quiet road, small bus in the distance and fields beyond, dignified documentary framing, no readable timetable.
+182-183|image|Disused rural railway platform in Hokkaido with grass along old tracks and a small plain station shelter, forested hills in the distance, soft morning light, no readable station name.
+184-187|map|Dân số giảm và luồng từ thị trấn về Sapporo, mũi tên định tính không giả số lượng
+188|image|Modern commuters walking through a central Sapporo pedestrian area on a clear winter morning, ordinary Japanese city life and functional transit in the background, no readable advertising or exaggerated crowd.
+189-190|image|Modern Sapporo hospital and university district, practical buildings, a bus stop and a few pedestrians, clear cool daylight, documentary illustration of concentrated services, no readable institution name.
+191|image|A young Japanese adult seen from behind on a train platform arriving in a large northern Japanese city, simple luggage, restrained everyday mood, natural light, no readable destination boards.
+192|image|An empty contemporary rural Hokkaido school classroom with modern simple desks, soft daylight onto an unused corridor and sparse countryside outside, respectful quiet composition, no text on walls or board.
+193|image|Quiet shopping street in a small Hokkaido town with several closed modest storefronts and one open shop suggested by warm interior light, everyday contemporary setting, no readable signs.
+194-195|image|An older Japanese couple boarding a small community bus near a rural clinic in Hokkaido, practical accessible transport, dignified natural interaction, clear daytime documentary image, no logos or readable text.
+196|map|Vòng phản hồi thị trấn–dịch vụ–di cư: đồ họa nguyên nhân gắn các nút địa lý định tính
+197-198|map|Sapporo và phần dân số toàn đảo, biểu đồ phần chia và phạm vi đô thị phân biệt rõ
+199|image|Quiet airport departure waiting area in northern Japan, a few young adult travelers looking out toward an aircraft, natural overcast window light, restrained documentary mood, no readable boards or logos.
+200-203|map|Hai cấp dòng người: địa phương → Sapporo → Tokyo; camera theo luồng liên tục
+204|image|Large lightly occupied modern rural housing subdivision in Hokkaido, a few small houses separated by open plots and snow-free grass, wide aerial view, natural realistic scale, no real estate signs or text.
+205-207|map|Dân số Nhật Bản xưa/nay và quỹ người di cư, mốc nguồn và năm rõ ràng
+208|image|A sparse inland Hokkaido housing area in deep winter, empty road and snow-covered open lots between modest houses, grey daylight, no exaggerated disaster or abandoned-city effects.
+209|image|Exterior of a vacant but intact contemporary Japanese rural house in Hokkaido, small overgrown garden and closed shutters, ordinary peaceful daylight, no for-sale text, no dramatic decay.
+210|image|Modern industrial construction site in Hokkaido seen from a public road, cranes and a large unfinished building under a pale sky, contemporary realism, no identifiable company logos or claim to depict a specific actual facility.
+211-212|map|Niseko và Chitose: hai điểm tăng trưởng đúng vị trí, đối chiếu phạm vi với toàn đảo
+213|image|Niseko-area ski resort landscape in winter with a few skiers, forest slopes and modest resort buildings beneath a snow-covered volcanic mountain, realistic scale and no invented readable signs.
+214|image|Illustrative modern semiconductor-related industrial campus in Chitose, Hokkaido, clean functional low-rise buildings and construction infrastructure, daylight, no claim to show a specific real factory, no logos or text.
+215|image|A maintenance crew inspecting a long rural Hokkaido road bridge above a river, workers small in frame and wide landscape around the infrastructure, documentary daylight, no readable markings.
+216|image|Railway snow-clearing equipment working along a rural Hokkaido track corridor, distant mountains and deep snowbanks, ordinary safe operations, realistic machinery without branding, distinct from the city snowplow scene.
+217|image|Small functioning rural Hokkaido clinic surrounded by a broad landscape and a few modest houses, one community vehicle parked outside, calm practical daylight, no readable medical signs.
+218-220|map|Réseau hạ tầng trải rộng với ít nút dân cư, minh họa chi phí mỗi người không bịa số đo
+221-223|map|Dự báo 2050: kịch bản dân số có nguồn IPSS, ghi rõ là dự báo và năm gốc
+224|image|A quiet northern Hokkaido port-town street with a closed small school building beyond a few houses, soft morning light and distant harbor, current realistic landscape, new town and composition.
+225|image|Early dawn in a small Hokkaido residential neighborhood, a quiet lane, cared-for but sparse houses and garden plants, warm light beginning at the horizon, calm reflective documentary style.
+226-227|image|Lush Hokkaido forest ecosystem with a clear river crossing a wet meadow, layered trees and natural light, no buildings, detailed ecology that conveys value beyond population numbers.
+228|map|Diện tích Hokkaido và vai trò sử dụng đất: đất trồng, đồng cỏ, rừng theo dữ liệu có nguồn
+229|image|A practical Hokkaido food distribution warehouse with sealed milk crates and agricultural produce containers ready for shipment, workers far away, contemporary documentary realism, no readable packaging or logos.
+230|image|Carefully composed natural still life of Hokkaido staple foods on a plain wooden farm table: potatoes, onions, wheat stalks and milk in an unbranded glass bottle, soft window light, no text or labels.
+231|image|Interior of a modern Japanese agricultural packing line handling potatoes and onions in separate crates, workers in clean practical clothing, no logos or readable labels, realistic documentary lighting.
+232-233|map|Bản đồ sản xuất lương thực và thặng dư calo, số liệu có năm/nguồn và icon từng ngành
+234|image|Underwater view of a clean forest-fed Hokkaido stream with native fish among stones and aquatic vegetation, dappled natural sunlight, ecologically realistic, no labels or decorative effects.
+235-237|map|Tổng hợp các lớp khí hậu–đất–lịch sử–than–di cư, mỗi lớp có phát hiện mới trên map
+238-240|map|Map đêm kết hợp dấu vết khai mỏ/đường sắt lịch sử, chuyển lớp theo lời kết
+241|image|Aerial panorama of a remote Hokkaido river winding through a vast open basin below forested mountains, late-day clear light, no urban settlement visible in this view, fresh composition distinct from all earlier landscapes.
+242|image|Close low-angle view of healthy crops and dark fertile Hokkaido soil with working farmland extending toward distant hills, warm late-summer sunlight, gentle optimistic documentary atmosphere, no text.
+243|image|Wide coastal Hokkaido landscape at sunset, quiet sea, natural headland and distant low mountains, restrained amber light fading into blue, dignified cinematic closing image, no text or decorative frame.

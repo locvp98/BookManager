@@ -1,0 +1,16 @@
+{
+  "id": "image-089",
+  "cueIds": [
+    213
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Niseko-area ski resort landscape in winter with a few skiers, forest slopes and modest resort buildings beneath a snow-covered volcanic mountain, realistic scale and no invented readable signs. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-089.png",
+  "status": "reviewed: accepted",
+  "bytes": 3165687,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "c710ef0c3eb9e51a313803393e72dbc5cbfa7ac9ad0557e070798da9b0ac28bf",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "image-004",
+  "cueIds": [
+    14
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Low roadside view of a long quiet rural Hokkaido highway entering broad grassland and distant hills, only one small vehicle near the horizon, autumn windbreak trees, tranquil late-afternoon documentary composition. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-004.png",
+  "status": "reviewed: accepted",
+  "bytes": 3025371,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "b147292c44e5006276f7aecd40269bae84e8c7293e815561e5d78c953dd22527",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

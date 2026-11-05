@@ -1,0 +1,16 @@
+{
+  "id": "image-009",
+  "cueIds": [
+    22
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Empty community meeting room in a small Hokkaido town, rows of modest chairs, daylight through large windows onto a quiet street, subtle signs of time and sparse use, no writing, calm reflective framing. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-009.png",
+  "status": "reviewed: accepted",
+  "bytes": 2218591,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "4ecad5e9c7503cce5d2bcfb671b68078ffc7dd9d2c386c04fd2d99a1b2fbce6f",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

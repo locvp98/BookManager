@@ -1,0 +1,6 @@
+const fs=require('fs'),path=require('path');
+const {bundle}=require('@remotion/bundler');
+const {openBrowser,selectComposition,renderStill}=require('@remotion/renderer');
+const root=path.resolve(__dirname,'..');
+const ids=new Set(['map-001','map-002','map-010','map-020','map-027','map-028']);
+(async()=>{const chosen=process.argv.find(x=>/^map-\d+$/.test(x));const scenes=JSON.parse(fs.readFileSync(path.join(root,'production/full/storyboard.json'))).scenes.filter(s=>ids.has(s.id)&&(!chosen||s.id===chosen));const serveUrl=await bundle({entryPoint:path.join(root,'src/index.ts')});const browser=await openBrowser('chrome',{browserExecutable:'/usr/bin/chromium',chromiumOptions:{gl:'swangle'}});const dir=path.join(root,'out/full/map-proofs');fs.mkdirSync(dir,{recursive:true});for(const scene of scenes){const n=scene.endFrame-scene.startFrame,inputProps={mapId:scene.id,durationFrames:n};const composition=await selectComposition({serveUrl,id:'FullMapProof',puppeteerInstance:browser,inputProps});for(const fraction of [.1,.5,.9]){await renderStill({serveUrl,composition,puppeteerInstance:browser,inputProps,frame:Math.floor((n-1)*fraction),imageFormat:'png',output:path.join(dir,`${scene.id}-${fraction}.png`)});}console.log('BROWSER PROOF',scene.id);}await browser.close({silent:true});})().catch(e=>{console.error(e);process.exit(1)});

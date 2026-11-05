@@ -1,0 +1,16 @@
+{
+  "id": "image-014",
+  "cueIds": [
+    45
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. View through the front windshield of a car moving along a quiet two-lane eastern Hokkaido road, fields and windbreaks, no houses along the immediate stretch, natural dashboard edge, clear daylight, no text or logos. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-014.png",
+  "status": "reviewed: accepted",
+  "bytes": 2661472,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "97951ec98c287bb7126bc451b78e423bc9402f9c8b714abfae281bb890e57cb0",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

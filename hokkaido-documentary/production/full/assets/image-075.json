@@ -1,0 +1,16 @@
+{
+  "id": "image-075",
+  "cueIds": [
+    176
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Vacant workers' housing in a former Hokkaido coal town, a quiet lane with closed modest houses and encroaching grass, respectful ordinary daylight, no exaggerated post-apocalyptic atmosphere. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-075.png",
+  "status": "reviewed: accepted",
+  "bytes": 3466187,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "8780da01ac970223334fbb36ede2885069b82f3a0a8c0505ecb7a53949c79f1a",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

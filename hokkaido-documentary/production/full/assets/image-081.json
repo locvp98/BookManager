@@ -1,0 +1,16 @@
+{
+  "id": "image-081",
+  "cueIds": [
+    192
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. An empty contemporary rural Hokkaido school classroom with modern simple desks, soft daylight onto an unused corridor and sparse countryside outside, respectful quiet composition, no text on walls or board. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-081.png",
+  "status": "reviewed: accepted",
+  "bytes": 2179596,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "a6a3a7c1d4c14ccdae7ef69d314554b893c87b25f7184fc96b7e8d3c740873e4",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

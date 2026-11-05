@@ -1,0 +1,16 @@
+{
+  "id": "image-006",
+  "cueIds": [
+    19
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed reconstruction of a flourishing Hokkaido coal settlement in the early twentieth century, wooden Japanese houses along a hillside, smoke from distant industrial works, period clothing on small distant figures, no cars or modern electronics, no readable signs, clearly an illustrative reconstruction. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-006.png",
+  "status": "reviewed: accepted",
+  "bytes": 3781516,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f6c5e22c61dbfef7c36243115d5f45837296d2db46d0b4315d12469b51a405b4",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

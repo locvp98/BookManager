@@ -1,0 +1,16 @@
+{
+  "id": "image-034",
+  "cueIds": [
+    83
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Close, tactile view of a naturally exposed volcanic rock outcrop and dark soil in Hokkaido, moss and grass roots at the edge, geological layers readable through texture, natural side light, no labels. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-034.png",
+  "status": "reviewed: accepted",
+  "bytes": 3640077,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "04a193f5a8caafa82c33082258554473b17437764dc6108b2540cd4729e64eb1",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

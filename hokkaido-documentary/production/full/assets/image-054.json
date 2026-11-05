@@ -1,0 +1,20 @@
+{
+  "id": "image-054",
+  "cueIds": [
+    122,
+    123,
+    124,
+    125
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Illustrative quiet riverbank in preindustrial Hokkaido, a simple historically appropriate wooden dugout canoe pulled onto reeds beside fishing gear, northern forest beyond, no invented ceremonial objects or costume, no people, no text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-054.png",
+  "status": "reviewed: accepted",
+  "bytes": 3597338,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "c030433128631d2d6dc0513c4f5d7da8c0d561d734e58b5b6250ead25d2e3a86",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

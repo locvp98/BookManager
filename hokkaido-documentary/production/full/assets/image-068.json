@@ -1,0 +1,17 @@
+{
+  "id": "image-068",
+  "cueIds": [
+    166,
+    167
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed bustling Hokkaido coal town in the late 1950s, ordinary families on a modest shopping street, bicycles and period Japanese vehicles, mine infrastructure on a distant hillside, no readable signs. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-068.png",
+  "status": "reviewed: accepted",
+  "bytes": 3323805,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "946c18b2be8372f26e60233681ede654de5ce75459b7409cdde1ec75f2d0f3fa",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

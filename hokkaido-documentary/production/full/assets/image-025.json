@@ -1,0 +1,18 @@
+{
+  "id": "image-025",
+  "cueIds": [
+    70,
+    71,
+    72
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Cold Hokkaido agricultural field at dawn with frost on young plants and a narrow band of thawed soil, distant farm buildings under a short pale sunrise, a visual explanation of a limited growing season. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-025.png",
+  "status": "reviewed: accepted",
+  "bytes": 3132765,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "9129afba46d68de4c64a5e37c4d34d7b03f8c4a25f83f1eec154665bf269f5fb",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

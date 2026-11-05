@@ -1,0 +1,16 @@
+{
+  "id": "image-039",
+  "cueIds": [
+    95
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Underwater cutaway-style photorealistic illustration of dead reeds and moss accumulating layer by layer in a cold wetland, surface water above and dark organic sediment below, physically plausible, no arrows or text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-039.png",
+  "status": "reviewed: accepted",
+  "bytes": 2976673,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "b5e26d3ab840efbe7ed62757b4ab9ba52fc0608897d196b10622a8b5f0b4f238",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

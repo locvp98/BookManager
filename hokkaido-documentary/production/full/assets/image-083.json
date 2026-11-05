@@ -1,0 +1,17 @@
+{
+  "id": "image-083",
+  "cueIds": [
+    194,
+    195
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. An older Japanese couple boarding a small community bus near a rural clinic in Hokkaido, practical accessible transport, dignified natural interaction, clear daytime documentary image, no logos or readable text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-083.png",
+  "status": "reviewed: accepted",
+  "bytes": 2577599,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "feafca18fcd95ae94e944541f2770a14ab0de109379f8730dbab220fb1e950b8",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

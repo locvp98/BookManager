@@ -2,3 +2,6 @@ node_modules/
 out/
 public/maps/countries.geojson
 *.partial.mp4
+
+public/full/maps/gsi-cache/
+production/full/sources/

@@ -1,0 +1,2936 @@
+{
+  "fps": 30,
+  "frames": 39757,
+  "illustrationScenes": 103,
+  "mapScenes": 56,
+  "scenes": [
+    {
+      "id": "map-001",
+      "type": "map",
+      "srtCueIds": [
+        1
+      ],
+      "startFrame": 0,
+      "endFrame": 149,
+      "narration": "日本の地図を、少し離れたところから眺めてみてください。",
+      "design": "Globe Đông Á, định vị Nhật Bản",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-002",
+      "type": "map",
+      "srtCueIds": [
+        2,
+        3
+      ],
+      "startFrame": 149,
+      "endFrame": 331,
+      "narration": "本州の北に、ひときわ大きな島があります。 北海道です。",
+      "design": "Camera toàn Nhật Bản vào Hokkaido, trace đường biên",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-003",
+      "type": "map",
+      "srtCueIds": [
+        4
+      ],
+      "startFrame": 331,
+      "endFrame": 475,
+      "narration": "その面積は、日本の国土のおよそ5分の1。",
+      "design": "Diện tích Hokkaido và phần chia trong diện tích Nhật Bản",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-004",
+      "type": "map",
+      "srtCueIds": [
+        5
+      ],
+      "startFrame": 475,
+      "endFrame": 631,
+      "narration": "九州と四国を合わせても、まだ届かないほどの広さがあります。",
+      "design": "Silhouette Hokkaido, Kyushu, Shikoku trên cùng phép chiếu đồng diện tích",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-001",
+      "type": "image",
+      "srtCueIds": [
+        6
+      ],
+      "startFrame": 631,
+      "endFrame": 859,
+      "narration": "ところが、この広大な土地に暮らしているのは、日本の人口のわずか4％ほどです。",
+      "design": "High oblique aerial of an immense eastern Hokkaido agricultural plain in September, scattered isolated farmsteads occupying a tiny fraction of open land, sinuous stream and larch shelterbelts, soft early morning side light, camera aimed into distant horizon. Entirely new composition, not the earlier preview's straight-road farm.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-001.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-005",
+      "type": "map",
+      "srtCueIds": [
+        7,
+        8
+      ],
+      "startFrame": 859,
+      "endFrame": 1112,
+      "narration": "さらに不思議なのは、人々が住んでいる場所です。 北海道を夜の衛星写真で見てみましょう。",
+      "design": "Từ câu hỏi phân bố sang lớp VIIRS ban đêm, toàn đảo và các điểm sáng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-006",
+      "type": "map",
+      "srtCueIds": [
+        9
+      ],
+      "startFrame": 1112,
+      "endFrame": 1370,
+      "narration": "本州では、東京から大阪、そして西日本へと、 都市の光が長い帯のようにつながっています。",
+      "design": "Dải ánh sáng Tokyo–Nagoya–Osaka–Tây Nhật Bản, tuyến vẽ có hướng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-007",
+      "type": "map",
+      "srtCueIds": [
+        10,
+        11
+      ],
+      "startFrame": 1370,
+      "endFrame": 1673,
+      "narration": "しかし北海道では、景色がまったく違います。 明かりが集中しているのは、札幌を中心とした一部の地域だけ。",
+      "design": "So sánh đêm Honshu/Hokkaido, camera tập trung Sapporo ở cùng thang sáng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-002",
+      "type": "image",
+      "srtCueIds": [
+        12
+      ],
+      "startFrame": 1673,
+      "endFrame": 1848,
+      "narration": "そこから少し離れると、広大な大地は暗闇に包まれています。",
+      "design": "Ground-level blue-hour view from a remote northern Hokkaido river valley, one tiny inhabited house with warm window light far across a vast dark meadow, mountain silhouettes, restrained realistic twilight, no exaggerated stars.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-002.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-003",
+      "type": "image",
+      "srtCueIds": [
+        13
+      ],
+      "startFrame": 1848,
+      "endFrame": 2069,
+      "narration": "山々の間にも、広い平野にも、人の暮らす明かりがほとんど見えない場所があるのです。",
+      "design": "High aerial view of the forested interior of central Hokkaido at dusk, mountains opening onto a wide uninhabited-looking basin, no city lights or buildings in the visible valley, natural terrain scale, luminous fading sky.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-003.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-004",
+      "type": "image",
+      "srtCueIds": [
+        14
+      ],
+      "startFrame": 2069,
+      "endFrame": 2218,
+      "narration": "なぜ、これほど大きな土地に、人が少ないのでしょうか。",
+      "design": "Low roadside view of a long quiet rural Hokkaido highway entering broad grassland and distant hills, only one small vehicle near the horizon, autumn windbreak trees, tranquil late-afternoon documentary composition.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-004.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-005",
+      "type": "image",
+      "srtCueIds": [
+        15,
+        16,
+        17
+      ],
+      "startFrame": 2218,
+      "endFrame": 2554,
+      "narration": "厳しい寒さのせいでしょうか。 それとも、冬になると降り積もる大量の雪が原因なのでしょうか。 もちろん、それも理由の一つです。",
+      "design": "Street-level northern Hokkaido village in midwinter with deep realistic snowbanks flanking a narrow road, modest Japanese timber houses and a lone bundled resident in the distance, soft overcast daylight, snow visibly covering roofs, calm winter atmosphere.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-005.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-008",
+      "type": "map",
+      "srtCueIds": [
+        18
+      ],
+      "startFrame": 2554,
+      "endFrame": 2747,
+      "narration": "しかし、北海道の地図に広がる空白は、寒さだけでは説明できません。",
+      "design": "Khí hậu là một lớp giải thích, không đồng nhất vùng lạnh với vùng không người",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-006",
+      "type": "image",
+      "srtCueIds": [
+        19
+      ],
+      "startFrame": 2747,
+      "endFrame": 2966,
+      "narration": "実は、かつて北海道には、今よりもずっと広い範囲に人々が暮 らしていた時代がありました。",
+      "design": "Historically informed reconstruction of a flourishing Hokkaido coal settlement in the early twentieth century, wooden Japanese houses along a hillside, smoke from distant industrial works, period clothing on small distant figures, no cars or modern electronics, no readable signs, clearly an illustrative reconstruction.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-006.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-007",
+      "type": "image",
+      "srtCueIds": [
+        20
+      ],
+      "startFrame": 2966,
+      "endFrame": 3192,
+      "narration": "山の中には町が生まれ、鉄道が走り、学校や商店には多くの人が集まっていました。",
+      "design": "Historically informed 1930s Hokkaido mountain railway town, steam train passing a small station beside wooden shops and a simple school building, modest period crowds seen from afar, authentic northern Japanese architecture, no invented readable signage.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-007.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-008",
+      "type": "image",
+      "srtCueIds": [
+        21
+      ],
+      "startFrame": 3192,
+      "endFrame": 3390,
+      "narration": "ところが、そうした町のいくつかは、今では静かな集落へと姿を変えています。",
+      "design": "Present-day former mining village in Hokkaido, quiet residential lane with weathered low houses, carefully maintained gardens beside some vacant properties, green hills beyond, documentary afternoon light, respectful ordinary life rather than dystopian ruin.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-008.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-009",
+      "type": "image",
+      "srtCueIds": [
+        22
+      ],
+      "startFrame": 3390,
+      "endFrame": 3486,
+      "narration": "いったい、何が起きたのでしょうか。",
+      "design": "Empty community meeting room in a small Hokkaido town, rows of modest chairs, daylight through large windows onto a quiet street, subtle signs of time and sparse use, no writing, calm reflective framing.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-009.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-010",
+      "type": "image",
+      "srtCueIds": [
+        23
+      ],
+      "startFrame": 3486,
+      "endFrame": 3647,
+      "narration": "その答えを探していくと、北海道の大地が持つ特殊な性質と、",
+      "design": "Close landscape view of exposed layered earth beside a Hokkaido stream, peat-dark soil, pale volcanic material and rooted plants visible naturally in the cut bank, soft side lighting, realistic geology illustration without labels.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-010.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-011",
+      "type": "image",
+      "srtCueIds": [
+        24
+      ],
+      "startFrame": 3647,
+      "endFrame": 3750,
+      "narration": "日本が歩んできた歴史が見えてきます。",
+      "design": "Museum-style still life of late nineteenth-century northern Japanese pioneering farm tools, a weathered spade, simple wooden surveying tripod and work gloves on a wooden bench, subdued natural window light, no labels, no text, no modern plastic.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-011.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-009",
+      "type": "map",
+      "srtCueIds": [
+        25,
+        26
+      ],
+      "startFrame": 3750,
+      "endFrame": 4117,
+      "narration": "今回は、北海道という巨大な土地に、なぜこれほどの空白が生まれたのか。 地図に隠された、その意外な物語をたどっていきましょう。",
+      "design": "Sơ đồ địa lý các nhóm nguyên nhân: khí hậu, đất, lịch sử và đô thị; mỗi nhóm reveal theo câu",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-010",
+      "type": "map",
+      "srtCueIds": [
+        27,
+        28,
+        29
+      ],
+      "startFrame": 4117,
+      "endFrame": 4564,
+      "narration": "まず、北海道がどれほど広い場所なのか、地図で確かめてみましょう。 北海道の面積は、およそ8万3,000平方キロメートル。 日本の都道府県の中では、もちろん最大です。",
+      "design": "Map diện tích đảo: góc nhìn toàn vùng, note khoảng 83 nghìn km² và thứ hạng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-011",
+      "type": "map",
+      "srtCueIds": [
+        30,
+        31
+      ],
+      "startFrame": 4564,
+      "endFrame": 4833,
+      "narration": "もし北海道をそのまま本州の上に重ねたなら、 東京から東北地方の広い範囲まで覆ってしまいます。",
+      "design": "Bản sao silhouette đồng diện tích di chuyển đặt lên Tokyo–Tohoku, giữ mốc vị trí thật",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-012",
+      "type": "map",
+      "srtCueIds": [
+        32,
+        33
+      ],
+      "startFrame": 4833,
+      "endFrame": 5167,
+      "narration": "南の函館から東の根室までは、直線距離でもおよそ430キロメートル。 東京から大阪までの距離に匹敵するほどです。",
+      "design": "Hai đoạn Hakodate–Nemuro và Tokyo–Osaka trên cùng thước đo khoảng cách",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-013",
+      "type": "map",
+      "srtCueIds": [
+        34,
+        35
+      ],
+      "startFrame": 5167,
+      "endFrame": 5401,
+      "narration": "ヨーロッパに目を向けると、北海道はオーストリアという一つの国と、 ほぼ同じ大きさを持っています。",
+      "design": "Hokkaido và Áo, đồng diện tích trên hai map định vị khác nhau",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-014",
+      "type": "map",
+      "srtCueIds": [
+        36,
+        37,
+        38
+      ],
+      "startFrame": 5401,
+      "endFrame": 5843,
+      "narration": "それほど広い土地なのに、人口は約500万人にすぎません。 日本全体の人口密度が1平方キロメートルあたり300人を超えるのに対し、 北海道では60人ほど。",
+      "design": "Mật độ dân số Nhật Bản và Hokkaido, cùng đơn vị diện tích và cùng thước đo người",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-015",
+      "type": "map",
+      "srtCueIds": [
+        39,
+        40
+      ],
+      "startFrame": 5843,
+      "endFrame": 6181,
+      "narration": "しかも、この数字だけでは、本当の姿は分かりません。 なぜなら、北海道の人々は、土地全体に均等に暮らしているわけではないからです。",
+      "design": "Map phân bố thực, zoom vào tương phản đô thị và vùng nội địa; không chia chấm giả",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-012",
+      "type": "image",
+      "srtCueIds": [
+        41
+      ],
+      "startFrame": 6181,
+      "endFrame": 6301,
+      "narration": "札幌市には、およそ200万人が暮らしています。",
+      "design": "New photorealistic aerial over modern Sapporo's dense urban core, geometric street grid, mid-rise buildings, a few taller towers and distant mountains, clear cool daylight, no exaggerated skyline and no readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-012.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-016",
+      "type": "map",
+      "srtCueIds": [
+        42
+      ],
+      "startFrame": 6301,
+      "endFrame": 6495,
+      "narration": "つまり北海道の人口の約4割が、たった一つの都市に集中しているのです。",
+      "design": "Sapporo: khoảng 40% dân số Hokkaido, biểu đồ phần chia neo theo tọa độ thành phố",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-017",
+      "type": "map",
+      "srtCueIds": [
+        43
+      ],
+      "startFrame": 6495,
+      "endFrame": 6606,
+      "narration": "一方、道東や道北に目を向けると、",
+      "design": "Định vị riêng Dōtō và Dōhoku trên toàn đảo, giữ Sapporo làm mốc",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-013",
+      "type": "image",
+      "srtCueIds": [
+        44
+      ],
+      "startFrame": 6606,
+      "endFrame": 6795,
+      "narration": "町と町の間に何十キロメートルもの森林や原野が続く場所があります。",
+      "design": "Drone-level view across a long stretch of northern Hokkaido forest and open moor between two tiny distant settlements, road barely visible along the edge, expansive summer greenery, realistic northern landscape.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-013.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-014",
+      "type": "image",
+      "srtCueIds": [
+        45
+      ],
+      "startFrame": 6795,
+      "endFrame": 6968,
+      "narration": "道路を走っていても、住宅がほとんど見えない区間は珍しくありません。",
+      "design": "View through the front windshield of a car moving along a quiet two-lane eastern Hokkaido road, fields and windbreaks, no houses along the immediate stretch, natural dashboard edge, clear daylight, no text or logos.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-014.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-018",
+      "type": "map",
+      "srtCueIds": [
+        46,
+        47
+      ],
+      "startFrame": 6968,
+      "endFrame": 7244,
+      "narration": "北海道を小さな区画に分けて人口を調べると、 人が暮らしていない土地が広い範囲を占めていることが分かります。",
+      "design": "Map ô lưới dân cư có dữ liệu thật: reveal ô có người/không người, giữ nguồn và năm",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-015",
+      "type": "image",
+      "srtCueIds": [
+        48
+      ],
+      "startFrame": 7244,
+      "endFrame": 7354,
+      "narration": "しかし、ここで一つの疑問が生まれます。",
+      "design": "Direct overhead aerial of a small rural Hokkaido crossroads amid very large fields, a single modest residence and farm shed, crisp geometry and true scale, gentle soft light, different location and composition from earlier farm scenes.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-015.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-019",
+      "type": "map",
+      "srtCueIds": [
+        49
+      ],
+      "startFrame": 7354,
+      "endFrame": 7551,
+      "narration": "同じ日本なのに、なぜ北海道だけ、これほど人の分布が違うのでしょうか。",
+      "design": "So sánh sự phân bố Nhật Bản với Hokkaido, giữ cùng cơ sở dữ liệu và tỉ lệ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-016",
+      "type": "image",
+      "srtCueIds": [
+        50
+      ],
+      "startFrame": 7551,
+      "endFrame": 7762,
+      "narration": "その理由を知るには、まず北海道の冬と夏に目を向ける必要があります。",
+      "design": "Early spring Hokkaido farm with lingering snow in field margins and small fresh green shoots near a farmhouse, low hills under a pale cool sky, seasonal transition that explains the short growing window.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-016.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-017",
+      "type": "image",
+      "srtCueIds": [
+        51
+      ],
+      "startFrame": 7762,
+      "endFrame": 7952,
+      "narration": "北海道に人が少ない理由として、まず思い浮かぶのが、厳しい寒さです。",
+      "design": "Wide view of an inland Hokkaido residential street during a cold winter morning, fine frost on utility wires and snow-covered houses, a bus in the distance, natural daylight, quiet realistic northern Japanese life.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-017.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-020",
+      "type": "map",
+      "srtCueIds": [
+        52,
+        53,
+        54
+      ],
+      "startFrame": 7952,
+      "endFrame": 8464,
+      "narration": "しかし、ここには少し不思議な事実があります。 北海道の中心都市、札幌は、北緯およそ43度に位置しています。 この緯度をそのまま西へたどっていくと、ヨーロッパのイタリアにたどり着きます。",
+      "design": "Globe vĩ tuyến 43°N từ Sapporo tới miền bắc Ý, không đặt Rome trên 43°N",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-018",
+      "type": "image",
+      "srtCueIds": [
+        55
+      ],
+      "startFrame": 8464,
+      "endFrame": 8574,
+      "narration": "ところが、冬の気候はまったく違います。",
+      "design": "A mild winter agricultural landscape in central Italy, olive trees and old stone farmhouses under soft low winter sun, no snow, subdued natural colors, documentary illustration of a contrasting climate.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-018.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-019",
+      "type": "image",
+      "srtCueIds": [
+        56
+      ],
+      "startFrame": 8574,
+      "endFrame": 8708,
+      "narration": "ローマの1月の平均気温は、およそ8度。",
+      "design": "Ordinary residential street in Rome on a mild January morning, stone facades, pedestrians in light winter coats and a few bare deciduous trees, natural sunlight, no famous monument needed, no readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-019.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-020",
+      "type": "image",
+      "srtCueIds": [
+        57
+      ],
+      "startFrame": 8708,
+      "endFrame": 8818,
+      "narration": "一方、札幌では氷点下3度ほどです。",
+      "design": "Sapporo neighborhood in January seen at pedestrian height, compact Japanese houses behind piled snow, bundled commuters and cold pale daylight, calm documentary atmosphere, new composition distinct from prior winter villages.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-020.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-021",
+      "type": "map",
+      "srtCueIds": [
+        58
+      ],
+      "startFrame": 8818,
+      "endFrame": 8986,
+      "narration": "同じような緯度にありながら、なぜ10度以上もの差が生まれるのでしょうか。",
+      "design": "So sánh khí hậu Rome và Sapporo: mốc đúng tọa độ, nhiệt độ tháng 1 có năm/chu kỳ chuẩn",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-022",
+      "type": "map",
+      "srtCueIds": [
+        59
+      ],
+      "startFrame": 8986,
+      "endFrame": 9181,
+      "narration": "その秘密は、北海道がユーラシア大陸の東側に位置していることにあります。",
+      "design": "Map đại lục Á–Âu, nhấn vị trí phía đông và quan hệ với Siberia",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-021",
+      "type": "image",
+      "srtCueIds": [
+        60
+      ],
+      "startFrame": 9181,
+      "endFrame": 9327,
+      "narration": "冬になると、シベリアの広大な大地は強く冷やされます。",
+      "design": "Aerial illustration of the immense snow-covered Siberian taiga in midwinter, frozen braided river winding through dense conifer forest, deep cold natural blue shadows under low sun, no settlement or labels.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-021.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-023",
+      "type": "map",
+      "srtCueIds": [
+        61,
+        62
+      ],
+      "startFrame": 9327,
+      "endFrame": 9781,
+      "narration": "そこで生まれた冷たい空気が、北西の季節風となって日本海を渡ってくるのです。 この風は海の上で大量の水分を含み、北海道の山々にぶつかると、激しい雪を降らせます。",
+      "design": "Gió mùa tây bắc vượt biển Nhật Bản, thu ẩm rồi tuyết ở núi; map kết hợp mặt cắt",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-024",
+      "type": "map",
+      "srtCueIds": [
+        63,
+        64
+      ],
+      "startFrame": 9781,
+      "endFrame": 10093,
+      "narration": "一方、ヨーロッパの西側には大西洋があり、 暖流と偏西風の影響によって、比較的穏やかな冬が保たれています。",
+      "design": "Đại Tây Dương, dòng biển ấm và gió tây sang châu Âu; phân biệt hướng với độ lớn đo đạc",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-022",
+      "type": "image",
+      "srtCueIds": [
+        65
+      ],
+      "startFrame": 10093,
+      "endFrame": 10306,
+      "narration": "北海道は、同じ緯度のヨーロッパと比べても、冬の寒さが厳しい地域なのです。",
+      "design": "Northern Hokkaido coastal village in a severe winter, sea ice fragments near a breakwater and snow-covered modest houses, a grey-blue sea and overcast sky, documentary realism without exaggerated disaster.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-022.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-025",
+      "type": "map",
+      "srtCueIds": [
+        66,
+        67
+      ],
+      "startFrame": 10306,
+      "endFrame": 10601,
+      "narration": "1902年には、旭川で氷点下41度という、 日本の公式観測史上最低気温が記録されました。",
+      "design": "Định vị Asahikawa, record −41°C năm 1902, mốc thời gian rõ ràng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-023",
+      "type": "image",
+      "srtCueIds": [
+        68
+      ],
+      "startFrame": 10601,
+      "endFrame": 10817,
+      "narration": "また札幌は、人口100万人を超える都市としては、世界でも有数の豪雪都市です。",
+      "design": "Wide urban aerial of central Sapporo during active gentle snowfall, densely packed buildings and plowed streets, a functioning large city under snow, evening soft light, no readable commercial signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-023.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-024",
+      "type": "image",
+      "srtCueIds": [
+        69
+      ],
+      "startFrame": 10817,
+      "endFrame": 11038,
+      "narration": "毎年、数メートルもの雪が降り積もり、人々は除雪をしながら長い冬を過ごします。",
+      "design": "Close documentary view of a municipal snowplow clearing a Sapporo residential road, realistic snow curl at the blade and worker seen safely from behind, clear morning light, no brand text or logos.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-024.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-025",
+      "type": "image",
+      "srtCueIds": [
+        70,
+        71,
+        72
+      ],
+      "startFrame": 11038,
+      "endFrame": 11374,
+      "narration": "しかし、昔の人々にとって、本当に大きな問題だったのは、 冬の寒さだけではありませんでした。 それは、夏の短さです。",
+      "design": "Cold Hokkaido agricultural field at dawn with frost on young plants and a narrow band of thawed soil, distant farm buildings under a short pale sunrise, a visual explanation of a limited growing season.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-025.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-026",
+      "type": "image",
+      "srtCueIds": [
+        73
+      ],
+      "startFrame": 11374,
+      "endFrame": 11511,
+      "narration": "かつて日本の人口を支えていたのは、米作りでした。",
+      "design": "Historical illustration of Japanese rice farming before modern mechanization, workers small in a warm southern Japanese paddy, traditional practical farm clothing, wooden irrigation channels, no modern tools, no text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-026.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-027",
+      "type": "image",
+      "srtCueIds": [
+        74
+      ],
+      "startFrame": 11511,
+      "endFrame": 11683,
+      "narration": "ところが稲は、成長するために十分な暖かさを必要とします。",
+      "design": "Detailed macro of healthy young rice seedlings in shallow clear paddy water, soil and delicate roots visible, soft warm sunlight, botanical accuracy, no labels or artificial glow.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-027.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-028",
+      "type": "image",
+      "srtCueIds": [
+        75
+      ],
+      "startFrame": 11683,
+      "endFrame": 11847,
+      "narration": "北海道では春の訪れが遅く、秋の寒さも早くやってきます。",
+      "design": "Hokkaido countryside in late spring, snow still lingering in a shaded windbreak while newly prepared fields remain bare, farmhouses far away and a cool grey sky, realistic seasonal contrast.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-028.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-029",
+      "type": "image",
+      "srtCueIds": [
+        76
+      ],
+      "startFrame": 11847,
+      "endFrame": 12051,
+      "narration": "昔の品種では、稲が十分に育つ前に寒くなり、収穫できないこともありました。",
+      "design": "Illustrative close view of immature rice stalks damaged by an early autumn frost in northern Japan, small ice crystals and pale leaf edges, low morning light, no exaggerated ruined landscape.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-029.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-026",
+      "type": "map",
+      "srtCueIds": [
+        77
+      ],
+      "startFrame": 12051,
+      "endFrame": 12284,
+      "narration": "そのため、江戸時代まで稲作が安定して行われた地域は、 道南の一部に限られていたのです。",
+      "design": "Phạm vi lịch sử canh tác lúa miền nam Hokkaido; lớp định tính có nguồn, không bịa biên đo đạc",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-030",
+      "type": "image",
+      "srtCueIds": [
+        78,
+        79
+      ],
+      "startFrame": 12284,
+      "endFrame": 12593,
+      "narration": "もちろん、現在は違います。 品種改良と農業技術の発達によって、北海道は日本を代表する米の産地になりました。",
+      "design": "Modern Hokkaido rice harvest with a combine moving through a golden paddy, broad fields and shelterbelts, small distant operator, bright cool autumn daylight, realistic contemporary agricultural machinery with no logo.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-030.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-031",
+      "type": "image",
+      "srtCueIds": [
+        80
+      ],
+      "startFrame": 12593,
+      "endFrame": 12747,
+      "narration": "つまり、寒さは決して乗り越えられない壁ではなかったのです。",
+      "design": "Modern Japanese rice-breeding research greenhouse, neat trays of rice seedlings and a researcher seen from behind examining plants, practical laboratory clothing, daylight, no readable screens or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-031.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-032",
+      "type": "image",
+      "srtCueIds": [
+        81
+      ],
+      "startFrame": 12747,
+      "endFrame": 12843,
+      "narration": "では、気候の問題を克服してもなお、",
+      "design": "Well-engineered irrigation sluice and orderly farm channels in a modern Hokkaido agricultural district, water entering a rice field, detailed gates and flowing water, calm morning documentary shot.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-032.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-033",
+      "type": "image",
+      "srtCueIds": [
+        82
+      ],
+      "startFrame": 12843,
+      "endFrame": 12985,
+      "narration": "北海道に広大な空白が残っているのはなぜなのでしょうか。",
+      "design": "Vast remote Hokkaido grassland after a light summer rain, low cloud over a distant forested ridge and a small farmhouse almost lost in the landscape, new low-angle composition with no repeated assets.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-033.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-034",
+      "type": "image",
+      "srtCueIds": [
+        83
+      ],
+      "startFrame": 12985,
+      "endFrame": 13166,
+      "narration": "その答えは、私たちの足元にある、大地そのものに隠されています。",
+      "design": "Close, tactile view of a naturally exposed volcanic rock outcrop and dark soil in Hokkaido, moss and grass roots at the edge, geological layers readable through texture, natural side light, no labels.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-034.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-027",
+      "type": "map",
+      "srtCueIds": [
+        84,
+        85,
+        86
+      ],
+      "startFrame": 13166,
+      "endFrame": 13807,
+      "narration": "北海道の地形を、少し立体的にして眺めてみましょう。 すると、広大な島の中央を、巨大な山々が背骨のように貫いていることが分かります。 大雪山系、日高山脈、そして十勝岳をはじめとする火山の山々です。",
+      "design": "DEM thật: Daisetsuzan, Hidaka và Tokachidake, chuyển từ trên xuống góc nghiêng địa hình 3D",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-035",
+      "type": "image",
+      "srtCueIds": [
+        87
+      ],
+      "startFrame": 13807,
+      "endFrame": 13999,
+      "narration": "北海道というと、どこまでも平らな大地が続く風景を想像するかもしれません。",
+      "design": "Wide ground-level panorama of the flat Tokachi plain in Hokkaido, large fields extending to a low horizon, a line of larches and distant agricultural silos, crisp summer light, quiet sense of scale.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-035.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-028",
+      "type": "map",
+      "srtCueIds": [
+        88
+      ],
+      "startFrame": 13999,
+      "endFrame": 14172,
+      "narration": "しかし実際には、山地や丘陵地が広い面積を占めています。",
+      "design": "Địa hình và đồi núi từ DEM, không giả lập bằng xoay một ảnh phẳng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-036",
+      "type": "image",
+      "srtCueIds": [
+        89
+      ],
+      "startFrame": 14172,
+      "endFrame": 14367,
+      "narration": "人が町をつくり、農地を広げられる場所は、決して多くありません。",
+      "design": "A small Hokkaido town fitted into a narrow buildable valley between wooded hills, houses and cultivated plots following the river, high oblique aerial documentary framing, realistic terrain constraints.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-036.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-029",
+      "type": "map",
+      "srtCueIds": [
+        90,
+        91,
+        92
+      ],
+      "startFrame": 14367,
+      "endFrame": 14815,
+      "narration": "では、山を避けて平野に住めばよいのでしょうか。 実は、そこにも大きな問題がありました。 現在、札幌のある石狩平野は、かつて広大な湿地が広がる場所でした。",
+      "design": "Ishikari plain: địa hình thấp và lớp đất ngập nước lịch sử, định vị Sapporo theo thời kỳ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-037",
+      "type": "image",
+      "srtCueIds": [
+        93
+      ],
+      "startFrame": 14815,
+      "endFrame": 15017,
+      "narration": "川は何度も氾濫し、周囲には沼や水浸しの土地が点在していました。",
+      "design": "Illustrative aerial of a broad floodplain in historical Hokkaido before major river engineering, muddy water spreading among reed beds and meandering channels, no modern city or roads, natural restrained colors.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-037.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-038",
+      "type": "image",
+      "srtCueIds": [
+        94
+      ],
+      "startFrame": 15017,
+      "endFrame": 15156,
+      "narration": "特に厄介だったのが、泥炭と呼ばれる土です。",
+      "design": "Detailed side view of an intact peat soil core from a cold Japanese wetland, dark fibrous organic layers and waterlogged plant material, photographic scientific illustration, no measurement labels or writing.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-038.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-039",
+      "type": "image",
+      "srtCueIds": [
+        95
+      ],
+      "startFrame": 15156,
+      "endFrame": 15386,
+      "narration": "寒い土地では、枯れた植物が十分に分解されず、水の中に少しずつ積み重なっていきます。",
+      "design": "Underwater cutaway-style photorealistic illustration of dead reeds and moss accumulating layer by layer in a cold wetland, surface water above and dark organic sediment below, physically plausible, no arrows or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-039.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-040",
+      "type": "image",
+      "srtCueIds": [
+        96
+      ],
+      "startFrame": 15386,
+      "endFrame": 15583,
+      "narration": "そうして生まれた泥炭地は、まるで水を含んだスポンジのような性質を持っていました。",
+      "design": "Close scientific illustration of saturated fibrous peat holding abundant water like a sponge, visible plant fibers and droplets against a neutral natural background, no hands, no labels, no surreal elements.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-040.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-041",
+      "type": "image",
+      "srtCueIds": [
+        97
+      ],
+      "startFrame": 15583,
+      "endFrame": 15813,
+      "narration": "そのままでは農作物が育ちにくく、 家や道路を造っても地盤が沈んでしまうことがあります。",
+      "design": "A modest rural road and low house on soft reclaimed Hokkaido ground, subtle uneven pavement and settling drainage edge shown realistically, no collapse or disaster, calm daylight, explanatory reconstruction.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-041.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-042",
+      "type": "image",
+      "srtCueIds": [
+        98
+      ],
+      "startFrame": 15813,
+      "endFrame": 16053,
+      "narration": "人々は水を抜き、土地を改良しながら、長い年月をかけて平野を開拓していきました。",
+      "design": "Historically informed illustration of late nineteenth-century Hokkaido land reclamation, workers seen from a distance digging a drainage ditch through wet meadow with hand tools, simple period clothes and timber walkways, no modern vehicles.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-042.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-030",
+      "type": "map",
+      "srtCueIds": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "startFrame": 16053,
+      "endFrame": 16631,
+      "narration": "さらに、石狩川も大きな障害でした。 かつての川は平野の中を大きく蛇行し、 春の雪解けや大雨のたびに洪水を起こしていました。 そこで、川の曲がった部分を切り離し、 水がまっすぐ流れるようにする工事が進められました。",
+      "design": "Ishikari: vẽ uốn khúc cũ, tuyến cắt dòng và hướng nước; mặt cắt kỹ thuật và mốc lịch sử",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-043",
+      "type": "image",
+      "srtCueIds": [
+        103
+      ],
+      "startFrame": 16631,
+      "endFrame": 16908,
+      "narration": "現在も石狩平野に残る三日月形の湖は、かつて川が流れていた場所を物語っています。",
+      "design": "High aerial of a crescent-shaped oxbow lake on the Ishikari plain, fields around the old meander and a separate straightened river channel in the distance, photorealistic geographic illustration, no labels.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-043.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-031",
+      "type": "map",
+      "srtCueIds": [
+        104,
+        105
+      ],
+      "startFrame": 16908,
+      "endFrame": 17262,
+      "narration": "一方、北海道の東部へ向かうと、今度は別の問題が現れます。 十勝や根釧台地には、火山灰の影響を受けた土地が広がっています。",
+      "design": "Định vị Tokachi và Konsen; lớp đất chịu ảnh hưởng tro núi lửa có nguồn, phân biệt định tính",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-044",
+      "type": "image",
+      "srtCueIds": [
+        106
+      ],
+      "startFrame": 17262,
+      "endFrame": 17351,
+      "narration": "場所によっては水はけが良すぎたり、",
+      "design": "Photorealistic scientific soil cutaway of porous volcanic ash soil in an eastern Hokkaido field, rainwater filtering rapidly through visible layers, real material textures, no arrows, no text, no decorative framing.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-044.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-045",
+      "type": "image",
+      "srtCueIds": [
+        107
+      ],
+      "startFrame": 17351,
+      "endFrame": 17586,
+      "narration": "土壌の性質が農業に適していなかったりするため、開墾には大きな苦労が伴いました。",
+      "design": "Historically informed Hokkaido pioneer farmers preparing a difficult volcanic-soil field, a modest early twentieth-century farmstead, small distant figures with period tools and a horse-drawn cart, restrained reconstruction.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-045.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-032",
+      "type": "map",
+      "srtCueIds": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "startFrame": 17586,
+      "endFrame": 18074,
+      "narration": "そして太平洋側には、もう一つの特徴があります。 霧です。 夏になると、暖かく湿った空気が冷たい海面で冷やされ、 釧路や根室の沿岸には濃い霧が発生します。",
+      "design": "Dòng biển lạnh và sương mù Kushiro–Nemuro, map bờ biển kết hợp mặt cắt cơ chế ngưng tụ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-046",
+      "type": "image",
+      "srtCueIds": [
+        112
+      ],
+      "startFrame": 18074,
+      "endFrame": 18289,
+      "narration": "霧や低い雲が続けば、日照時間が短くなり、気温も上がりにくくなります。",
+      "design": "A low bank of summer sea fog rolling over eastern Hokkaido pasture and a windbreak, only the tops of distant farm buildings visible, luminous grey overcast daylight, calm documentary image.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-046.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-047",
+      "type": "image",
+      "srtCueIds": [
+        113
+      ],
+      "startFrame": 18289,
+      "endFrame": 18431,
+      "narration": "これは、かつての畑作にとって大きな障害でした。",
+      "design": "Close view of a cool-climate crop field under persistent low cloud near the Hokkaido Pacific coast, damp leaves and muted light, subtle plant stress rather than dramatic crop failure, no text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-047.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-048",
+      "type": "image",
+      "srtCueIds": [
+        114
+      ],
+      "startFrame": 18431,
+      "endFrame": 18608,
+      "narration": "そこで根釧地方では、広い土地を利用した酪農が発展していきます。",
+      "design": "Broad dairy pasture in the Konsen region of eastern Hokkaido, rotational grazing paddocks, a small group of Holstein cows and low farm buildings far away, clear cool summer light, new composition.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-048.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-033",
+      "type": "map",
+      "srtCueIds": [
+        115
+      ],
+      "startFrame": 18608,
+      "endFrame": 18750,
+      "narration": "現在の別海町は、日本を代表する酪農地帯です。",
+      "design": "Betsukai: tọa độ, vùng chăn nuôi và quan hệ với cảnh đồng cỏ, không giả số liệu đàn bò",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-049",
+      "type": "image",
+      "srtCueIds": [
+        116
+      ],
+      "startFrame": 18750,
+      "endFrame": 18952,
+      "narration": "広大な牧草地には、人間の数をはるかに上回る乳牛が飼育されています。",
+      "design": "Wide documentary image of many Holstein dairy cows spread across an immense Hokkaido pasture with a very small farmhouse in the distance, natural grazing behavior, low morning sunlight, no crowding or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-049.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-050",
+      "type": "image",
+      "srtCueIds": [
+        117
+      ],
+      "startFrame": 18952,
+      "endFrame": 19074,
+      "narration": "つまり北海道では、人が密集して暮らす代わりに、",
+      "design": "High aerial of a single extensive Hokkaido dairy farm with long barns and fields, sparse housing across the surrounding landscape, functioning farm infrastructure, believable Japanese rural scale, no branding.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-050.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-051",
+      "type": "image",
+      "srtCueIds": [
+        118
+      ],
+      "startFrame": 19074,
+      "endFrame": 19235,
+      "narration": "広い土地を使って食料を生産する仕組みが発達したのです。",
+      "design": "Interior of a modern Japanese dairy milking parlor, clean stainless steel equipment and calm Holstein cows, a worker seen from behind monitoring the process, documentary lighting, no readable signage.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-051.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-034",
+      "type": "map",
+      "srtCueIds": [
+        119
+      ],
+      "startFrame": 19235,
+      "endFrame": 19450,
+      "narration": "そして釧路の北には、今も日本最大の湿原である釧路湿原が広がっています。",
+      "design": "Kushiro wetland: phạm vi có nguồn và vị trí phía bắc Kushiro, góc nhìn sinh cảnh mới",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-052",
+      "type": "image",
+      "srtCueIds": [
+        120
+      ],
+      "startFrame": 19450,
+      "endFrame": 19607,
+      "narration": "そこには、開発されずに残された豊かな自然があります。",
+      "design": "A red-crowned crane standing in the lush reeds and shallow water of a Hokkaido wetland, distant forest and morning mist, realistic wildlife photography style, no text, respectful natural habitat.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-052.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-053",
+      "type": "image",
+      "srtCueIds": [
+        121
+      ],
+      "startFrame": 19607,
+      "endFrame": 19822,
+      "narration": "ここまで見ると、北海道は人間が暮らすには厳しい土地だった ように思えるかもしれません。",
+      "design": "Wide untouched Hokkaido forest and mountain landscape with a river threading through a broad valley, soft late-summer haze and no visible settlement, natural scale, distinct viewpoint from all prior landscapes.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-053.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-054",
+      "type": "image",
+      "srtCueIds": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "startFrame": 19822,
+      "endFrame": 20291,
+      "narration": "しかし、忘れてはならないことがあります。 この大地には、近代的な開拓が始まるはるか以前から、 自然とともに暮らしてきた人々がいたのです。 次に、その歴史をたどってみましょう。",
+      "design": "Illustrative quiet riverbank in preindustrial Hokkaido, a simple historically appropriate wooden dugout canoe pulled onto reeds beside fishing gear, northern forest beyond, no invented ceremonial objects or costume, no people, no text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-054.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-055",
+      "type": "image",
+      "srtCueIds": [
+        126,
+        127,
+        128
+      ],
+      "startFrame": 20291,
+      "endFrame": 20766,
+      "narration": "しかし、北海道は、もともと誰も住んでいなかった土地ではありません。 この大地には、古くから独自の文化を育み、自然とともに暮らしてきた人々がいました。 アイヌの人々です。",
+      "design": "Historically informed Ainu kotan in premodern Hokkaido, a small group of traditional chise houses built from reeds and timber beside a river, viewed respectfully from across the water, accurate ordinary domestic architecture, no fantasy or invented ceremony.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-055.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-056",
+      "type": "image",
+      "srtCueIds": [
+        129
+      ],
+      "startFrame": 20766,
+      "endFrame": 20996,
+      "narration": "アイヌの人々は、川を遡るサケや、森に暮らすシカ、山菜や木の実など、",
+      "design": "Underwater wildlife view of salmon swimming upstream in a clear cold Hokkaido river, pebbles, aquatic plants and natural shafts of daylight, accurate fish anatomy and movement implied, no humans or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-056.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-057",
+      "type": "image",
+      "srtCueIds": [
+        130
+      ],
+      "startFrame": 20996,
+      "endFrame": 21147,
+      "narration": "地域ごとの豊かな自然資源を利用して生活していました。",
+      "design": "Natural forest foods gathered in simple woven baskets beside a Hokkaido woodland path, edible nuts and mountain greens in a historically plausible domestic setting, no ceremonial symbolism, soft documentary light.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-057.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-058",
+      "type": "image",
+      "srtCueIds": [
+        131
+      ],
+      "startFrame": 21147,
+      "endFrame": 21323,
+      "narration": "川のそばや海岸には、コタンと呼ばれる集落が点在していました。",
+      "design": "Ground-level historical illustration of an ordinary riverside Ainu settlement, one reed-walled chise house near flowing water and useful domestic tools, culturally respectful, no stereotypes, no invented ritual, different site and composition from the wide kotan scene.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-058.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-059",
+      "type": "image",
+      "srtCueIds": [
+        132
+      ],
+      "startFrame": 21323,
+      "endFrame": 21507,
+      "narration": "米作りに頼らなくても、この土地で暮らしていく方法を知っていたのです。",
+      "design": "Historically informed fish-preservation work area in northern Japan, salmon hanging in a modest wooden drying structure beside a riverside dwelling, utilitarian daily-life focus, no readable labels, no invented ceremonial objects.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-059.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-035",
+      "type": "map",
+      "srtCueIds": [
+        133,
+        134,
+        135,
+        136,
+        137
+      ],
+      "startFrame": 21507,
+      "endFrame": 22235,
+      "narration": "その歴史は、今も地名の中に残っています。 札幌、稚内、知床。 こうした北海道の地名の多くは、アイヌ語に由来しています。 それぞれの名前には、川の形や水の流れ、土地の特徴など、 自然をよく観察してきた人々の知恵が刻まれているのです。",
+      "design": "Sapporo, Wakkanai và Shiretoko: địa danh và cấu trúc sông/địa hình; nguồn từ nguyên riêng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-036",
+      "type": "map",
+      "srtCueIds": [
+        138,
+        139,
+        140
+      ],
+      "startFrame": 22235,
+      "endFrame": 22717,
+      "narration": "一方、本州から渡ってきた和人の居住地は、 江戸時代には主に北海道南部に集中していました。 松前藩が置かれたこの地域の外では、和人の自由な移住や開墾は制限されていました。",
+      "design": "Matsumae và miền nam Hokkaido thời Edo, lớp cư trú lịch sử định tính có mốc thời kỳ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-037",
+      "type": "map",
+      "srtCueIds": [
+        141,
+        142,
+        143,
+        144
+      ],
+      "startFrame": 22717,
+      "endFrame": 23360,
+      "narration": "その状況が大きく変わったのが、明治時代です。 1869年、明治政府は蝦夷地を北海道と改称し、開拓使を設置しました。 その背景には、北方の防衛を強化し、 新しい農地や資源を確保するという国家の目的がありました。",
+      "design": "Mốc 1869, phạm vi Hokkaido và tuyến khai khẩn/phòng thủ, không vẽ luồng như số đo di cư",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-060",
+      "type": "image",
+      "srtCueIds": [
+        145
+      ],
+      "startFrame": 23360,
+      "endFrame": 23554,
+      "narration": "政府は道路を造り、農地を開き、本州から多くの移住者を送り込みます。",
+      "design": "Historical reconstruction of Meiji-era road clearing in Hokkaido, workers small in the distance cutting a practical track through woodland with hand tools, timber stumps and muddy ground, no modern machinery.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-060.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-038",
+      "type": "map",
+      "srtCueIds": [
+        146,
+        147
+      ],
+      "startFrame": 23554,
+      "endFrame": 23852,
+      "narration": "札幌も、この時代に計画的に整備された都市でした。 格子状の道路を引き、アメリカから農業や土木の専門家を招き、",
+      "design": "Sapporo: map grid đường phố thật, reveal quy hoạch ô bàn cờ và hướng phát triển",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-061",
+      "type": "image",
+      "srtCueIds": [
+        148
+      ],
+      "startFrame": 23852,
+      "endFrame": 23967,
+      "narration": "寒冷地に適した新しい産業を育てようとしたのです。",
+      "design": "Historically informed early agricultural training station in Meiji Hokkaido, practical timber buildings and experimental crop plots, a few small figures in period work clothing, natural daylight, no readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-061.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-062",
+      "type": "image",
+      "srtCueIds": [
+        149
+      ],
+      "startFrame": 23967,
+      "endFrame": 24193,
+      "narration": "1875年には、農業と北方警備を担う屯田兵の入植も始まりました。",
+      "design": "Historically informed exterior of a modest late nineteenth-century Hokkaido tondenhei settler farm dwelling beside a cultivated plot, practical timber construction and simple tools, no military battle scene, no invented symbols or writing.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-062.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-063",
+      "type": "image",
+      "srtCueIds": [
+        150,
+        151
+      ],
+      "startFrame": 24193,
+      "endFrame": 24517,
+      "narration": "しかし、開拓の歴史は成功だけで語れるものではありません。 厳しい寒さや不作に苦しみ、土地を離れた移住者もいました。",
+      "design": "Interior of a modest Hokkaido settler farmhouse after a poor harvest, sparse tools, a small storage basket and a cold window looking onto an early frosted field, human hardship conveyed through setting without exaggerated misery.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-063.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-064",
+      "type": "image",
+      "srtCueIds": [
+        152
+      ],
+      "startFrame": 24517,
+      "endFrame": 24728,
+      "narration": "道路建設では、囚人たちが過酷な労働を強いられ、多くの命が失われました。",
+      "design": "Respectful historical reconstruction of Hokkaido road construction by prisoner labor in the late nineteenth century, distant workers moving earth on a mountain track under guard, no graphic injuries, no spectacle, restrained factual documentary illustration.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-064.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-065",
+      "type": "image",
+      "srtCueIds": [
+        153,
+        154
+      ],
+      "startFrame": 24728,
+      "endFrame": 25058,
+      "narration": "そして、開拓の拡大はアイヌの人々から土地や生活の基盤を奪い、 従来の文化や生業にも深刻な影響を与えました。",
+      "design": "Historical illustrative view of a traditional Hokkaido riverside dwelling at the edge of newly cleared settler fields, forest cut back and ordinary domestic objects near the house, focus on loss of land and livelihood, no caricature or invented ceremony.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-065.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-066",
+      "type": "image",
+      "srtCueIds": [
+        155,
+        156
+      ],
+      "startFrame": 25058,
+      "endFrame": 25385,
+      "narration": "北海道の開拓とは、国家が新しい土地を発展させた歴史であると同時に、 先住民族の暮らしが大きく変えられた歴史でもあるのです。",
+      "design": "A weathered traditional reed-and-timber house beside a changing Hokkaido landscape, old riverbank woodland on one side and cleared agricultural ground in the distance, contemplative historical reconstruction, no text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-066.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-039",
+      "type": "map",
+      "srtCueIds": [
+        157
+      ],
+      "startFrame": 25385,
+      "endFrame": 25558,
+      "narration": "それでも移住は続き、北海道の人口は急速に増えていきました。",
+      "design": "Dân số tăng theo thời gian trên map nhập cư lịch sử, note năm và nguồn",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-067",
+      "type": "image",
+      "srtCueIds": [
+        158,
+        159
+      ],
+      "startFrame": 25558,
+      "endFrame": 25835,
+      "narration": "やがて、その発展をさらに加速させる資源が、山の奥から掘り出されることになります。 石炭です。",
+      "design": "Close documentary illustration of a rough lump of coal in a miner's gloved hands in a Hokkaido mine work area, natural black mineral texture and soft work light, no logos or text, no unsafe dramatic glow.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-067.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-040",
+      "type": "map",
+      "srtCueIds": [
+        160,
+        161,
+        162
+      ],
+      "startFrame": 25835,
+      "endFrame": 26345,
+      "narration": "明治時代から始まった北海道の開拓は、その後も長く続いていきました。 1920年には人口がおよそ236万人となり、 1960年代には500万人を超えるまでに増加します。",
+      "design": "1920 và thập niên 1960: đồ thị dân số có nguồn gắn bản đồ khai khẩn",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-041",
+      "type": "map",
+      "srtCueIds": [
+        163,
+        164,
+        165
+      ],
+      "startFrame": 26345,
+      "endFrame": 26861,
+      "narration": "その発展を支えた重要な産業の一つが、石炭でした。 札幌の東側に広がる空知地方には、豊富な石炭が眠っていました。 夕張、三笠、芦別、赤平、歌志内。",
+      "design": "Sorachi: Yubari, Mikasa, Ashibetsu, Akabira và Utashinai đúng tọa độ, mạng khai mỏ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-068",
+      "type": "image",
+      "srtCueIds": [
+        166,
+        167
+      ],
+      "startFrame": 26861,
+      "endFrame": 27101,
+      "narration": "現在では人口の少ないこれらの町も、 かつては日本のエネルギー産業を支える活気ある場所でした。",
+      "design": "Historically informed bustling Hokkaido coal town in the late 1950s, ordinary families on a modest shopping street, bicycles and period Japanese vehicles, mine infrastructure on a distant hillside, no readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-068.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-069",
+      "type": "image",
+      "srtCueIds": [
+        168
+      ],
+      "startFrame": 27101,
+      "endFrame": 27221,
+      "narration": "石炭が掘り出されると、山の中に住宅が建ち、",
+      "design": "Historical row of modest timber miners' family houses in a Hokkaido mountain valley, late 1950s everyday domestic setting with laundry and small gardens, natural daylight, period accuracy, no modern appliances outdoors.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-069.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-070",
+      "type": "image",
+      "srtCueIds": [
+        169
+      ],
+      "startFrame": 27221,
+      "endFrame": 27395,
+      "narration": "学校や病院、商店、映画館まで次々と造られました。",
+      "design": "Interior of a busy mid-twentieth-century Japanese coal-town school classroom, wooden desks and school bags, small distant pupils seen from behind, authentic simple architecture, no writing on blackboard or readable text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-070.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-042",
+      "type": "map",
+      "srtCueIds": [
+        170
+      ],
+      "startFrame": 27395,
+      "endFrame": 27508,
+      "narration": "鉄道も延び、人々の暮らしを結んでいきます。",
+      "design": "Mạng đường sắt kết nối khai mỏ và cư trú theo nguồn lịch sử, vẽ từng đoạn đúng thời kỳ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-071",
+      "type": "image",
+      "srtCueIds": [
+        171,
+        172
+      ],
+      "startFrame": 27508,
+      "endFrame": 27928,
+      "narration": "1960年ごろの夕張市には、11万人を超える人々が暮らしていました。 現在の姿からは想像しにくいほど、多くの家族が山あいの町で生活していたのです。",
+      "design": "Historically informed Yubari-like mountain coal town around 1960, wide elevated view of dense housing and ordinary busy pedestrian life in a narrow valley, no falsely identifiable landmark, reconstruction rather than archival photograph.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-071.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-072",
+      "type": "image",
+      "srtCueIds": [
+        173
+      ],
+      "startFrame": 27928,
+      "endFrame": 28058,
+      "narration": "しかし、その繁栄は長く続きませんでした。",
+      "design": "Quiet entrance to a closed Hokkaido coal mine, sealed industrial gate and weathered machinery surrounded by growing vegetation, overcast contemporary daylight, no readable warning signs or dramatic ruin.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-072.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-073",
+      "type": "image",
+      "srtCueIds": [
+        174
+      ],
+      "startFrame": 28058,
+      "endFrame": 28293,
+      "narration": "高度経済成長期、日本のエネルギーの中心は石炭から石油へと移っていきます。",
+      "design": "Japanese coastal oil terminal during the 1960s energy transition, cylindrical storage tanks and a tanker at a distant pier, realistic industrial scale and period setting, no branding or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-073.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-074",
+      "type": "image",
+      "srtCueIds": [
+        175
+      ],
+      "startFrame": 28293,
+      "endFrame": 28432,
+      "narration": "採算の取れなくなった炭鉱は、次々に閉山しました。",
+      "design": "A sealed former coal-mine adit in a Hokkaido hillside, aging concrete portal partly screened by ferns and birch trees, calm modern documentary framing, no readable inscription.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-074.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-075",
+      "type": "image",
+      "srtCueIds": [
+        176
+      ],
+      "startFrame": 28432,
+      "endFrame": 28693,
+      "narration": "仕事を失った人々は町を離れ、住宅が空き、商店が閉まり、学校も統合されていきました。",
+      "design": "Vacant workers' housing in a former Hokkaido coal town, a quiet lane with closed modest houses and encroaching grass, respectful ordinary daylight, no exaggerated post-apocalyptic atmosphere.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-075.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-043",
+      "type": "map",
+      "srtCueIds": [
+        177,
+        178
+      ],
+      "startFrame": 28693,
+      "endFrame": 29136,
+      "narration": "かつて11万人以上が暮らした夕張市の人口は、今では1万人を大きく下回っています。 2007年には財政再建団体となり、厳しい財政再建を迫られました。",
+      "design": "Yubari: dân số theo mốc năm và mốc tài chính 2007, định vị một thành phố cụ thể",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-044",
+      "type": "map",
+      "srtCueIds": [
+        179,
+        180
+      ],
+      "startFrame": 29136,
+      "endFrame": 29488,
+      "narration": "さらに、町を結んでいた鉄道も次第に姿を消していきます。 炭鉱や農村のために造られた路線は、利用者の減少とともに廃止されました。",
+      "design": "Mạng đường sắt trước/sau có nguồn và niên đại, reveal tuyến còn/đóng rõ ràng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-076",
+      "type": "image",
+      "srtCueIds": [
+        181
+      ],
+      "startFrame": 29488,
+      "endFrame": 29714,
+      "narration": "鉄道がなくなると、通学や通院、買い物の負担が増え、さらに人が離れていきます。",
+      "design": "An elderly resident waiting at a modest rural Hokkaido replacement bus shelter beside a quiet road, small bus in the distance and fields beyond, dignified documentary framing, no readable timetable.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-076.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-077",
+      "type": "image",
+      "srtCueIds": [
+        182,
+        183
+      ],
+      "startFrame": 29714,
+      "endFrame": 29964,
+      "narration": "こうして北海道では、かつて人々の暮らしが広がっていた場所が、 再び静かな土地へと変わっていきました。",
+      "design": "Disused rural railway platform in Hokkaido with grass along old tracks and a small plain station shelter, forested hills in the distance, soft morning light, no readable station name.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-077.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-045",
+      "type": "map",
+      "srtCueIds": [
+        184,
+        185,
+        186,
+        187
+      ],
+      "startFrame": 29964,
+      "endFrame": 30604,
+      "narration": "北海道の人口は1990年代後半を境に減少へ転じます。 しかし、人々が北海道全体から同じように減ったわけではありません。 地方の町を離れた多くの人々が、ある一つの都市へと集まっていったのです。 その都市こそ、札幌でした。",
+      "design": "Dân số giảm và luồng từ thị trấn về Sapporo, mũi tên định tính không giả số lượng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-078",
+      "type": "image",
+      "srtCueIds": [
+        188
+      ],
+      "startFrame": 30604,
+      "endFrame": 30794,
+      "narration": "北海道の人口が減り始めた一方で、札幌には人々が集まり続けてきました。",
+      "design": "Modern commuters walking through a central Sapporo pedestrian area on a clear winter morning, ordinary Japanese city life and functional transit in the background, no readable advertising or exaggerated crowd.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-078.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-079",
+      "type": "image",
+      "srtCueIds": [
+        189,
+        190
+      ],
+      "startFrame": 30794,
+      "endFrame": 31108,
+      "narration": "その理由は、決して複雑ではありません。 仕事があり、大学があり、大きな病院や商業施設が集まっているからです。",
+      "design": "Modern Sapporo hospital and university district, practical buildings, a bus stop and a few pedestrians, clear cool daylight, documentary illustration of concentrated services, no readable institution name.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-079.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-080",
+      "type": "image",
+      "srtCueIds": [
+        191
+      ],
+      "startFrame": 31108,
+      "endFrame": 31357,
+      "narration": "地方の町で仕事が少なくなると、若い人々は進学や就職をきっかけに札幌へ向かいます。",
+      "design": "A young Japanese adult seen from behind on a train platform arriving in a large northern Japanese city, simple luggage, restrained everyday mood, natural light, no readable destination boards.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-080.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-081",
+      "type": "image",
+      "srtCueIds": [
+        192
+      ],
+      "startFrame": 31357,
+      "endFrame": 31498,
+      "narration": "そして若い世代が減った町では、学校が統合され、",
+      "design": "An empty contemporary rural Hokkaido school classroom with modern simple desks, soft daylight onto an unused corridor and sparse countryside outside, respectful quiet composition, no text on walls or board.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-081.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-082",
+      "type": "image",
+      "srtCueIds": [
+        193
+      ],
+      "startFrame": 31498,
+      "endFrame": 31640,
+      "narration": "商店が閉まり、公共交通も維持しにくくなります。",
+      "design": "Quiet shopping street in a small Hokkaido town with several closed modest storefronts and one open shop suggested by warm interior light, everyday contemporary setting, no readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-082.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-083",
+      "type": "image",
+      "srtCueIds": [
+        194,
+        195
+      ],
+      "startFrame": 31640,
+      "endFrame": 31883,
+      "narration": "生活が不便になると、今度は高齢者も、 病院や買い物に便利な都市へ移り住むようになります。",
+      "design": "An older Japanese couple boarding a small community bus near a rural clinic in Hokkaido, practical accessible transport, dignified natural interaction, clear daytime documentary image, no logos or readable text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-083.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-046",
+      "type": "map",
+      "srtCueIds": [
+        196
+      ],
+      "startFrame": 31883,
+      "endFrame": 32072,
+      "narration": "こうして人口の減少が、さらなる人口の減少を呼ぶのです。",
+      "design": "Vòng phản hồi thị trấn–dịch vụ–di cư: đồ họa nguyên nhân gắn các nút địa lý định tính",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-047",
+      "type": "map",
+      "srtCueIds": [
+        197,
+        198
+      ],
+      "startFrame": 32072,
+      "endFrame": 32514,
+      "narration": "現在、札幌市には約200万人が暮らし、北海道の人口のおよそ4割を占めています。 広大な北海道の中で、一つの都市だけがこれほど大きな存在になっているのです。",
+      "design": "Sapporo và phần dân số toàn đảo, biểu đồ phần chia và phạm vi đô thị phân biệt rõ",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-084",
+      "type": "image",
+      "srtCueIds": [
+        199
+      ],
+      "startFrame": 32514,
+      "endFrame": 32632,
+      "narration": "しかし、ここにも不思議な現象があります。",
+      "design": "Quiet airport departure waiting area in northern Japan, a few young adult travelers looking out toward an aircraft, natural overcast window light, restrained documentary mood, no readable boards or logos.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-084.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-048",
+      "type": "map",
+      "srtCueIds": [
+        200,
+        201,
+        202,
+        203
+      ],
+      "startFrame": 32632,
+      "endFrame": 33199,
+      "narration": "札幌は道内から人を集める一方で、 東京などの大都市圏へ若者を送り出す側にもなっています。 つまり北海道では、地方から札幌へ、 そして札幌から本州へという、人の流れが生まれているのです。",
+      "design": "Hai cấp dòng người: địa phương → Sapporo → Tokyo; camera theo luồng liên tục",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-085",
+      "type": "image",
+      "srtCueIds": [
+        204
+      ],
+      "startFrame": 33199,
+      "endFrame": 33404,
+      "narration": "では、もう一度大規模な開拓を行えば、北海道の人口を増やすことができるのでしょうか。",
+      "design": "Large lightly occupied modern rural housing subdivision in Hokkaido, a few small houses separated by open plots and snow-free grass, wide aerial view, natural realistic scale, no real estate signs or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-085.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-049",
+      "type": "map",
+      "srtCueIds": [
+        205,
+        206,
+        207
+      ],
+      "startFrame": 33404,
+      "endFrame": 33889,
+      "narration": "実は、明治時代と現在では、日本全体の状況がまったく違います。 かつての日本には、土地と仕事を求める多くの人々がいました。 しかし今は、国全体の人口が減少しています。",
+      "design": "Dân số Nhật Bản xưa/nay và quỹ người di cư, mốc nguồn và năm rõ ràng",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-086",
+      "type": "image",
+      "srtCueIds": [
+        208
+      ],
+      "startFrame": 33889,
+      "endFrame": 34087,
+      "narration": "本州の地方都市でも人口減少が進む中、わざわざ厳しい冬の北海道へ、",
+      "design": "A sparse inland Hokkaido housing area in deep winter, empty road and snow-covered open lots between modest houses, grey daylight, no exaggerated disaster or abandoned-city effects.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-086.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-087",
+      "type": "image",
+      "srtCueIds": [
+        209
+      ],
+      "startFrame": 34087,
+      "endFrame": 34216,
+      "narration": "大勢の人々を移住させることは簡単ではありません。",
+      "design": "Exterior of a vacant but intact contemporary Japanese rural house in Hokkaido, small overgrown garden and closed shutters, ordinary peaceful daylight, no for-sale text, no dramatic decay.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-087.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-088",
+      "type": "image",
+      "srtCueIds": [
+        210
+      ],
+      "startFrame": 34216,
+      "endFrame": 34299,
+      "narration": "もちろん、新しい動きもあります。",
+      "design": "Modern industrial construction site in Hokkaido seen from a public road, cranes and a large unfinished building under a pale sky, contemporary realism, no identifiable company logos or claim to depict a specific actual facility.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-088.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-050",
+      "type": "map",
+      "srtCueIds": [
+        211,
+        212
+      ],
+      "startFrame": 34299,
+      "endFrame": 34586,
+      "narration": "ニセコ周辺では国際的な観光需要が高まり、 千歳では半導体産業への投資が進められています。",
+      "design": "Niseko và Chitose: hai điểm tăng trưởng đúng vị trí, đối chiếu phạm vi với toàn đảo",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-089",
+      "type": "image",
+      "srtCueIds": [
+        213
+      ],
+      "startFrame": 34586,
+      "endFrame": 34737,
+      "narration": "しかし、こうした成長は限られた地域に集中しています。",
+      "design": "Niseko-area ski resort landscape in winter with a few skiers, forest slopes and modest resort buildings beneath a snow-covered volcanic mountain, realistic scale and no invented readable signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-089.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-090",
+      "type": "image",
+      "srtCueIds": [
+        214
+      ],
+      "startFrame": 34737,
+      "endFrame": 34924,
+      "narration": "北海道全体の人口減少を止めるほどの広がりには、まだなっていません。",
+      "design": "Illustrative modern semiconductor-related industrial campus in Chitose, Hokkaido, clean functional low-rise buildings and construction infrastructure, daylight, no claim to show a specific real factory, no logos or text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-090.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-091",
+      "type": "image",
+      "srtCueIds": [
+        215
+      ],
+      "startFrame": 34924,
+      "endFrame": 35092,
+      "narration": "さらに問題となるのが、広大な土地を維持するための費用です。",
+      "design": "A maintenance crew inspecting a long rural Hokkaido road bridge above a river, workers small in frame and wide landscape around the infrastructure, documentary daylight, no readable markings.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-091.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-092",
+      "type": "image",
+      "srtCueIds": [
+        216
+      ],
+      "startFrame": 35092,
+      "endFrame": 35277,
+      "narration": "道路や鉄道、病院、学校、そして冬の除雪。",
+      "design": "Railway snow-clearing equipment working along a rural Hokkaido track corridor, distant mountains and deep snowbanks, ordinary safe operations, realistic machinery without branding, distinct from the city snowplow scene.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-092.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-093",
+      "type": "image",
+      "srtCueIds": [
+        217
+      ],
+      "startFrame": 35277,
+      "endFrame": 35439,
+      "narration": "人が少なくても、暮らしを守るために必要なものは数多くあります。",
+      "design": "Small functioning rural Hokkaido clinic surrounded by a broad landscape and a few modest houses, one community vehicle parked outside, calm practical daylight, no readable medical signs.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-093.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-051",
+      "type": "map",
+      "srtCueIds": [
+        218,
+        219,
+        220
+      ],
+      "startFrame": 35439,
+      "endFrame": 35967,
+      "narration": "人口が減るほど、一人当たりの負担は大きくなっていきます。 北海道の空白は、単に人が住んでいないという問題ではありません。 そこに暮らし続けるための仕組みを、どう守っていくのかという問題でもあるのです。",
+      "design": "Réseau hạ tầng trải rộng với ít nút dân cư, minh họa chi phí mỗi người không bịa số đo",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-052",
+      "type": "map",
+      "srtCueIds": [
+        221,
+        222,
+        223
+      ],
+      "startFrame": 35967,
+      "endFrame": 36488,
+      "narration": "では、この広大な土地は、これからどのような未来を迎えるのでしょうか。 これから北海道の人口は、さらに減少していくと予測されています。 2050年には、400万人を下回る可能性も指摘されています。",
+      "design": "Dự báo 2050: kịch bản dân số có nguồn IPSS, ghi rõ là dự báo và năm gốc",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-094",
+      "type": "image",
+      "srtCueIds": [
+        224
+      ],
+      "startFrame": 36488,
+      "endFrame": 36646,
+      "narration": "かつて人々が集まった町でも、学校や商店が姿を消し、",
+      "design": "A quiet northern Hokkaido port-town street with a closed small school building beyond a few houses, soft morning light and distant harbor, current realistic landscape, new town and composition.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-094.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-095",
+      "type": "image",
+      "srtCueIds": [
+        225
+      ],
+      "startFrame": 36646,
+      "endFrame": 36752,
+      "narration": "静かな風景が広がっていくかもしれません。",
+      "design": "Early dawn in a small Hokkaido residential neighborhood, a quiet lane, cared-for but sparse houses and garden plants, warm light beginning at the horizon, calm reflective documentary style.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-095.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-096",
+      "type": "image",
+      "srtCueIds": [
+        226,
+        227
+      ],
+      "startFrame": 36752,
+      "endFrame": 37023,
+      "narration": "しかし、ここで忘れてはならないことがあります。 人が少ない土地は、本当に価値のない土地なのでしょうか。",
+      "design": "Lush Hokkaido forest ecosystem with a clear river crossing a wet meadow, layered trees and natural light, no buildings, detailed ecology that conveys value beyond population numbers.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-096.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-053",
+      "type": "map",
+      "srtCueIds": [
+        228
+      ],
+      "startFrame": 37023,
+      "endFrame": 37187,
+      "narration": "北海道は、日本の国土のおよそ5分の1を占めています。",
+      "design": "Diện tích Hokkaido và vai trò sử dụng đất: đất trồng, đồng cỏ, rừng theo dữ liệu có nguồn",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-097",
+      "type": "image",
+      "srtCueIds": [
+        229
+      ],
+      "startFrame": 37187,
+      "endFrame": 37365,
+      "narration": "そして、その広大な大地は、今も日本の食卓を支えています。",
+      "design": "A practical Hokkaido food distribution warehouse with sealed milk crates and agricultural produce containers ready for shipment, workers far away, contemporary documentary realism, no readable packaging or logos.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-097.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-098",
+      "type": "image",
+      "srtCueIds": [
+        230
+      ],
+      "startFrame": 37365,
+      "endFrame": 37488,
+      "narration": "小麦、ジャガイモ、タマネギ、牛乳。",
+      "design": "Carefully composed natural still life of Hokkaido staple foods on a plain wooden farm table: potatoes, onions, wheat stalks and milk in an unbranded glass bottle, soft window light, no text or labels.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-098.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-099",
+      "type": "image",
+      "srtCueIds": [
+        231
+      ],
+      "startFrame": 37488,
+      "endFrame": 37681,
+      "narration": "私たちが毎日のように口にする食べ物の多くが、北海道で生産されています。",
+      "design": "Interior of a modern Japanese agricultural packing line handling potatoes and onions in separate crates, workers in clean practical clothing, no logos or readable labels, realistic documentary lighting.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-099.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-054",
+      "type": "map",
+      "srtCueIds": [
+        232,
+        233
+      ],
+      "startFrame": 37681,
+      "endFrame": 38104,
+      "narration": "北海道の食料自給率は、カロリーベースで200％を大きく超えています。 つまり、少ない人口で、日本全体の食料を支える重要な役割を果たしているのです。",
+      "design": "Bản đồ sản xuất lương thực và thặng dư calo, số liệu có năm/nguồn và icon từng ngành",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-100",
+      "type": "image",
+      "srtCueIds": [
+        234
+      ],
+      "startFrame": 38104,
+      "endFrame": 38347,
+      "narration": "さらに、広大な森林や湿原は、多くの生き物の暮らしを守り、 水や自然環境を育んでいます。",
+      "design": "Underwater view of a clean forest-fed Hokkaido stream with native fish among stones and aquatic vegetation, dappled natural sunlight, ecologically realistic, no labels or decorative effects.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-100.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-055",
+      "type": "map",
+      "srtCueIds": [
+        235,
+        236,
+        237
+      ],
+      "startFrame": 38347,
+      "endFrame": 38967,
+      "narration": "北海道に人が少ないのは、寒さだけが原因ではありません。 厳しい気候、複雑な地形、開拓の歴史、石炭産業の衰退、そして日本全体の人口減少。 それらが何層にも重なり、現在の人口分布をつくり出しました。",
+      "design": "Tổng hợp các lớp khí hậu–đất–lịch sử–than–di cư, mỗi lớp có phát hiện mới trên map",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "map-056",
+      "type": "map",
+      "srtCueIds": [
+        238,
+        239,
+        240
+      ],
+      "startFrame": 38967,
+      "endFrame": 39339,
+      "narration": "夜の衛星写真に映る北海道の暗闇。 そこには、人が暮らしていないという事実だけでなく、 この土地が歩んできた長い歴史が隠されています。",
+      "design": "Map đêm kết hợp dấu vết khai mỏ/đường sắt lịch sử, chuyển lớp theo lời kết",
+      "status": "planned",
+      "reusedAsset": false,
+      "dataStatus": "sources and shot-specific geographic layers must be verified before construction"
+    },
+    {
+      "id": "image-101",
+      "type": "image",
+      "srtCueIds": [
+        241
+      ],
+      "startFrame": 39339,
+      "endFrame": 39480,
+      "narration": "北海道の巨大な空白は、何もない場所ではありません。",
+      "design": "Aerial panorama of a remote Hokkaido river winding through a vast open basin below forested mountains, late-day clear light, no urban settlement visible in this view, fresh composition distinct from all earlier landscapes.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-101.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-102",
+      "type": "image",
+      "srtCueIds": [
+        242
+      ],
+      "startFrame": 39480,
+      "endFrame": 39667,
+      "narration": "日本の食料と自然、そして未来を支える、大切な大地なのです。",
+      "design": "Close low-angle view of healthy crops and dark fertile Hokkaido soil with working farmland extending toward distant hills, warm late-summer sunlight, gentle optimistic documentary atmosphere, no text.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-102.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-103",
+      "type": "image",
+      "srtCueIds": [
+        243
+      ],
+      "startFrame": 39667,
+      "endFrame": 39757,
+      "narration": "最後までご覧いただき、ありがとうございました。",
+      "design": "Wide coastal Hokkaido landscape at sunset, quiet sea, natural headland and distant low mountains, restrained amber light fading into blue, dignified cinematic closing image, no text or decorative frame.",
+      "status": "planned",
+      "reusedAsset": false,
+      "asset": "public/full/scenes/image-103.png",
+      "motion": {
+        "startScale": 1,
+        "endScale": 1.12,
+        "easing": "linear",
+        "shake": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "image-071",
+  "cueIds": [
+    171,
+    172
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed Yubari-like mountain coal town around 1960, wide elevated view of dense housing and ordinary busy pedestrian life in a narrow valley, no falsely identifiable landmark, reconstruction rather than archival photograph. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-071.png",
+  "status": "reviewed: accepted",
+  "bytes": 3544246,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "30015d60a3d17ecc300e576880e07728413829b13180056ef34b95c89991e5cd",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

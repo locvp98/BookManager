@@ -1,0 +1,16 @@
+{
+  "id": "image-047",
+  "cueIds": [
+    113
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Close view of a cool-climate crop field under persistent low cloud near the Hokkaido Pacific coast, damp leaves and muted light, subtle plant stress rather than dramatic crop failure, no text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-047.png",
+  "status": "reviewed: accepted",
+  "bytes": 2966245,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "74ac4063c417bfdb3c820b6747f87a2b1e4c673ea85796b73742091fc7ee4015",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

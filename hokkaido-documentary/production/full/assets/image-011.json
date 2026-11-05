@@ -1,0 +1,16 @@
+{
+  "id": "image-011",
+  "cueIds": [
+    24
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Museum-style still life of late nineteenth-century northern Japanese pioneering farm tools, a weathered spade, simple wooden surveying tripod and work gloves on a wooden bench, subdued natural window light, no labels, no text, no modern plastic. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-011.png",
+  "status": "reviewed: accepted",
+  "bytes": 2651883,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "94de1b98b0d69f118e51b6d98d72d2f3d2461dda8069e6d8decdce9f73d31042",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

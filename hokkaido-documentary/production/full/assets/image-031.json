@@ -1,0 +1,16 @@
+{
+  "id": "image-031",
+  "cueIds": [
+    80
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Modern Japanese rice-breeding research greenhouse, neat trays of rice seedlings and a researcher seen from behind examining plants, practical laboratory clothing, daylight, no readable screens or text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-031.png",
+  "status": "reviewed: accepted",
+  "bytes": 2763189,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "5af9dd6293d84064b74e1334e562a82147acf474ca5326678a9eace965713ddd",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

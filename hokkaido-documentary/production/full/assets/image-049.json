@@ -1,0 +1,16 @@
+{
+  "id": "image-049",
+  "cueIds": [
+    116
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Wide documentary image of many Holstein dairy cows spread across an immense Hokkaido pasture with a very small farmhouse in the distance, natural grazing behavior, low morning sunlight, no crowding or text. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-049.png",
+  "status": "reviewed: accepted",
+  "bytes": 3151436,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "8652fb29813ba82f5b84b682e971b0658c85248d48ca1f2c52fc7f8c9c3c7111",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

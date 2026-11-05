@@ -1,0 +1,16 @@
+{
+  "id": "image-088",
+  "cueIds": [
+    210
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Modern industrial construction site in Hokkaido seen from a public road, cranes and a large unfinished building under a pale sky, contemporary realism, no identifiable company logos or claim to depict a specific actual facility. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-088.png",
+  "status": "reviewed: accepted",
+  "bytes": 3011745,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "91e233d34b82348dfc2bca842f68e0b05a8b677723acf5bdd1bc170d02b18b2d",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

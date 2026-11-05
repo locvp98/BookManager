@@ -1,0 +1,19 @@
+{
+  "id": "image-055",
+  "cueIds": [
+    126,
+    127,
+    128
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historically informed Ainu kotan in premodern Hokkaido, a small group of traditional chise houses built from reeds and timber beside a river, viewed respectfully from across the water, accurate ordinary domestic architecture, no fantasy or invented ceremony. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-055.png",
+  "status": "reviewed: accepted",
+  "bytes": 3830509,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "0a6c39d9777bee1bac45a17b144eaf1c64e303cc715d1cfdce2529187b275cae",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "image-013",
+  "cueIds": [
+    44
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Drone-level view across a long stretch of northern Hokkaido forest and open moor between two tiny distant settlements, road barely visible along the edge, expansive summer greenery, realistic northern landscape. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-013.png",
+  "status": "reviewed: accepted",
+  "bytes": 3210218,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "46eff6150ee2e87d7614dc6da6adb8ff6fe503925722de284dc503566748b58f",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

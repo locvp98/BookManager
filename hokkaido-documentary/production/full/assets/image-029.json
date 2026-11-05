@@ -1,0 +1,16 @@
+{
+  "id": "image-029",
+  "cueIds": [
+    76
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Illustrative close view of immature rice stalks damaged by an early autumn frost in northern Japan, small ice crystals and pale leaf edges, low morning light, no exaggerated ruined landscape. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-029.png",
+  "status": "reviewed: accepted",
+  "bytes": 2741390,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "bbf7a0adc677f18e0c658b51af0b69e52a97e8cff9de39bb2cce8e11ee3fad96",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

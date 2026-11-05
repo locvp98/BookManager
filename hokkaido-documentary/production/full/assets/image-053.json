@@ -1,0 +1,16 @@
+{
+  "id": "image-053",
+  "cueIds": [
+    121
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Wide untouched Hokkaido forest and mountain landscape with a river threading through a broad valley, soft late-summer haze and no visible settlement, natural scale, distinct viewpoint from all prior landscapes. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-053.png",
+  "status": "reviewed: accepted",
+  "bytes": 3189143,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "213f681d5eb4cb61ada3ef44ef85f9bc462c6d5628107b4d89092e0b087548c4",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

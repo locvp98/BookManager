@@ -1,0 +1,16 @@
+{
+  "id": "image-027",
+  "cueIds": [
+    74
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Detailed macro of healthy young rice seedlings in shallow clear paddy water, soil and delicate roots visible, soft warm sunlight, botanical accuracy, no labels or artificial glow. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-027.png",
+  "status": "reviewed: accepted",
+  "bytes": 2800809,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "72dd940afe3a32f8d73c61ff284c55a38524a3a5d55a0438b1776892a68e1ccb",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

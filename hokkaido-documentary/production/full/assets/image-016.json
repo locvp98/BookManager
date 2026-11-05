@@ -1,0 +1,16 @@
+{
+  "id": "image-016",
+  "cueIds": [
+    50
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Early spring Hokkaido farm with lingering snow in field margins and small fresh green shoots near a farmhouse, low hills under a pale cool sky, seasonal transition that explains the short growing window. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-016.png",
+  "status": "reviewed: accepted",
+  "bytes": 3578222,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "35664a4bb82788a6a5cd9472497244098f21b3cc68857a8dd6f9b4b7f1a34677",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}

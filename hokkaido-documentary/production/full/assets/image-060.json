@@ -1,0 +1,17 @@
+{
+  "id": "image-060",
+  "cueIds": [
+    145
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Historical reconstruction of Meiji-era road clearing in Hokkaido, workers small in the distance cutting a practical track through woodland with hand tools, timber stumps and muddy ground, no modern machinery. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-060.png",
+  "status": "reviewed: accepted",
+  "bytes": 4081059,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "7aff15c9977749c3da8a1cac1e91bf08a947404c14709ddcb39e8ba27e506a00",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions.",
+  "promptAppendix": "Historical/Ainu reconstructions grounded in Upopoy everyday-life overview; no invented ceremony, sacred objects, fantasy costume or recognizable historical individual."
+}

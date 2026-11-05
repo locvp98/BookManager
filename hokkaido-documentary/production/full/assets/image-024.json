@@ -1,0 +1,16 @@
+{
+  "id": "image-024",
+  "cueIds": [
+    69
+  ],
+  "prompt": "Create ONE new full-bleed 16:9 cinematic documentary illustration. Close documentary view of a municipal snowplow clearing a Sapporo residential road, realistic snow curl at the blade and worker seen safely from behind, clear morning light, no brand text or logos. Professional natural lighting and realistic scale. No text, no subtitles, no labels, no numbers, no watermark, no logos, no decorative corner frame. Do not make a collage or contact sheet. Detailed sharp scene suitable for a smooth 100% to 112% camera push. Synthetic illustration, not an archival photograph.",
+  "path": "public/full/scenes/image-024.png",
+  "status": "reviewed: accepted",
+  "bytes": 2990472,
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "0f563ce5333b8e5e4f6ddb416e4339877c38236a74b2ec4e304b11789ed22250",
+  "review": "All image sheets inspected: scene-specific narration fit, distinct composition, no explicit captions or corner frames, no gross image artifacts; historical scenes are synthetic illustrative reconstructions."
+}
