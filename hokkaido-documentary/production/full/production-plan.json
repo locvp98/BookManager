@@ -1,5 +1,5 @@
 {
-  "stage": "final assembly encoding",
+  "stage": "final MP4 verified; delivery pending",
   "audioSeconds": 1325.217959,
   "frames": 39757,
   "fps": 30,
@@ -345,5 +345,5 @@
   "fullRenderStarted": true,
   "verifiedMapScenes": 56,
   "verifiedIllustrationScenes": 103,
-  "finalFileVerified": false
+  "finalFileVerified": true
 }
