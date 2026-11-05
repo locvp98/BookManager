@@ -1,0 +1,44 @@
+{
+  "projectId": "replace-with-new-project-id",
+  "title": "replace-with-new-topic",
+  "narrationLanguage": "ja",
+  "workingLanguage": "vi",
+  "inputs": {
+    "script": "inputs/script.txt",
+    "audio": "inputs/narration.mp3",
+    "srt": "inputs/narration.srt"
+  },
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "previewSeconds": 40,
+    "subtitles": false,
+    "onScreenText": false,
+    "cornerFrame": false,
+    "mapAnnotations": true
+  },
+  "editorial": {
+    "newIllustrationScenesFor23Minutes": 100,
+    "mapScenesCountedSeparately": true,
+    "mapCountDependsOnNarration": true,
+    "reusePreviousFilmIllustrations": false,
+    "visualMotionRequired": true,
+    "illustrationMotion": "gentle continuous motion, no shake/jitter/flash/snap zoom",
+    "mapDesign": "varied geographic representations, camera angles and explanatory animation"
+  },
+  "render": {
+    "chunkSeconds": 30,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "crf": 18,
+    "preset": "medium",
+    "concurrency": 2
+  },
+  "delivery": {
+    "provider": "to-be-confirmed-from-user-context",
+    "destination": null,
+    "uploadAuthorized": false
+  },
+  "note": "Template only: replace inputs and topic; derive duration/frames/scenes from this film, never copy an old film timeline."
+}

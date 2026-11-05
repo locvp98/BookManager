@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "exampleOnly": true,
+  "fps": 30,
+  "frameConvention": "start inclusive, end exclusive",
+  "scenes": [
+    {
+      "id": "map-001", "startFrame": 0, "endFrame": 300, "type": "map",
+      "srtCueIds": [1, 2], "claim": "Replace with the actual spatial claim from these cues",
+      "newVisualInformation": "Reveal the actual region, then show the relevant spatial comparison",
+      "camera": "Continental overview to regional focus",
+      "motion": "Progressive boundary reveal followed by two synchronized geographic layers",
+      "transitionOut": "Match geographic focus to the next cutaway",
+      "assets": [], "dataSource": null, "status": "planned"
+    },
+    {
+      "id": "illustration-001", "startFrame": 288, "endFrame": 600, "type": "illustration",
+      "srtCueIds": [3, 4], "claim": "Replace with the mechanism or everyday situation actually narrated",
+      "newVisualInformation": "A newly generated cutaway of the mechanism, matched to this script",
+      "motion": "Slow camera move plus a timed reveal of the internal process",
+      "transitionIn": {"type": "crossfade", "overlapFrames": 12},
+      "assets": [{"path": null, "sha256": null, "origin": "generated", "prompt": "Replace with scene-specific prompt; no text, no labels, no watermark, no corner frame", "status": "pending"}],
+      "status": "planned"
+    }
+  ],
+  "note": "This is a schema example, not a completed storyboard. Generate all scene timings, cues and assets for each new film. Overlaps must be intentional; otherwise coverage must be continuous."
+}
