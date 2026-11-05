@@ -1,0 +1,104 @@
+{
+  "assets": [
+    {
+      "path": "public/maps/hokkaido-day.jpg",
+      "bytes": 389151,
+      "sha256": "f662e5b7bc60be085eedd2f8da515441b6d612c3bf2b716947d7bc6a5b223dad",
+      "origin": "NASA GIBS",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        3600,
+        2800
+      ]
+    },
+    {
+      "path": "public/maps/hokkaido-night.jpg",
+      "bytes": 422687,
+      "sha256": "d0cbb91efd6d49792be1e37929e8e62179f99aa6a42416932101d434f494e16b",
+      "origin": "NASA GIBS",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        3600,
+        2800
+      ]
+    },
+    {
+      "path": "public/maps/japan-day.jpg",
+      "bytes": 496903,
+      "sha256": "14a1e32f222065d656f2ab0b057f3ff909aa69076e38bf4aa259a6c7a19acb23",
+      "origin": "NASA GIBS",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        3000,
+        2600
+      ]
+    },
+    {
+      "path": "public/maps/japan-night.jpg",
+      "bytes": 617823,
+      "sha256": "9159d939e350c6248d5cfdb30c60a310155b1e909daffea8ccee838c21c14467",
+      "origin": "NASA GIBS",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        3000,
+        2600
+      ]
+    },
+    {
+      "path": "public/maps/japan.geojson",
+      "bytes": 176590,
+      "sha256": "d733e8a72543a36d65e5e1e854b4e52eb13814e71b08bd424662f8426ec96536",
+      "origin": "Natural Earth",
+      "status": "validated readable / cached locally"
+    },
+    {
+      "path": "public/maps/world-day.jpg",
+      "bytes": 1507393,
+      "sha256": "3a4e30799a75020f62986aedff578b691313328110214e78a04542c65dee5dd5",
+      "origin": "NASA GIBS",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        5400,
+        2700
+      ]
+    },
+    {
+      "path": "public/narration-preview.m4a",
+      "bytes": 928523,
+      "sha256": "557d36308ca0d1e83b7b77eb8950bfad448dd9886d1bb90e6aab4dda7a9cf443",
+      "origin": "user",
+      "status": "validated readable / cached locally"
+    },
+    {
+      "path": "public/narration.mp3",
+      "bytes": 31805901,
+      "sha256": "8041e8b33ce046478a83cdc58719177bd91dcc410133eeeeed739f8abc32fcec",
+      "origin": "user",
+      "status": "validated readable / cached locally"
+    },
+    {
+      "path": "public/narration.srt",
+      "bytes": 28551,
+      "sha256": "787ec78f502efd8f15cfe273fcfb054be1c5995fc45eb75fbf132bb2e7c2fe95",
+      "origin": "user",
+      "status": "validated readable / cached locally"
+    },
+    {
+      "path": "public/scenes/hokkaido-rural.png",
+      "bytes": 3221121,
+      "sha256": "c00230a64f0762a7c36b70f005481fc6ae9d2ead8257777ddf17411d13778ed9",
+      "origin": "generated",
+      "status": "validated readable / cached locally",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "sceneId": "Rural",
+      "prompt": "New cinematic photorealistic aerial illustration of eastern Hokkaido in early autumn; large pasture/crop fields, larch windbreaks, a narrow straight road and widely spaced small Japanese farmhouses; soft cool afternoon light; no text, labels, numbers, logos, watermark or corner frame.",
+      "historicalEvidence": false
+    }
+  ],
+  "newIllustrationsCreated": 1,
+  "newIllustrationsUsedInPreview": 1,
+  "mapScenes": 7
+}

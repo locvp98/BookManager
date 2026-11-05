@@ -1,0 +1,252 @@
+{
+  "fps": 30,
+  "frameConvention": "[start,end)",
+  "previewFrames": 1200,
+  "sourceAudioSeconds": 1325.217959,
+  "fullFilmNotYetProduced": true,
+  "scenes": [
+    {
+      "id": "Globe",
+      "startFrame": 0,
+      "endFrame": 161,
+      "srtCueIds": [
+        1
+      ],
+      "type": "map",
+      "claim": "Vị trí Nhật Bản trên globe Đông Á",
+      "newVisualInformation": "Vị trí Nhật Bản trên globe Đông Á",
+      "mapDesign": {
+        "representation": "globe",
+        "projection": "3D sphere",
+        "newInformation": "Vị trí Nhật Bản trên globe Đông Á",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "orbit chậm và dolly-in",
+      "motion": "orbit chậm và dolly-in",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "public/maps/world-day.jpg"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 149,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "Regional",
+      "startFrame": 149,
+      "endFrame": 343,
+      "srtCueIds": [
+        2,
+        3
+      ],
+      "type": "map",
+      "claim": "Định vị Hokkaido ở phía bắc Honshu",
+      "newVisualInformation": "Định vị Hokkaido ở phía bắc Honshu",
+      "mapDesign": {
+        "representation": "satellite locator",
+        "projection": "geographic raster/vector with cos43 aspect correction",
+        "newInformation": "Định vị Hokkaido ở phía bắc Honshu",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "camera toàn Nhật Bản đến Hokkaido, trace biên",
+      "motion": "camera toàn Nhật Bản đến Hokkaido, trace biên",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "public/maps/world-day.jpg",
+        "public/maps/japan-day.jpg",
+        "public/maps/hokkaido-day.jpg",
+        "src/geo.ts"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 331,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "Area",
+      "startFrame": 331,
+      "endFrame": 487,
+      "srtCueIds": [
+        4
+      ],
+      "type": "map",
+      "claim": "Tỉ trọng diện tích xấp xỉ 1/5",
+      "newVisualInformation": "Tỉ trọng diện tích xấp xỉ 1/5",
+      "mapDesign": {
+        "representation": "satellite plus area share",
+        "projection": "geographic raster/vector with cos43 aspect correction",
+        "newInformation": "Tỉ trọng diện tích xấp xỉ 1/5",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "giữ địa lý, reveal callout và cung tỷ lệ",
+      "motion": "giữ địa lý, reveal callout và cung tỷ lệ",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "public/maps/hokkaido-day.jpg",
+        "src/geo.ts"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 475,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "Comparison",
+      "startFrame": 475,
+      "endFrame": 643,
+      "srtCueIds": [
+        5
+      ],
+      "type": "map",
+      "claim": "Hokkaido lớn hơn Kyushu và Shikoku cộng lại",
+      "newVisualInformation": "Hokkaido lớn hơn Kyushu và Shikoku cộng lại",
+      "mapDesign": {
+        "representation": "equal-area vector comparison",
+        "projection": "Lambert azimuthal equal-area (140E,38N), 1.28px/km",
+        "newInformation": "Hokkaido lớn hơn Kyushu và Shikoku cộng lại",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "đưa silhouette đồng tỉ lệ ra cạnh nhau",
+      "motion": "đưa silhouette đồng tỉ lệ ra cạnh nhau",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "src/geo.ts"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 631,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "Rural",
+      "startFrame": 631,
+      "endFrame": 871,
+      "srtCueIds": [
+        6
+      ],
+      "type": "illustration",
+      "claim": "Đất rộng nhưng nhà ở rất thưa",
+      "newVisualInformation": "Đất rộng nhưng nhà ở rất thưa",
+      "mapDesign": {
+        "representation": "illustration",
+        "projection": null,
+        "newInformation": "Đất rộng nhưng nhà ở rất thưa",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "ảnh tạo mới, push-in nhẹ 2%",
+      "motion": "ảnh tạo mới, push-in nhẹ 2%",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "public/scenes/hokkaido-rural.png"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 859,
+      "dataSource": "User narration and newly generated illustration"
+    },
+    {
+      "id": "Population",
+      "startFrame": 859,
+      "endFrame": 1003,
+      "srtCueIds": [
+        7
+      ],
+      "type": "map",
+      "claim": "Tỉ trọng dân số xấp xỉ 4% và câu hỏi phân bố",
+      "newVisualInformation": "Tỉ trọng dân số xấp xỉ 4% và câu hỏi phân bố",
+      "mapDesign": {
+        "representation": "vector thematic",
+        "projection": "geographic raster/vector with cos43 aspect correction",
+        "newInformation": "Tỉ trọng dân số xấp xỉ 4% và câu hỏi phân bố",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "map định vị cùng đồ họa 4/100, không giả là mật độ",
+      "motion": "map định vị cùng đồ họa 4/100, không giả là mật độ",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "src/geo.ts",
+        "public/maps/hokkaido-day.jpg"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 991,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "NightHokkaido",
+      "startFrame": 991,
+      "endFrame": 1124,
+      "srtCueIds": [
+        8
+      ],
+      "type": "map",
+      "claim": "Quan sát ánh sáng thật trên ảnh composite đêm",
+      "newVisualInformation": "Quan sát ánh sáng thật trên ảnh composite đêm",
+      "mapDesign": {
+        "representation": "night satellite regional",
+        "projection": "geographic raster/vector with cos43 aspect correction",
+        "newInformation": "Quan sát ánh sáng thật trên ảnh composite đêm",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "chuyển vào VIIRS, giữ để đọc tương phản",
+      "motion": "chuyển vào VIIRS, giữ để đọc tương phản",
+      "transitionOut": {
+        "type": "dissolve",
+        "overlapFrames": 12,
+        "blackGap": false
+      },
+      "assets": [
+        "public/maps/hokkaido-night.jpg",
+        "src/geo.ts"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 1112,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    },
+    {
+      "id": "NightHonshu",
+      "startFrame": 1112,
+      "endFrame": 1200,
+      "srtCueIds": [
+        9
+      ],
+      "type": "map",
+      "claim": "Dải đô thị Tokyo–Osaka trên Honshu",
+      "newVisualInformation": "Dải đô thị Tokyo–Osaka trên Honshu",
+      "mapDesign": {
+        "representation": "night network map",
+        "projection": "geographic raster/vector with cos43 aspect correction",
+        "newInformation": "Dải đô thị Tokyo–Osaka trên Honshu",
+        "notes": "No narration subtitles; short geographic annotations only"
+      },
+      "camera": "route trace theo thành phố và camera miền trung Nhật Bản",
+      "motion": "route trace theo thành phố và camera miền trung Nhật Bản",
+      "transitionOut": "12-frame overlap dissolve except final",
+      "assets": [
+        "public/maps/japan-night.jpg"
+      ],
+      "status": "rendered; representative frame reviewed; full MP4 decoded successfully",
+      "narrationCoverageEndFrame": 1200,
+      "dataSource": "See production/SOURCES.md: NASA GIBS, Natural Earth; official GSI and Statistics Bureau for shares"
+    }
+  ]
+}

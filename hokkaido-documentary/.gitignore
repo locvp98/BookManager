@@ -1,0 +1,4 @@
+node_modules/
+out/
+public/maps/countries.geojson
+*.partial.mp4

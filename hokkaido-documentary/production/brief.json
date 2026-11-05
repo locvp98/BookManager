@@ -1,0 +1,25 @@
+{
+  "projectId": "hokkaido-documentary",
+  "title": "北海道の広大な土地に人が少ない理由",
+  "inputs": {
+    "audio": "public/narration.mp3",
+    "srt": "public/narration.srt"
+  },
+  "audioSeconds": 1325.217959,
+  "fullFramesAt30fps": 39757,
+  "cues": 243,
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "previewSeconds": 40,
+    "subtitles": false,
+    "mapAnnotations": true,
+    "cornerFrame": false
+  },
+  "preview": "first 40 seconds, continuous original narration",
+  "illustrationSceneTargetForFull": 97,
+  "fullStoryboardStatus": "not requested yet",
+  "illustrationMotion": "slow gentle continuous, no shake/jitter",
+  "mapStyle": "NASA satellite/globe, independent vector comparison, population share, night lights"
+}
