@@ -23,6 +23,15 @@ def report():
   text=p.read_text();lines=[l for l in text.splitlines() if l.startswith('frame=')]
   if lines:
    f=int(lines[-1].split('=')[1]);result['assembly']={'encodedFrames':f,'totalFrames':story['frames'],'encodedSeconds':round(f/30,2),'percent':round(f/story['frames']*100,2)};result['stage']='full MP4 encoding; final validation pending'
+ state=R/'out/full/assembly/state.json'
+ if state.exists():
+  result['assemblyState']=json.loads(state.read_text());result['stage']=result['assemblyState']['stage']
+  if any(k in result['stage'] for k in ['repair','regression']) and not result['assemblyState'].get('activeEncoding'):
+   if 'assembly' in result:result['failedAttemptAssembly']=result.pop('assembly')
+   pre=R/'out/full/assembly/full-preflight-progress.log'
+   if pre.exists():
+    fs=[l for l in pre.read_text().splitlines() if l.startswith('frame=')]
+    if fs:result['regressionPreflightFrames']=int(fs[-1].split('=')[1])
  if result['finalVerified']:result['stage']='final MP4 decode validated; delivery verification tracked separately'
  return result
 if __name__=='__main__':

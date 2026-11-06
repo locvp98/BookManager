@@ -31,7 +31,7 @@ def last_frame(i):
  partial.replace(target);write_json(marker,{'sourceSHA256':r['sha256'],'sourceLastFrame':r['frames']-1});return target
 with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:holds=list(pool.map(last_frame,range(len(clips)-1)))
 concat=work/('test-concat.txt' if a.test_first else 'concat.txt');concat.write_text(''.join("file '"+str(x).replace("'","'\\''")+"'\n" for x in clips))
-filters=['[0:v]settb=1/30,setpts=N,format=yuv420p[v0]'];cmd=['ffmpeg','-hide_banner','-v','warning','-y','-threads','2','-f','concat','-safe','0','-i',str(concat)]
+filters=['[0:v]settb=1/30,setpts=N,format=yuv420p[v0]'];cmd=['ffmpeg','-hide_banner','-v','warning','-y','-threads','2','-reinit_filter','0','-f','concat','-safe','0','-i',str(concat)]
 if a.test_first:
  next_input=1
 else:
@@ -40,7 +40,7 @@ for hold in holds:cmd+=['-threads','1','-i',str(hold)]
 for i in range(1,len(clips)):
  start=scenes[i]['startFrame'];index=next_input+i-1
  filters.append(f'[{index}:v]loop=loop=11:size=1:start=0,settb=1/30,setpts=N+{start},format=rgba,fade=t=out:st={start/30:.9f}:d={12/30:.9f}:alpha=1[h{i}]')
- filters.append(f"[v{i-1}][h{i}]overlay=x=0:y=0:format=auto:eof_action=pass:repeatlast=0:enable='gte(t,{start/30:.9f})*lt(t,{(start+12)/30:.9f})'[v{i}]")
+ filters.append(f"[v{i-1}][h{i}]overlay=x=0:y=0:format=auto:eof_action=pass:repeatlast=0:enable='gte(t,{(start-.25)/30:.9f})*lt(t,{(start+11.75)/30:.9f})'[v{i}]")
 filter_file=work/('test.filter.txt' if a.test_first else 'full.filter.txt');filter_file.write_text(';\n'.join(filters))
 output=root/'out'/('full-transition-test.mp4' if a.test_first else 'sagami-full-1080p30.mp4');partial=output.with_name(output.stem+'.partial.mp4')
 progress=work/('test-progress.log' if a.test_first else 'progress.log')

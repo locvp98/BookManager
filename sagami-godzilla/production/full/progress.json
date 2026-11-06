@@ -1,6 +1,6 @@
 {
-  "updatedUnix": 1793970861.2380419,
-  "stage": "source renders complete; encoded-shot QA before assembly",
+  "updatedUnix": 1793973741.3661163,
+  "stage": "full MP4 encoded; full decode validation running",
   "groups": {
     "image": {
       "verified": 116,
@@ -19,5 +19,16 @@
   "sourcePercent": 100.0,
   "finalVerified": false,
   "note": "Source coverage is distributed across the timeline, not a continuous playable final. Markers originate from full decode and SHA validation; this status reader checks size and frame count only.",
-  "encodedShotChecks": 154
+  "encodedShotChecks": 154,
+  "assembly": {
+    "encodedFrames": 44273,
+    "totalFrames": 44273,
+    "encodedSeconds": 1475.77,
+    "percent": 100.0
+  },
+  "assemblyState": {
+    "stage": "full MP4 encoded; full decode validation running",
+    "activeEncoding": false,
+    "updatedUnix": 1793973711.003329
+  }
 }

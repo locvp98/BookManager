@@ -1,0 +1,5369 @@
+{
+  "method": "RGB320x180 decoded comparison; every scene midpoint and incoming dissolve frames0,6,11,13; CRF and RGB blending tolerance explicit, no claim of realtime interactive viewing",
+  "sourceVideoSHA256": "0bcd4442f18bb7f90a39a2aa17cc460a28ab946036136179985167a5ccdeadb5",
+  "samples": [
+    {
+      "id": "image-001",
+      "kind": "interior",
+      "absoluteFrame": 124,
+      "meanRGBError": 2.4313078703703703,
+      "passed": true
+    },
+    {
+      "id": "image-002",
+      "kind": "interior",
+      "absoluteFrame": 317,
+      "meanRGBError": 2.456429398148148,
+      "passed": true
+    },
+    {
+      "id": "image-002",
+      "kind": "dissolve",
+      "absoluteFrame": 249,
+      "meanRGBError": 2.4519155092592593,
+      "passed": true
+    },
+    {
+      "id": "image-002",
+      "kind": "dissolve",
+      "absoluteFrame": 255,
+      "meanRGBError": 2.2736747685185184,
+      "passed": true
+    },
+    {
+      "id": "image-002",
+      "kind": "dissolve",
+      "absoluteFrame": 260,
+      "meanRGBError": 2.4986212384259234,
+      "passed": true
+    },
+    {
+      "id": "image-002",
+      "kind": "dissolve",
+      "absoluteFrame": 262,
+      "meanRGBError": 2.3484895833333335,
+      "passed": true
+    },
+    {
+      "id": "image-003",
+      "kind": "interior",
+      "absoluteFrame": 495,
+      "meanRGBError": 1.997216435185185,
+      "passed": true
+    },
+    {
+      "id": "image-003",
+      "kind": "dissolve",
+      "absoluteFrame": 384,
+      "meanRGBError": 2.459253472222222,
+      "passed": true
+    },
+    {
+      "id": "image-003",
+      "kind": "dissolve",
+      "absoluteFrame": 390,
+      "meanRGBError": 2.126982060185185,
+      "passed": true
+    },
+    {
+      "id": "image-003",
+      "kind": "dissolve",
+      "absoluteFrame": 395,
+      "meanRGBError": 2.2845910493827195,
+      "passed": true
+    },
+    {
+      "id": "image-003",
+      "kind": "dissolve",
+      "absoluteFrame": 397,
+      "meanRGBError": 1.977627314814815,
+      "passed": true
+    },
+    {
+      "id": "map-001",
+      "kind": "interior",
+      "absoluteFrame": 1040,
+      "meanRGBError": 2.522673611111111,
+      "passed": true
+    },
+    {
+      "id": "map-001",
+      "kind": "dissolve",
+      "absoluteFrame": 606,
+      "meanRGBError": 2.1472395833333335,
+      "passed": true
+    },
+    {
+      "id": "map-001",
+      "kind": "dissolve",
+      "absoluteFrame": 612,
+      "meanRGBError": 2.1732725694444444,
+      "passed": true
+    },
+    {
+      "id": "map-001",
+      "kind": "dissolve",
+      "absoluteFrame": 617,
+      "meanRGBError": 2.407323977623456,
+      "passed": true
+    },
+    {
+      "id": "map-001",
+      "kind": "dissolve",
+      "absoluteFrame": 619,
+      "meanRGBError": 2.4006944444444445,
+      "passed": true
+    },
+    {
+      "id": "image-004",
+      "kind": "interior",
+      "absoluteFrame": 1584,
+      "meanRGBError": 2.4189641203703705,
+      "passed": true
+    },
+    {
+      "id": "image-004",
+      "kind": "dissolve",
+      "absoluteFrame": 1475,
+      "meanRGBError": 2.4394328703703705,
+      "passed": true
+    },
+    {
+      "id": "image-004",
+      "kind": "dissolve",
+      "absoluteFrame": 1481,
+      "meanRGBError": 2.289953703703704,
+      "passed": true
+    },
+    {
+      "id": "image-004",
+      "kind": "dissolve",
+      "absoluteFrame": 1486,
+      "meanRGBError": 2.290043885030858,
+      "passed": true
+    },
+    {
+      "id": "image-004",
+      "kind": "dissolve",
+      "absoluteFrame": 1488,
+      "meanRGBError": 2.2470659722222224,
+      "passed": true
+    },
+    {
+      "id": "image-005",
+      "kind": "interior",
+      "absoluteFrame": 1792,
+      "meanRGBError": 2.216076388888889,
+      "passed": true
+    },
+    {
+      "id": "image-005",
+      "kind": "dissolve",
+      "absoluteFrame": 1693,
+      "meanRGBError": 2.438761574074074,
+      "passed": true
+    },
+    {
+      "id": "image-005",
+      "kind": "dissolve",
+      "absoluteFrame": 1699,
+      "meanRGBError": 2.5589438657407406,
+      "passed": true
+    },
+    {
+      "id": "image-005",
+      "kind": "dissolve",
+      "absoluteFrame": 1704,
+      "meanRGBError": 2.321913580246911,
+      "passed": true
+    },
+    {
+      "id": "image-005",
+      "kind": "dissolve",
+      "absoluteFrame": 1706,
+      "meanRGBError": 2.234704861111111,
+      "passed": true
+    },
+    {
+      "id": "image-006",
+      "kind": "interior",
+      "absoluteFrame": 1986,
+      "meanRGBError": 2.2393692129629628,
+      "passed": true
+    },
+    {
+      "id": "image-006",
+      "kind": "dissolve",
+      "absoluteFrame": 1891,
+      "meanRGBError": 2.408287037037037,
+      "passed": true
+    },
+    {
+      "id": "image-006",
+      "kind": "dissolve",
+      "absoluteFrame": 1897,
+      "meanRGBError": 2.4409085648148148,
+      "passed": true
+    },
+    {
+      "id": "image-006",
+      "kind": "dissolve",
+      "absoluteFrame": 1902,
+      "meanRGBError": 2.262348090277778,
+      "passed": true
+    },
+    {
+      "id": "image-006",
+      "kind": "dissolve",
+      "absoluteFrame": 1904,
+      "meanRGBError": 2.282980324074074,
+      "passed": true
+    },
+    {
+      "id": "image-007",
+      "kind": "interior",
+      "absoluteFrame": 2125,
+      "meanRGBError": 2.362829861111111,
+      "passed": true
+    },
+    {
+      "id": "image-007",
+      "kind": "dissolve",
+      "absoluteFrame": 2081,
+      "meanRGBError": 2.46224537037037,
+      "passed": true
+    },
+    {
+      "id": "image-007",
+      "kind": "dissolve",
+      "absoluteFrame": 2087,
+      "meanRGBError": 2.0537528935185185,
+      "passed": true
+    },
+    {
+      "id": "image-007",
+      "kind": "dissolve",
+      "absoluteFrame": 2092,
+      "meanRGBError": 2.468078703703704,
+      "passed": true
+    },
+    {
+      "id": "image-007",
+      "kind": "dissolve",
+      "absoluteFrame": 2094,
+      "meanRGBError": 2.1730324074074074,
+      "passed": true
+    },
+    {
+      "id": "image-008",
+      "kind": "interior",
+      "absoluteFrame": 2242,
+      "meanRGBError": 2.2057118055555556,
+      "passed": true
+    },
+    {
+      "id": "image-008",
+      "kind": "dissolve",
+      "absoluteFrame": 2170,
+      "meanRGBError": 2.377644675925926,
+      "passed": true
+    },
+    {
+      "id": "image-008",
+      "kind": "dissolve",
+      "absoluteFrame": 2176,
+      "meanRGBError": 2.106875,
+      "passed": true
+    },
+    {
+      "id": "image-008",
+      "kind": "dissolve",
+      "absoluteFrame": 2181,
+      "meanRGBError": 2.500960648148147,
+      "passed": true
+    },
+    {
+      "id": "image-008",
+      "kind": "dissolve",
+      "absoluteFrame": 2183,
+      "meanRGBError": 2.404699074074074,
+      "passed": true
+    },
+    {
+      "id": "map-002",
+      "kind": "interior",
+      "absoluteFrame": 2460,
+      "meanRGBError": 2.3625462962962964,
+      "passed": true
+    },
+    {
+      "id": "map-002",
+      "kind": "dissolve",
+      "absoluteFrame": 2315,
+      "meanRGBError": 2.38896412037037,
+      "passed": true
+    },
+    {
+      "id": "map-002",
+      "kind": "dissolve",
+      "absoluteFrame": 2321,
+      "meanRGBError": 2.364111689814815,
+      "passed": true
+    },
+    {
+      "id": "map-002",
+      "kind": "dissolve",
+      "absoluteFrame": 2326,
+      "meanRGBError": 2.414051408179014,
+      "passed": true
+    },
+    {
+      "id": "map-002",
+      "kind": "dissolve",
+      "absoluteFrame": 2328,
+      "meanRGBError": 2.403744212962963,
+      "passed": true
+    },
+    {
+      "id": "map-003",
+      "kind": "interior",
+      "absoluteFrame": 2728,
+      "meanRGBError": 2.47125,
+      "passed": true
+    },
+    {
+      "id": "map-003",
+      "kind": "dissolve",
+      "absoluteFrame": 2605,
+      "meanRGBError": 2.404704861111111,
+      "passed": true
+    },
+    {
+      "id": "map-003",
+      "kind": "dissolve",
+      "absoluteFrame": 2611,
+      "meanRGBError": 2.2648350694444446,
+      "passed": true
+    },
+    {
+      "id": "map-003",
+      "kind": "dissolve",
+      "absoluteFrame": 2616,
+      "meanRGBError": 2.4705381944444462,
+      "passed": true
+    },
+    {
+      "id": "map-003",
+      "kind": "dissolve",
+      "absoluteFrame": 2618,
+      "meanRGBError": 2.4794791666666667,
+      "passed": true
+    },
+    {
+      "id": "image-009",
+      "kind": "interior",
+      "absoluteFrame": 2995,
+      "meanRGBError": 2.3949131944444444,
+      "passed": true
+    },
+    {
+      "id": "image-009",
+      "kind": "dissolve",
+      "absoluteFrame": 2851,
+      "meanRGBError": 2.471834490740741,
+      "passed": true
+    },
+    {
+      "id": "image-009",
+      "kind": "dissolve",
+      "absoluteFrame": 2857,
+      "meanRGBError": 2.74533275462963,
+      "passed": true
+    },
+    {
+      "id": "image-009",
+      "kind": "dissolve",
+      "absoluteFrame": 2862,
+      "meanRGBError": 2.241298225308638,
+      "passed": true
+    },
+    {
+      "id": "image-009",
+      "kind": "dissolve",
+      "absoluteFrame": 2864,
+      "meanRGBError": 2.23912037037037,
+      "passed": true
+    },
+    {
+      "id": "image-010",
+      "kind": "interior",
+      "absoluteFrame": 3274,
+      "meanRGBError": 2.262795138888889,
+      "passed": true
+    },
+    {
+      "id": "image-010",
+      "kind": "dissolve",
+      "absoluteFrame": 3140,
+      "meanRGBError": 2.4322743055555556,
+      "passed": true
+    },
+    {
+      "id": "image-010",
+      "kind": "dissolve",
+      "absoluteFrame": 3146,
+      "meanRGBError": 2.237644675925926,
+      "passed": true
+    },
+    {
+      "id": "image-010",
+      "kind": "dissolve",
+      "absoluteFrame": 3151,
+      "meanRGBError": 2.2470871913580215,
+      "passed": true
+    },
+    {
+      "id": "image-010",
+      "kind": "dissolve",
+      "absoluteFrame": 3153,
+      "meanRGBError": 2.348107638888889,
+      "passed": true
+    },
+    {
+      "id": "image-011",
+      "kind": "interior",
+      "absoluteFrame": 3475,
+      "meanRGBError": 2.362465277777778,
+      "passed": true
+    },
+    {
+      "id": "image-011",
+      "kind": "dissolve",
+      "absoluteFrame": 3407,
+      "meanRGBError": 2.419837962962963,
+      "passed": true
+    },
+    {
+      "id": "image-011",
+      "kind": "dissolve",
+      "absoluteFrame": 3413,
+      "meanRGBError": 2.195529513888889,
+      "passed": true
+    },
+    {
+      "id": "image-011",
+      "kind": "dissolve",
+      "absoluteFrame": 3418,
+      "meanRGBError": 2.2473061342592597,
+      "passed": true
+    },
+    {
+      "id": "image-011",
+      "kind": "dissolve",
+      "absoluteFrame": 3420,
+      "meanRGBError": 2.158402777777778,
+      "passed": true
+    },
+    {
+      "id": "image-012",
+      "kind": "interior",
+      "absoluteFrame": 3676,
+      "meanRGBError": 2.3652256944444443,
+      "passed": true
+    },
+    {
+      "id": "image-012",
+      "kind": "dissolve",
+      "absoluteFrame": 3544,
+      "meanRGBError": 2.3747800925925926,
+      "passed": true
+    },
+    {
+      "id": "image-012",
+      "kind": "dissolve",
+      "absoluteFrame": 3550,
+      "meanRGBError": 2.4000347222222222,
+      "passed": true
+    },
+    {
+      "id": "image-012",
+      "kind": "dissolve",
+      "absoluteFrame": 3555,
+      "meanRGBError": 2.245851658950616,
+      "passed": true
+    },
+    {
+      "id": "image-012",
+      "kind": "dissolve",
+      "absoluteFrame": 3557,
+      "meanRGBError": 2.190144675925926,
+      "passed": true
+    },
+    {
+      "id": "image-013",
+      "kind": "interior",
+      "absoluteFrame": 3899,
+      "meanRGBError": 2.260271990740741,
+      "passed": true
+    },
+    {
+      "id": "image-013",
+      "kind": "dissolve",
+      "absoluteFrame": 3809,
+      "meanRGBError": 2.405763888888889,
+      "passed": true
+    },
+    {
+      "id": "image-013",
+      "kind": "dissolve",
+      "absoluteFrame": 3815,
+      "meanRGBError": 2.5174971064814815,
+      "passed": true
+    },
+    {
+      "id": "image-013",
+      "kind": "dissolve",
+      "absoluteFrame": 3820,
+      "meanRGBError": 2.267079475308639,
+      "passed": true
+    },
+    {
+      "id": "image-013",
+      "kind": "dissolve",
+      "absoluteFrame": 3822,
+      "meanRGBError": 2.2129224537037038,
+      "passed": true
+    },
+    {
+      "id": "image-014",
+      "kind": "interior",
+      "absoluteFrame": 4076,
+      "meanRGBError": 2.204849537037037,
+      "passed": true
+    },
+    {
+      "id": "image-014",
+      "kind": "dissolve",
+      "absoluteFrame": 3989,
+      "meanRGBError": 2.3086284722222223,
+      "passed": true
+    },
+    {
+      "id": "image-014",
+      "kind": "dissolve",
+      "absoluteFrame": 3995,
+      "meanRGBError": 2.0357609953703704,
+      "passed": true
+    },
+    {
+      "id": "image-014",
+      "kind": "dissolve",
+      "absoluteFrame": 4000,
+      "meanRGBError": 2.2192607060185177,
+      "passed": true
+    },
+    {
+      "id": "image-014",
+      "kind": "dissolve",
+      "absoluteFrame": 4002,
+      "meanRGBError": 2.2055381944444443,
+      "passed": true
+    },
+    {
+      "id": "image-015",
+      "kind": "interior",
+      "absoluteFrame": 4243,
+      "meanRGBError": 2.2027835648148146,
+      "passed": true
+    },
+    {
+      "id": "image-015",
+      "kind": "dissolve",
+      "absoluteFrame": 4163,
+      "meanRGBError": 2.4065914351851854,
+      "passed": true
+    },
+    {
+      "id": "image-015",
+      "kind": "dissolve",
+      "absoluteFrame": 4169,
+      "meanRGBError": 2.3194502314814813,
+      "passed": true
+    },
+    {
+      "id": "image-015",
+      "kind": "dissolve",
+      "absoluteFrame": 4174,
+      "meanRGBError": 2.244860628858023,
+      "passed": true
+    },
+    {
+      "id": "image-015",
+      "kind": "dissolve",
+      "absoluteFrame": 4176,
+      "meanRGBError": 2.2469618055555554,
+      "passed": true
+    },
+    {
+      "id": "map-004",
+      "kind": "interior",
+      "absoluteFrame": 4646,
+      "meanRGBError": 2.4333506944444445,
+      "passed": true
+    },
+    {
+      "id": "map-004",
+      "kind": "dissolve",
+      "absoluteFrame": 4324,
+      "meanRGBError": 2.44744212962963,
+      "passed": true
+    },
+    {
+      "id": "map-004",
+      "kind": "dissolve",
+      "absoluteFrame": 4330,
+      "meanRGBError": 2.3075434027777777,
+      "passed": true
+    },
+    {
+      "id": "map-004",
+      "kind": "dissolve",
+      "absoluteFrame": 4335,
+      "meanRGBError": 2.546880304783954,
+      "passed": true
+    },
+    {
+      "id": "map-004",
+      "kind": "dissolve",
+      "absoluteFrame": 4337,
+      "meanRGBError": 2.477037037037037,
+      "passed": true
+    },
+    {
+      "id": "map-005",
+      "kind": "interior",
+      "absoluteFrame": 5083,
+      "meanRGBError": 2.585931712962963,
+      "passed": true
+    },
+    {
+      "id": "map-005",
+      "kind": "dissolve",
+      "absoluteFrame": 4969,
+      "meanRGBError": 2.4740625,
+      "passed": true
+    },
+    {
+      "id": "map-005",
+      "kind": "dissolve",
+      "absoluteFrame": 4975,
+      "meanRGBError": 2.6530381944444446,
+      "passed": true
+    },
+    {
+      "id": "map-005",
+      "kind": "dissolve",
+      "absoluteFrame": 4980,
+      "meanRGBError": 2.610747974537036,
+      "passed": true
+    },
+    {
+      "id": "map-005",
+      "kind": "dissolve",
+      "absoluteFrame": 4982,
+      "meanRGBError": 2.603912037037037,
+      "passed": true
+    },
+    {
+      "id": "map-006",
+      "kind": "interior",
+      "absoluteFrame": 5361,
+      "meanRGBError": 2.522355324074074,
+      "passed": true
+    },
+    {
+      "id": "map-006",
+      "kind": "dissolve",
+      "absoluteFrame": 5197,
+      "meanRGBError": 2.5877546296296297,
+      "passed": true
+    },
+    {
+      "id": "map-006",
+      "kind": "dissolve",
+      "absoluteFrame": 5203,
+      "meanRGBError": 2.5236950231481483,
+      "passed": true
+    },
+    {
+      "id": "map-006",
+      "kind": "dissolve",
+      "absoluteFrame": 5208,
+      "meanRGBError": 2.5601610725308643,
+      "passed": true
+    },
+    {
+      "id": "map-006",
+      "kind": "dissolve",
+      "absoluteFrame": 5210,
+      "meanRGBError": 2.5271122685185183,
+      "passed": true
+    },
+    {
+      "id": "image-016",
+      "kind": "interior",
+      "absoluteFrame": 5666,
+      "meanRGBError": 2.386689814814815,
+      "passed": true
+    },
+    {
+      "id": "image-016",
+      "kind": "dissolve",
+      "absoluteFrame": 5526,
+      "meanRGBError": 2.532320601851852,
+      "passed": true
+    },
+    {
+      "id": "image-016",
+      "kind": "dissolve",
+      "absoluteFrame": 5532,
+      "meanRGBError": 2.8005844907407407,
+      "passed": true
+    },
+    {
+      "id": "image-016",
+      "kind": "dissolve",
+      "absoluteFrame": 5537,
+      "meanRGBError": 2.3182764274691303,
+      "passed": true
+    },
+    {
+      "id": "image-016",
+      "kind": "dissolve",
+      "absoluteFrame": 5539,
+      "meanRGBError": 2.242939814814815,
+      "passed": true
+    },
+    {
+      "id": "image-017",
+      "kind": "interior",
+      "absoluteFrame": 5915,
+      "meanRGBError": 2.3787789351851854,
+      "passed": true
+    },
+    {
+      "id": "image-017",
+      "kind": "dissolve",
+      "absoluteFrame": 5805,
+      "meanRGBError": 2.3919618055555554,
+      "passed": true
+    },
+    {
+      "id": "image-017",
+      "kind": "dissolve",
+      "absoluteFrame": 5811,
+      "meanRGBError": 2.273755787037037,
+      "passed": true
+    },
+    {
+      "id": "image-017",
+      "kind": "dissolve",
+      "absoluteFrame": 5816,
+      "meanRGBError": 2.3025376157407393,
+      "passed": true
+    },
+    {
+      "id": "image-017",
+      "kind": "dissolve",
+      "absoluteFrame": 5818,
+      "meanRGBError": 2.369537037037037,
+      "passed": true
+    },
+    {
+      "id": "map-007",
+      "kind": "interior",
+      "absoluteFrame": 6103,
+      "meanRGBError": 2.5012962962962964,
+      "passed": true
+    },
+    {
+      "id": "map-007",
+      "kind": "dissolve",
+      "absoluteFrame": 6025,
+      "meanRGBError": 2.49384837962963,
+      "passed": true
+    },
+    {
+      "id": "map-007",
+      "kind": "dissolve",
+      "absoluteFrame": 6031,
+      "meanRGBError": 2.289554398148148,
+      "passed": true
+    },
+    {
+      "id": "map-007",
+      "kind": "dissolve",
+      "absoluteFrame": 6036,
+      "meanRGBError": 2.5623413387345697,
+      "passed": true
+    },
+    {
+      "id": "map-007",
+      "kind": "dissolve",
+      "absoluteFrame": 6038,
+      "meanRGBError": 2.45005787037037,
+      "passed": true
+    },
+    {
+      "id": "image-018",
+      "kind": "interior",
+      "absoluteFrame": 6241,
+      "meanRGBError": 2.1254976851851852,
+      "passed": true
+    },
+    {
+      "id": "image-018",
+      "kind": "dissolve",
+      "absoluteFrame": 6180,
+      "meanRGBError": 2.512372685185185,
+      "passed": true
+    },
+    {
+      "id": "image-018",
+      "kind": "dissolve",
+      "absoluteFrame": 6186,
+      "meanRGBError": 2.048130787037037,
+      "passed": true
+    },
+    {
+      "id": "image-018",
+      "kind": "dissolve",
+      "absoluteFrame": 6191,
+      "meanRGBError": 2.1209529320987635,
+      "passed": true
+    },
+    {
+      "id": "image-018",
+      "kind": "dissolve",
+      "absoluteFrame": 6193,
+      "meanRGBError": 2.138940972222222,
+      "passed": true
+    },
+    {
+      "id": "image-019",
+      "kind": "interior",
+      "absoluteFrame": 6458,
+      "meanRGBError": 1.896579861111111,
+      "passed": true
+    },
+    {
+      "id": "image-019",
+      "kind": "dissolve",
+      "absoluteFrame": 6302,
+      "meanRGBError": 2.384704861111111,
+      "passed": true
+    },
+    {
+      "id": "image-019",
+      "kind": "dissolve",
+      "absoluteFrame": 6308,
+      "meanRGBError": 2.0108449074074075,
+      "passed": true
+    },
+    {
+      "id": "image-019",
+      "kind": "dissolve",
+      "absoluteFrame": 6313,
+      "meanRGBError": 2.432297453703701,
+      "passed": true
+    },
+    {
+      "id": "image-019",
+      "kind": "dissolve",
+      "absoluteFrame": 6315,
+      "meanRGBError": 2.4649537037037037,
+      "passed": true
+    },
+    {
+      "id": "map-008",
+      "kind": "interior",
+      "absoluteFrame": 6739,
+      "meanRGBError": 2.6293865740740743,
+      "passed": true
+    },
+    {
+      "id": "map-008",
+      "kind": "dissolve",
+      "absoluteFrame": 6615,
+      "meanRGBError": 2.405005787037037,
+      "passed": true
+    },
+    {
+      "id": "map-008",
+      "kind": "dissolve",
+      "absoluteFrame": 6621,
+      "meanRGBError": 2.4154774305555557,
+      "passed": true
+    },
+    {
+      "id": "map-008",
+      "kind": "dissolve",
+      "absoluteFrame": 6626,
+      "meanRGBError": 2.8257990933642003,
+      "passed": true
+    },
+    {
+      "id": "map-008",
+      "kind": "dissolve",
+      "absoluteFrame": 6628,
+      "meanRGBError": 2.595480324074074,
+      "passed": true
+    },
+    {
+      "id": "map-009",
+      "kind": "interior",
+      "absoluteFrame": 7362,
+      "meanRGBError": 2.4490625,
+      "passed": true
+    },
+    {
+      "id": "map-009",
+      "kind": "dissolve",
+      "absoluteFrame": 6862,
+      "meanRGBError": 2.631423611111111,
+      "passed": true
+    },
+    {
+      "id": "map-009",
+      "kind": "dissolve",
+      "absoluteFrame": 6868,
+      "meanRGBError": 2.6778298611111113,
+      "passed": true
+    },
+    {
+      "id": "map-009",
+      "kind": "dissolve",
+      "absoluteFrame": 6873,
+      "meanRGBError": 2.057261284722221,
+      "passed": true
+    },
+    {
+      "id": "map-009",
+      "kind": "dissolve",
+      "absoluteFrame": 6875,
+      "meanRGBError": 2.4408564814814815,
+      "passed": true
+    },
+    {
+      "id": "image-020",
+      "kind": "interior",
+      "absoluteFrame": 8076,
+      "meanRGBError": 2.2936979166666664,
+      "passed": true
+    },
+    {
+      "id": "image-020",
+      "kind": "dissolve",
+      "absoluteFrame": 7861,
+      "meanRGBError": 2.4561805555555556,
+      "passed": true
+    },
+    {
+      "id": "image-020",
+      "kind": "dissolve",
+      "absoluteFrame": 7867,
+      "meanRGBError": 2.7397222222222224,
+      "passed": true
+    },
+    {
+      "id": "image-020",
+      "kind": "dissolve",
+      "absoluteFrame": 7872,
+      "meanRGBError": 2.422759934413574,
+      "passed": true
+    },
+    {
+      "id": "image-020",
+      "kind": "dissolve",
+      "absoluteFrame": 7874,
+      "meanRGBError": 2.5076157407407407,
+      "passed": true
+    },
+    {
+      "id": "map-010",
+      "kind": "interior",
+      "absoluteFrame": 8462,
+      "meanRGBError": 2.2613831018518518,
+      "passed": true
+    },
+    {
+      "id": "map-010",
+      "kind": "dissolve",
+      "absoluteFrame": 8291,
+      "meanRGBError": 2.457951388888889,
+      "passed": true
+    },
+    {
+      "id": "map-010",
+      "kind": "dissolve",
+      "absoluteFrame": 8297,
+      "meanRGBError": 2.2443287037037036,
+      "passed": true
+    },
+    {
+      "id": "map-010",
+      "kind": "dissolve",
+      "absoluteFrame": 8302,
+      "meanRGBError": 2.3685180362654346,
+      "passed": true
+    },
+    {
+      "id": "map-010",
+      "kind": "dissolve",
+      "absoluteFrame": 8304,
+      "meanRGBError": 2.4944675925925925,
+      "passed": true
+    },
+    {
+      "id": "image-021",
+      "kind": "interior",
+      "absoluteFrame": 8713,
+      "meanRGBError": 2.334045138888889,
+      "passed": true
+    },
+    {
+      "id": "image-021",
+      "kind": "dissolve",
+      "absoluteFrame": 8633,
+      "meanRGBError": 2.452980324074074,
+      "passed": true
+    },
+    {
+      "id": "image-021",
+      "kind": "dissolve",
+      "absoluteFrame": 8639,
+      "meanRGBError": 2.536796875,
+      "passed": true
+    },
+    {
+      "id": "image-021",
+      "kind": "dissolve",
+      "absoluteFrame": 8644,
+      "meanRGBError": 2.2887186535493798,
+      "passed": true
+    },
+    {
+      "id": "image-021",
+      "kind": "dissolve",
+      "absoluteFrame": 8646,
+      "meanRGBError": 2.1946701388888887,
+      "passed": true
+    },
+    {
+      "id": "map-011",
+      "kind": "interior",
+      "absoluteFrame": 8942,
+      "meanRGBError": 2.6727546296296296,
+      "passed": true
+    },
+    {
+      "id": "map-011",
+      "kind": "dissolve",
+      "absoluteFrame": 8792,
+      "meanRGBError": 2.4062384259259257,
+      "passed": true
+    },
+    {
+      "id": "map-011",
+      "kind": "dissolve",
+      "absoluteFrame": 8798,
+      "meanRGBError": 2.250737847222222,
+      "passed": true
+    },
+    {
+      "id": "map-011",
+      "kind": "dissolve",
+      "absoluteFrame": 8803,
+      "meanRGBError": 2.8027449845679033,
+      "passed": true
+    },
+    {
+      "id": "map-011",
+      "kind": "dissolve",
+      "absoluteFrame": 8805,
+      "meanRGBError": 2.6716030092592593,
+      "passed": true
+    },
+    {
+      "id": "image-022",
+      "kind": "interior",
+      "absoluteFrame": 9259,
+      "meanRGBError": 2.171869212962963,
+      "passed": true
+    },
+    {
+      "id": "image-022",
+      "kind": "dissolve",
+      "absoluteFrame": 9091,
+      "meanRGBError": 2.676273148148148,
+      "passed": true
+    },
+    {
+      "id": "image-022",
+      "kind": "dissolve",
+      "absoluteFrame": 9097,
+      "meanRGBError": 2.5433680555555553,
+      "passed": true
+    },
+    {
+      "id": "image-022",
+      "kind": "dissolve",
+      "absoluteFrame": 9102,
+      "meanRGBError": 2.2437302276234545,
+      "passed": true
+    },
+    {
+      "id": "image-022",
+      "kind": "dissolve",
+      "absoluteFrame": 9104,
+      "meanRGBError": 2.1971875,
+      "passed": true
+    },
+    {
+      "id": "image-023",
+      "kind": "interior",
+      "absoluteFrame": 9556,
+      "meanRGBError": 2.227482638888889,
+      "passed": true
+    },
+    {
+      "id": "image-023",
+      "kind": "dissolve",
+      "absoluteFrame": 9427,
+      "meanRGBError": 2.407679398148148,
+      "passed": true
+    },
+    {
+      "id": "image-023",
+      "kind": "dissolve",
+      "absoluteFrame": 9433,
+      "meanRGBError": 2.471935763888889,
+      "passed": true
+    },
+    {
+      "id": "image-023",
+      "kind": "dissolve",
+      "absoluteFrame": 9438,
+      "meanRGBError": 2.2399257330246876,
+      "passed": true
+    },
+    {
+      "id": "image-023",
+      "kind": "dissolve",
+      "absoluteFrame": 9440,
+      "meanRGBError": 2.310648148148148,
+      "passed": true
+    },
+    {
+      "id": "map-012",
+      "kind": "interior",
+      "absoluteFrame": 9925,
+      "meanRGBError": 2.398570601851852,
+      "passed": true
+    },
+    {
+      "id": "map-012",
+      "kind": "dissolve",
+      "absoluteFrame": 9685,
+      "meanRGBError": 2.465787037037037,
+      "passed": true
+    },
+    {
+      "id": "map-012",
+      "kind": "dissolve",
+      "absoluteFrame": 9691,
+      "meanRGBError": 2.328353587962963,
+      "passed": true
+    },
+    {
+      "id": "map-012",
+      "kind": "dissolve",
+      "absoluteFrame": 9696,
+      "meanRGBError": 2.4121884645061744,
+      "passed": true
+    },
+    {
+      "id": "map-012",
+      "kind": "dissolve",
+      "absoluteFrame": 9698,
+      "meanRGBError": 2.667818287037037,
+      "passed": true
+    },
+    {
+      "id": "map-013",
+      "kind": "interior",
+      "absoluteFrame": 10332,
+      "meanRGBError": 2.3103645833333335,
+      "passed": true
+    },
+    {
+      "id": "map-013",
+      "kind": "dissolve",
+      "absoluteFrame": 10166,
+      "meanRGBError": 2.4329745370370373,
+      "passed": true
+    },
+    {
+      "id": "map-013",
+      "kind": "dissolve",
+      "absoluteFrame": 10172,
+      "meanRGBError": 2.5081018518518516,
+      "passed": true
+    },
+    {
+      "id": "map-013",
+      "kind": "dissolve",
+      "absoluteFrame": 10177,
+      "meanRGBError": 2.3087770061728374,
+      "passed": true
+    },
+    {
+      "id": "map-013",
+      "kind": "dissolve",
+      "absoluteFrame": 10179,
+      "meanRGBError": 2.4048784722222223,
+      "passed": true
+    },
+    {
+      "id": "image-024",
+      "kind": "interior",
+      "absoluteFrame": 10593,
+      "meanRGBError": 2.0725694444444445,
+      "passed": true
+    },
+    {
+      "id": "image-024",
+      "kind": "dissolve",
+      "absoluteFrame": 10499,
+      "meanRGBError": 2.355335648148148,
+      "passed": true
+    },
+    {
+      "id": "image-024",
+      "kind": "dissolve",
+      "absoluteFrame": 10505,
+      "meanRGBError": 2.048425925925926,
+      "passed": true
+    },
+    {
+      "id": "image-024",
+      "kind": "dissolve",
+      "absoluteFrame": 10510,
+      "meanRGBError": 2.4760489004629638,
+      "passed": true
+    },
+    {
+      "id": "image-024",
+      "kind": "dissolve",
+      "absoluteFrame": 10512,
+      "meanRGBError": 2.4191087962962965,
+      "passed": true
+    },
+    {
+      "id": "map-014",
+      "kind": "interior",
+      "absoluteFrame": 10808,
+      "meanRGBError": 2.6178703703703703,
+      "passed": true
+    },
+    {
+      "id": "map-014",
+      "kind": "dissolve",
+      "absoluteFrame": 10688,
+      "meanRGBError": 2.4167997685185183,
+      "passed": true
+    },
+    {
+      "id": "map-014",
+      "kind": "dissolve",
+      "absoluteFrame": 10694,
+      "meanRGBError": 2.2504832175925924,
+      "passed": true
+    },
+    {
+      "id": "map-014",
+      "kind": "dissolve",
+      "absoluteFrame": 10699,
+      "meanRGBError": 2.543585069444444,
+      "passed": true
+    },
+    {
+      "id": "map-014",
+      "kind": "dissolve",
+      "absoluteFrame": 10701,
+      "meanRGBError": 2.6033796296296297,
+      "passed": true
+    },
+    {
+      "id": "map-015",
+      "kind": "interior",
+      "absoluteFrame": 11198,
+      "meanRGBError": 2.6621122685185186,
+      "passed": true
+    },
+    {
+      "id": "map-015",
+      "kind": "dissolve",
+      "absoluteFrame": 10928,
+      "meanRGBError": 2.5915104166666665,
+      "passed": true
+    },
+    {
+      "id": "map-015",
+      "kind": "dissolve",
+      "absoluteFrame": 10934,
+      "meanRGBError": 2.465842013888889,
+      "passed": true
+    },
+    {
+      "id": "map-015",
+      "kind": "dissolve",
+      "absoluteFrame": 10939,
+      "meanRGBError": 2.7211858603395065,
+      "passed": true
+    },
+    {
+      "id": "map-015",
+      "kind": "dissolve",
+      "absoluteFrame": 10941,
+      "meanRGBError": 2.6242708333333336,
+      "passed": true
+    },
+    {
+      "id": "image-025",
+      "kind": "interior",
+      "absoluteFrame": 11549,
+      "meanRGBError": 2.352453703703704,
+      "passed": true
+    },
+    {
+      "id": "image-025",
+      "kind": "dissolve",
+      "absoluteFrame": 11467,
+      "meanRGBError": 2.65546875,
+      "passed": true
+    },
+    {
+      "id": "image-025",
+      "kind": "dissolve",
+      "absoluteFrame": 11473,
+      "meanRGBError": 2.617734375,
+      "passed": true
+    },
+    {
+      "id": "image-025",
+      "kind": "dissolve",
+      "absoluteFrame": 11478,
+      "meanRGBError": 2.229361496913577,
+      "passed": true
+    },
+    {
+      "id": "image-025",
+      "kind": "dissolve",
+      "absoluteFrame": 11480,
+      "meanRGBError": 2.328292824074074,
+      "passed": true
+    },
+    {
+      "id": "map-016",
+      "kind": "interior",
+      "absoluteFrame": 12012,
+      "meanRGBError": 2.6571296296296296,
+      "passed": true
+    },
+    {
+      "id": "map-016",
+      "kind": "dissolve",
+      "absoluteFrame": 11632,
+      "meanRGBError": 2.450902777777778,
+      "passed": true
+    },
+    {
+      "id": "map-016",
+      "kind": "dissolve",
+      "absoluteFrame": 11638,
+      "meanRGBError": 2.4081770833333334,
+      "passed": true
+    },
+    {
+      "id": "map-016",
+      "kind": "dissolve",
+      "absoluteFrame": 11643,
+      "meanRGBError": 2.7022897376543233,
+      "passed": true
+    },
+    {
+      "id": "map-016",
+      "kind": "dissolve",
+      "absoluteFrame": 11645,
+      "meanRGBError": 2.629855324074074,
+      "passed": true
+    },
+    {
+      "id": "map-017",
+      "kind": "interior",
+      "absoluteFrame": 12638,
+      "meanRGBError": 2.4094212962962964,
+      "passed": true
+    },
+    {
+      "id": "map-017",
+      "kind": "dissolve",
+      "absoluteFrame": 12392,
+      "meanRGBError": 2.6878356481481482,
+      "passed": true
+    },
+    {
+      "id": "map-017",
+      "kind": "dissolve",
+      "absoluteFrame": 12398,
+      "meanRGBError": 2.537314814814815,
+      "passed": true
+    },
+    {
+      "id": "map-017",
+      "kind": "dissolve",
+      "absoluteFrame": 12403,
+      "meanRGBError": 2.7468065200617295,
+      "passed": true
+    },
+    {
+      "id": "map-017",
+      "kind": "dissolve",
+      "absoluteFrame": 12405,
+      "meanRGBError": 2.6605902777777777,
+      "passed": true
+    },
+    {
+      "id": "image-026",
+      "kind": "interior",
+      "absoluteFrame": 13041,
+      "meanRGBError": 2.3206712962962963,
+      "passed": true
+    },
+    {
+      "id": "image-026",
+      "kind": "dissolve",
+      "absoluteFrame": 12883,
+      "meanRGBError": 2.409056712962963,
+      "passed": true
+    },
+    {
+      "id": "image-026",
+      "kind": "dissolve",
+      "absoluteFrame": 12889,
+      "meanRGBError": 2.6668489583333335,
+      "passed": true
+    },
+    {
+      "id": "image-026",
+      "kind": "dissolve",
+      "absoluteFrame": 12894,
+      "meanRGBError": 2.344288194444443,
+      "passed": true
+    },
+    {
+      "id": "image-026",
+      "kind": "dissolve",
+      "absoluteFrame": 12896,
+      "meanRGBError": 2.2890509259259257,
+      "passed": true
+    },
+    {
+      "id": "image-027",
+      "kind": "interior",
+      "absoluteFrame": 13263,
+      "meanRGBError": 2.4139872685185186,
+      "passed": true
+    },
+    {
+      "id": "image-027",
+      "kind": "dissolve",
+      "absoluteFrame": 13199,
+      "meanRGBError": 2.4386979166666665,
+      "passed": true
+    },
+    {
+      "id": "image-027",
+      "kind": "dissolve",
+      "absoluteFrame": 13205,
+      "meanRGBError": 2.514375,
+      "passed": true
+    },
+    {
+      "id": "image-027",
+      "kind": "dissolve",
+      "absoluteFrame": 13210,
+      "meanRGBError": 2.2582146990740712,
+      "passed": true
+    },
+    {
+      "id": "image-027",
+      "kind": "dissolve",
+      "absoluteFrame": 13212,
+      "meanRGBError": 2.2881365740740742,
+      "passed": true
+    },
+    {
+      "id": "image-028",
+      "kind": "interior",
+      "absoluteFrame": 13398,
+      "meanRGBError": 2.377337962962963,
+      "passed": true
+    },
+    {
+      "id": "image-028",
+      "kind": "dissolve",
+      "absoluteFrame": 13326,
+      "meanRGBError": 2.4190046296296295,
+      "passed": true
+    },
+    {
+      "id": "image-028",
+      "kind": "dissolve",
+      "absoluteFrame": 13332,
+      "meanRGBError": 2.309325810185185,
+      "passed": true
+    },
+    {
+      "id": "image-028",
+      "kind": "dissolve",
+      "absoluteFrame": 13337,
+      "meanRGBError": 2.209323398919753,
+      "passed": true
+    },
+    {
+      "id": "image-028",
+      "kind": "dissolve",
+      "absoluteFrame": 13339,
+      "meanRGBError": 2.2515046296296295,
+      "passed": true
+    },
+    {
+      "id": "map-018",
+      "kind": "interior",
+      "absoluteFrame": 13523,
+      "meanRGBError": 2.5799363425925925,
+      "passed": true
+    },
+    {
+      "id": "map-018",
+      "kind": "dissolve",
+      "absoluteFrame": 13469,
+      "meanRGBError": 2.3788194444444444,
+      "passed": true
+    },
+    {
+      "id": "map-018",
+      "kind": "dissolve",
+      "absoluteFrame": 13475,
+      "meanRGBError": 2.368310185185185,
+      "passed": true
+    },
+    {
+      "id": "map-018",
+      "kind": "dissolve",
+      "absoluteFrame": 13480,
+      "meanRGBError": 2.657937403549385,
+      "passed": true
+    },
+    {
+      "id": "map-018",
+      "kind": "dissolve",
+      "absoluteFrame": 13482,
+      "meanRGBError": 2.525613425925926,
+      "passed": true
+    },
+    {
+      "id": "image-029",
+      "kind": "interior",
+      "absoluteFrame": 13712,
+      "meanRGBError": 2.202042824074074,
+      "passed": true
+    },
+    {
+      "id": "image-029",
+      "kind": "dissolve",
+      "absoluteFrame": 13576,
+      "meanRGBError": 2.5929224537037037,
+      "passed": true
+    },
+    {
+      "id": "image-029",
+      "kind": "dissolve",
+      "absoluteFrame": 13582,
+      "meanRGBError": 2.4467679398148148,
+      "passed": true
+    },
+    {
+      "id": "image-029",
+      "kind": "dissolve",
+      "absoluteFrame": 13587,
+      "meanRGBError": 2.446125096450619,
+      "passed": true
+    },
+    {
+      "id": "image-029",
+      "kind": "dissolve",
+      "absoluteFrame": 13589,
+      "meanRGBError": 2.427037037037037,
+      "passed": true
+    },
+    {
+      "id": "map-019",
+      "kind": "interior",
+      "absoluteFrame": 14235,
+      "meanRGBError": 2.5679398148148147,
+      "passed": true
+    },
+    {
+      "id": "map-019",
+      "kind": "dissolve",
+      "absoluteFrame": 13847,
+      "meanRGBError": 2.50603587962963,
+      "passed": true
+    },
+    {
+      "id": "map-019",
+      "kind": "dissolve",
+      "absoluteFrame": 13853,
+      "meanRGBError": 2.529675925925926,
+      "passed": true
+    },
+    {
+      "id": "map-019",
+      "kind": "dissolve",
+      "absoluteFrame": 13858,
+      "meanRGBError": 2.572382812500001,
+      "passed": true
+    },
+    {
+      "id": "map-019",
+      "kind": "dissolve",
+      "absoluteFrame": 13860,
+      "meanRGBError": 2.604861111111111,
+      "passed": true
+    },
+    {
+      "id": "map-020",
+      "kind": "interior",
+      "absoluteFrame": 14816,
+      "meanRGBError": 2.4614409722222224,
+      "passed": true
+    },
+    {
+      "id": "map-020",
+      "kind": "dissolve",
+      "absoluteFrame": 14624,
+      "meanRGBError": 2.560885416666667,
+      "passed": true
+    },
+    {
+      "id": "map-020",
+      "kind": "dissolve",
+      "absoluteFrame": 14630,
+      "meanRGBError": 2.560807291666667,
+      "passed": true
+    },
+    {
+      "id": "map-020",
+      "kind": "dissolve",
+      "absoluteFrame": 14635,
+      "meanRGBError": 2.490521315586417,
+      "passed": true
+    },
+    {
+      "id": "map-020",
+      "kind": "dissolve",
+      "absoluteFrame": 14637,
+      "meanRGBError": 2.420353009259259,
+      "passed": true
+    },
+    {
+      "id": "image-030",
+      "kind": "interior",
+      "absoluteFrame": 15161,
+      "meanRGBError": 2.296759259259259,
+      "passed": true
+    },
+    {
+      "id": "image-030",
+      "kind": "dissolve",
+      "absoluteFrame": 15007,
+      "meanRGBError": 2.4686689814814815,
+      "passed": true
+    },
+    {
+      "id": "image-030",
+      "kind": "dissolve",
+      "absoluteFrame": 15013,
+      "meanRGBError": 2.385636574074074,
+      "passed": true
+    },
+    {
+      "id": "image-030",
+      "kind": "dissolve",
+      "absoluteFrame": 15018,
+      "meanRGBError": 2.293260030864197,
+      "passed": true
+    },
+    {
+      "id": "image-030",
+      "kind": "dissolve",
+      "absoluteFrame": 15020,
+      "meanRGBError": 2.250908564814815,
+      "passed": true
+    },
+    {
+      "id": "image-031",
+      "kind": "interior",
+      "absoluteFrame": 15432,
+      "meanRGBError": 1.8501157407407407,
+      "passed": true
+    },
+    {
+      "id": "image-031",
+      "kind": "dissolve",
+      "absoluteFrame": 15316,
+      "meanRGBError": 2.430642361111111,
+      "passed": true
+    },
+    {
+      "id": "image-031",
+      "kind": "dissolve",
+      "absoluteFrame": 15322,
+      "meanRGBError": 2.5218287037037035,
+      "passed": true
+    },
+    {
+      "id": "image-031",
+      "kind": "dissolve",
+      "absoluteFrame": 15327,
+      "meanRGBError": 2.5461709104938257,
+      "passed": true
+    },
+    {
+      "id": "image-031",
+      "kind": "dissolve",
+      "absoluteFrame": 15329,
+      "meanRGBError": 2.5052777777777777,
+      "passed": true
+    },
+    {
+      "id": "image-032",
+      "kind": "interior",
+      "absoluteFrame": 15688,
+      "meanRGBError": 2.1509780092592594,
+      "passed": true
+    },
+    {
+      "id": "image-032",
+      "kind": "dissolve",
+      "absoluteFrame": 15549,
+      "meanRGBError": 2.3606018518518517,
+      "passed": true
+    },
+    {
+      "id": "image-032",
+      "kind": "dissolve",
+      "absoluteFrame": 15555,
+      "meanRGBError": 2.255072337962963,
+      "passed": true
+    },
+    {
+      "id": "image-032",
+      "kind": "dissolve",
+      "absoluteFrame": 15560,
+      "meanRGBError": 2.1469126157407388,
+      "passed": true
+    },
+    {
+      "id": "image-032",
+      "kind": "dissolve",
+      "absoluteFrame": 15562,
+      "meanRGBError": 2.2224189814814816,
+      "passed": true
+    },
+    {
+      "id": "image-033",
+      "kind": "interior",
+      "absoluteFrame": 15930,
+      "meanRGBError": 2.3061284722222224,
+      "passed": true
+    },
+    {
+      "id": "image-033",
+      "kind": "dissolve",
+      "absoluteFrame": 15827,
+      "meanRGBError": 2.354074074074074,
+      "passed": true
+    },
+    {
+      "id": "image-033",
+      "kind": "dissolve",
+      "absoluteFrame": 15833,
+      "meanRGBError": 2.383634259259259,
+      "passed": true
+    },
+    {
+      "id": "image-033",
+      "kind": "dissolve",
+      "absoluteFrame": 15838,
+      "meanRGBError": 2.3097868441358007,
+      "passed": true
+    },
+    {
+      "id": "image-033",
+      "kind": "dissolve",
+      "absoluteFrame": 15840,
+      "meanRGBError": 2.323865740740741,
+      "passed": true
+    },
+    {
+      "id": "image-034",
+      "kind": "interior",
+      "absoluteFrame": 16165,
+      "meanRGBError": 2.354548611111111,
+      "passed": true
+    },
+    {
+      "id": "image-034",
+      "kind": "dissolve",
+      "absoluteFrame": 16033,
+      "meanRGBError": 2.440590277777778,
+      "passed": true
+    },
+    {
+      "id": "image-034",
+      "kind": "dissolve",
+      "absoluteFrame": 16039,
+      "meanRGBError": 2.3744126157407406,
+      "passed": true
+    },
+    {
+      "id": "image-034",
+      "kind": "dissolve",
+      "absoluteFrame": 16044,
+      "meanRGBError": 2.220770158179013,
+      "passed": true
+    },
+    {
+      "id": "image-034",
+      "kind": "dissolve",
+      "absoluteFrame": 16046,
+      "meanRGBError": 2.1262037037037036,
+      "passed": true
+    },
+    {
+      "id": "map-021",
+      "kind": "interior",
+      "absoluteFrame": 16616,
+      "meanRGBError": 2.684571759259259,
+      "passed": true
+    },
+    {
+      "id": "map-021",
+      "kind": "dissolve",
+      "absoluteFrame": 16298,
+      "meanRGBError": 2.4148032407407407,
+      "passed": true
+    },
+    {
+      "id": "map-021",
+      "kind": "dissolve",
+      "absoluteFrame": 16304,
+      "meanRGBError": 2.5042766203703706,
+      "passed": true
+    },
+    {
+      "id": "map-021",
+      "kind": "dissolve",
+      "absoluteFrame": 16309,
+      "meanRGBError": 2.75993007330247,
+      "passed": true
+    },
+    {
+      "id": "map-021",
+      "kind": "dissolve",
+      "absoluteFrame": 16311,
+      "meanRGBError": 2.6838483796296297,
+      "passed": true
+    },
+    {
+      "id": "image-035",
+      "kind": "interior",
+      "absoluteFrame": 17071,
+      "meanRGBError": 2.365144675925926,
+      "passed": true
+    },
+    {
+      "id": "image-035",
+      "kind": "dissolve",
+      "absoluteFrame": 16935,
+      "meanRGBError": 2.6660127314814814,
+      "passed": true
+    },
+    {
+      "id": "image-035",
+      "kind": "dissolve",
+      "absoluteFrame": 16941,
+      "meanRGBError": 2.553052662037037,
+      "passed": true
+    },
+    {
+      "id": "image-035",
+      "kind": "dissolve",
+      "absoluteFrame": 16946,
+      "meanRGBError": 2.253442804783947,
+      "passed": true
+    },
+    {
+      "id": "image-035",
+      "kind": "dissolve",
+      "absoluteFrame": 16948,
+      "meanRGBError": 2.2219444444444445,
+      "passed": true
+    },
+    {
+      "id": "image-036",
+      "kind": "interior",
+      "absoluteFrame": 17309,
+      "meanRGBError": 2.256099537037037,
+      "passed": true
+    },
+    {
+      "id": "image-036",
+      "kind": "dissolve",
+      "absoluteFrame": 17207,
+      "meanRGBError": 2.3703356481481483,
+      "passed": true
+    },
+    {
+      "id": "image-036",
+      "kind": "dissolve",
+      "absoluteFrame": 17213,
+      "meanRGBError": 2.2308246527777778,
+      "passed": true
+    },
+    {
+      "id": "image-036",
+      "kind": "dissolve",
+      "absoluteFrame": 17218,
+      "meanRGBError": 2.1232373649691345,
+      "passed": true
+    },
+    {
+      "id": "image-036",
+      "kind": "dissolve",
+      "absoluteFrame": 17220,
+      "meanRGBError": 2.1886805555555555,
+      "passed": true
+    },
+    {
+      "id": "map-022",
+      "kind": "interior",
+      "absoluteFrame": 17732,
+      "meanRGBError": 2.7752372685185187,
+      "passed": true
+    },
+    {
+      "id": "map-022",
+      "kind": "dissolve",
+      "absoluteFrame": 17411,
+      "meanRGBError": 2.383587962962963,
+      "passed": true
+    },
+    {
+      "id": "map-022",
+      "kind": "dissolve",
+      "absoluteFrame": 17417,
+      "meanRGBError": 2.1321383101851854,
+      "passed": true
+    },
+    {
+      "id": "map-022",
+      "kind": "dissolve",
+      "absoluteFrame": 17422,
+      "meanRGBError": 2.8226765046296314,
+      "passed": true
+    },
+    {
+      "id": "map-022",
+      "kind": "dissolve",
+      "absoluteFrame": 17424,
+      "meanRGBError": 2.780619212962963,
+      "passed": true
+    },
+    {
+      "id": "map-023",
+      "kind": "interior",
+      "absoluteFrame": 18395,
+      "meanRGBError": 2.7159085648148147,
+      "passed": true
+    },
+    {
+      "id": "map-023",
+      "kind": "dissolve",
+      "absoluteFrame": 18053,
+      "meanRGBError": 2.774415509259259,
+      "passed": true
+    },
+    {
+      "id": "map-023",
+      "kind": "dissolve",
+      "absoluteFrame": 18059,
+      "meanRGBError": 2.667991898148148,
+      "passed": true
+    },
+    {
+      "id": "map-023",
+      "kind": "dissolve",
+      "absoluteFrame": 18064,
+      "meanRGBError": 2.695219907407408,
+      "passed": true
+    },
+    {
+      "id": "map-023",
+      "kind": "dissolve",
+      "absoluteFrame": 18066,
+      "meanRGBError": 2.643622685185185,
+      "passed": true
+    },
+    {
+      "id": "image-037",
+      "kind": "interior",
+      "absoluteFrame": 18834,
+      "meanRGBError": 2.252511574074074,
+      "passed": true
+    },
+    {
+      "id": "image-037",
+      "kind": "dissolve",
+      "absoluteFrame": 18736,
+      "meanRGBError": 2.710486111111111,
+      "passed": true
+    },
+    {
+      "id": "image-037",
+      "kind": "dissolve",
+      "absoluteFrame": 18742,
+      "meanRGBError": 2.294661458333333,
+      "passed": true
+    },
+    {
+      "id": "image-037",
+      "kind": "dissolve",
+      "absoluteFrame": 18747,
+      "meanRGBError": 2.1630222800925893,
+      "passed": true
+    },
+    {
+      "id": "image-037",
+      "kind": "dissolve",
+      "absoluteFrame": 18749,
+      "meanRGBError": 2.162980324074074,
+      "passed": true
+    },
+    {
+      "id": "map-024",
+      "kind": "interior",
+      "absoluteFrame": 19190,
+      "meanRGBError": 2.41890625,
+      "passed": true
+    },
+    {
+      "id": "map-024",
+      "kind": "dissolve",
+      "absoluteFrame": 18932,
+      "meanRGBError": 2.3627025462962963,
+      "passed": true
+    },
+    {
+      "id": "map-024",
+      "kind": "dissolve",
+      "absoluteFrame": 18938,
+      "meanRGBError": 1.9151041666666666,
+      "passed": true
+    },
+    {
+      "id": "map-024",
+      "kind": "dissolve",
+      "absoluteFrame": 18943,
+      "meanRGBError": 2.524415991512347,
+      "passed": true
+    },
+    {
+      "id": "map-024",
+      "kind": "dissolve",
+      "absoluteFrame": 18945,
+      "meanRGBError": 2.4261574074074073,
+      "passed": true
+    },
+    {
+      "id": "image-038",
+      "kind": "interior",
+      "absoluteFrame": 19575,
+      "meanRGBError": 2.0408680555555554,
+      "passed": true
+    },
+    {
+      "id": "image-038",
+      "kind": "dissolve",
+      "absoluteFrame": 19448,
+      "meanRGBError": 2.4427777777777777,
+      "passed": true
+    },
+    {
+      "id": "image-038",
+      "kind": "dissolve",
+      "absoluteFrame": 19454,
+      "meanRGBError": 2.645914351851852,
+      "passed": true
+    },
+    {
+      "id": "image-038",
+      "kind": "dissolve",
+      "absoluteFrame": 19459,
+      "meanRGBError": 2.1611323302469088,
+      "passed": true
+    },
+    {
+      "id": "image-038",
+      "kind": "dissolve",
+      "absoluteFrame": 19461,
+      "meanRGBError": 2.2322337962962964,
+      "passed": true
+    },
+    {
+      "id": "image-039",
+      "kind": "interior",
+      "absoluteFrame": 19776,
+      "meanRGBError": 2.286574074074074,
+      "passed": true
+    },
+    {
+      "id": "image-039",
+      "kind": "dissolve",
+      "absoluteFrame": 19702,
+      "meanRGBError": 2.384380787037037,
+      "passed": true
+    },
+    {
+      "id": "image-039",
+      "kind": "dissolve",
+      "absoluteFrame": 19708,
+      "meanRGBError": 2.486261574074074,
+      "passed": true
+    },
+    {
+      "id": "image-039",
+      "kind": "dissolve",
+      "absoluteFrame": 19713,
+      "meanRGBError": 2.1407966820987645,
+      "passed": true
+    },
+    {
+      "id": "image-039",
+      "kind": "dissolve",
+      "absoluteFrame": 19715,
+      "meanRGBError": 2.247592592592593,
+      "passed": true
+    },
+    {
+      "id": "image-040",
+      "kind": "interior",
+      "absoluteFrame": 19921,
+      "meanRGBError": 2.368564814814815,
+      "passed": true
+    },
+    {
+      "id": "image-040",
+      "kind": "dissolve",
+      "absoluteFrame": 19849,
+      "meanRGBError": 2.396863425925926,
+      "passed": true
+    },
+    {
+      "id": "image-040",
+      "kind": "dissolve",
+      "absoluteFrame": 19855,
+      "meanRGBError": 2.350954861111111,
+      "passed": true
+    },
+    {
+      "id": "image-040",
+      "kind": "dissolve",
+      "absoluteFrame": 19860,
+      "meanRGBError": 2.2369319058641977,
+      "passed": true
+    },
+    {
+      "id": "image-040",
+      "kind": "dissolve",
+      "absoluteFrame": 19862,
+      "meanRGBError": 2.142181712962963,
+      "passed": true
+    },
+    {
+      "id": "image-041",
+      "kind": "interior",
+      "absoluteFrame": 20030,
+      "meanRGBError": 2.0233275462962963,
+      "passed": true
+    },
+    {
+      "id": "image-041",
+      "kind": "dissolve",
+      "absoluteFrame": 19992,
+      "meanRGBError": 2.411892361111111,
+      "passed": true
+    },
+    {
+      "id": "image-041",
+      "kind": "dissolve",
+      "absoluteFrame": 19998,
+      "meanRGBError": 2.161116898148148,
+      "passed": true
+    },
+    {
+      "id": "image-041",
+      "kind": "dissolve",
+      "absoluteFrame": 20003,
+      "meanRGBError": 2.3582513503086395,
+      "passed": true
+    },
+    {
+      "id": "image-041",
+      "kind": "dissolve",
+      "absoluteFrame": 20005,
+      "meanRGBError": 2.354375,
+      "passed": true
+    },
+    {
+      "id": "image-042",
+      "kind": "interior",
+      "absoluteFrame": 20199,
+      "meanRGBError": 2.1053761574074072,
+      "passed": true
+    },
+    {
+      "id": "image-042",
+      "kind": "dissolve",
+      "absoluteFrame": 20067,
+      "meanRGBError": 2.2974537037037037,
+      "passed": true
+    },
+    {
+      "id": "image-042",
+      "kind": "dissolve",
+      "absoluteFrame": 20073,
+      "meanRGBError": 2.447126736111111,
+      "passed": true
+    },
+    {
+      "id": "image-042",
+      "kind": "dissolve",
+      "absoluteFrame": 20078,
+      "meanRGBError": 2.2254639274691344,
+      "passed": true
+    },
+    {
+      "id": "image-042",
+      "kind": "dissolve",
+      "absoluteFrame": 20080,
+      "meanRGBError": 2.2237673611111113,
+      "passed": true
+    },
+    {
+      "id": "map-025",
+      "kind": "interior",
+      "absoluteFrame": 20561,
+      "meanRGBError": 2.567552083333333,
+      "passed": true
+    },
+    {
+      "id": "map-025",
+      "kind": "dissolve",
+      "absoluteFrame": 20331,
+      "meanRGBError": 2.3786805555555555,
+      "passed": true
+    },
+    {
+      "id": "map-025",
+      "kind": "dissolve",
+      "absoluteFrame": 20337,
+      "meanRGBError": 2.3752980324074073,
+      "passed": true
+    },
+    {
+      "id": "map-025",
+      "kind": "dissolve",
+      "absoluteFrame": 20342,
+      "meanRGBError": 2.7280637538580277,
+      "passed": true
+    },
+    {
+      "id": "map-025",
+      "kind": "dissolve",
+      "absoluteFrame": 20344,
+      "meanRGBError": 2.556840277777778,
+      "passed": true
+    },
+    {
+      "id": "image-043",
+      "kind": "interior",
+      "absoluteFrame": 20894,
+      "meanRGBError": 1.919212962962963,
+      "passed": true
+    },
+    {
+      "id": "image-043",
+      "kind": "dissolve",
+      "absoluteFrame": 20790,
+      "meanRGBError": 2.567175925925926,
+      "passed": true
+    },
+    {
+      "id": "image-043",
+      "kind": "dissolve",
+      "absoluteFrame": 20796,
+      "meanRGBError": 2.8012789351851852,
+      "passed": true
+    },
+    {
+      "id": "image-043",
+      "kind": "dissolve",
+      "absoluteFrame": 20801,
+      "meanRGBError": 2.1804653742283913,
+      "passed": true
+    },
+    {
+      "id": "image-043",
+      "kind": "dissolve",
+      "absoluteFrame": 20803,
+      "meanRGBError": 2.1829050925925926,
+      "passed": true
+    },
+    {
+      "id": "image-044",
+      "kind": "interior",
+      "absoluteFrame": 21146,
+      "meanRGBError": 2.109837962962963,
+      "passed": true
+    },
+    {
+      "id": "image-044",
+      "kind": "dissolve",
+      "absoluteFrame": 20999,
+      "meanRGBError": 2.278003472222222,
+      "passed": true
+    },
+    {
+      "id": "image-044",
+      "kind": "dissolve",
+      "absoluteFrame": 21005,
+      "meanRGBError": 2.189447337962963,
+      "passed": true
+    },
+    {
+      "id": "image-044",
+      "kind": "dissolve",
+      "absoluteFrame": 21010,
+      "meanRGBError": 2.1708048804012328,
+      "passed": true
+    },
+    {
+      "id": "image-044",
+      "kind": "dissolve",
+      "absoluteFrame": 21012,
+      "meanRGBError": 2.172690972222222,
+      "passed": true
+    },
+    {
+      "id": "image-045",
+      "kind": "interior",
+      "absoluteFrame": 21393,
+      "meanRGBError": 2.376701388888889,
+      "passed": true
+    },
+    {
+      "id": "image-045",
+      "kind": "dissolve",
+      "absoluteFrame": 21293,
+      "meanRGBError": 2.3787094907407407,
+      "passed": true
+    },
+    {
+      "id": "image-045",
+      "kind": "dissolve",
+      "absoluteFrame": 21299,
+      "meanRGBError": 2.225269097222222,
+      "passed": true
+    },
+    {
+      "id": "image-045",
+      "kind": "dissolve",
+      "absoluteFrame": 21304,
+      "meanRGBError": 2.2428342013888876,
+      "passed": true
+    },
+    {
+      "id": "image-045",
+      "kind": "dissolve",
+      "absoluteFrame": 21306,
+      "meanRGBError": 2.2684201388888887,
+      "passed": true
+    },
+    {
+      "id": "image-046",
+      "kind": "interior",
+      "absoluteFrame": 21632,
+      "meanRGBError": 2.1705324074074075,
+      "passed": true
+    },
+    {
+      "id": "image-046",
+      "kind": "dissolve",
+      "absoluteFrame": 21493,
+      "meanRGBError": 2.3519791666666667,
+      "passed": true
+    },
+    {
+      "id": "image-046",
+      "kind": "dissolve",
+      "absoluteFrame": 21499,
+      "meanRGBError": 2.4536516203703704,
+      "passed": true
+    },
+    {
+      "id": "image-046",
+      "kind": "dissolve",
+      "absoluteFrame": 21504,
+      "meanRGBError": 2.274556809413579,
+      "passed": true
+    },
+    {
+      "id": "image-046",
+      "kind": "dissolve",
+      "absoluteFrame": 21506,
+      "meanRGBError": 2.2419386574074074,
+      "passed": true
+    },
+    {
+      "id": "image-047",
+      "kind": "interior",
+      "absoluteFrame": 21860,
+      "meanRGBError": 2.1722569444444444,
+      "passed": true
+    },
+    {
+      "id": "image-047",
+      "kind": "dissolve",
+      "absoluteFrame": 21771,
+      "meanRGBError": 2.3797627314814815,
+      "passed": true
+    },
+    {
+      "id": "image-047",
+      "kind": "dissolve",
+      "absoluteFrame": 21777,
+      "meanRGBError": 2.4991898148148146,
+      "passed": true
+    },
+    {
+      "id": "image-047",
+      "kind": "dissolve",
+      "absoluteFrame": 21782,
+      "meanRGBError": 2.1888300540123424,
+      "passed": true
+    },
+    {
+      "id": "image-047",
+      "kind": "dissolve",
+      "absoluteFrame": 21784,
+      "meanRGBError": 2.226377314814815,
+      "passed": true
+    },
+    {
+      "id": "image-115",
+      "kind": "interior",
+      "absoluteFrame": 22058,
+      "meanRGBError": 2.115011574074074,
+      "passed": true
+    },
+    {
+      "id": "image-115",
+      "kind": "dissolve",
+      "absoluteFrame": 21949,
+      "meanRGBError": 2.3447395833333333,
+      "passed": true
+    },
+    {
+      "id": "image-115",
+      "kind": "dissolve",
+      "absoluteFrame": 21955,
+      "meanRGBError": 2.140347222222222,
+      "passed": true
+    },
+    {
+      "id": "image-115",
+      "kind": "dissolve",
+      "absoluteFrame": 21960,
+      "meanRGBError": 2.2077584876543215,
+      "passed": true
+    },
+    {
+      "id": "image-115",
+      "kind": "dissolve",
+      "absoluteFrame": 21962,
+      "meanRGBError": 2.130607638888889,
+      "passed": true
+    },
+    {
+      "id": "map-027",
+      "kind": "interior",
+      "absoluteFrame": 22571,
+      "meanRGBError": 2.412829861111111,
+      "passed": true
+    },
+    {
+      "id": "map-027",
+      "kind": "dissolve",
+      "absoluteFrame": 22167,
+      "meanRGBError": 2.339565972222222,
+      "passed": true
+    },
+    {
+      "id": "map-027",
+      "kind": "dissolve",
+      "absoluteFrame": 22173,
+      "meanRGBError": 2.0833622685185187,
+      "passed": true
+    },
+    {
+      "id": "map-027",
+      "kind": "dissolve",
+      "absoluteFrame": 22178,
+      "meanRGBError": 2.3086950231481507,
+      "passed": true
+    },
+    {
+      "id": "map-027",
+      "kind": "dissolve",
+      "absoluteFrame": 22180,
+      "meanRGBError": 2.4044675925925927,
+      "passed": true
+    },
+    {
+      "id": "image-048",
+      "kind": "interior",
+      "absoluteFrame": 23117,
+      "meanRGBError": 1.985486111111111,
+      "passed": true
+    },
+    {
+      "id": "image-048",
+      "kind": "dissolve",
+      "absoluteFrame": 22975,
+      "meanRGBError": 2.4060358796296297,
+      "passed": true
+    },
+    {
+      "id": "image-048",
+      "kind": "dissolve",
+      "absoluteFrame": 22981,
+      "meanRGBError": 2.40140625,
+      "passed": true
+    },
+    {
+      "id": "image-048",
+      "kind": "dissolve",
+      "absoluteFrame": 22986,
+      "meanRGBError": 2.3987316743827107,
+      "passed": true
+    },
+    {
+      "id": "image-048",
+      "kind": "dissolve",
+      "absoluteFrame": 22988,
+      "meanRGBError": 2.4758912037037035,
+      "passed": true
+    },
+    {
+      "id": "map-028",
+      "kind": "interior",
+      "absoluteFrame": 23609,
+      "meanRGBError": 2.5636284722222222,
+      "passed": true
+    },
+    {
+      "id": "map-028",
+      "kind": "dissolve",
+      "absoluteFrame": 23259,
+      "meanRGBError": 2.3937268518518517,
+      "passed": true
+    },
+    {
+      "id": "map-028",
+      "kind": "dissolve",
+      "absoluteFrame": 23265,
+      "meanRGBError": 2.2858796296296298,
+      "passed": true
+    },
+    {
+      "id": "map-028",
+      "kind": "dissolve",
+      "absoluteFrame": 23270,
+      "meanRGBError": 2.474393325617285,
+      "passed": true
+    },
+    {
+      "id": "map-028",
+      "kind": "dissolve",
+      "absoluteFrame": 23272,
+      "meanRGBError": 2.555202546296296,
+      "passed": true
+    },
+    {
+      "id": "image-049",
+      "kind": "interior",
+      "absoluteFrame": 24006,
+      "meanRGBError": 2.2770486111111112,
+      "passed": true
+    },
+    {
+      "id": "image-049",
+      "kind": "dissolve",
+      "absoluteFrame": 23960,
+      "meanRGBError": 2.5978703703703703,
+      "passed": true
+    },
+    {
+      "id": "image-049",
+      "kind": "dissolve",
+      "absoluteFrame": 23966,
+      "meanRGBError": 2.2168721064814814,
+      "passed": true
+    },
+    {
+      "id": "image-049",
+      "kind": "dissolve",
+      "absoluteFrame": 23971,
+      "meanRGBError": 2.1316570216049358,
+      "passed": true
+    },
+    {
+      "id": "image-049",
+      "kind": "dissolve",
+      "absoluteFrame": 23973,
+      "meanRGBError": 2.2032118055555556,
+      "passed": true
+    },
+    {
+      "id": "image-050",
+      "kind": "interior",
+      "absoluteFrame": 24178,
+      "meanRGBError": 1.9478645833333332,
+      "passed": true
+    },
+    {
+      "id": "image-050",
+      "kind": "dissolve",
+      "absoluteFrame": 24052,
+      "meanRGBError": 2.4121354166666666,
+      "passed": true
+    },
+    {
+      "id": "image-050",
+      "kind": "dissolve",
+      "absoluteFrame": 24058,
+      "meanRGBError": 2.161501736111111,
+      "passed": true
+    },
+    {
+      "id": "image-050",
+      "kind": "dissolve",
+      "absoluteFrame": 24063,
+      "meanRGBError": 2.1614424189814803,
+      "passed": true
+    },
+    {
+      "id": "image-050",
+      "kind": "dissolve",
+      "absoluteFrame": 24065,
+      "meanRGBError": 2.179971064814815,
+      "passed": true
+    },
+    {
+      "id": "image-051",
+      "kind": "interior",
+      "absoluteFrame": 24332,
+      "meanRGBError": 2.0187037037037037,
+      "passed": true
+    },
+    {
+      "id": "image-051",
+      "kind": "dissolve",
+      "absoluteFrame": 24304,
+      "meanRGBError": 2.3286053240740743,
+      "passed": true
+    },
+    {
+      "id": "image-051",
+      "kind": "dissolve",
+      "absoluteFrame": 24310,
+      "meanRGBError": 2.4395572916666666,
+      "passed": true
+    },
+    {
+      "id": "image-051",
+      "kind": "dissolve",
+      "absoluteFrame": 24315,
+      "meanRGBError": 2.1529952739197524,
+      "passed": true
+    },
+    {
+      "id": "image-051",
+      "kind": "dissolve",
+      "absoluteFrame": 24317,
+      "meanRGBError": 2.188130787037037,
+      "passed": true
+    },
+    {
+      "id": "image-052",
+      "kind": "interior",
+      "absoluteFrame": 24498,
+      "meanRGBError": 1.8841435185185185,
+      "passed": true
+    },
+    {
+      "id": "image-052",
+      "kind": "dissolve",
+      "absoluteFrame": 24361,
+      "meanRGBError": 2.311423611111111,
+      "passed": true
+    },
+    {
+      "id": "image-052",
+      "kind": "dissolve",
+      "absoluteFrame": 24367,
+      "meanRGBError": 2.5206336805555556,
+      "passed": true
+    },
+    {
+      "id": "image-052",
+      "kind": "dissolve",
+      "absoluteFrame": 24372,
+      "meanRGBError": 2.1909235146604913,
+      "passed": true
+    },
+    {
+      "id": "image-052",
+      "kind": "dissolve",
+      "absoluteFrame": 24374,
+      "meanRGBError": 2.0895949074074074,
+      "passed": true
+    },
+    {
+      "id": "image-053",
+      "kind": "interior",
+      "absoluteFrame": 24779,
+      "meanRGBError": 1.8073263888888889,
+      "passed": true
+    },
+    {
+      "id": "image-053",
+      "kind": "dissolve",
+      "absoluteFrame": 24635,
+      "meanRGBError": 2.26041087962963,
+      "passed": true
+    },
+    {
+      "id": "image-053",
+      "kind": "dissolve",
+      "absoluteFrame": 24641,
+      "meanRGBError": 2.288677662037037,
+      "passed": true
+    },
+    {
+      "id": "image-053",
+      "kind": "dissolve",
+      "absoluteFrame": 24646,
+      "meanRGBError": 2.098592785493828,
+      "passed": true
+    },
+    {
+      "id": "image-053",
+      "kind": "dissolve",
+      "absoluteFrame": 24648,
+      "meanRGBError": 2.035150462962963,
+      "passed": true
+    },
+    {
+      "id": "image-054",
+      "kind": "interior",
+      "absoluteFrame": 25029,
+      "meanRGBError": 1.9068344907407409,
+      "passed": true
+    },
+    {
+      "id": "image-054",
+      "kind": "dissolve",
+      "absoluteFrame": 24923,
+      "meanRGBError": 2.252667824074074,
+      "passed": true
+    },
+    {
+      "id": "image-054",
+      "kind": "dissolve",
+      "absoluteFrame": 24929,
+      "meanRGBError": 2.181394675925926,
+      "passed": true
+    },
+    {
+      "id": "image-054",
+      "kind": "dissolve",
+      "absoluteFrame": 24934,
+      "meanRGBError": 2.413242187499997,
+      "passed": true
+    },
+    {
+      "id": "image-054",
+      "kind": "dissolve",
+      "absoluteFrame": 24936,
+      "meanRGBError": 2.4136458333333333,
+      "passed": true
+    },
+    {
+      "id": "image-055",
+      "kind": "interior",
+      "absoluteFrame": 25203,
+      "meanRGBError": 2.0447511574074073,
+      "passed": true
+    },
+    {
+      "id": "image-055",
+      "kind": "dissolve",
+      "absoluteFrame": 25135,
+      "meanRGBError": 2.342667824074074,
+      "passed": true
+    },
+    {
+      "id": "image-055",
+      "kind": "dissolve",
+      "absoluteFrame": 25141,
+      "meanRGBError": 2.4244097222222223,
+      "passed": true
+    },
+    {
+      "id": "image-055",
+      "kind": "dissolve",
+      "absoluteFrame": 25146,
+      "meanRGBError": 2.4140952932098765,
+      "passed": true
+    },
+    {
+      "id": "image-055",
+      "kind": "dissolve",
+      "absoluteFrame": 25148,
+      "meanRGBError": 2.3527025462962965,
+      "passed": true
+    },
+    {
+      "id": "map-029",
+      "kind": "interior",
+      "absoluteFrame": 25809,
+      "meanRGBError": 2.5593981481481483,
+      "passed": true
+    },
+    {
+      "id": "map-029",
+      "kind": "dissolve",
+      "absoluteFrame": 25270,
+      "meanRGBError": 2.3874421296296298,
+      "passed": true
+    },
+    {
+      "id": "map-029",
+      "kind": "dissolve",
+      "absoluteFrame": 25276,
+      "meanRGBError": 2.195665509259259,
+      "passed": true
+    },
+    {
+      "id": "map-029",
+      "kind": "dissolve",
+      "absoluteFrame": 25281,
+      "meanRGBError": 2.8031809413580264,
+      "passed": true
+    },
+    {
+      "id": "map-029",
+      "kind": "dissolve",
+      "absoluteFrame": 25283,
+      "meanRGBError": 2.6086168981481483,
+      "passed": true
+    },
+    {
+      "id": "image-056",
+      "kind": "interior",
+      "absoluteFrame": 26456,
+      "meanRGBError": 2.3719560185185187,
+      "passed": true
+    },
+    {
+      "id": "image-056",
+      "kind": "dissolve",
+      "absoluteFrame": 26348,
+      "meanRGBError": 2.5552372685185185,
+      "passed": true
+    },
+    {
+      "id": "image-056",
+      "kind": "dissolve",
+      "absoluteFrame": 26354,
+      "meanRGBError": 2.534085648148148,
+      "passed": true
+    },
+    {
+      "id": "image-056",
+      "kind": "dissolve",
+      "absoluteFrame": 26359,
+      "meanRGBError": 2.4677927276234555,
+      "passed": true
+    },
+    {
+      "id": "image-056",
+      "kind": "dissolve",
+      "absoluteFrame": 26361,
+      "meanRGBError": 2.5044560185185185,
+      "passed": true
+    },
+    {
+      "id": "image-057",
+      "kind": "interior",
+      "absoluteFrame": 26675,
+      "meanRGBError": 2.3646238425925925,
+      "passed": true
+    },
+    {
+      "id": "image-057",
+      "kind": "dissolve",
+      "absoluteFrame": 26564,
+      "meanRGBError": 2.5121759259259258,
+      "passed": true
+    },
+    {
+      "id": "image-057",
+      "kind": "dissolve",
+      "absoluteFrame": 26570,
+      "meanRGBError": 2.4725578703703706,
+      "passed": true
+    },
+    {
+      "id": "image-057",
+      "kind": "dissolve",
+      "absoluteFrame": 26575,
+      "meanRGBError": 2.407921489197527,
+      "passed": true
+    },
+    {
+      "id": "image-057",
+      "kind": "dissolve",
+      "absoluteFrame": 26577,
+      "meanRGBError": 2.426724537037037,
+      "passed": true
+    },
+    {
+      "id": "image-058",
+      "kind": "interior",
+      "absoluteFrame": 26911,
+      "meanRGBError": 2.113449074074074,
+      "passed": true
+    },
+    {
+      "id": "image-058",
+      "kind": "dissolve",
+      "absoluteFrame": 26786,
+      "meanRGBError": 2.430787037037037,
+      "passed": true
+    },
+    {
+      "id": "image-058",
+      "kind": "dissolve",
+      "absoluteFrame": 26792,
+      "meanRGBError": 2.313006365740741,
+      "passed": true
+    },
+    {
+      "id": "image-058",
+      "kind": "dissolve",
+      "absoluteFrame": 26797,
+      "meanRGBError": 2.1983738425925927,
+      "passed": true
+    },
+    {
+      "id": "image-058",
+      "kind": "dissolve",
+      "absoluteFrame": 26799,
+      "meanRGBError": 2.1424363425925925,
+      "passed": true
+    },
+    {
+      "id": "image-059",
+      "kind": "interior",
+      "absoluteFrame": 27149,
+      "meanRGBError": 2.1830266203703705,
+      "passed": true
+    },
+    {
+      "id": "image-059",
+      "kind": "dissolve",
+      "absoluteFrame": 27036,
+      "meanRGBError": 2.3322048611111112,
+      "passed": true
+    },
+    {
+      "id": "image-059",
+      "kind": "dissolve",
+      "absoluteFrame": 27042,
+      "meanRGBError": 2.0942881944444443,
+      "passed": true
+    },
+    {
+      "id": "image-059",
+      "kind": "dissolve",
+      "absoluteFrame": 27047,
+      "meanRGBError": 2.456555266203703,
+      "passed": true
+    },
+    {
+      "id": "image-059",
+      "kind": "dissolve",
+      "absoluteFrame": 27049,
+      "meanRGBError": 2.4136979166666666,
+      "passed": true
+    },
+    {
+      "id": "image-060",
+      "kind": "interior",
+      "absoluteFrame": 27369,
+      "meanRGBError": 2.178165509259259,
+      "passed": true
+    },
+    {
+      "id": "image-060",
+      "kind": "dissolve",
+      "absoluteFrame": 27262,
+      "meanRGBError": 2.3917361111111113,
+      "passed": true
+    },
+    {
+      "id": "image-060",
+      "kind": "dissolve",
+      "absoluteFrame": 27268,
+      "meanRGBError": 2.5817042824074075,
+      "passed": true
+    },
+    {
+      "id": "image-060",
+      "kind": "dissolve",
+      "absoluteFrame": 27273,
+      "meanRGBError": 2.233975694444441,
+      "passed": true
+    },
+    {
+      "id": "image-060",
+      "kind": "dissolve",
+      "absoluteFrame": 27275,
+      "meanRGBError": 2.2426215277777777,
+      "passed": true
+    },
+    {
+      "id": "image-061",
+      "kind": "interior",
+      "absoluteFrame": 27558,
+      "meanRGBError": 2.2434143518518517,
+      "passed": true
+    },
+    {
+      "id": "image-061",
+      "kind": "dissolve",
+      "absoluteFrame": 27476,
+      "meanRGBError": 2.441128472222222,
+      "passed": true
+    },
+    {
+      "id": "image-061",
+      "kind": "dissolve",
+      "absoluteFrame": 27482,
+      "meanRGBError": 2.3106510416666666,
+      "passed": true
+    },
+    {
+      "id": "image-061",
+      "kind": "dissolve",
+      "absoluteFrame": 27487,
+      "meanRGBError": 2.4934428047839514,
+      "passed": true
+    },
+    {
+      "id": "image-061",
+      "kind": "dissolve",
+      "absoluteFrame": 27489,
+      "meanRGBError": 2.220138888888889,
+      "passed": true
+    },
+    {
+      "id": "image-062",
+      "kind": "interior",
+      "absoluteFrame": 27732,
+      "meanRGBError": 2.115358796296296,
+      "passed": true
+    },
+    {
+      "id": "image-062",
+      "kind": "dissolve",
+      "absoluteFrame": 27640,
+      "meanRGBError": 2.380335648148148,
+      "passed": true
+    },
+    {
+      "id": "image-062",
+      "kind": "dissolve",
+      "absoluteFrame": 27646,
+      "meanRGBError": 2.3487673611111113,
+      "passed": true
+    },
+    {
+      "id": "image-062",
+      "kind": "dissolve",
+      "absoluteFrame": 27651,
+      "meanRGBError": 2.249017168209871,
+      "passed": true
+    },
+    {
+      "id": "image-062",
+      "kind": "dissolve",
+      "absoluteFrame": 27653,
+      "meanRGBError": 2.3116319444444446,
+      "passed": true
+    },
+    {
+      "id": "image-063",
+      "kind": "interior",
+      "absoluteFrame": 27945,
+      "meanRGBError": 2.238929398148148,
+      "passed": true
+    },
+    {
+      "id": "image-063",
+      "kind": "dissolve",
+      "absoluteFrame": 27823,
+      "meanRGBError": 2.4044791666666665,
+      "passed": true
+    },
+    {
+      "id": "image-063",
+      "kind": "dissolve",
+      "absoluteFrame": 27829,
+      "meanRGBError": 2.2890133101851853,
+      "passed": true
+    },
+    {
+      "id": "image-063",
+      "kind": "dissolve",
+      "absoluteFrame": 27834,
+      "meanRGBError": 2.52542438271605,
+      "passed": true
+    },
+    {
+      "id": "image-063",
+      "kind": "dissolve",
+      "absoluteFrame": 27836,
+      "meanRGBError": 2.385642361111111,
+      "passed": true
+    },
+    {
+      "id": "image-064",
+      "kind": "interior",
+      "absoluteFrame": 28185,
+      "meanRGBError": 2.449027777777778,
+      "passed": true
+    },
+    {
+      "id": "image-064",
+      "kind": "dissolve",
+      "absoluteFrame": 28067,
+      "meanRGBError": 2.3805497685185184,
+      "passed": true
+    },
+    {
+      "id": "image-064",
+      "kind": "dissolve",
+      "absoluteFrame": 28073,
+      "meanRGBError": 2.514947916666667,
+      "passed": true
+    },
+    {
+      "id": "image-064",
+      "kind": "dissolve",
+      "absoluteFrame": 28078,
+      "meanRGBError": 2.2321793016975287,
+      "passed": true
+    },
+    {
+      "id": "image-064",
+      "kind": "dissolve",
+      "absoluteFrame": 28080,
+      "meanRGBError": 2.2647627314814813,
+      "passed": true
+    },
+    {
+      "id": "image-065",
+      "kind": "interior",
+      "absoluteFrame": 28393,
+      "meanRGBError": 2.465457175925926,
+      "passed": true
+    },
+    {
+      "id": "image-065",
+      "kind": "dissolve",
+      "absoluteFrame": 28304,
+      "meanRGBError": 2.405925925925926,
+      "passed": true
+    },
+    {
+      "id": "image-065",
+      "kind": "dissolve",
+      "absoluteFrame": 28310,
+      "meanRGBError": 2.2165856481481483,
+      "passed": true
+    },
+    {
+      "id": "image-065",
+      "kind": "dissolve",
+      "absoluteFrame": 28315,
+      "meanRGBError": 2.6529354745370406,
+      "passed": true
+    },
+    {
+      "id": "image-065",
+      "kind": "dissolve",
+      "absoluteFrame": 28317,
+      "meanRGBError": 2.590162037037037,
+      "passed": true
+    },
+    {
+      "id": "map-030",
+      "kind": "interior",
+      "absoluteFrame": 28880,
+      "meanRGBError": 2.5842592592592593,
+      "passed": true
+    },
+    {
+      "id": "map-030",
+      "kind": "dissolve",
+      "absoluteFrame": 28482,
+      "meanRGBError": 2.542789351851852,
+      "passed": true
+    },
+    {
+      "id": "map-030",
+      "kind": "dissolve",
+      "absoluteFrame": 28488,
+      "meanRGBError": 2.528706597222222,
+      "passed": true
+    },
+    {
+      "id": "map-030",
+      "kind": "dissolve",
+      "absoluteFrame": 28493,
+      "meanRGBError": 2.628435088734566,
+      "passed": true
+    },
+    {
+      "id": "map-030",
+      "kind": "dissolve",
+      "absoluteFrame": 28495,
+      "meanRGBError": 2.5803935185185187,
+      "passed": true
+    },
+    {
+      "id": "image-066",
+      "kind": "interior",
+      "absoluteFrame": 29375,
+      "meanRGBError": 2.3455497685185187,
+      "passed": true
+    },
+    {
+      "id": "image-066",
+      "kind": "dissolve",
+      "absoluteFrame": 29279,
+      "meanRGBError": 2.5921701388888887,
+      "passed": true
+    },
+    {
+      "id": "image-066",
+      "kind": "dissolve",
+      "absoluteFrame": 29285,
+      "meanRGBError": 2.3153211805555554,
+      "passed": true
+    },
+    {
+      "id": "image-066",
+      "kind": "dissolve",
+      "absoluteFrame": 29290,
+      "meanRGBError": 2.451580343364198,
+      "passed": true
+    },
+    {
+      "id": "image-066",
+      "kind": "dissolve",
+      "absoluteFrame": 29292,
+      "meanRGBError": 2.3267592592592594,
+      "passed": true
+    },
+    {
+      "id": "map-031",
+      "kind": "interior",
+      "absoluteFrame": 29598,
+      "meanRGBError": 2.5999421296296297,
+      "passed": true
+    },
+    {
+      "id": "map-031",
+      "kind": "dissolve",
+      "absoluteFrame": 29470,
+      "meanRGBError": 2.3763657407407406,
+      "passed": true
+    },
+    {
+      "id": "map-031",
+      "kind": "dissolve",
+      "absoluteFrame": 29476,
+      "meanRGBError": 2.67484375,
+      "passed": true
+    },
+    {
+      "id": "map-031",
+      "kind": "dissolve",
+      "absoluteFrame": 29481,
+      "meanRGBError": 2.517262731481481,
+      "passed": true
+    },
+    {
+      "id": "map-031",
+      "kind": "dissolve",
+      "absoluteFrame": 29483,
+      "meanRGBError": 2.5947916666666666,
+      "passed": true
+    },
+    {
+      "id": "image-067",
+      "kind": "interior",
+      "absoluteFrame": 29779,
+      "meanRGBError": 2.249878472222222,
+      "passed": true
+    },
+    {
+      "id": "image-067",
+      "kind": "dissolve",
+      "absoluteFrame": 29725,
+      "meanRGBError": 2.6037905092592593,
+      "passed": true
+    },
+    {
+      "id": "image-067",
+      "kind": "dissolve",
+      "absoluteFrame": 29731,
+      "meanRGBError": 2.4920341435185187,
+      "passed": true
+    },
+    {
+      "id": "image-067",
+      "kind": "dissolve",
+      "absoluteFrame": 29736,
+      "meanRGBError": 2.3162027391975286,
+      "passed": true
+    },
+    {
+      "id": "image-067",
+      "kind": "dissolve",
+      "absoluteFrame": 29738,
+      "meanRGBError": 2.2263252314814816,
+      "passed": true
+    },
+    {
+      "id": "image-068",
+      "kind": "interior",
+      "absoluteFrame": 29892,
+      "meanRGBError": 2.1303877314814814,
+      "passed": true
+    },
+    {
+      "id": "image-068",
+      "kind": "dissolve",
+      "absoluteFrame": 29832,
+      "meanRGBError": 2.3230208333333335,
+      "passed": true
+    },
+    {
+      "id": "image-068",
+      "kind": "dissolve",
+      "absoluteFrame": 29838,
+      "meanRGBError": 2.183773148148148,
+      "passed": true
+    },
+    {
+      "id": "image-068",
+      "kind": "dissolve",
+      "absoluteFrame": 29843,
+      "meanRGBError": 2.404550540123457,
+      "passed": true
+    },
+    {
+      "id": "image-068",
+      "kind": "dissolve",
+      "absoluteFrame": 29845,
+      "meanRGBError": 2.3072222222222223,
+      "passed": true
+    },
+    {
+      "id": "image-069",
+      "kind": "interior",
+      "absoluteFrame": 30090,
+      "meanRGBError": 2.307806712962963,
+      "passed": true
+    },
+    {
+      "id": "image-069",
+      "kind": "dissolve",
+      "absoluteFrame": 29952,
+      "meanRGBError": 2.300329861111111,
+      "passed": true
+    },
+    {
+      "id": "image-069",
+      "kind": "dissolve",
+      "absoluteFrame": 29958,
+      "meanRGBError": 2.3147019675925926,
+      "passed": true
+    },
+    {
+      "id": "image-069",
+      "kind": "dissolve",
+      "absoluteFrame": 29963,
+      "meanRGBError": 2.5052840470679008,
+      "passed": true
+    },
+    {
+      "id": "image-069",
+      "kind": "dissolve",
+      "absoluteFrame": 29965,
+      "meanRGBError": 2.4852546296296296,
+      "passed": true
+    },
+    {
+      "id": "image-070",
+      "kind": "interior",
+      "absoluteFrame": 30330,
+      "meanRGBError": 2.141724537037037,
+      "passed": true
+    },
+    {
+      "id": "image-070",
+      "kind": "dissolve",
+      "absoluteFrame": 30229,
+      "meanRGBError": 2.461105324074074,
+      "passed": true
+    },
+    {
+      "id": "image-070",
+      "kind": "dissolve",
+      "absoluteFrame": 30235,
+      "meanRGBError": 2.380205439814815,
+      "passed": true
+    },
+    {
+      "id": "image-070",
+      "kind": "dissolve",
+      "absoluteFrame": 30240,
+      "meanRGBError": 2.3765972222222187,
+      "passed": true
+    },
+    {
+      "id": "image-070",
+      "kind": "dissolve",
+      "absoluteFrame": 30242,
+      "meanRGBError": 2.3806481481481483,
+      "passed": true
+    },
+    {
+      "id": "map-032",
+      "kind": "interior",
+      "absoluteFrame": 30547,
+      "meanRGBError": 2.5775752314814815,
+      "passed": true
+    },
+    {
+      "id": "map-032",
+      "kind": "dissolve",
+      "absoluteFrame": 30431,
+      "meanRGBError": 2.3791956018518516,
+      "passed": true
+    },
+    {
+      "id": "map-032",
+      "kind": "dissolve",
+      "absoluteFrame": 30437,
+      "meanRGBError": 2.2927575231481483,
+      "passed": true
+    },
+    {
+      "id": "map-032",
+      "kind": "dissolve",
+      "absoluteFrame": 30442,
+      "meanRGBError": 2.670538194444446,
+      "passed": true
+    },
+    {
+      "id": "map-032",
+      "kind": "dissolve",
+      "absoluteFrame": 30444,
+      "meanRGBError": 2.56796875,
+      "passed": true
+    },
+    {
+      "id": "image-071",
+      "kind": "interior",
+      "absoluteFrame": 30775,
+      "meanRGBError": 2.206747685185185,
+      "passed": true
+    },
+    {
+      "id": "image-071",
+      "kind": "dissolve",
+      "absoluteFrame": 30664,
+      "meanRGBError": 2.582146990740741,
+      "passed": true
+    },
+    {
+      "id": "image-071",
+      "kind": "dissolve",
+      "absoluteFrame": 30670,
+      "meanRGBError": 2.4415653935185184,
+      "passed": true
+    },
+    {
+      "id": "image-071",
+      "kind": "dissolve",
+      "absoluteFrame": 30675,
+      "meanRGBError": 2.342651427469132,
+      "passed": true
+    },
+    {
+      "id": "image-071",
+      "kind": "dissolve",
+      "absoluteFrame": 30677,
+      "meanRGBError": 2.282048611111111,
+      "passed": true
+    },
+    {
+      "id": "image-072",
+      "kind": "interior",
+      "absoluteFrame": 30961,
+      "meanRGBError": 2.0962210648148147,
+      "passed": true
+    },
+    {
+      "id": "image-072",
+      "kind": "dissolve",
+      "absoluteFrame": 30886,
+      "meanRGBError": 2.4149363425925925,
+      "passed": true
+    },
+    {
+      "id": "image-072",
+      "kind": "dissolve",
+      "absoluteFrame": 30892,
+      "meanRGBError": 2.1914554398148147,
+      "passed": true
+    },
+    {
+      "id": "image-072",
+      "kind": "dissolve",
+      "absoluteFrame": 30897,
+      "meanRGBError": 2.144322916666667,
+      "passed": true
+    },
+    {
+      "id": "image-072",
+      "kind": "dissolve",
+      "absoluteFrame": 30899,
+      "meanRGBError": 2.1346701388888887,
+      "passed": true
+    },
+    {
+      "id": "image-073",
+      "kind": "interior",
+      "absoluteFrame": 31184,
+      "meanRGBError": 2.0694618055555556,
+      "passed": true
+    },
+    {
+      "id": "image-073",
+      "kind": "dissolve",
+      "absoluteFrame": 31036,
+      "meanRGBError": 2.3559722222222224,
+      "passed": true
+    },
+    {
+      "id": "image-073",
+      "kind": "dissolve",
+      "absoluteFrame": 31042,
+      "meanRGBError": 2.2469444444444444,
+      "passed": true
+    },
+    {
+      "id": "image-073",
+      "kind": "dissolve",
+      "absoluteFrame": 31047,
+      "meanRGBError": 2.2589819637345676,
+      "passed": true
+    },
+    {
+      "id": "image-073",
+      "kind": "dissolve",
+      "absoluteFrame": 31049,
+      "meanRGBError": 2.1874421296296296,
+      "passed": true
+    },
+    {
+      "id": "map-033",
+      "kind": "interior",
+      "absoluteFrame": 31439,
+      "meanRGBError": 2.6489409722222224,
+      "passed": true
+    },
+    {
+      "id": "map-033",
+      "kind": "dissolve",
+      "absoluteFrame": 31331,
+      "meanRGBError": 2.40640625,
+      "passed": true
+    },
+    {
+      "id": "map-033",
+      "kind": "dissolve",
+      "absoluteFrame": 31337,
+      "meanRGBError": 2.380931712962963,
+      "passed": true
+    },
+    {
+      "id": "map-033",
+      "kind": "dissolve",
+      "absoluteFrame": 31342,
+      "meanRGBError": 2.726931423611113,
+      "passed": true
+    },
+    {
+      "id": "map-033",
+      "kind": "dissolve",
+      "absoluteFrame": 31344,
+      "meanRGBError": 2.639803240740741,
+      "passed": true
+    },
+    {
+      "id": "image-074",
+      "kind": "interior",
+      "absoluteFrame": 31684,
+      "meanRGBError": 1.99,
+      "passed": true
+    },
+    {
+      "id": "image-074",
+      "kind": "dissolve",
+      "absoluteFrame": 31546,
+      "meanRGBError": 2.646244212962963,
+      "passed": true
+    },
+    {
+      "id": "image-074",
+      "kind": "dissolve",
+      "absoluteFrame": 31552,
+      "meanRGBError": 2.427705439814815,
+      "passed": true
+    },
+    {
+      "id": "image-074",
+      "kind": "dissolve",
+      "absoluteFrame": 31557,
+      "meanRGBError": 2.6137196180555535,
+      "passed": true
+    },
+    {
+      "id": "image-074",
+      "kind": "dissolve",
+      "absoluteFrame": 31559,
+      "meanRGBError": 2.523697916666667,
+      "passed": true
+    },
+    {
+      "id": "image-075",
+      "kind": "interior",
+      "absoluteFrame": 31988,
+      "meanRGBError": 2.240462962962963,
+      "passed": true
+    },
+    {
+      "id": "image-075",
+      "kind": "dissolve",
+      "absoluteFrame": 31822,
+      "meanRGBError": 2.4103587962962965,
+      "passed": true
+    },
+    {
+      "id": "image-075",
+      "kind": "dissolve",
+      "absoluteFrame": 31828,
+      "meanRGBError": 2.558778935185185,
+      "passed": true
+    },
+    {
+      "id": "image-075",
+      "kind": "dissolve",
+      "absoluteFrame": 31833,
+      "meanRGBError": 2.1854118441357997,
+      "passed": true
+    },
+    {
+      "id": "image-075",
+      "kind": "dissolve",
+      "absoluteFrame": 31835,
+      "meanRGBError": 2.1240625,
+      "passed": true
+    },
+    {
+      "id": "image-076",
+      "kind": "interior",
+      "absoluteFrame": 32298,
+      "meanRGBError": 2.207378472222222,
+      "passed": true
+    },
+    {
+      "id": "image-076",
+      "kind": "dissolve",
+      "absoluteFrame": 32153,
+      "meanRGBError": 2.3980266203703704,
+      "passed": true
+    },
+    {
+      "id": "image-076",
+      "kind": "dissolve",
+      "absoluteFrame": 32159,
+      "meanRGBError": 2.0633969907407406,
+      "passed": true
+    },
+    {
+      "id": "image-076",
+      "kind": "dissolve",
+      "absoluteFrame": 32164,
+      "meanRGBError": 2.4857132523148153,
+      "passed": true
+    },
+    {
+      "id": "image-076",
+      "kind": "dissolve",
+      "absoluteFrame": 32166,
+      "meanRGBError": 2.4715625,
+      "passed": true
+    },
+    {
+      "id": "image-077",
+      "kind": "interior",
+      "absoluteFrame": 32495,
+      "meanRGBError": 2.1302430555555554,
+      "passed": true
+    },
+    {
+      "id": "image-077",
+      "kind": "dissolve",
+      "absoluteFrame": 32443,
+      "meanRGBError": 2.4685532407407407,
+      "passed": true
+    },
+    {
+      "id": "image-077",
+      "kind": "dissolve",
+      "absoluteFrame": 32449,
+      "meanRGBError": 2.1392216435185185,
+      "passed": true
+    },
+    {
+      "id": "image-077",
+      "kind": "dissolve",
+      "absoluteFrame": 32454,
+      "meanRGBError": 2.5258169367283947,
+      "passed": true
+    },
+    {
+      "id": "image-077",
+      "kind": "dissolve",
+      "absoluteFrame": 32456,
+      "meanRGBError": 2.4877083333333334,
+      "passed": true
+    },
+    {
+      "id": "image-078",
+      "kind": "interior",
+      "absoluteFrame": 32634,
+      "meanRGBError": 2.090827546296296,
+      "passed": true
+    },
+    {
+      "id": "image-078",
+      "kind": "dissolve",
+      "absoluteFrame": 32548,
+      "meanRGBError": 2.4052604166666667,
+      "passed": true
+    },
+    {
+      "id": "image-078",
+      "kind": "dissolve",
+      "absoluteFrame": 32554,
+      "meanRGBError": 2.2713975694444444,
+      "passed": true
+    },
+    {
+      "id": "image-078",
+      "kind": "dissolve",
+      "absoluteFrame": 32559,
+      "meanRGBError": 2.2751658950617286,
+      "passed": true
+    },
+    {
+      "id": "image-078",
+      "kind": "dissolve",
+      "absoluteFrame": 32561,
+      "meanRGBError": 2.227164351851852,
+      "passed": true
+    },
+    {
+      "id": "image-079",
+      "kind": "interior",
+      "absoluteFrame": 32867,
+      "meanRGBError": 2.2912962962962964,
+      "passed": true
+    },
+    {
+      "id": "image-079",
+      "kind": "dissolve",
+      "absoluteFrame": 32719,
+      "meanRGBError": 2.3501215277777776,
+      "passed": true
+    },
+    {
+      "id": "image-079",
+      "kind": "dissolve",
+      "absoluteFrame": 32725,
+      "meanRGBError": 2.2909403935185186,
+      "passed": true
+    },
+    {
+      "id": "image-079",
+      "kind": "dissolve",
+      "absoluteFrame": 32730,
+      "meanRGBError": 2.187548225308642,
+      "passed": true
+    },
+    {
+      "id": "image-079",
+      "kind": "dissolve",
+      "absoluteFrame": 32732,
+      "meanRGBError": 2.1820601851851853,
+      "passed": true
+    },
+    {
+      "id": "image-116",
+      "kind": "interior",
+      "absoluteFrame": 33146,
+      "meanRGBError": 1.9907986111111111,
+      "passed": true
+    },
+    {
+      "id": "image-116",
+      "kind": "dissolve",
+      "absoluteFrame": 33014,
+      "meanRGBError": 2.339565972222222,
+      "passed": true
+    },
+    {
+      "id": "image-116",
+      "kind": "dissolve",
+      "absoluteFrame": 33020,
+      "meanRGBError": 2.179626736111111,
+      "passed": true
+    },
+    {
+      "id": "image-116",
+      "kind": "dissolve",
+      "absoluteFrame": 33025,
+      "meanRGBError": 2.435734471450615,
+      "passed": true
+    },
+    {
+      "id": "image-116",
+      "kind": "dissolve",
+      "absoluteFrame": 33027,
+      "meanRGBError": 2.388171296296296,
+      "passed": true
+    },
+    {
+      "id": "image-080",
+      "kind": "interior",
+      "absoluteFrame": 33397,
+      "meanRGBError": 2.145792824074074,
+      "passed": true
+    },
+    {
+      "id": "image-080",
+      "kind": "dissolve",
+      "absoluteFrame": 33278,
+      "meanRGBError": 2.3972395833333335,
+      "passed": true
+    },
+    {
+      "id": "image-080",
+      "kind": "dissolve",
+      "absoluteFrame": 33284,
+      "meanRGBError": 2.06752025462963,
+      "passed": true
+    },
+    {
+      "id": "image-080",
+      "kind": "dissolve",
+      "absoluteFrame": 33289,
+      "meanRGBError": 2.5018084490740735,
+      "passed": true
+    },
+    {
+      "id": "image-080",
+      "kind": "dissolve",
+      "absoluteFrame": 33291,
+      "meanRGBError": 2.453119212962963,
+      "passed": true
+    },
+    {
+      "id": "image-081",
+      "kind": "interior",
+      "absoluteFrame": 33662,
+      "meanRGBError": 2.1118055555555557,
+      "passed": true
+    },
+    {
+      "id": "image-081",
+      "kind": "dissolve",
+      "absoluteFrame": 33516,
+      "meanRGBError": 2.4078819444444446,
+      "passed": true
+    },
+    {
+      "id": "image-081",
+      "kind": "dissolve",
+      "absoluteFrame": 33522,
+      "meanRGBError": 2.453443287037037,
+      "passed": true
+    },
+    {
+      "id": "image-081",
+      "kind": "dissolve",
+      "absoluteFrame": 33527,
+      "meanRGBError": 2.2094830246913557,
+      "passed": true
+    },
+    {
+      "id": "image-081",
+      "kind": "dissolve",
+      "absoluteFrame": 33529,
+      "meanRGBError": 2.260648148148148,
+      "passed": true
+    },
+    {
+      "id": "map-035",
+      "kind": "interior",
+      "absoluteFrame": 34111,
+      "meanRGBError": 2.608738425925926,
+      "passed": true
+    },
+    {
+      "id": "map-035",
+      "kind": "dissolve",
+      "absoluteFrame": 33807,
+      "meanRGBError": 2.371533564814815,
+      "passed": true
+    },
+    {
+      "id": "map-035",
+      "kind": "dissolve",
+      "absoluteFrame": 33813,
+      "meanRGBError": 2.1332175925925925,
+      "passed": true
+    },
+    {
+      "id": "map-035",
+      "kind": "dissolve",
+      "absoluteFrame": 33818,
+      "meanRGBError": 2.785025077160496,
+      "passed": true
+    },
+    {
+      "id": "map-035",
+      "kind": "dissolve",
+      "absoluteFrame": 33820,
+      "meanRGBError": 2.5982175925925928,
+      "passed": true
+    },
+    {
+      "id": "image-082",
+      "kind": "interior",
+      "absoluteFrame": 34534,
+      "meanRGBError": 2.4073784722222222,
+      "passed": true
+    },
+    {
+      "id": "image-082",
+      "kind": "dissolve",
+      "absoluteFrame": 34414,
+      "meanRGBError": 2.6084722222222223,
+      "passed": true
+    },
+    {
+      "id": "image-082",
+      "kind": "dissolve",
+      "absoluteFrame": 34420,
+      "meanRGBError": 2.502230902777778,
+      "passed": true
+    },
+    {
+      "id": "image-082",
+      "kind": "dissolve",
+      "absoluteFrame": 34425,
+      "meanRGBError": 2.2629880401234526,
+      "passed": true
+    },
+    {
+      "id": "image-082",
+      "kind": "dissolve",
+      "absoluteFrame": 34427,
+      "meanRGBError": 2.2839756944444445,
+      "passed": true
+    },
+    {
+      "id": "image-083",
+      "kind": "interior",
+      "absoluteFrame": 34756,
+      "meanRGBError": 2.2721238425925927,
+      "passed": true
+    },
+    {
+      "id": "image-083",
+      "kind": "dissolve",
+      "absoluteFrame": 34654,
+      "meanRGBError": 2.4240625,
+      "passed": true
+    },
+    {
+      "id": "image-083",
+      "kind": "dissolve",
+      "absoluteFrame": 34660,
+      "meanRGBError": 2.314308449074074,
+      "passed": true
+    },
+    {
+      "id": "image-083",
+      "kind": "dissolve",
+      "absoluteFrame": 34665,
+      "meanRGBError": 2.2147530864197535,
+      "passed": true
+    },
+    {
+      "id": "image-083",
+      "kind": "dissolve",
+      "absoluteFrame": 34667,
+      "meanRGBError": 2.2290972222222223,
+      "passed": true
+    },
+    {
+      "id": "image-084",
+      "kind": "interior",
+      "absoluteFrame": 35005,
+      "meanRGBError": 2.1627430555555556,
+      "passed": true
+    },
+    {
+      "id": "image-084",
+      "kind": "dissolve",
+      "absoluteFrame": 34859,
+      "meanRGBError": 2.3350405092592594,
+      "passed": true
+    },
+    {
+      "id": "image-084",
+      "kind": "dissolve",
+      "absoluteFrame": 34865,
+      "meanRGBError": 2.293321759259259,
+      "passed": true
+    },
+    {
+      "id": "image-084",
+      "kind": "dissolve",
+      "absoluteFrame": 34870,
+      "meanRGBError": 2.185423900462962,
+      "passed": true
+    },
+    {
+      "id": "image-084",
+      "kind": "dissolve",
+      "absoluteFrame": 34872,
+      "meanRGBError": 2.126221064814815,
+      "passed": true
+    },
+    {
+      "id": "image-085",
+      "kind": "interior",
+      "absoluteFrame": 35243,
+      "meanRGBError": 2.156898148148148,
+      "passed": true
+    },
+    {
+      "id": "image-085",
+      "kind": "dissolve",
+      "absoluteFrame": 35152,
+      "meanRGBError": 2.2992766203703705,
+      "passed": true
+    },
+    {
+      "id": "image-085",
+      "kind": "dissolve",
+      "absoluteFrame": 35158,
+      "meanRGBError": 2.1947685185185186,
+      "passed": true
+    },
+    {
+      "id": "image-085",
+      "kind": "dissolve",
+      "absoluteFrame": 35163,
+      "meanRGBError": 2.3748032407407385,
+      "passed": true
+    },
+    {
+      "id": "image-085",
+      "kind": "dissolve",
+      "absoluteFrame": 35165,
+      "meanRGBError": 2.1919328703703704,
+      "passed": true
+    },
+    {
+      "id": "map-036",
+      "kind": "interior",
+      "absoluteFrame": 35638,
+      "meanRGBError": 2.573310185185185,
+      "passed": true
+    },
+    {
+      "id": "map-036",
+      "kind": "dissolve",
+      "absoluteFrame": 35334,
+      "meanRGBError": 2.3648090277777776,
+      "passed": true
+    },
+    {
+      "id": "map-036",
+      "kind": "dissolve",
+      "absoluteFrame": 35340,
+      "meanRGBError": 2.287271412037037,
+      "passed": true
+    },
+    {
+      "id": "map-036",
+      "kind": "dissolve",
+      "absoluteFrame": 35345,
+      "meanRGBError": 2.595422935956792,
+      "passed": true
+    },
+    {
+      "id": "map-036",
+      "kind": "dissolve",
+      "absoluteFrame": 35347,
+      "meanRGBError": 2.5710069444444446,
+      "passed": true
+    },
+    {
+      "id": "image-086",
+      "kind": "interior",
+      "absoluteFrame": 36020,
+      "meanRGBError": 2.3161689814814816,
+      "passed": true
+    },
+    {
+      "id": "image-086",
+      "kind": "dissolve",
+      "absoluteFrame": 35942,
+      "meanRGBError": 2.5675578703703703,
+      "passed": true
+    },
+    {
+      "id": "image-086",
+      "kind": "dissolve",
+      "absoluteFrame": 35948,
+      "meanRGBError": 2.547450810185185,
+      "passed": true
+    },
+    {
+      "id": "image-086",
+      "kind": "dissolve",
+      "absoluteFrame": 35953,
+      "meanRGBError": 2.313964120370367,
+      "passed": true
+    },
+    {
+      "id": "image-086",
+      "kind": "dissolve",
+      "absoluteFrame": 35955,
+      "meanRGBError": 2.2802372685185186,
+      "passed": true
+    },
+    {
+      "id": "map-037",
+      "kind": "interior",
+      "absoluteFrame": 36282,
+      "meanRGBError": 2.6169444444444445,
+      "passed": true
+    },
+    {
+      "id": "map-037",
+      "kind": "dissolve",
+      "absoluteFrame": 36098,
+      "meanRGBError": 2.4119212962962964,
+      "passed": true
+    },
+    {
+      "id": "map-037",
+      "kind": "dissolve",
+      "absoluteFrame": 36104,
+      "meanRGBError": 2.3355034722222223,
+      "passed": true
+    },
+    {
+      "id": "map-037",
+      "kind": "dissolve",
+      "absoluteFrame": 36109,
+      "meanRGBError": 2.7266632908950625,
+      "passed": true
+    },
+    {
+      "id": "map-037",
+      "kind": "dissolve",
+      "absoluteFrame": 36111,
+      "meanRGBError": 2.6057638888888888,
+      "passed": true
+    },
+    {
+      "id": "image-087",
+      "kind": "interior",
+      "absoluteFrame": 36614,
+      "meanRGBError": 2.151221064814815,
+      "passed": true
+    },
+    {
+      "id": "image-087",
+      "kind": "dissolve",
+      "absoluteFrame": 36465,
+      "meanRGBError": 2.627638888888889,
+      "passed": true
+    },
+    {
+      "id": "image-087",
+      "kind": "dissolve",
+      "absoluteFrame": 36471,
+      "meanRGBError": 2.5240625,
+      "passed": true
+    },
+    {
+      "id": "image-087",
+      "kind": "dissolve",
+      "absoluteFrame": 36476,
+      "meanRGBError": 2.2088980516975285,
+      "passed": true
+    },
+    {
+      "id": "image-087",
+      "kind": "dissolve",
+      "absoluteFrame": 36478,
+      "meanRGBError": 2.189490740740741,
+      "passed": true
+    },
+    {
+      "id": "image-088",
+      "kind": "interior",
+      "absoluteFrame": 36863,
+      "meanRGBError": 2.4134432870370373,
+      "passed": true
+    },
+    {
+      "id": "image-088",
+      "kind": "dissolve",
+      "absoluteFrame": 36763,
+      "meanRGBError": 2.360896990740741,
+      "passed": true
+    },
+    {
+      "id": "image-088",
+      "kind": "dissolve",
+      "absoluteFrame": 36769,
+      "meanRGBError": 2.290870949074074,
+      "passed": true
+    },
+    {
+      "id": "image-088",
+      "kind": "dissolve",
+      "absoluteFrame": 36774,
+      "meanRGBError": 2.3020529513888888,
+      "passed": true
+    },
+    {
+      "id": "image-088",
+      "kind": "dissolve",
+      "absoluteFrame": 36776,
+      "meanRGBError": 2.2630844907407406,
+      "passed": true
+    },
+    {
+      "id": "image-089",
+      "kind": "interior",
+      "absoluteFrame": 37082,
+      "meanRGBError": 2.0016435185185184,
+      "passed": true
+    },
+    {
+      "id": "image-089",
+      "kind": "dissolve",
+      "absoluteFrame": 36962,
+      "meanRGBError": 2.438755787037037,
+      "passed": true
+    },
+    {
+      "id": "image-089",
+      "kind": "dissolve",
+      "absoluteFrame": 36968,
+      "meanRGBError": 2.269855324074074,
+      "passed": true
+    },
+    {
+      "id": "image-089",
+      "kind": "dissolve",
+      "absoluteFrame": 36973,
+      "meanRGBError": 2.3775612461419713,
+      "passed": true
+    },
+    {
+      "id": "image-089",
+      "kind": "dissolve",
+      "absoluteFrame": 36975,
+      "meanRGBError": 2.440659722222222,
+      "passed": true
+    },
+    {
+      "id": "image-090",
+      "kind": "interior",
+      "absoluteFrame": 37343,
+      "meanRGBError": 2.4003877314814814,
+      "passed": true
+    },
+    {
+      "id": "image-090",
+      "kind": "dissolve",
+      "absoluteFrame": 37203,
+      "meanRGBError": 2.365179398148148,
+      "passed": true
+    },
+    {
+      "id": "image-090",
+      "kind": "dissolve",
+      "absoluteFrame": 37209,
+      "meanRGBError": 2.1882002314814817,
+      "passed": true
+    },
+    {
+      "id": "image-090",
+      "kind": "dissolve",
+      "absoluteFrame": 37214,
+      "meanRGBError": 2.4543513695987684,
+      "passed": true
+    },
+    {
+      "id": "image-090",
+      "kind": "dissolve",
+      "absoluteFrame": 37216,
+      "meanRGBError": 2.3161921296296297,
+      "passed": true
+    },
+    {
+      "id": "image-091",
+      "kind": "interior",
+      "absoluteFrame": 37652,
+      "meanRGBError": 2.2525925925925927,
+      "passed": true
+    },
+    {
+      "id": "image-091",
+      "kind": "dissolve",
+      "absoluteFrame": 37482,
+      "meanRGBError": 2.4035706018518517,
+      "passed": true
+    },
+    {
+      "id": "image-091",
+      "kind": "dissolve",
+      "absoluteFrame": 37488,
+      "meanRGBError": 2.2840451388888887,
+      "passed": true
+    },
+    {
+      "id": "image-091",
+      "kind": "dissolve",
+      "absoluteFrame": 37493,
+      "meanRGBError": 2.4543238811728387,
+      "passed": true
+    },
+    {
+      "id": "image-091",
+      "kind": "dissolve",
+      "absoluteFrame": 37495,
+      "meanRGBError": 2.4809664351851852,
+      "passed": true
+    },
+    {
+      "id": "image-092",
+      "kind": "interior",
+      "absoluteFrame": 37893,
+      "meanRGBError": 2.2011516203703705,
+      "passed": true
+    },
+    {
+      "id": "image-092",
+      "kind": "dissolve",
+      "absoluteFrame": 37822,
+      "meanRGBError": 2.4308622685185184,
+      "passed": true
+    },
+    {
+      "id": "image-092",
+      "kind": "dissolve",
+      "absoluteFrame": 37828,
+      "meanRGBError": 2.5552488425925928,
+      "passed": true
+    },
+    {
+      "id": "image-092",
+      "kind": "dissolve",
+      "absoluteFrame": 37833,
+      "meanRGBError": 2.230053530092588,
+      "passed": true
+    },
+    {
+      "id": "image-092",
+      "kind": "dissolve",
+      "absoluteFrame": 37835,
+      "meanRGBError": 2.2635243055555554,
+      "passed": true
+    },
+    {
+      "id": "map-038",
+      "kind": "interior",
+      "absoluteFrame": 38245,
+      "meanRGBError": 2.644212962962963,
+      "passed": true
+    },
+    {
+      "id": "map-038",
+      "kind": "dissolve",
+      "absoluteFrame": 37964,
+      "meanRGBError": 2.4075752314814816,
+      "passed": true
+    },
+    {
+      "id": "map-038",
+      "kind": "dissolve",
+      "absoluteFrame": 37970,
+      "meanRGBError": 2.288179976851852,
+      "passed": true
+    },
+    {
+      "id": "map-038",
+      "kind": "dissolve",
+      "absoluteFrame": 37975,
+      "meanRGBError": 2.8011053240740775,
+      "passed": true
+    },
+    {
+      "id": "map-038",
+      "kind": "dissolve",
+      "absoluteFrame": 37977,
+      "meanRGBError": 2.6393518518518517,
+      "passed": true
+    },
+    {
+      "id": "image-093",
+      "kind": "interior",
+      "absoluteFrame": 38648,
+      "meanRGBError": 2.0538773148148146,
+      "passed": true
+    },
+    {
+      "id": "image-093",
+      "kind": "dissolve",
+      "absoluteFrame": 38526,
+      "meanRGBError": 2.639670138888889,
+      "passed": true
+    },
+    {
+      "id": "image-093",
+      "kind": "dissolve",
+      "absoluteFrame": 38532,
+      "meanRGBError": 2.5361226851851852,
+      "passed": true
+    },
+    {
+      "id": "image-093",
+      "kind": "dissolve",
+      "absoluteFrame": 38537,
+      "meanRGBError": 2.222882908950613,
+      "passed": true
+    },
+    {
+      "id": "image-093",
+      "kind": "dissolve",
+      "absoluteFrame": 38539,
+      "meanRGBError": 2.19703125,
+      "passed": true
+    },
+    {
+      "id": "map-039",
+      "kind": "interior",
+      "absoluteFrame": 38879,
+      "meanRGBError": 2.6458449074074073,
+      "passed": true
+    },
+    {
+      "id": "map-039",
+      "kind": "dissolve",
+      "absoluteFrame": 38771,
+      "meanRGBError": 2.3923842592592592,
+      "passed": true
+    },
+    {
+      "id": "map-039",
+      "kind": "dissolve",
+      "absoluteFrame": 38777,
+      "meanRGBError": 2.29921875,
+      "passed": true
+    },
+    {
+      "id": "map-039",
+      "kind": "dissolve",
+      "absoluteFrame": 38782,
+      "meanRGBError": 2.796201292438274,
+      "passed": true
+    },
+    {
+      "id": "map-039",
+      "kind": "dissolve",
+      "absoluteFrame": 38784,
+      "meanRGBError": 2.6351215277777778,
+      "passed": true
+    },
+    {
+      "id": "image-094",
+      "kind": "interior",
+      "absoluteFrame": 39129,
+      "meanRGBError": 2.3980787037037037,
+      "passed": true
+    },
+    {
+      "id": "image-094",
+      "kind": "dissolve",
+      "absoluteFrame": 38987,
+      "meanRGBError": 2.6853877314814816,
+      "passed": true
+    },
+    {
+      "id": "image-094",
+      "kind": "dissolve",
+      "absoluteFrame": 38993,
+      "meanRGBError": 2.6252893518518516,
+      "passed": true
+    },
+    {
+      "id": "image-094",
+      "kind": "dissolve",
+      "absoluteFrame": 38998,
+      "meanRGBError": 2.3535300925925884,
+      "passed": true
+    },
+    {
+      "id": "image-094",
+      "kind": "dissolve",
+      "absoluteFrame": 39000,
+      "meanRGBError": 2.325648148148148,
+      "passed": true
+    },
+    {
+      "id": "image-095",
+      "kind": "interior",
+      "absoluteFrame": 39436,
+      "meanRGBError": 2.1503877314814814,
+      "passed": true
+    },
+    {
+      "id": "image-095",
+      "kind": "dissolve",
+      "absoluteFrame": 39270,
+      "meanRGBError": 2.3929108796296297,
+      "passed": true
+    },
+    {
+      "id": "image-095",
+      "kind": "dissolve",
+      "absoluteFrame": 39276,
+      "meanRGBError": 2.188168402777778,
+      "passed": true
+    },
+    {
+      "id": "image-095",
+      "kind": "dissolve",
+      "absoluteFrame": 39281,
+      "meanRGBError": 2.4350863233024675,
+      "passed": true
+    },
+    {
+      "id": "image-095",
+      "kind": "dissolve",
+      "absoluteFrame": 39283,
+      "meanRGBError": 2.4458101851851852,
+      "passed": true
+    },
+    {
+      "id": "image-096",
+      "kind": "interior",
+      "absoluteFrame": 39811,
+      "meanRGBError": 2.3689872685185187,
+      "passed": true
+    },
+    {
+      "id": "image-096",
+      "kind": "dissolve",
+      "absoluteFrame": 39603,
+      "meanRGBError": 2.378119212962963,
+      "passed": true
+    },
+    {
+      "id": "image-096",
+      "kind": "dissolve",
+      "absoluteFrame": 39609,
+      "meanRGBError": 2.541200810185185,
+      "passed": true
+    },
+    {
+      "id": "image-096",
+      "kind": "dissolve",
+      "absoluteFrame": 39614,
+      "meanRGBError": 2.2218103780864182,
+      "passed": true
+    },
+    {
+      "id": "image-096",
+      "kind": "dissolve",
+      "absoluteFrame": 39616,
+      "meanRGBError": 2.2631944444444443,
+      "passed": true
+    },
+    {
+      "id": "image-097",
+      "kind": "interior",
+      "absoluteFrame": 40044,
+      "meanRGBError": 2.305804398148148,
+      "passed": true
+    },
+    {
+      "id": "image-097",
+      "kind": "dissolve",
+      "absoluteFrame": 40018,
+      "meanRGBError": 2.369386574074074,
+      "passed": true
+    },
+    {
+      "id": "image-097",
+      "kind": "dissolve",
+      "absoluteFrame": 40024,
+      "meanRGBError": 2.3555266203703704,
+      "passed": true
+    },
+    {
+      "id": "image-097",
+      "kind": "dissolve",
+      "absoluteFrame": 40029,
+      "meanRGBError": 2.26299816743827,
+      "passed": true
+    },
+    {
+      "id": "image-097",
+      "kind": "dissolve",
+      "absoluteFrame": 40031,
+      "meanRGBError": 2.2702893518518517,
+      "passed": true
+    },
+    {
+      "id": "image-098",
+      "kind": "interior",
+      "absoluteFrame": 40099,
+      "meanRGBError": 1.8661863425925926,
+      "passed": true
+    },
+    {
+      "id": "image-098",
+      "kind": "dissolve",
+      "absoluteFrame": 40071,
+      "meanRGBError": 2.332037037037037,
+      "passed": true
+    },
+    {
+      "id": "image-098",
+      "kind": "dissolve",
+      "absoluteFrame": 40077,
+      "meanRGBError": 2.3359114583333334,
+      "passed": true
+    },
+    {
+      "id": "image-098",
+      "kind": "dissolve",
+      "absoluteFrame": 40082,
+      "meanRGBError": 2.5350925925925933,
+      "passed": true
+    },
+    {
+      "id": "image-098",
+      "kind": "dissolve",
+      "absoluteFrame": 40084,
+      "meanRGBError": 2.3407291666666667,
+      "passed": true
+    },
+    {
+      "id": "image-099",
+      "kind": "interior",
+      "absoluteFrame": 40271,
+      "meanRGBError": 2.369716435185185,
+      "passed": true
+    },
+    {
+      "id": "image-099",
+      "kind": "dissolve",
+      "absoluteFrame": 40127,
+      "meanRGBError": 2.2998958333333333,
+      "passed": true
+    },
+    {
+      "id": "image-099",
+      "kind": "dissolve",
+      "absoluteFrame": 40133,
+      "meanRGBError": 2.237445023148148,
+      "passed": true
+    },
+    {
+      "id": "image-099",
+      "kind": "dissolve",
+      "absoluteFrame": 40138,
+      "meanRGBError": 2.187371238425923,
+      "passed": true
+    },
+    {
+      "id": "image-099",
+      "kind": "dissolve",
+      "absoluteFrame": 40140,
+      "meanRGBError": 2.266707175925926,
+      "passed": true
+    },
+    {
+      "id": "map-040",
+      "kind": "interior",
+      "absoluteFrame": 40686,
+      "meanRGBError": 2.4443460648148148,
+      "passed": true
+    },
+    {
+      "id": "map-040",
+      "kind": "dissolve",
+      "absoluteFrame": 40414,
+      "meanRGBError": 2.4115219907407406,
+      "passed": true
+    },
+    {
+      "id": "map-040",
+      "kind": "dissolve",
+      "absoluteFrame": 40420,
+      "meanRGBError": 2.3108015046296297,
+      "passed": true
+    },
+    {
+      "id": "map-040",
+      "kind": "dissolve",
+      "absoluteFrame": 40425,
+      "meanRGBError": 2.4937717013888916,
+      "passed": true
+    },
+    {
+      "id": "map-040",
+      "kind": "dissolve",
+      "absoluteFrame": 40427,
+      "meanRGBError": 2.5118287037037037,
+      "passed": true
+    },
+    {
+      "id": "image-100",
+      "kind": "interior",
+      "absoluteFrame": 41131,
+      "meanRGBError": 2.00015625,
+      "passed": true
+    },
+    {
+      "id": "image-100",
+      "kind": "dissolve",
+      "absoluteFrame": 40959,
+      "meanRGBError": 2.4777025462962965,
+      "passed": true
+    },
+    {
+      "id": "image-100",
+      "kind": "dissolve",
+      "absoluteFrame": 40965,
+      "meanRGBError": 2.4055555555555554,
+      "passed": true
+    },
+    {
+      "id": "image-100",
+      "kind": "dissolve",
+      "absoluteFrame": 40970,
+      "meanRGBError": 2.1051485339506137,
+      "passed": true
+    },
+    {
+      "id": "image-100",
+      "kind": "dissolve",
+      "absoluteFrame": 40972,
+      "meanRGBError": 2.1741724537037035,
+      "passed": true
+    },
+    {
+      "id": "image-101",
+      "kind": "interior",
+      "absoluteFrame": 41448,
+      "meanRGBError": 2.094201388888889,
+      "passed": true
+    },
+    {
+      "id": "image-101",
+      "kind": "dissolve",
+      "absoluteFrame": 41302,
+      "meanRGBError": 2.3941666666666666,
+      "passed": true
+    },
+    {
+      "id": "image-101",
+      "kind": "dissolve",
+      "absoluteFrame": 41308,
+      "meanRGBError": 2.341232638888889,
+      "passed": true
+    },
+    {
+      "id": "image-101",
+      "kind": "dissolve",
+      "absoluteFrame": 41313,
+      "meanRGBError": 2.26914882330247,
+      "passed": true
+    },
+    {
+      "id": "image-101",
+      "kind": "dissolve",
+      "absoluteFrame": 41315,
+      "meanRGBError": 2.486921296296296,
+      "passed": true
+    },
+    {
+      "id": "image-102",
+      "kind": "interior",
+      "absoluteFrame": 41724,
+      "meanRGBError": 2.4183680555555553,
+      "passed": true
+    },
+    {
+      "id": "image-102",
+      "kind": "dissolve",
+      "absoluteFrame": 41594,
+      "meanRGBError": 2.4464641203703703,
+      "passed": true
+    },
+    {
+      "id": "image-102",
+      "kind": "dissolve",
+      "absoluteFrame": 41600,
+      "meanRGBError": 2.479406828703704,
+      "passed": true
+    },
+    {
+      "id": "image-102",
+      "kind": "dissolve",
+      "absoluteFrame": 41605,
+      "meanRGBError": 2.186519097222221,
+      "passed": true
+    },
+    {
+      "id": "image-102",
+      "kind": "dissolve",
+      "absoluteFrame": 41607,
+      "meanRGBError": 2.2005150462962964,
+      "passed": true
+    },
+    {
+      "id": "image-103",
+      "kind": "interior",
+      "absoluteFrame": 41957,
+      "meanRGBError": 2.137511574074074,
+      "passed": true
+    },
+    {
+      "id": "image-103",
+      "kind": "dissolve",
+      "absoluteFrame": 41854,
+      "meanRGBError": 2.393130787037037,
+      "passed": true
+    },
+    {
+      "id": "image-103",
+      "kind": "dissolve",
+      "absoluteFrame": 41860,
+      "meanRGBError": 2.3322569444444445,
+      "passed": true
+    },
+    {
+      "id": "image-103",
+      "kind": "dissolve",
+      "absoluteFrame": 41865,
+      "meanRGBError": 2.187654803240738,
+      "passed": true
+    },
+    {
+      "id": "image-103",
+      "kind": "dissolve",
+      "absoluteFrame": 41867,
+      "meanRGBError": 2.2038657407407407,
+      "passed": true
+    },
+    {
+      "id": "image-104",
+      "kind": "interior",
+      "absoluteFrame": 42128,
+      "meanRGBError": 2.4151273148148147,
+      "passed": true
+    },
+    {
+      "id": "image-104",
+      "kind": "dissolve",
+      "absoluteFrame": 42060,
+      "meanRGBError": 2.358084490740741,
+      "passed": true
+    },
+    {
+      "id": "image-104",
+      "kind": "dissolve",
+      "absoluteFrame": 42066,
+      "meanRGBError": 2.1746875,
+      "passed": true
+    },
+    {
+      "id": "image-104",
+      "kind": "dissolve",
+      "absoluteFrame": 42071,
+      "meanRGBError": 2.2893933256172825,
+      "passed": true
+    },
+    {
+      "id": "image-104",
+      "kind": "dissolve",
+      "absoluteFrame": 42073,
+      "meanRGBError": 2.317152777777778,
+      "passed": true
+    },
+    {
+      "id": "image-105",
+      "kind": "interior",
+      "absoluteFrame": 42391,
+      "meanRGBError": 2.3974305555555557,
+      "passed": true
+    },
+    {
+      "id": "image-105",
+      "kind": "dissolve",
+      "absoluteFrame": 42197,
+      "meanRGBError": 2.439322916666667,
+      "passed": true
+    },
+    {
+      "id": "image-105",
+      "kind": "dissolve",
+      "absoluteFrame": 42203,
+      "meanRGBError": 2.148544560185185,
+      "passed": true
+    },
+    {
+      "id": "image-105",
+      "kind": "dissolve",
+      "absoluteFrame": 42208,
+      "meanRGBError": 2.4431920331790113,
+      "passed": true
+    },
+    {
+      "id": "image-105",
+      "kind": "dissolve",
+      "absoluteFrame": 42210,
+      "meanRGBError": 2.4292592592592595,
+      "passed": true
+    },
+    {
+      "id": "image-106",
+      "kind": "interior",
+      "absoluteFrame": 42712,
+      "meanRGBError": 2.225179398148148,
+      "passed": true
+    },
+    {
+      "id": "image-106",
+      "kind": "dissolve",
+      "absoluteFrame": 42585,
+      "meanRGBError": 2.393611111111111,
+      "passed": true
+    },
+    {
+      "id": "image-106",
+      "kind": "dissolve",
+      "absoluteFrame": 42591,
+      "meanRGBError": 2.3841464120370373,
+      "passed": true
+    },
+    {
+      "id": "image-106",
+      "kind": "dissolve",
+      "absoluteFrame": 42596,
+      "meanRGBError": 2.2921383101851838,
+      "passed": true
+    },
+    {
+      "id": "image-106",
+      "kind": "dissolve",
+      "absoluteFrame": 42598,
+      "meanRGBError": 2.291267361111111,
+      "passed": true
+    },
+    {
+      "id": "image-107",
+      "kind": "interior",
+      "absoluteFrame": 42911,
+      "meanRGBError": 1.9552430555555556,
+      "passed": true
+    },
+    {
+      "id": "image-107",
+      "kind": "dissolve",
+      "absoluteFrame": 42839,
+      "meanRGBError": 2.444380787037037,
+      "passed": true
+    },
+    {
+      "id": "image-107",
+      "kind": "dissolve",
+      "absoluteFrame": 42845,
+      "meanRGBError": 2.190720486111111,
+      "passed": true
+    },
+    {
+      "id": "image-107",
+      "kind": "dissolve",
+      "absoluteFrame": 42850,
+      "meanRGBError": 2.4227049575617277,
+      "passed": true
+    },
+    {
+      "id": "image-107",
+      "kind": "dissolve",
+      "absoluteFrame": 42852,
+      "meanRGBError": 2.391840277777778,
+      "passed": true
+    },
+    {
+      "id": "image-108",
+      "kind": "interior",
+      "absoluteFrame": 43043,
+      "meanRGBError": 2.2887962962962964,
+      "passed": true
+    },
+    {
+      "id": "image-108",
+      "kind": "dissolve",
+      "absoluteFrame": 42983,
+      "meanRGBError": 2.3850925925925925,
+      "passed": true
+    },
+    {
+      "id": "image-108",
+      "kind": "dissolve",
+      "absoluteFrame": 42989,
+      "meanRGBError": 2.1263252314814816,
+      "passed": true
+    },
+    {
+      "id": "image-108",
+      "kind": "dissolve",
+      "absoluteFrame": 42994,
+      "meanRGBError": 2.5174368248456807,
+      "passed": true
+    },
+    {
+      "id": "image-108",
+      "kind": "dissolve",
+      "absoluteFrame": 42996,
+      "meanRGBError": 2.1643518518518516,
+      "passed": true
+    },
+    {
+      "id": "image-109",
+      "kind": "interior",
+      "absoluteFrame": 43190,
+      "meanRGBError": 2.2813773148148146,
+      "passed": true
+    },
+    {
+      "id": "image-109",
+      "kind": "dissolve",
+      "absoluteFrame": 43104,
+      "meanRGBError": 2.2925578703703704,
+      "passed": true
+    },
+    {
+      "id": "image-109",
+      "kind": "dissolve",
+      "absoluteFrame": 43110,
+      "meanRGBError": 2.4238686342592595,
+      "passed": true
+    },
+    {
+      "id": "image-109",
+      "kind": "dissolve",
+      "absoluteFrame": 43115,
+      "meanRGBError": 2.2992283950617267,
+      "passed": true
+    },
+    {
+      "id": "image-109",
+      "kind": "dissolve",
+      "absoluteFrame": 43117,
+      "meanRGBError": 2.2457523148148146,
+      "passed": true
+    },
+    {
+      "id": "image-110",
+      "kind": "interior",
+      "absoluteFrame": 43402,
+      "meanRGBError": 2.012789351851852,
+      "passed": true
+    },
+    {
+      "id": "image-110",
+      "kind": "dissolve",
+      "absoluteFrame": 43276,
+      "meanRGBError": 2.387986111111111,
+      "passed": true
+    },
+    {
+      "id": "image-110",
+      "kind": "dissolve",
+      "absoluteFrame": 43282,
+      "meanRGBError": 2.5452633101851854,
+      "passed": true
+    },
+    {
+      "id": "image-110",
+      "kind": "dissolve",
+      "absoluteFrame": 43287,
+      "meanRGBError": 2.2182315779320954,
+      "passed": true
+    },
+    {
+      "id": "image-110",
+      "kind": "dissolve",
+      "absoluteFrame": 43289,
+      "meanRGBError": 2.1840046296296296,
+      "passed": true
+    },
+    {
+      "id": "image-111",
+      "kind": "interior",
+      "absoluteFrame": 43633,
+      "meanRGBError": 2.41953125,
+      "passed": true
+    },
+    {
+      "id": "image-111",
+      "kind": "dissolve",
+      "absoluteFrame": 43529,
+      "meanRGBError": 2.327326388888889,
+      "passed": true
+    },
+    {
+      "id": "image-111",
+      "kind": "dissolve",
+      "absoluteFrame": 43535,
+      "meanRGBError": 2.3414525462962965,
+      "passed": true
+    },
+    {
+      "id": "image-111",
+      "kind": "dissolve",
+      "absoluteFrame": 43540,
+      "meanRGBError": 2.2541309799382696,
+      "passed": true
+    },
+    {
+      "id": "image-111",
+      "kind": "dissolve",
+      "absoluteFrame": 43542,
+      "meanRGBError": 2.281875,
+      "passed": true
+    },
+    {
+      "id": "image-112",
+      "kind": "interior",
+      "absoluteFrame": 43876,
+      "meanRGBError": 1.9679340277777777,
+      "passed": true
+    },
+    {
+      "id": "image-112",
+      "kind": "dissolve",
+      "absoluteFrame": 43738,
+      "meanRGBError": 2.461990740740741,
+      "passed": true
+    },
+    {
+      "id": "image-112",
+      "kind": "dissolve",
+      "absoluteFrame": 43744,
+      "meanRGBError": 2.2888136574074074,
+      "passed": true
+    },
+    {
+      "id": "image-112",
+      "kind": "dissolve",
+      "absoluteFrame": 43749,
+      "meanRGBError": 2.300373746141977,
+      "passed": true
+    },
+    {
+      "id": "image-112",
+      "kind": "dissolve",
+      "absoluteFrame": 43751,
+      "meanRGBError": 2.086591435185185,
+      "passed": true
+    },
+    {
+      "id": "image-113",
+      "kind": "interior",
+      "absoluteFrame": 44088,
+      "meanRGBError": 2.1402430555555556,
+      "passed": true
+    },
+    {
+      "id": "image-113",
+      "kind": "dissolve",
+      "absoluteFrame": 44014,
+      "meanRGBError": 2.1797627314814814,
+      "passed": true
+    },
+    {
+      "id": "image-113",
+      "kind": "dissolve",
+      "absoluteFrame": 44020,
+      "meanRGBError": 2.124375,
+      "passed": true
+    },
+    {
+      "id": "image-113",
+      "kind": "dissolve",
+      "absoluteFrame": 44025,
+      "meanRGBError": 2.4388585069444453,
+      "passed": true
+    },
+    {
+      "id": "image-113",
+      "kind": "dissolve",
+      "absoluteFrame": 44027,
+      "meanRGBError": 2.3789930555555556,
+      "passed": true
+    },
+    {
+      "id": "image-114",
+      "kind": "interior",
+      "absoluteFrame": 44218,
+      "meanRGBError": 2.217997685185185,
+      "passed": true
+    },
+    {
+      "id": "image-114",
+      "kind": "dissolve",
+      "absoluteFrame": 44163,
+      "meanRGBError": 2.35359375,
+      "passed": true
+    },
+    {
+      "id": "image-114",
+      "kind": "dissolve",
+      "absoluteFrame": 44169,
+      "meanRGBError": 2.504435763888889,
+      "passed": true
+    },
+    {
+      "id": "image-114",
+      "kind": "dissolve",
+      "absoluteFrame": 44174,
+      "meanRGBError": 2.196627604166661,
+      "passed": true
+    },
+    {
+      "id": "image-114",
+      "kind": "dissolve",
+      "absoluteFrame": 44176,
+      "meanRGBError": 2.2514641203703705,
+      "passed": true
+    }
+  ],
+  "passed": true
+}

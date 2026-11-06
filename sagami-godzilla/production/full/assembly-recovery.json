@@ -1,0 +1,200 @@
+{
+  "rootCause": "FFmpeg reinitialized the filter graph when concatenation changed decoded pixel format from yuvj420p to yuv420p; setpts=N restarted and CFR dropped603 frames.",
+  "repair": "Disable filter reinitialization for the fixed-size concat input, preserving a continuous frame counter.",
+  "reproduction": {
+    "beforeFrames": 1090,
+    "expectedFrames": 1693,
+    "beforeDroppedFrames": 603,
+    "afterFrames": 1693,
+    "afterDroppedFrames": 0
+  },
+  "fullPreflight": {
+    "frame": "44273",
+    "fps": "274.67",
+    "stream_0_0_q": "-0.0",
+    "bitrate": "N/A",
+    "total_size": "N/A",
+    "out_time_us": "1475766667",
+    "out_time_ms": "1475766667",
+    "out_time": "00:24:35.766667",
+    "dup_frames": "0",
+    "drop_frames": "0",
+    "speed": "9.16x",
+    "progress": "end"
+  },
+  "mixedFormatTransitionValidation": {
+    "path": "/workspace/BookManager-video-delivery/sagami-godzilla/out/full-transition-test.mp4",
+    "bytes": 69621501,
+    "frames": 1693,
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "duration": 56.433333,
+    "codec": "h264",
+    "profile": "High",
+    "pixelFormat": "yuv420p",
+    "timeBase": "1/15360",
+    "audio": [],
+    "fullDecode": "passed",
+    "decodedFrames": 1693,
+    "sha256": "494d7f626c588e80fbf09971ece1d4564f9f1d400e951a147cb102557543582e",
+    "sourceSceneCount": 5,
+    "dissolveFrames": 12
+  },
+  "sourceSceneRendersReused": 154,
+  "transitionComparison": {
+    "method": "RGB320x180 decoded comparison; every scene midpoint and incoming dissolve frames0,6,11,13; CRF and RGB blending tolerance explicit, no claim of realtime interactive viewing",
+    "sourceVideoSHA256": "494d7f626c588e80fbf09971ece1d4564f9f1d400e951a147cb102557543582e",
+    "samples": [
+      {
+        "id": "image-001",
+        "kind": "interior",
+        "absoluteFrame": 124,
+        "meanRGBError": 2.4313078703703703,
+        "passed": true
+      },
+      {
+        "id": "image-002",
+        "kind": "interior",
+        "absoluteFrame": 317,
+        "meanRGBError": 2.456429398148148,
+        "passed": true
+      },
+      {
+        "id": "image-002",
+        "kind": "dissolve",
+        "absoluteFrame": 249,
+        "meanRGBError": 2.4519155092592593,
+        "passed": true
+      },
+      {
+        "id": "image-002",
+        "kind": "dissolve",
+        "absoluteFrame": 255,
+        "meanRGBError": 2.2736747685185184,
+        "passed": true
+      },
+      {
+        "id": "image-002",
+        "kind": "dissolve",
+        "absoluteFrame": 260,
+        "meanRGBError": 2.4986212384259234,
+        "passed": true
+      },
+      {
+        "id": "image-002",
+        "kind": "dissolve",
+        "absoluteFrame": 262,
+        "meanRGBError": 2.3484895833333335,
+        "passed": true
+      },
+      {
+        "id": "image-003",
+        "kind": "interior",
+        "absoluteFrame": 495,
+        "meanRGBError": 1.997216435185185,
+        "passed": true
+      },
+      {
+        "id": "image-003",
+        "kind": "dissolve",
+        "absoluteFrame": 384,
+        "meanRGBError": 2.459253472222222,
+        "passed": true
+      },
+      {
+        "id": "image-003",
+        "kind": "dissolve",
+        "absoluteFrame": 390,
+        "meanRGBError": 2.126982060185185,
+        "passed": true
+      },
+      {
+        "id": "image-003",
+        "kind": "dissolve",
+        "absoluteFrame": 395,
+        "meanRGBError": 2.2845910493827195,
+        "passed": true
+      },
+      {
+        "id": "image-003",
+        "kind": "dissolve",
+        "absoluteFrame": 397,
+        "meanRGBError": 1.977627314814815,
+        "passed": true
+      },
+      {
+        "id": "map-001",
+        "kind": "interior",
+        "absoluteFrame": 1040,
+        "meanRGBError": 2.522673611111111,
+        "passed": true
+      },
+      {
+        "id": "map-001",
+        "kind": "dissolve",
+        "absoluteFrame": 606,
+        "meanRGBError": 2.1472395833333335,
+        "passed": true
+      },
+      {
+        "id": "map-001",
+        "kind": "dissolve",
+        "absoluteFrame": 612,
+        "meanRGBError": 2.1732725694444444,
+        "passed": true
+      },
+      {
+        "id": "map-001",
+        "kind": "dissolve",
+        "absoluteFrame": 617,
+        "meanRGBError": 2.407323977623456,
+        "passed": true
+      },
+      {
+        "id": "map-001",
+        "kind": "dissolve",
+        "absoluteFrame": 619,
+        "meanRGBError": 2.4006944444444445,
+        "passed": true
+      },
+      {
+        "id": "image-004",
+        "kind": "interior",
+        "absoluteFrame": 1584,
+        "meanRGBError": 2.4189641203703705,
+        "passed": true
+      },
+      {
+        "id": "image-004",
+        "kind": "dissolve",
+        "absoluteFrame": 1475,
+        "meanRGBError": 2.4394328703703705,
+        "passed": true
+      },
+      {
+        "id": "image-004",
+        "kind": "dissolve",
+        "absoluteFrame": 1481,
+        "meanRGBError": 2.289953703703704,
+        "passed": true
+      },
+      {
+        "id": "image-004",
+        "kind": "dissolve",
+        "absoluteFrame": 1486,
+        "meanRGBError": 2.290043885030858,
+        "passed": true
+      },
+      {
+        "id": "image-004",
+        "kind": "dissolve",
+        "absoluteFrame": 1488,
+        "meanRGBError": 2.2470659722222224,
+        "passed": true
+      }
+    ],
+    "passed": true
+  },
+  "transitionTimingRepair": "Overlay enable bounds include a quarter-frame margin so rounded repeating-decimal timestamps cannot omit the first dissolve frame."
+}
