@@ -98,17 +98,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "opening-locator",
-        "extent": "to be recorded with actual data",
+        "extent": "Kanto to Sagami coast",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Extend approved opening satellite shot: reveal Izu Peninsula and Izu Oshima after Miura, continuous camera and labels",
+        "dataLayers": "satellite and geographic landmarks",
+        "explanationMechanism": "regional orientation then bay approach",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down moving camera",
+        "layout": "full-bleed locator",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "4e5dc707e32647f99fce6374eb891feffbb4c544d57d207a1d84bc8845406580",
+        "clipSHA256": "f7b6400855ef0875dada38e1e8347e88a7e939571e5250cda20f227c392fd3db",
+        "proof": "out/full/encoded-review/map-001.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -245,17 +252,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "bathy-plunge",
-        "extent": "to be recorded with actual data",
+        "extent": "Odawara coast to deep bay",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Real bathymetric 3D camera descends from Odawara coast toward the deep bay, sea surface fades, topography remains geographically accurate",
+        "dataLayers": "GEBCO mesh and Odawara transect",
+        "explanationMechanism": "approach shore then reveal descending transect",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "oblique actual relief",
+        "layout": "single close terrain model",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "82ae282b17945fb18ba5b5cf6161b94fa6a81b20543ce76c62c67b02c7534f1b",
+        "clipSHA256": "7a0decde99efac3dbb3d847e1c82a7e0dad5c814688e02ab4804dc89dcc4996c",
+        "proof": "out/full/encoded-review/map-002.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -276,17 +290,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "trough-regional",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami to Pacific plate domain",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Regional Pacific and Sagami Trough locator on vector ocean chart, trace actual sourced plate boundary with offshore spatial context",
+        "dataLayers": "satellite and PB2002 regional boundaries",
+        "explanationMechanism": "draw broad plate boundaries",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down regional",
+        "layout": "full regional geographic chart",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "27730247e0df503ffea66b04f6b5d305631580a4778f30daa83a68a6ce4986e7",
+        "clipSHA256": "4587f894ea767722f113da92abd7c33ca6cecfdb20783f22f54011dc505180b1",
+        "proof": "out/full/encoded-review/map-003.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -474,17 +495,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "japan-globe",
-        "extent": "to be recorded with actual data",
+        "extent": "Asia to Japan and Kanto",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "True textured globe from East Asia to Japan, coastline context with Kanto locator; differs from opening local satellite map",
+        "dataLayers": "NASA global texture and Kanto satellite",
+        "explanationMechanism": "rotate globe then introduce local inset",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "spherical globe and local inset",
+        "layout": "globe plus locator inset",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "2d3413c9243906b687e09115bb81881d988ad86267ce21c17ed945364017d8dd",
+        "clipSHA256": "67b3492d65a5060472788d4baebe51569f0b4cdcaff7d311e053af46d8fc0220",
+        "proof": "out/full/encoded-review/map-004.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -506,17 +534,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "coastal-cities",
-        "extent": "to be recorded with actual data",
+        "extent": "northern Sagami coastal cities",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "North shore city chain on locally cropped satellite strip, individually reveal Kamakura Fujisawa Hiratsuka Odawara westward, coordinate anchoring",
+        "dataLayers": "satellite and city locations",
+        "explanationMechanism": "connect four coastal cities in speech order",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down coastal strip",
+        "layout": "wide strip with hanging city leaders",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "76d37c96f98fbab4d9fabc21677b38969c184e63358ad8d65c88ee9d4d3f92dc",
+        "clipSHA256": "4d7a1d170965610b9a8635ef74d62b6d6f27d70879b77c21599f31e60597d48a",
+        "proof": "out/full/encoded-review/map-005.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -537,17 +572,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "coastal-gateways",
-        "extent": "to be recorded with actual data",
+        "extent": "Miura Izu Oshima",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Three geographic cutouts at common scale: Miura, Izu and Oshima, orientation and relative positions preserved in locator inset",
+        "dataLayers": "three distinct satellite extents",
+        "explanationMechanism": "progressive peninsula and island comparison",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down independent crops",
+        "layout": "three geographic panels",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "8f20f383ca7fef9a6195aa290d5b8a6fc8aed07405f84541fceecdb676424872",
+        "clipSHA256": "2252c86b640dfbd4a759b5e61718181749c8513808629abee5440f9cb57e7379",
+        "proof": "out/full/encoded-review/map-006.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -613,17 +655,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "river-catchments",
-        "extent": "to be recorded with actual data",
+        "extent": "Tanzawa to river mouths",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Tanzawa to coast real land DEM with mouth locators of Sagami and Sakawa rivers; river connections explicitly schematic",
+        "dataLayers": "satellite rivers and river mouths",
+        "explanationMechanism": "trace two river systems toward sea",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down land catchment",
+        "layout": "full catchment chart",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "a651050a326d70fa02ce6b1b4bc54a16df21f93f714a65912f3daec827eebea5",
+        "clipSHA256": "deaa87731f78451904ae80b13cae19034175e1c926995b8ad653a5bc98853dd4",
+        "proof": "out/full/encoded-review/map-007.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -690,17 +739,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "shore-profiles",
-        "extent": "to be recorded with actual data",
+        "extent": "Shonan versus Odawara coast",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Sandy plain and mountain coast compared using two actual land-sea DEM transects, shared axes and no invented depth detail",
+        "dataLayers": "two satellite crops and same-scale measured profiles",
+        "explanationMechanism": "compare plain coast with steep western margin",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "paired top-down crops and profiles",
+        "layout": "two independent coast and profile columns",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "f292748823f0f7204683dea30b046c1f35f3be2c4b6a1a30456feb83cfeed733",
+        "clipSHA256": "286754fdac070cdf5fab0fce1569b48bfda09b15444e7364366a93ae81a83d5a",
+        "proof": "out/full/encoded-review/map-008.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -727,17 +783,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "bay-nada-boundary",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami Bay versus Sagami-nada",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Draw Manazuru to Jogashima geographic division, reveal Sagami Bay north and Sagami-nada south, Oshima outside bay on same progressing shot",
+        "dataLayers": "satellite and Manazuru Jogashima divider",
+        "explanationMechanism": "connect the two geographic divider points then locate outer sea",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down bay and mouth",
+        "layout": "full geographic division chart",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "c133746dda2ba364739be4c93fdd494ae096e116ba2baa6812b66718790c31f9",
+        "clipSHA256": "9ced1e26404827f93490d105380fdccf25c7fa1abe9695dfb893c461d6d71905",
+        "proof": "out/full/encoded-review/map-009.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -787,17 +850,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "tanzawa-hakone-terrain",
-        "extent": "to be recorded with actual data",
+        "extent": "Tanzawa Hakone and bay",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Real DEM tilted view from bay toward Tanzawa and Hakone, satellite drape, restrained mountain highlight and clear elevations if sourced",
+        "dataLayers": "GEBCO relief satellite and mountain highlights",
+        "explanationMechanism": "reveal mountain systems and relation to bay",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "oblique land-oriented relief",
+        "layout": "single regional mountain model",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "546ddb0e30e1cd58c33bedb84720defc5ee8d043ce4679e64afc18282355b8ae",
+        "clipSHA256": "eb6f05d85e1dff1eefe582e97a07e6e819f3f025d24c03cbfe095469a2d32ebe",
+        "proof": "out/full/encoded-review/map-010.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -841,17 +911,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "warm-cold-section",
-        "extent": "to be recorded with actual data",
+        "extent": "surface versus deep water",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Ocean section attached to local coastline, qualitative warm offshore inflow and cold deep water, animated arrows with schematic label",
+        "dataLayers": "warm and cold conceptual layers",
+        "explanationMechanism": "opposite layer arrows explain stratification",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "conceptual vertical section",
+        "layout": "wide water column with small locator",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "6c34af5d41d845ac2604424ec8660cedeb8d1c6cba9aa1b33224f7fdd11ccf8a",
+        "clipSHA256": "ade483dc1508012007f8a8aaa3791fe8eec7aae5e9af07146e90b9af50c5c42c",
+        "proof": "out/full/encoded-review/map-011.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -923,17 +1000,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "water-removal",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami bay bed",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Oblique real bathymetric terrain of full bay, lower translucent sea surface to reveal surveyed seafloor; vertical exaggeration declared",
+        "dataLayers": "actual GEBCO terrain and declining conceptual water plane",
+        "explanationMechanism": "lower translucent water to reveal seabed",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "oblique rotating seafloor",
+        "layout": "water removal over terrain",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "2bd7beb0082d8a929d9049bf31bb2b267514d2f7e3e791ee6eaeb5266627b199",
+        "clipSHA256": "e57a3a50507b7bcf87a145fbbbf4590cfb0a786922c0d7954f7c07c859e2a118",
+        "proof": "out/full/encoded-review/map-012.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -956,17 +1040,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "canyon-low-flight",
-        "extent": "to be recorded with actual data",
+        "extent": "local submarine canyon",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Close low-angle flight along actual bathymetric slope and canyon, clay relief texture, distinct crop and camera from whole-bay reveal",
+        "dataLayers": "actual GEBCO canyon relief",
+        "explanationMechanism": "fly along local slopes and valley",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "low close relief flight",
+        "layout": "close terrain filling frame",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "7671fa05eefca73dfb49d9465e510e76643a186dbd90d50ab13c130f6f5508ff",
+        "clipSHA256": "aab990c390f7e4d135efbf5397fe071c13b5dcf279bcff9ac7e26a745aa6a4fd",
+        "proof": "out/full/encoded-review/map-013.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1011,17 +1102,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "three-deep-bays",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami Suruga Toyama",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Sagami Suruga Toyama real geographic bathymetry small multiples, common depth scale and same geographic scale, no reused full-bay view",
+        "dataLayers": "three independent GEBCO geographic datasets",
+        "explanationMechanism": "compare bay geometry on common horizontal scale",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "three equal-scale top-down maps",
+        "layout": "three same-scale bay charts",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "a472a095dcf0fc9398047d66f715f6fbf5940c56aa058648e3bc19181b880d29",
+        "clipSHA256": "bfcb6c0cdccdeef5df19113211b302a9b39dd4d08cebbb392a902af7761b0f7a",
+        "proof": "out/full/encoded-review/map-014.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1044,17 +1142,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "odawara-depth",
-        "extent": "to be recorded with actual data",
+        "extent": "Odawara to offshore deep water",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Actual Odawara coastal transect with depth profile and growing vertical depth ruler, highlight observed minus1000m crossing if grid supports it",
+        "dataLayers": "actual Odawara transect from GEBCO",
+        "explanationMechanism": "draw geographically anchored line and reveal depth profile",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down local and vertical profile",
+        "layout": "local map left profile right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "b1b29dfec9c6a5b113df750df65a4d5d6f184bfe6364adb2043be873d185ef1f",
+        "clipSHA256": "d26ded61f940020dd35c79fa4936c1b9204b0fa92faf0aceb236ddc2338be014",
+        "proof": "out/full/encoded-review/map-015.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1103,17 +1208,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "east-west-shelf",
-        "extent": "to be recorded with actual data",
+        "extent": "west versus east bay shelf",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Two east and west Sagami shelf transects sampled from same bathymetry, synchronized reveal of narrow versus broad shelf, quantitative axes",
+        "dataLayers": "westShelf and eastShelf actual profiles",
+        "explanationMechanism": "draw two distinct transects and compare shelves",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down whole-bay strip and paired sections",
+        "layout": "one shared strip over two aligned profiles",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "8493e25659d5859154cff7d153584c427358f185528ee08955023aa042420a0d",
+        "clipSHA256": "92bbd0055053bedf66ef6c970bb77cfc3c39fefe3bf978e3353c5d8265c2f429",
+        "proof": "out/full/encoded-review/map-016.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1137,17 +1249,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "canyon-network",
-        "extent": "to be recorded with actual data",
+        "extent": "Hiratsuka offshore valleys",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Hillshade close-up of actual bay-floor grid with contour reveal, branching valleys only where real resolution supports them, no invented channels",
+        "dataLayers": "actual marching-squares GEBCO contours",
+        "explanationMechanism": "reveal successive real depth contours",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down vector contours",
+        "layout": "full dark contour chart",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "491bad5af4966e4236a07412b3c7a315304e643a2cdfa233315e0a43ff9b2eb1",
+        "clipSHA256": "022ca0c26a2991a646cb7df7d14985aac80fec5a4e82e6f31f70731f2675d46e",
+        "proof": "out/full/encoded-review/map-017.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1235,17 +1354,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "sonar-reconstruction",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami survey area",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Local bay grid is progressively sampled by a schematic survey swath, real bathymetry resolves into relief; clearly modeled measurement demonstration",
+        "dataLayers": "GEBCO depth raster and schematic measuring sweep",
+        "explanationMechanism": "moving survey wipe explains bathymetric reconstruction",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down depth field",
+        "layout": "survey swath chart",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "6ad6d5fe38b0914210e1032917d2a3803570d377ad616da2c0eb41f19beb2bdd",
+        "clipSHA256": "8280399eedccada8339cfbebcb95841ce894ed1bfc951692868bf481a91c7ebf",
+        "proof": "out/full/encoded-review/map-018.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1295,17 +1421,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "trough-path-section",
-        "extent": "to be recorded with actual data",
+        "extent": "bay to Pacific depression",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Actual offshore trough or boundary line from Sagami toward Pacific with inset transverse depression profile, scale and source qualified",
+        "dataLayers": "PB2002 boundaries and transverse GEBCO trough profile",
+        "explanationMechanism": "trace regional boundaries then reveal transverse depth",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down regional strip and measured section",
+        "layout": "wide regional strip over large profile",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "a50c21b8ea54c35830aa498587bbb96bb2471148f6aba8ab07726303e86eb05f",
+        "clipSHA256": "d069ba3d544d120226831b96517cf6f51ff3251f47672f8f244cdef8471b05d1",
+        "proof": "out/full/encoded-review/map-019.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1328,17 +1461,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "seafloor-hills",
-        "extent": "to be recorded with actual data",
+        "extent": "local seabed rise and adjacent valley",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Independent bathymetric perspective isolating natural hill-and-valley relief; named knolls only if coordinates independently verified",
+        "dataLayers": "actual contours and matching seamount profile",
+        "explanationMechanism": "draw cross-section across rise and valley",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down contours plus section",
+        "layout": "light contour map left profile right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "f252470e693454197ff37adbe72bdc3fd058ce0d9d18f9d65b2c10938b2298d0",
+        "clipSHA256": "6e796bbce740ee4a78d6d413f784b16efaa84f324b5d6f153df4b4ad19dcde07",
+        "proof": "out/full/encoded-review/map-020.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1481,17 +1621,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "sagami-subduction",
-        "extent": "to be recorded with actual data",
+        "extent": "under continental margin",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "3D schematic cross-section from sea toward land, Philippine Sea plate slowly descends beneath land-side plate; source and schematic note",
+        "dataLayers": "Philippine Sea slab and continental plate",
+        "explanationMechanism": "show descending plate direction",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "vertical conceptual section",
+        "layout": "single large subduction diagram",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "f26f008c18ac7e0894341953312d81801b911fd7eea24a64e0f4d9330c8f5d38",
+        "clipSHA256": "ca9726682e8ed7ec9954b8b53fbf11adc89623458f5b5fd00473778eadda360e",
+        "proof": "out/full/encoded-review/map-021.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1567,17 +1714,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "locked-fault-cycle",
-        "extent": "to be recorded with actual data",
+        "extent": "locked interface",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Side-on mechanical schematic of locked plate contact, elastic deformation builds then releases, no forecast clock or actual event simulation",
+        "dataLayers": "locked contact strain and release",
+        "explanationMechanism": "build deformation then show release",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "deforming conceptual section",
+        "layout": "stress sequence and locator",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "05d7c1cf7e50a5d7019ad1f230475421a6ad1a57aba49abd115a472a8c11c657",
+        "clipSHA256": "d5154e36179ec18265049802824fff7ef2695c0288317801682534d61c5de810",
+        "proof": "out/full/encoded-review/map-022.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1601,17 +1755,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "kanto-two-slabs",
-        "extent": "to be recorded with actual data",
+        "extent": "Kanto underground plate stack",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Rotated volumetric Kanto cutaway showing Philippine Sea and deeper Pacific slabs from different directions, separate depth layering and source caveats",
+        "dataLayers": "continental Philippine Sea and Pacific plate layers",
+        "explanationMechanism": "introduce different slab directions progressively",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "isometric conceptual layers",
+        "layout": "three overlapping slabs",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "57201c535791c90ba5fd86601cb9ae19a26d6e528396e7d15d09e09faea09a8a",
+        "clipSHA256": "361ae2f712a46ba24e38ef491051b193eabe25f0f500442cf064adbf6a7d7141",
+        "proof": "out/full/encoded-review/map-023.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1655,17 +1816,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "kanto-1923-event",
-        "extent": "to be recorded with actual data",
+        "extent": "1923 Kanto epicentral region",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Date time and JMA magnitude with sourced epicenter on a regional historic locator, no invented intensity contours or precise rupture map",
+        "dataLayers": "USGS epicenter Tokyo Yokohama and event date",
+        "explanationMechanism": "reveal epicenter and affected regional context",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down regional event chart",
+        "layout": "geographic event chart plus date card",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "cdb5326afbe0e8bbade13d1a981f00dcda2d895186aa12c24a8c89eab94894b4",
+        "clipSHA256": "b7feeb91ab9ebd255b334358e8aad1a18d9fe43e51ceb730ab52fe3a6479b063",
+        "proof": "out/full/encoded-review/map-024.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1805,17 +1973,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "historical-earthquakes",
-        "extent": "to be recorded with actual data",
+        "extent": "1923 versus 1703 regional context",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "1703 and 1923 coastal event chronology with distinct geographic locations and evidence cards; no periodic recurrence claim or fabricated rupture extents",
+        "dataLayers": "1923 catalog point and approximate 1703 offshore region",
+        "explanationMechanism": "compare two historical events without claiming recurrence period",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down wider offshore crop",
+        "layout": "geography left two historical records right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "766e065b861ea34d7647d1ec0d3c4e2cd35a440774e1afcd8256f88768f978b3",
+        "clipSHA256": "aad6c4e35f0f2d178fb162a48b0619822db6966c7f4f0d8fe32f2cce60f347f0",
+        "proof": "out/full/encoded-review/map-025.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -1978,17 +2153,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "oshima-approach",
-        "extent": "to be recorded with actual data",
+        "extent": "Izu Oshima island surface",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Real island terrain approached from Sagami direction; reveal shortest indicative Izu-Oshima distance line and geographic position, distinct island camera",
+        "dataLayers": "GSI aerial photo Terrarium land GEBCO sea",
+        "explanationMechanism": "smooth aerial approach and peninsula distance note",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "island-oriented oblique aerial",
+        "layout": "isolated island above sea",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "d499dad9789f760761e676e747a6c8f2c9df3dccac192f19bc04b07bdc53f847",
+        "clipSHA256": "8fb0b6bdb32f36f4574e901786cca1ead6b0b3b5c06773d04fced4e159aced0f",
+        "proof": "out/full/encoded-review/map-027.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2037,17 +2219,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "oshima-full-cone",
-        "extent": "to be recorded with actual data",
+        "extent": "submerged Oshima volcanic edifice",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Actual island DEM and offshore bathymetry show volcanic edifice across sea level in a cutaway perspective, true scale noted",
+        "dataLayers": "higher-resolution land mesh and GEBCO submarine slopes",
+        "explanationMechanism": "lateral view exposes underwater volcanic extent",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "low side relief view",
+        "layout": "island plus broad underwater base",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "68ba10a7040167e365ee5d5b9f936aee03ce9b0cc255812fbcdd71eabd6e928d",
+        "clipSHA256": "d840d855f27f61f08ab66a32743fa6b22e652ad4bb47def8cf938dcb820fc072",
+        "proof": "out/full/encoded-review/map-028.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2241,17 +2430,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "subduction-contrast",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami and eastern Izu arc",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Two clearly separated tectonic sections: Sagami Philippine-under-land versus east-of-Izu Pacific-under-Philippine; timed arrows then magma path schematic",
+        "dataLayers": "Sagami subduction and eastern Izu plate relations",
+        "explanationMechanism": "compare plate relationships and partial melting mechanism",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down regional plus two conceptual sections",
+        "layout": "map left stacked mechanism panels right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "8f3553449820502c3fcb6aaf2e7434feb148002eff8a60d05da75a3f3ab19085",
+        "clipSHA256": "5efef0b148a31712e75d691e06da4dfd9d8fdb46d5e8b760f87b66c28711ea0e",
+        "proof": "out/full/encoded-review/map-029.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2513,17 +2709,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "depth-light-pressure",
-        "extent": "to be recorded with actual data",
+        "extent": "surface to deep-water environment",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Coast-attached vertical ocean column shows diminishing sunlight and rising pressure with depth, hydrostatic relation rather than invented temperature observations",
+        "dataLayers": "depth approximate light and hydrostatic pressure",
+        "explanationMechanism": "continuous depth descent with hundred-meter counter",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "conceptual depth column",
+        "layout": "small geographic panel and large depth gauge",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "7fd3cb221eb083cfffdf1338fda130744797ba4c74831e86a50ec0b73d30106c",
+        "clipSHA256": "146a83b50e6e5fc79f8e964cad1ff96a3f218439c3d8721cb284f70bdf0f129c",
+        "proof": "out/full/encoded-review/map-030.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2568,17 +2771,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "rare-shark-records",
-        "extent": "to be recorded with actual data",
+        "extent": "Sagami shark records",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Coastal records locator with three scientific silhouette callouts for goblin frilled and megamouth sharks; regional not exact invented catch coordinates",
+        "dataLayers": "goblin frilled and megamouth illustrative morphology",
+        "explanationMechanism": "compare three recorded shark groups without fake capture points",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down coast plus biological silhouettes",
+        "layout": "coastal strip over three species",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "9ac11e5d403f31f53bb27db452fdd12b89dc49b1e7e3eaf9172c944e26e1c46e",
+        "clipSHA256": "20b082749b3358f02235f686f218859da8e9446a1db7055e75daf8729866b823",
+        "proof": "out/full/encoded-review/map-031.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2690,17 +2900,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "hatsushima-seep",
-        "extent": "to be recorded with actual data",
+        "extent": "Hatsushima offshore cold seep",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Local Hatsushima offshore bathymetric site locator with published depth interval and broad position, no fake survey coordinates",
+        "dataLayers": "high-resolution Hatsushima photo and literature depth range",
+        "explanationMechanism": "locate island then explain deep clam habitat",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down close island view and ecological diagram",
+        "layout": "island left depth band and clams right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "df47c2a8ab27fb9e201c2b0353ad6c072056ecdf903e7f7d55735e18baf824c9",
+        "clipSHA256": "c5cd6860a43094a2cd0658d408e761401b8fd792d3a1804850128ca18e13a2b4",
+        "proof": "out/full/encoded-review/map-032.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -2792,17 +3009,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "two-energy-paths",
-        "extent": "to be recorded with actual data",
+        "extent": "photosynthesis versus chemosynthesis",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Compare sun-based ocean food chain with chemical energy below Hatsushima; two spatial columns linked to real local section, qualitative mechanism",
+        "dataLayers": "sunlight phytoplankton and chemical energy clam system",
+        "explanationMechanism": "contrast light-driven and chemical energy pathways",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "conceptual ecological comparison",
+        "layout": "two energy pathways and small locator",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "d5be7968ee181318ec6afbf507325a15ab50ffe44d38ec647f892aaaec7a9d8d",
+        "clipSHA256": "0f96806db2355f0adec60333a2f0b58e3e42ee9b8ced1f154ee422d55f50a59e",
+        "proof": "out/full/encoded-review/map-033.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3048,17 +3272,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "geography-imagination",
-        "extent": "to be recorded with actual data",
+        "extent": "real deep sea versus cinema",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Real depth profile paired with a separately framed fictional creature silhouette, physical setting versus storytelling, no causal geology-to-monster arrow",
+        "dataLayers": "real deepSetting profile and fictional cinema icon",
+        "explanationMechanism": "separate measured geography from imagined story",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "geographic profile and cinema symbol",
+        "layout": "measured landscape left camera symbol right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "eebb3660963b4fa07ddcdd1fef3a9ec16d7e1f991fda6bd58232b5cf9b34a200",
+        "clipSHA256": "4a8617a11dcb9304ace6cdd3c510222c887a9c5ca497edf9e54eaf135556e41d",
+        "proof": "out/full/encoded-review/map-035.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3177,17 +3408,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "fictional-buoyancy-plan",
-        "extent": "to be recorded with actual data",
+        "extent": "fictional film operation",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Explicit film schematic: bubbles reduce buoyancy, fictional creature descends toward1500m then rises; physical backdrop not a verified effective weapon",
+        "dataLayers": "new Godzilla silhouette bubbles and depth arrows",
+        "explanationMechanism": "sink then raise fictional creature in film-plan explanation",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "conceptual water-column simulation",
+        "layout": "single fictional depth sequence",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "3b4ae632e4408278e30b3f28c9957cee2b2d0d53eeafe11a96444d98cfdc427c",
+        "clipSHA256": "ab44bbb7d4ef66b7b922b25ffe1c7d3374aba8b96dd60af8d38d862d87c32247",
+        "proof": "out/full/encoded-review/map-036.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3231,17 +3469,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "depth-operational-window",
-        "extent": "to be recorded with actual data",
+        "extent": "bay mouth toward Sagami-nada",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Actual local depth bands reveal deep-water setting near coast with1500m contour if supported, distinct oblique north-south view and factual source",
+        "dataLayers": "vertical deepSetting transect reaching below1500m",
+        "explanationMechanism": "connect real offshore depth with fictional setting without invented operation coordinates",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "top-down offshore and measured section",
+        "layout": "bay mouth left actual profile right",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "b6e3c8c743be843b262dbaa1b355de5e8766783d9a6a1b4d7620b67ea3be87d2",
+        "clipSHA256": "dd3ebf82bfba77fbc3ad83859aeb96d532d61e8632251cd2bec6671445dad2c2",
+        "proof": "out/full/encoded-review/map-037.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3408,17 +3653,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "causality-boundary",
-        "extent": "to be recorded with actual data",
+        "extent": "science versus fiction",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Two separate evidence chains: earthquakes and volcanism versus film setting; no scientific causal link to Godzilla, clear labels and crossed unsupported link",
+        "dataLayers": "geographic evidence and fictional Godzilla",
+        "explanationMechanism": "explicitly reject a scientific causal inference about a monster",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "conceptual comparison",
+        "layout": "two distinct evidence categories with separating cross",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "04dfad2ae52a27a1fd18b65fee44364682183689c5fc126e53e24543320e74a7",
+        "clipSHA256": "4779529830aaf3bc890e34085f6ffc70fea7c7c01c94e284e302dfb3dd5eb05c",
+        "proof": "out/full/encoded-review/map-038.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3461,17 +3713,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "shore-depth-reveal",
-        "extent": "to be recorded with actual data",
+        "extent": "Shonan coast to offshore",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "Narrow Shonan-to-deep-bay real terrain curtain with satellite surface and sampled profile, horizontal depth reveal instead of previous whole-bay view",
+        "dataLayers": "actual Shonan north-south GEBCO section",
+        "explanationMechanism": "reveal depth drop invisible from familiar coast",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "large measured vertical profile",
+        "layout": "dominant section with small geographic locator",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "292dbd9e031925b28ada719dd28948cb9c8966fde3cada9960109ce553386e18",
+        "clipSHA256": "43866c1ea74a2d3dcb2fac20d57d66ff5b1cc893762f711d55ea290ffc787fd8",
+        "proof": "out/full/encoded-review/map-039.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {
@@ -3639,17 +3898,24 @@
       "status": "planned",
       "mapDesign": {
         "family": "final-exploded-layers",
-        "extent": "to be recorded with actual data",
+        "extent": "coast seabed and underground synthesis",
         "camera": "to be authored per scene",
-        "dataLayers": [],
-        "explanationMechanism": "New exploded geographic stack: real satellite coast, real bathymetry, schematic tectonic interface and volcanic arc, cumulative synthesis in separated3D layers",
+        "dataLayers": "satellite surface actual relief and schematic plate layer",
+        "explanationMechanism": "unfold separate layers to summarize relationships",
         "similarSceneIds": [],
-        "meaningfulDifferences": []
+        "meaningfulDifferences": [],
+        "geometry": "oblique exploded geographic stack",
+        "layout": "three vertically separated conceptual levels",
+        "projection": "WGS84 to Web Mercator for 2D maps; physical km for relief; sphere for globe; conceptual coordinates for explanatory sections"
       },
       "mapReview": {
-        "status": "pending",
-        "proofFrames": [],
-        "motionClip": null
+        "staticReview": "reviewed against encoded triplets",
+        "sourceFingerprint": "b88f8042f0f72e2e6f36831d7456138250e51cdedf835e9c32aabdf81f4e1991",
+        "clipSHA256": "ddf4577f25443cbf8dc788888d1f567e453d34eca61269c4f09bb0061181eaa5",
+        "proof": "out/full/encoded-review/map-040.jpg",
+        "motionMethod": "all encoded frames decoded at native30fps; adjacent-frame statistics and sampled visual sequences; no interactive realtime playback tool available",
+        "realTimePlaybackReview": "pending: no playback tool exposed",
+        "status": "static and frame-sequence checks complete; final assembled transitions pending"
       }
     },
     {

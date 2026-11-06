@@ -1,6 +1,6 @@
 {
-  "updatedUnix": 1793966690.8561976,
-  "stage": "map clip rendering and quality review",
+  "updatedUnix": 1793970861.2380419,
+  "stage": "source renders complete; encoded-shot QA before assembly",
   "groups": {
     "image": {
       "verified": 116,
@@ -8,15 +8,16 @@
       "frames": 25584
     },
     "map": {
-      "verified": 25,
+      "verified": 38,
       "total": 38,
-      "frames": 11482
+      "frames": 18689
     }
   },
-  "verifiedSourceFrames": 37066,
+  "verifiedSourceFrames": 44273,
   "totalFrames": 44273,
-  "verifiedSourceSeconds": 1235.5333333333333,
-  "sourcePercent": 83.72,
+  "verifiedSourceSeconds": 1475.7666666666667,
+  "sourcePercent": 100.0,
   "finalVerified": false,
-  "note": "Source coverage is distributed across the timeline, not a continuous playable final. Markers originate from full decode and SHA validation; this status reader checks size and frame count only."
+  "note": "Source coverage is distributed across the timeline, not a continuous playable final. Markers originate from full decode and SHA validation; this status reader checks size and frame count only.",
+  "encodedShotChecks": 154
 }

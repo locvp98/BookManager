@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "image-001",
+    "frames": 249,
+    "minMeanBrightness": 105.0231704711914,
+    "meanAdjacentDifference": 0.8700859421669653,
+    "maxAdjacentDifference": 1.474525462962963,
+    "flags": []
+  },
+  {
+    "id": "image-002",
+    "frames": 135,
+    "minMeanBrightness": 137.25779724121094,
+    "meanAdjacentDifference": 1.3046430607379769,
+    "maxAdjacentDifference": 1.8254861111111111,
+    "flags": []
+  },
+  {
+    "id": "image-003",
+    "frames": 222,
+    "minMeanBrightness": 33.51774215698242,
+    "meanAdjacentDifference": 0.7042342781129546,
+    "maxAdjacentDifference": 1.054380787037037,
+    "flags": []
+  },
+  {
+    "id": "map-001",
+    "frames": 869,
+    "minMeanBrightness": 37.443397521972656,
+    "meanAdjacentDifference": 1.0168458114652672,
+    "maxAdjacentDifference": 8.181325231481482,
+    "flags": []
+  },
+  {
+    "id": "image-004",
+    "frames": 218,
+    "minMeanBrightness": 128.91854858398438,
+    "meanAdjacentDifference": 0.8507914906554019,
+    "maxAdjacentDifference": 1.3741956018518517,
+    "flags": []
+  },
+  {
+    "id": "image-005",
+    "frames": 198,
+    "minMeanBrightness": 159.71556091308594,
+    "meanAdjacentDifference": 0.8211886045309269,
+    "maxAdjacentDifference": 1.3832754629629629,
+    "flags": []
+  },
+  {
+    "id": "image-006",
+    "frames": 190,
+    "minMeanBrightness": 138.80349731445312,
+    "meanAdjacentDifference": 1.1351672729276896,
+    "maxAdjacentDifference": 1.9038715277777778,
+    "flags": []
+  },
+  {
+    "id": "image-007",
+    "frames": 89,
+    "minMeanBrightness": 107.79029846191406,
+    "meanAdjacentDifference": 3.1184739977904035,
+    "maxAdjacentDifference": 3.6093402777777777,
+    "flags": []
+  },
+  {
+    "id": "image-008",
+    "frames": 145,
+    "minMeanBrightness": 115.59009552001953,
+    "meanAdjacentDifference": 0.48827731159979426,
+    "maxAdjacentDifference": 0.8965219907407408,
+    "flags": []
+  },
+  {
+    "id": "map-002",
+    "frames": 290,
+    "minMeanBrightness": 59.44445037841797,
+    "meanAdjacentDifference": 0.9087020216583366,
+    "maxAdjacentDifference": 1.5429166666666667,
+    "flags": []
+  },
+  {
+    "id": "map-003",
+    "frames": 246,
+    "minMeanBrightness": 35.38396453857422,
+    "meanAdjacentDifference": 0.013472930839002268,
+    "maxAdjacentDifference": 0.08546296296296296,
+    "flags": []
+  },
+  {
+    "id": "image-009",
+    "frames": 289,
+    "minMeanBrightness": 95.55406188964844,
+    "meanAdjacentDifference": 0.9239559019740228,
+    "maxAdjacentDifference": 1.4692592592592593,
+    "flags": []
+  },
+  {
+    "id": "image-010",
+    "frames": 267,
+    "minMeanBrightness": 137.68014526367188,
+    "meanAdjacentDifference": 0.9525623955722641,
+    "maxAdjacentDifference": 1.4646180555555555,
+    "flags": []
+  },
+  {
+    "id": "image-011",
+    "frames": 137,
+    "minMeanBrightness": 85.89472198486328,
+    "meanAdjacentDifference": 2.337503404139434,
+    "maxAdjacentDifference": 3.0114641203703703,
+    "flags": []
+  },
+  {
+    "id": "image-012",
+    "frames": 265,
+    "minMeanBrightness": 85.7988510131836,
+    "meanAdjacentDifference": 1.1467906057098765,
+    "maxAdjacentDifference": 1.7957581018518518,
+    "flags": []
+  },
+  {
+    "id": "image-013",
+    "frames": 180,
+    "minMeanBrightness": 120.35395812988281,
+    "meanAdjacentDifference": 1.5118989240637286,
+    "maxAdjacentDifference": 2.1646875,
+    "flags": []
+  },
+  {
+    "id": "image-014",
+    "frames": 174,
+    "minMeanBrightness": 109.08304595947266,
+    "meanAdjacentDifference": 1.1268360629415544,
+    "maxAdjacentDifference": 1.5600578703703705,
+    "flags": []
+  },
+  {
+    "id": "image-015",
+    "frames": 161,
+    "minMeanBrightness": 131.05641174316406,
+    "meanAdjacentDifference": 0.9733247612847222,
+    "maxAdjacentDifference": 1.400480324074074,
+    "flags": []
+  },
+  {
+    "id": "map-004",
+    "frames": 645,
+    "minMeanBrightness": 29.76957130432129,
+    "meanAdjacentDifference": 0.31289579199735446,
+    "maxAdjacentDifference": 2.454392361111111,
+    "flags": []
+  },
+  {
+    "id": "map-005",
+    "frames": 228,
+    "minMeanBrightness": 43.610687255859375,
+    "meanAdjacentDifference": 0.006803286629140154,
+    "maxAdjacentDifference": 0.02855324074074074,
+    "flags": []
+  },
+  {
+    "id": "map-006",
+    "frames": 329,
+    "minMeanBrightness": 34.37010955810547,
+    "meanAdjacentDifference": 0.01176539916440831,
+    "maxAdjacentDifference": 0.12593171296296296,
+    "flags": []
+  },
+  {
+    "id": "image-016",
+    "frames": 279,
+    "minMeanBrightness": 138.7740478515625,
+    "meanAdjacentDifference": 0.6928393535171863,
+    "maxAdjacentDifference": 1.245486111111111,
+    "flags": []
+  },
+  {
+    "id": "image-017",
+    "frames": 220,
+    "minMeanBrightness": 154.47201538085938,
+    "meanAdjacentDifference": 0.6831043622103838,
+    "maxAdjacentDifference": 1.187673611111111,
+    "flags": []
+  },
+  {
+    "id": "map-007",
+    "frames": 155,
+    "minMeanBrightness": 66.57447052001953,
+    "meanAdjacentDifference": 0.011283369408369411,
+    "maxAdjacentDifference": 0.07482638888888889,
+    "flags": []
+  },
+  {
+    "id": "image-018",
+    "frames": 122,
+    "minMeanBrightness": 93.3953857421875,
+    "meanAdjacentDifference": 2.073379007881849,
+    "maxAdjacentDifference": 2.6394155092592593,
+    "flags": []
+  },
+  {
+    "id": "image-019",
+    "frames": 313,
+    "minMeanBrightness": 128.28318786621094,
+    "meanAdjacentDifference": 1.140521946225071,
+    "maxAdjacentDifference": 1.6977372685185186,
+    "flags": []
+  },
+  {
+    "id": "map-008",
+    "frames": 247,
+    "minMeanBrightness": 33.38224411010742,
+    "meanAdjacentDifference": 0.01554609869015357,
+    "maxAdjacentDifference": 0.08405671296296297,
+    "flags": []
+  },
+  {
+    "id": "map-009",
+    "frames": 999,
+    "minMeanBrightness": 48.980594635009766,
+    "meanAdjacentDifference": 0.0037047184647071925,
+    "maxAdjacentDifference": 0.21072916666666666,
+    "flags": []
+  },
+  {
+    "id": "image-020",
+    "frames": 430,
+    "minMeanBrightness": 143.0817108154297,
+    "meanAdjacentDifference": 0.6150277615902616,
+    "maxAdjacentDifference": 1.0692418981481482,
+    "flags": []
+  },
+  {
+    "id": "map-010",
+    "frames": 342,
+    "minMeanBrightness": 52.819095611572266,
+    "meanAdjacentDifference": 0.4439616596068209,
+    "maxAdjacentDifference": 0.6720949074074074,
+    "flags": []
+  },
+  {
+    "id": "image-021",
+    "frames": 159,
+    "minMeanBrightness": 101.33049774169922,
+    "meanAdjacentDifference": 0.7958326007969996,
+    "maxAdjacentDifference": 1.23390625,
+    "flags": []
+  },
+  {
+    "id": "map-011",
+    "frames": 299,
+    "minMeanBrightness": 44.325538635253906,
+    "meanAdjacentDifference": 0.01793612509321402,
+    "maxAdjacentDifference": 0.06129050925925926,
+    "flags": []
+  },
+  {
+    "id": "image-022",
+    "frames": 336,
+    "minMeanBrightness": 72.23477172851562,
+    "meanAdjacentDifference": 0.5751901257600884,
+    "maxAdjacentDifference": 0.7686747685185186,
+    "flags": []
+  },
+  {
+    "id": "image-023",
+    "frames": 258,
+    "minMeanBrightness": 136.57098388671875,
+    "meanAdjacentDifference": 1.0497575974564057,
+    "maxAdjacentDifference": 1.7946817129629629,
+    "flags": []
+  },
+  {
+    "id": "map-012",
+    "frames": 481,
+    "minMeanBrightness": 76.88851928710938,
+    "meanAdjacentDifference": 0.3759072386188272,
+    "maxAdjacentDifference": 5.406018518518518,
+    "flags": []
+  },
+  {
+    "id": "map-013",
+    "frames": 333,
+    "minMeanBrightness": 111.7259292602539,
+    "meanAdjacentDifference": 0.6442052062416332,
+    "maxAdjacentDifference": 1.0607465277777777,
+    "flags": []
+  },
+  {
+    "id": "image-024",
+    "frames": 189,
+    "minMeanBrightness": 80.42395782470703,
+    "meanAdjacentDifference": 0.846361400462963,
+    "maxAdjacentDifference": 1.186880787037037,
+    "flags": []
+  },
+  {
+    "id": "map-014",
+    "frames": 240,
+    "minMeanBrightness": 72.2376480102539,
+    "meanAdjacentDifference": 0.010335648148148146,
+    "maxAdjacentDifference": 0.06892939814814815,
+    "flags": []
+  },
+  {
+    "id": "map-015",
+    "frames": 539,
+    "minMeanBrightness": 52.60013961791992,
+    "meanAdjacentDifference": 0.010092571079443757,
+    "maxAdjacentDifference": 0.10875578703703703,
+    "flags": []
+  },
+  {
+    "id": "image-025",
+    "frames": 165,
+    "minMeanBrightness": 127.54949188232422,
+    "meanAdjacentDifference": 1.0360744128274615,
+    "maxAdjacentDifference": 1.4920543981481482,
+    "flags": []
+  },
+  {
+    "id": "map-016",
+    "frames": 760,
+    "minMeanBrightness": 50.267662048339844,
+    "meanAdjacentDifference": 0.006227576184550824,
+    "maxAdjacentDifference": 0.1031712962962963,
+    "flags": []
+  },
+  {
+    "id": "map-017",
+    "frames": 491,
+    "minMeanBrightness": 25.81841468811035,
+    "meanAdjacentDifference": 0.0241682492441421,
+    "maxAdjacentDifference": 0.17992476851851852,
+    "flags": []
+  },
+  {
+    "id": "image-026",
+    "frames": 316,
+    "minMeanBrightness": 69.60931396484375,
+    "meanAdjacentDifference": 0.635950543797766,
+    "maxAdjacentDifference": 1.1380034722222223,
+    "flags": []
+  },
+  {
+    "id": "image-027",
+    "frames": 127,
+    "minMeanBrightness": 117.33190155029297,
+    "meanAdjacentDifference": 0.961616879776602,
+    "maxAdjacentDifference": 1.3228761574074075,
+    "flags": []
+  },
+  {
+    "id": "image-028",
+    "frames": 143,
+    "minMeanBrightness": 100.2906494140625,
+    "meanAdjacentDifference": 1.0241384650495566,
+    "maxAdjacentDifference": 1.3353587962962963,
+    "flags": []
+  },
+  {
+    "id": "map-018",
+    "frames": 107,
+    "minMeanBrightness": 29.64800262451172,
+    "meanAdjacentDifference": 0.8081042540181691,
+    "maxAdjacentDifference": 1.3957523148148148,
+    "flags": []
+  },
+  {
+    "id": "image-029",
+    "frames": 271,
+    "minMeanBrightness": 42.24364471435547,
+    "meanAdjacentDifference": 0.6567468492798354,
+    "maxAdjacentDifference": 1.1857465277777777,
+    "flags": []
+  },
+  {
+    "id": "map-019",
+    "frames": 777,
+    "minMeanBrightness": 28.526939392089844,
+    "meanAdjacentDifference": 0.010482046761645668,
+    "maxAdjacentDifference": 0.1765914351851852,
+    "flags": []
+  },
+  {
+    "id": "map-020",
+    "frames": 383,
+    "minMeanBrightness": 97.75357818603516,
+    "meanAdjacentDifference": 0.014673941366104323,
+    "maxAdjacentDifference": 0.13662037037037036,
+    "flags": []
+  },
+  {
+    "id": "image-030",
+    "frames": 309,
+    "minMeanBrightness": 79.89007568359375,
+    "meanAdjacentDifference": 0.8744312357202982,
+    "maxAdjacentDifference": 1.4655439814814815,
+    "flags": []
+  },
+  {
+    "id": "image-031",
+    "frames": 233,
+    "minMeanBrightness": 90.15802001953125,
+    "meanAdjacentDifference": 1.1399912196679438,
+    "maxAdjacentDifference": 1.6508043981481482,
+    "flags": []
+  },
+  {
+    "id": "image-032",
+    "frames": 278,
+    "minMeanBrightness": 111.01016235351562,
+    "meanAdjacentDifference": 0.9778158426928736,
+    "maxAdjacentDifference": 1.5825,
+    "flags": []
+  },
+  {
+    "id": "image-033",
+    "frames": 206,
+    "minMeanBrightness": 127.58629608154297,
+    "meanAdjacentDifference": 0.9228932079945799,
+    "maxAdjacentDifference": 1.4135474537037036,
+    "flags": []
+  },
+  {
+    "id": "image-034",
+    "frames": 265,
+    "minMeanBrightness": 90.67181396484375,
+    "meanAdjacentDifference": 0.8268290982744109,
+    "maxAdjacentDifference": 1.1243287037037037,
+    "flags": []
+  },
+  {
+    "id": "map-021",
+    "frames": 637,
+    "minMeanBrightness": 40.62907409667969,
+    "meanAdjacentDifference": 0.003532640344747263,
+    "maxAdjacentDifference": 0.03815393518518519,
+    "flags": []
+  },
+  {
+    "id": "image-035",
+    "frames": 272,
+    "minMeanBrightness": 113.11620330810547,
+    "meanAdjacentDifference": 1.1532722811603116,
+    "maxAdjacentDifference": 1.8694444444444445,
+    "flags": []
+  },
+  {
+    "id": "image-036",
+    "frames": 204,
+    "minMeanBrightness": 115.7874755859375,
+    "meanAdjacentDifference": 1.3090994458128078,
+    "maxAdjacentDifference": 2.2869270833333335,
+    "flags": []
+  },
+  {
+    "id": "map-022",
+    "frames": 642,
+    "minMeanBrightness": 51.427574157714844,
+    "meanAdjacentDifference": 0.008620834416710002,
+    "maxAdjacentDifference": 0.21822916666666667,
+    "flags": []
+  },
+  {
+    "id": "map-023",
+    "frames": 683,
+    "minMeanBrightness": 25.985584259033203,
+    "meanAdjacentDifference": 0.05184590359237536,
+    "maxAdjacentDifference": 1.3258796296296296,
+    "flags": []
+  },
+  {
+    "id": "image-037",
+    "frames": 196,
+    "minMeanBrightness": 109.83638763427734,
+    "meanAdjacentDifference": 1.6098835470085469,
+    "maxAdjacentDifference": 2.1447337962962965,
+    "flags": []
+  },
+  {
+    "id": "map-024",
+    "frames": 516,
+    "minMeanBrightness": 44.71577072143555,
+    "meanAdjacentDifference": 0.009061803308162534,
+    "maxAdjacentDifference": 0.26781828703703703,
+    "flags": []
+  },
+  {
+    "id": "image-038",
+    "frames": 254,
+    "minMeanBrightness": 126.41659545898438,
+    "meanAdjacentDifference": 1.5143104733933537,
+    "maxAdjacentDifference": 2.7487962962962964,
+    "flags": []
+  },
+  {
+    "id": "image-039",
+    "frames": 147,
+    "minMeanBrightness": 120.92863464355469,
+    "meanAdjacentDifference": 1.6522828671993912,
+    "maxAdjacentDifference": 2.025752314814815,
+    "flags": []
+  },
+  {
+    "id": "image-040",
+    "frames": 143,
+    "minMeanBrightness": 89.15670013427734,
+    "meanAdjacentDifference": 1.7771425893322899,
+    "maxAdjacentDifference": 2.2770717592592593,
+    "flags": []
+  },
+  {
+    "id": "image-041",
+    "frames": 75,
+    "minMeanBrightness": 108.3131103515625,
+    "meanAdjacentDifference": 2.5970734797297297,
+    "maxAdjacentDifference": 3.305011574074074,
+    "flags": []
+  },
+  {
+    "id": "image-042",
+    "frames": 264,
+    "minMeanBrightness": 118.20623016357422,
+    "meanAdjacentDifference": 1.2241602195113364,
+    "maxAdjacentDifference": 2.08046875,
+    "flags": []
+  },
+  {
+    "id": "map-025",
+    "frames": 459,
+    "minMeanBrightness": 30.968448638916016,
+    "meanAdjacentDifference": 0.007801671417596636,
+    "maxAdjacentDifference": 0.09041087962962963,
+    "flags": []
+  },
+  {
+    "id": "image-043",
+    "frames": 209,
+    "minMeanBrightness": 99.68305206298828,
+    "meanAdjacentDifference": 1.7754782652243588,
+    "maxAdjacentDifference": 2.6564236111111112,
+    "flags": []
+  },
+  {
+    "id": "image-044",
+    "frames": 294,
+    "minMeanBrightness": 110.16632080078125,
+    "meanAdjacentDifference": 1.3124716968461636,
+    "maxAdjacentDifference": 2.1702777777777778,
+    "flags": []
+  },
+  {
+    "id": "image-045",
+    "frames": 200,
+    "minMeanBrightness": 105.99641418457031,
+    "meanAdjacentDifference": 0.9302600095384329,
+    "maxAdjacentDifference": 1.2130729166666667,
+    "flags": []
+  },
+  {
+    "id": "image-046",
+    "frames": 278,
+    "minMeanBrightness": 102.34383392333984,
+    "meanAdjacentDifference": 1.011375455441904,
+    "maxAdjacentDifference": 1.649849537037037,
+    "flags": []
+  },
+  {
+    "id": "image-047",
+    "frames": 178,
+    "minMeanBrightness": 138.1019744873047,
+    "meanAdjacentDifference": 1.0067860365662273,
+    "maxAdjacentDifference": 1.4700520833333333,
+    "flags": []
+  },
+  {
+    "id": "image-115",
+    "frames": 218,
+    "minMeanBrightness": 102.76293182373047,
+    "meanAdjacentDifference": 1.6833718424645843,
+    "maxAdjacentDifference": 2.568894675925926,
+    "flags": []
+  },
+  {
+    "id": "map-027",
+    "frames": 808,
+    "minMeanBrightness": 30.166481018066406,
+    "meanAdjacentDifference": 0.08389573724126852,
+    "maxAdjacentDifference": 0.1997685185185185,
+    "flags": []
+  },
+  {
+    "id": "image-048",
+    "frames": 284,
+    "minMeanBrightness": 121.0223388671875,
+    "meanAdjacentDifference": 1.0566792427365528,
+    "maxAdjacentDifference": 1.7504398148148148,
+    "flags": []
+  },
+  {
+    "id": "map-028",
+    "frames": 701,
+    "minMeanBrightness": 71.07896423339844,
+    "meanAdjacentDifference": 0.10453578869047618,
+    "maxAdjacentDifference": 0.17030092592592594,
+    "flags": []
+  },
+  {
+    "id": "image-049",
+    "frames": 92,
+    "minMeanBrightness": 101.05011749267578,
+    "meanAdjacentDifference": 1.760736797924298,
+    "maxAdjacentDifference": 1.9875752314814814,
+    "flags": []
+  },
+  {
+    "id": "image-050",
+    "frames": 252,
+    "minMeanBrightness": 99.55786895751953,
+    "meanAdjacentDifference": 1.198662410543013,
+    "maxAdjacentDifference": 2.0107060185185186,
+    "flags": []
+  },
+  {
+    "id": "image-051",
+    "frames": 57,
+    "minMeanBrightness": 87.60986328125,
+    "meanAdjacentDifference": 4.923685515873016,
+    "maxAdjacentDifference": 5.533738425925926,
+    "flags": []
+  },
+  {
+    "id": "image-052",
+    "frames": 274,
+    "minMeanBrightness": 116.51819610595703,
+    "meanAdjacentDifference": 0.8868111094152761,
+    "maxAdjacentDifference": 1.3725,
+    "flags": []
+  },
+  {
+    "id": "image-053",
+    "frames": 288,
+    "minMeanBrightness": 70.94216918945312,
+    "meanAdjacentDifference": 1.3525828937604851,
+    "maxAdjacentDifference": 2.040561342592593,
+    "flags": []
+  },
+  {
+    "id": "image-054",
+    "frames": 212,
+    "minMeanBrightness": 105.74229431152344,
+    "meanAdjacentDifference": 1.2774668959540108,
+    "maxAdjacentDifference": 1.909832175925926,
+    "flags": []
+  },
+  {
+    "id": "image-055",
+    "frames": 135,
+    "minMeanBrightness": 91.73594665527344,
+    "meanAdjacentDifference": 1.962905869955777,
+    "maxAdjacentDifference": 2.620457175925926,
+    "flags": []
+  },
+  {
+    "id": "map-029",
+    "frames": 1078,
+    "minMeanBrightness": 29.4298038482666,
+    "meanAdjacentDifference": 0.013835365512913098,
+    "maxAdjacentDifference": 0.35777199074074073,
+    "flags": []
+  },
+  {
+    "id": "image-056",
+    "frames": 216,
+    "minMeanBrightness": 43.33589553833008,
+    "meanAdjacentDifference": 0.3482386681739879,
+    "maxAdjacentDifference": 0.5362152777777778,
+    "flags": []
+  },
+  {
+    "id": "image-057",
+    "frames": 222,
+    "minMeanBrightness": 99.55113220214844,
+    "meanAdjacentDifference": 0.7741225437824703,
+    "maxAdjacentDifference": 1.1602314814814816,
+    "flags": []
+  },
+  {
+    "id": "image-058",
+    "frames": 250,
+    "minMeanBrightness": 72.37273406982422,
+    "meanAdjacentDifference": 0.6112787260151719,
+    "maxAdjacentDifference": 0.8247337962962963,
+    "flags": []
+  },
+  {
+    "id": "image-059",
+    "frames": 226,
+    "minMeanBrightness": 66.73918914794922,
+    "meanAdjacentDifference": 1.1580148148148146,
+    "maxAdjacentDifference": 1.7533506944444444,
+    "flags": []
+  },
+  {
+    "id": "image-060",
+    "frames": 214,
+    "minMeanBrightness": 119.77323913574219,
+    "meanAdjacentDifference": 0.7688093646757087,
+    "maxAdjacentDifference": 1.234699074074074,
+    "flags": []
+  },
+  {
+    "id": "image-061",
+    "frames": 164,
+    "minMeanBrightness": 72.95050048828125,
+    "meanAdjacentDifference": 1.8542132469893202,
+    "maxAdjacentDifference": 2.2720891203703704,
+    "flags": []
+  },
+  {
+    "id": "image-062",
+    "frames": 183,
+    "minMeanBrightness": 158.36138916015625,
+    "meanAdjacentDifference": 0.7082653197496949,
+    "maxAdjacentDifference": 1.3238657407407408,
+    "flags": []
+  },
+  {
+    "id": "image-063",
+    "frames": 244,
+    "minMeanBrightness": 114.55963134765625,
+    "meanAdjacentDifference": 1.2691566881953973,
+    "maxAdjacentDifference": 1.9925983796296296,
+    "flags": []
+  },
+  {
+    "id": "image-064",
+    "frames": 237,
+    "minMeanBrightness": 135.86203002929688,
+    "meanAdjacentDifference": 1.121097967671061,
+    "maxAdjacentDifference": 1.7141145833333333,
+    "flags": []
+  },
+  {
+    "id": "image-065",
+    "frames": 178,
+    "minMeanBrightness": 30.374462127685547,
+    "meanAdjacentDifference": 0.31354166666666666,
+    "maxAdjacentDifference": 0.4190451388888889,
+    "flags": []
+  },
+  {
+    "id": "map-030",
+    "frames": 797,
+    "minMeanBrightness": 53.57915115356445,
+    "meanAdjacentDifference": 0.08115590975711894,
+    "maxAdjacentDifference": 0.250005787037037,
+    "flags": []
+  },
+  {
+    "id": "image-066",
+    "frames": 191,
+    "minMeanBrightness": 30.065109252929688,
+    "meanAdjacentDifference": 0.699363243177388,
+    "maxAdjacentDifference": 0.9437210648148148,
+    "flags": []
+  },
+  {
+    "id": "map-031",
+    "frames": 255,
+    "minMeanBrightness": 34.96855926513672,
+    "meanAdjacentDifference": 0.022847563976377952,
+    "maxAdjacentDifference": 0.15447337962962962,
+    "flags": []
+  },
+  {
+    "id": "image-067",
+    "frames": 107,
+    "minMeanBrightness": 60.105804443359375,
+    "meanAdjacentDifference": 0.4671082831062194,
+    "maxAdjacentDifference": 0.5562268518518518,
+    "flags": []
+  },
+  {
+    "id": "image-068",
+    "frames": 120,
+    "minMeanBrightness": 47.36611557006836,
+    "meanAdjacentDifference": 0.6431379843604109,
+    "maxAdjacentDifference": 0.8099479166666667,
+    "flags": []
+  },
+  {
+    "id": "image-069",
+    "frames": 277,
+    "minMeanBrightness": 47.1329345703125,
+    "meanAdjacentDifference": 0.36758904908078366,
+    "maxAdjacentDifference": 0.5426157407407407,
+    "flags": []
+  },
+  {
+    "id": "image-070",
+    "frames": 202,
+    "minMeanBrightness": 92.84298706054688,
+    "meanAdjacentDifference": 1.2855293843283582,
+    "maxAdjacentDifference": 1.8181886574074073,
+    "flags": []
+  },
+  {
+    "id": "map-032",
+    "frames": 233,
+    "minMeanBrightness": 32.366024017333984,
+    "meanAdjacentDifference": 0.007472486629948915,
+    "maxAdjacentDifference": 0.05982638888888889,
+    "flags": []
+  },
+  {
+    "id": "image-071",
+    "frames": 222,
+    "minMeanBrightness": 86.64900970458984,
+    "meanAdjacentDifference": 1.1405792012317748,
+    "maxAdjacentDifference": 1.7213252314814815,
+    "flags": []
+  },
+  {
+    "id": "image-072",
+    "frames": 150,
+    "minMeanBrightness": 73.61152648925781,
+    "meanAdjacentDifference": 1.317748648396719,
+    "maxAdjacentDifference": 1.5299652777777777,
+    "flags": []
+  },
+  {
+    "id": "image-073",
+    "frames": 295,
+    "minMeanBrightness": 75.37760925292969,
+    "meanAdjacentDifference": 0.7023763660556815,
+    "maxAdjacentDifference": 1.070613425925926,
+    "flags": []
+  },
+  {
+    "id": "map-033",
+    "frames": 215,
+    "minMeanBrightness": 32.027587890625,
+    "meanAdjacentDifference": 0.008425006490134994,
+    "maxAdjacentDifference": 0.05365162037037037,
+    "flags": []
+  },
+  {
+    "id": "image-074",
+    "frames": 276,
+    "minMeanBrightness": 57.246734619140625,
+    "meanAdjacentDifference": 0.8854569654882155,
+    "maxAdjacentDifference": 1.3989930555555556,
+    "flags": []
+  },
+  {
+    "id": "image-075",
+    "frames": 331,
+    "minMeanBrightness": 104.8176498413086,
+    "meanAdjacentDifference": 1.0314105464365881,
+    "maxAdjacentDifference": 1.4286168981481482,
+    "flags": []
+  },
+  {
+    "id": "image-076",
+    "frames": 290,
+    "minMeanBrightness": 74.63263702392578,
+    "meanAdjacentDifference": 0.8986137142765603,
+    "maxAdjacentDifference": 1.6738252314814814,
+    "flags": []
+  },
+  {
+    "id": "image-077",
+    "frames": 105,
+    "minMeanBrightness": 73.1767349243164,
+    "meanAdjacentDifference": 1.6758649951032762,
+    "maxAdjacentDifference": 2.0327314814814814,
+    "flags": []
+  },
+  {
+    "id": "image-078",
+    "frames": 171,
+    "minMeanBrightness": 57.338958740234375,
+    "meanAdjacentDifference": 0.9043924972766885,
+    "maxAdjacentDifference": 1.539074074074074,
+    "flags": []
+  },
+  {
+    "id": "image-079",
+    "frames": 295,
+    "minMeanBrightness": 49.801910400390625,
+    "meanAdjacentDifference": 0.6983998055240616,
+    "maxAdjacentDifference": 1.1058796296296296,
+    "flags": []
+  },
+  {
+    "id": "image-116",
+    "frames": 264,
+    "minMeanBrightness": 74.19956970214844,
+    "meanAdjacentDifference": 1.1294404837346852,
+    "maxAdjacentDifference": 1.8159895833333333,
+    "flags": []
+  },
+  {
+    "id": "image-080",
+    "frames": 238,
+    "minMeanBrightness": 70.92131042480469,
+    "meanAdjacentDifference": 1.2595042194092825,
+    "maxAdjacentDifference": 2.3396238425925926,
+    "flags": []
+  },
+  {
+    "id": "image-081",
+    "frames": 291,
+    "minMeanBrightness": 98.38639068603516,
+    "meanAdjacentDifference": 0.9736542145593869,
+    "maxAdjacentDifference": 1.484236111111111,
+    "flags": []
+  },
+  {
+    "id": "map-035",
+    "frames": 607,
+    "minMeanBrightness": 30.790342330932617,
+    "meanAdjacentDifference": 0.016043595679012344,
+    "maxAdjacentDifference": 0.40369212962962964,
+    "flags": []
+  },
+  {
+    "id": "image-082",
+    "frames": 240,
+    "minMeanBrightness": 134.93133544921875,
+    "meanAdjacentDifference": 1.0604135431194794,
+    "maxAdjacentDifference": 1.7190277777777778,
+    "flags": []
+  },
+  {
+    "id": "image-083",
+    "frames": 205,
+    "minMeanBrightness": 90.98213195800781,
+    "meanAdjacentDifference": 1.411057978168119,
+    "maxAdjacentDifference": 2.0016666666666665,
+    "flags": []
+  },
+  {
+    "id": "image-084",
+    "frames": 293,
+    "minMeanBrightness": 89.95067596435547,
+    "meanAdjacentDifference": 1.0435618222031964,
+    "maxAdjacentDifference": 1.3482407407407409,
+    "flags": []
+  },
+  {
+    "id": "image-085",
+    "frames": 182,
+    "minMeanBrightness": 113.26979064941406,
+    "meanAdjacentDifference": 1.4480394733476571,
+    "maxAdjacentDifference": 1.8018344907407406,
+    "flags": []
+  },
+  {
+    "id": "map-036",
+    "frames": 608,
+    "minMeanBrightness": 40.75707244873047,
+    "meanAdjacentDifference": 0.06994362644151564,
+    "maxAdjacentDifference": 0.5801388888888889,
+    "flags": []
+  },
+  {
+    "id": "image-086",
+    "frames": 156,
+    "minMeanBrightness": 105.21333312988281,
+    "meanAdjacentDifference": 1.0926648745519714,
+    "maxAdjacentDifference": 1.4072453703703705,
+    "flags": []
+  },
+  {
+    "id": "map-037",
+    "frames": 367,
+    "minMeanBrightness": 64.76834106445312,
+    "meanAdjacentDifference": 0.008932481405585915,
+    "maxAdjacentDifference": 0.13789351851851853,
+    "flags": []
+  },
+  {
+    "id": "image-087",
+    "frames": 298,
+    "minMeanBrightness": 98.58076477050781,
+    "meanAdjacentDifference": 1.0105923042149894,
+    "maxAdjacentDifference": 1.408130787037037,
+    "flags": []
+  },
+  {
+    "id": "image-088",
+    "frames": 199,
+    "minMeanBrightness": 76.01606750488281,
+    "meanAdjacentDifference": 1.055449079919566,
+    "maxAdjacentDifference": 1.4104398148148147,
+    "flags": []
+  },
+  {
+    "id": "image-089",
+    "frames": 241,
+    "minMeanBrightness": 132.03370666503906,
+    "meanAdjacentDifference": 1.0124264564043208,
+    "maxAdjacentDifference": 1.4705729166666666,
+    "flags": []
+  },
+  {
+    "id": "image-090",
+    "frames": 279,
+    "minMeanBrightness": 43.24675369262695,
+    "meanAdjacentDifference": 0.5485864641620037,
+    "maxAdjacentDifference": 0.9117824074074075,
+    "flags": []
+  },
+  {
+    "id": "image-091",
+    "frames": 340,
+    "minMeanBrightness": 46.731868743896484,
+    "meanAdjacentDifference": 0.4205027211023708,
+    "maxAdjacentDifference": 0.5905497685185185,
+    "flags": []
+  },
+  {
+    "id": "image-092",
+    "frames": 142,
+    "minMeanBrightness": 122.55941009521484,
+    "meanAdjacentDifference": 1.4841963816653532,
+    "maxAdjacentDifference": 1.750138888888889,
+    "flags": []
+  },
+  {
+    "id": "map-038",
+    "frames": 562,
+    "minMeanBrightness": 29.14962387084961,
+    "meanAdjacentDifference": 0.00409555109922757,
+    "maxAdjacentDifference": 0.07490740740740741,
+    "flags": []
+  },
+  {
+    "id": "image-093",
+    "frames": 245,
+    "minMeanBrightness": 104.10830688476562,
+    "meanAdjacentDifference": 1.2285808003187615,
+    "maxAdjacentDifference": 1.9929976851851852,
+    "flags": []
+  },
+  {
+    "id": "map-039",
+    "frames": 216,
+    "minMeanBrightness": 27.699329376220703,
+    "meanAdjacentDifference": 0.03044191429801895,
+    "maxAdjacentDifference": 0.20047453703703705,
+    "flags": []
+  },
+  {
+    "id": "image-094",
+    "frames": 283,
+    "minMeanBrightness": 105.20140838623047,
+    "meanAdjacentDifference": 0.4886400052534804,
+    "maxAdjacentDifference": 0.6708564814814815,
+    "flags": []
+  },
+  {
+    "id": "image-095",
+    "frames": 333,
+    "minMeanBrightness": 117.65667724609375,
+    "meanAdjacentDifference": 0.9721374560742974,
+    "maxAdjacentDifference": 1.613738425925926,
+    "flags": []
+  },
+  {
+    "id": "image-096",
+    "frames": 415,
+    "minMeanBrightness": 137.91148376464844,
+    "meanAdjacentDifference": 0.9734275194578638,
+    "maxAdjacentDifference": 1.3115972222222223,
+    "flags": []
+  },
+  {
+    "id": "image-097",
+    "frames": 53,
+    "minMeanBrightness": 145.6749267578125,
+    "meanAdjacentDifference": 1.9237557870370372,
+    "maxAdjacentDifference": 2.0808043981481483,
+    "flags": []
+  },
+  {
+    "id": "image-098",
+    "frames": 56,
+    "minMeanBrightness": 88.98225402832031,
+    "meanAdjacentDifference": 6.120205808080809,
+    "maxAdjacentDifference": 6.673350694444444,
+    "flags": []
+  },
+  {
+    "id": "image-099",
+    "frames": 287,
+    "minMeanBrightness": 121.94412994384766,
+    "meanAdjacentDifference": 1.1031824454480703,
+    "maxAdjacentDifference": 1.7519270833333334,
+    "flags": []
+  },
+  {
+    "id": "map-040",
+    "frames": 545,
+    "minMeanBrightness": 37.02089309692383,
+    "meanAdjacentDifference": 0.18954962171500545,
+    "maxAdjacentDifference": 0.6318113425925926,
+    "flags": []
+  },
+  {
+    "id": "image-100",
+    "frames": 343,
+    "minMeanBrightness": 111.49925994873047,
+    "meanAdjacentDifference": 1.2009622895007581,
+    "maxAdjacentDifference": 1.816730324074074,
+    "flags": []
+  },
+  {
+    "id": "image-101",
+    "frames": 292,
+    "minMeanBrightness": 66.07708740234375,
+    "meanAdjacentDifference": 0.9808988402061857,
+    "maxAdjacentDifference": 1.4568287037037038,
+    "flags": []
+  },
+  {
+    "id": "image-102",
+    "frames": 260,
+    "minMeanBrightness": 78.22651672363281,
+    "meanAdjacentDifference": 1.09763156013156,
+    "maxAdjacentDifference": 1.908275462962963,
+    "flags": []
+  },
+  {
+    "id": "image-103",
+    "frames": 206,
+    "minMeanBrightness": 117.84648132324219,
+    "meanAdjacentDifference": 1.3021191000451673,
+    "maxAdjacentDifference": 1.7890972222222221,
+    "flags": []
+  },
+  {
+    "id": "image-104",
+    "frames": 137,
+    "minMeanBrightness": 124.09805297851562,
+    "meanAdjacentDifference": 0.9642471320125272,
+    "maxAdjacentDifference": 1.3988020833333332,
+    "flags": []
+  },
+  {
+    "id": "image-105",
+    "frames": 388,
+    "minMeanBrightness": 116.21033477783203,
+    "meanAdjacentDifference": 0.8802086623121831,
+    "maxAdjacentDifference": 1.547013888888889,
+    "flags": []
+  },
+  {
+    "id": "image-106",
+    "frames": 254,
+    "minMeanBrightness": 118.53509521484375,
+    "meanAdjacentDifference": 0.8472443868028107,
+    "maxAdjacentDifference": 1.5840219907407407,
+    "flags": []
+  },
+  {
+    "id": "image-107",
+    "frames": 144,
+    "minMeanBrightness": 113.0490951538086,
+    "meanAdjacentDifference": 1.7274216928904431,
+    "maxAdjacentDifference": 2.320925925925926,
+    "flags": []
+  },
+  {
+    "id": "image-108",
+    "frames": 121,
+    "minMeanBrightness": 54.078426361083984,
+    "meanAdjacentDifference": 0.8977905092592593,
+    "maxAdjacentDifference": 1.2025115740740742,
+    "flags": []
+  },
+  {
+    "id": "image-109",
+    "frames": 172,
+    "minMeanBrightness": 63.26445770263672,
+    "meanAdjacentDifference": 0.9634671797162662,
+    "maxAdjacentDifference": 1.4005439814814815,
+    "flags": []
+  },
+  {
+    "id": "image-110",
+    "frames": 253,
+    "minMeanBrightness": 123.0477294921875,
+    "meanAdjacentDifference": 1.4367599941211053,
+    "maxAdjacentDifference": 2.1871064814814813,
+    "flags": []
+  },
+  {
+    "id": "image-111",
+    "frames": 209,
+    "minMeanBrightness": 145.65196228027344,
+    "meanAdjacentDifference": 0.852770822204416,
+    "maxAdjacentDifference": 1.416076388888889,
+    "flags": []
+  },
+  {
+    "id": "image-112",
+    "frames": 276,
+    "minMeanBrightness": 87.21833801269531,
+    "meanAdjacentDifference": 0.6921693602693602,
+    "maxAdjacentDifference": 1.1634895833333334,
+    "flags": []
+  },
+  {
+    "id": "image-113",
+    "frames": 149,
+    "minMeanBrightness": 47.071231842041016,
+    "meanAdjacentDifference": 0.9964155170795795,
+    "maxAdjacentDifference": 1.2569039351851852,
+    "flags": []
+  },
+  {
+    "id": "image-114",
+    "frames": 110,
+    "minMeanBrightness": 155.75953674316406,
+    "meanAdjacentDifference": 1.4291805237003057,
+    "maxAdjacentDifference": 1.9718055555555556,
+    "flags": []
+  }
+]
