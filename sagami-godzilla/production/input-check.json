@@ -1,0 +1,11 @@
+{
+  "audioSeconds": 1475.761633,
+  "sampleRate": 44100,
+  "channels": 2,
+  "cues": 501,
+  "overlaps": [],
+  "lastCueEnd": 1475.761,
+  "fullFramesIfApproved": 44273,
+  "previewFrames": 1200,
+  "previewSeconds": 40
+}

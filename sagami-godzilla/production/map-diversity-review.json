@@ -1,0 +1,17 @@
+{
+  "scope": "40s preview; not a full film approval",
+  "mapScenes": 1,
+  "totalPairs": 0,
+  "comparedPairs": [],
+  "unresolvedSimilarityIds": [],
+  "sourceFingerprint": "df7e1d2a47a74cb15d4e5330474fab77636e013cb0f9a32c80c40522ee02e24f",
+  "stillsReviewed": [
+    "out/proof-670.png",
+    "out/proof-800.png",
+    "out/proof-1000.png",
+    "out/proof-1170.png"
+  ],
+  "stillReview": "accepted: legible coordinate-anchored labels, sharp satellite imagery, distinct beat reveals in one continuous shot",
+  "motionReview": "pending rendered clip inspection; no browser playback tool currently exposed",
+  "fullRenderGate": "not applicable: only preview requested"
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "projectId": "sagami-godzilla",
+  "previewOnly": true,
+  "fps": 30,
+  "frames": 1200,
+  "audioRangeSeconds": [0,40],
+  "scenes": [
+    {"id":"illustration-001","startFrame":0,"endFrame":261,"type":"illustration","srtCueIds":[1,2,3],"claim":"Godzilla emerges and captures our attention","newVisualInformation":"Original fictional water-level creature view, ocean scale and spray","asset":"public/scenes/image-001.png","motion":"Linear 100–120% forward push, no shake","transitionOut":"12-frame soft dissolve, next scene begins at 249"},
+    {"id":"illustration-002","startFrame":249,"endFrame":396,"type":"illustration","srtCueIds":[4],"claim":"We forget to consider the sea itself","newVisualInformation":"Ordinary daylight sea and shoreline, contrasting fictional monster","asset":"public/scenes/image-002.png","motion":"Linear 100–120% forward push, no shake","transitionOut":"12-frame soft dissolve, next scene begins at 384"},
+    {"id":"illustration-003","startFrame":384,"endFrame":618,"type":"illustration","srtCueIds":[5,6,7],"claim":"Renewed cinema interest introduces geographic question","newVisualInformation":"Original illustration of audience watching an imagined creature film, no title/date claims","asset":"public/scenes/image-003.png","motion":"Linear 100–120% forward push, no shake","transitionOut":"12-frame soft dissolve, map starts at 606"},
+    {"id":"map-001","startFrame":606,"endFrame":1200,"type":"map","srtCueIds":[8,9,10,11,12,13,14],"claim":"Locate Sagami Bay west of Tokyo Bay, south of Kanagawa, with Miura Peninsula to the east","newVisualInformation":"Real satellite imagery reveals relationship between two bays and intervening peninsula; layers enter with matching narration","dataSource":"Esri World Imagery cached Web Mercator tiles, z11","mapDesign":{"family":"Real satellite locator with continuous directed camera","extent":"Kanto to Sagami and Tokyo bays","projection":"EPSG:3857","layout":"Full bleed satellite imagery, geographic leaders, sparse local labels","camera":"Wide Kanto view to local two-bay view; no fake 3D tilt","dataLayers":["satellite terrain and coastline","coordinate anchored bay locators","Miura peninsula trace"],"explanationMechanism":"Locate Sagami; compare with Tokyo Bay using westward connection; reveal Kanagawa and Miura at spoken cue","similarSceneIds":[],"meaningfulDifferences":["Only one map shot in preview; multiple explanatory beats are not inflated as separate scenes"]},"motion":"Smooth directed camera, progressive geographic marks and readable holds","status":"building"}
+  ],
+  "note":"End exclusive. Deliberate 12-frame overlaps preserve total 40s. Illustrations are fictional generated images, not film stills or factual geographic evidence. No full render authorized yet."
+}

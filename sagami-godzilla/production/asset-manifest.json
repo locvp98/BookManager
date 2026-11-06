@@ -1,0 +1,59 @@
+[
+  {
+    "id": "image-001",
+    "path": "public/scenes/image-001.png",
+    "origin": "generated-new-for-this-preview",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "32834d9e9e5346e346eba01aca778cfe2dad7daa9236b4f38099df66557fd314",
+    "fictionalIllustration": true,
+    "review": "visually reviewed: accepted",
+    "content": "Original fictional Godzilla emerges from a dawn ocean, water-level composition; not a movie still.",
+    "motion": {
+      "scaleStart": 1,
+      "scaleEnd": 1.2,
+      "curve": "linear",
+      "shake": false
+    }
+  },
+  {
+    "id": "image-002",
+    "path": "public/scenes/image-002.png",
+    "origin": "generated-new-for-this-preview",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "8176ce5b30e1e14ff38b2c1a9f227774e4dcb82169410f80e7da192193a1d780",
+    "fictionalIllustration": true,
+    "review": "visually reviewed: accepted",
+    "content": "Original realistic ordinary Japanese coastal sea under clear morning light; not a geographic map.",
+    "motion": {
+      "scaleStart": 1,
+      "scaleEnd": 1.2,
+      "curve": "linear",
+      "shake": false
+    }
+  },
+  {
+    "id": "image-003",
+    "path": "public/scenes/image-003.png",
+    "origin": "generated-new-for-this-preview",
+    "size": [
+      1672,
+      941
+    ],
+    "sha256": "1a79eed41309b45e65f2528067910b821b762512da431b3fbe66a177eec32c20",
+    "fictionalIllustration": true,
+    "review": "visually reviewed: accepted",
+    "content": "Original cinema audience with fictional creature on screen, no real film still, no release title/date.",
+    "motion": {
+      "scaleStart": 1,
+      "scaleEnd": 1.2,
+      "curve": "linear",
+      "shake": false
+    }
+  }
+]
