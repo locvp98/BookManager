@@ -1,0 +1,81 @@
+{
+  "chapters": [
+    {
+      "cue": 24,
+      "startSeconds": 67.48,
+      "place": "ひろしまナタリー"
+    },
+    {
+      "cue": 52,
+      "startSeconds": 155.56,
+      "place": "三段峡"
+    },
+    {
+      "cue": 82,
+      "startSeconds": 248.26,
+      "place": "大久野島"
+    },
+    {
+      "cue": 110,
+      "startSeconds": 338.9,
+      "place": "呉ポートピアランド"
+    },
+    {
+      "cue": 141,
+      "startSeconds": 429.64,
+      "place": "宮浜温泉"
+    },
+    {
+      "cue": 168,
+      "startSeconds": 512.02,
+      "place": "因島フラワーセンター"
+    },
+    {
+      "cue": 201,
+      "startSeconds": 615.22,
+      "place": "比婆山"
+    },
+    {
+      "cue": 230,
+      "startSeconds": 700.98,
+      "place": "マリーナホップ"
+    },
+    {
+      "cue": 259,
+      "startSeconds": 788.76,
+      "place": "帝釈峡"
+    },
+    {
+      "cue": 285,
+      "startSeconds": 878.82,
+      "place": "野呂山"
+    },
+    {
+      "cue": 314,
+      "startSeconds": 966.3,
+      "place": "千光寺山グリーンランド"
+    },
+    {
+      "cue": 345,
+      "startSeconds": 1053.02,
+      "place": "芸北国際スキー場"
+    },
+    {
+      "cue": 374,
+      "startSeconds": 1142.16,
+      "place": "仙酔島・国民宿舎"
+    },
+    {
+      "cue": 402,
+      "startSeconds": 1232.24,
+      "place": "包ヶ浦自然公園"
+    },
+    {
+      "cue": 431,
+      "startSeconds": 1320.32,
+      "place": "湯来温泉"
+    }
+  ],
+  "futureIllustrationPlanningBaseline": 108,
+  "notAnAssetCreationClaim": true
+}

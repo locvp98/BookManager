@@ -1,0 +1,37 @@
+{
+  "projectId": "hiroshima-memories",
+  "title": "衰退した広島の観光地15選",
+  "narrationLanguage": "ja",
+  "workingLanguage": "vi",
+  "inputs": {
+    "audio": "public/narration.mp3",
+    "srt": "public/narration.srt"
+  },
+  "output": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "previewSeconds": 40,
+    "subtitles": false,
+    "cornerFrame": false,
+    "illustrationText": false,
+    "mapAnnotations": true
+  },
+  "scope": "40-second preview only; full rendering not started",
+  "audioMaster": "original unchanged narration; preview uses seconds0..40",
+  "editorial": {
+    "newIllustrations": true,
+    "olderFilmAssetsUsed": 0,
+    "photoScale": [
+      1,
+      1.2
+    ],
+    "photoCurve": "linear for entire shot; no resets per subtitle cue",
+    "transitions": "12-frame outgoing last-frame hold, incoming crossfade; no fade to black",
+    "mapDesign": "Real satellite overview plus independently cropped high-resolution landmark insets, geographic pins and leaders. No artificial population or visitor-density layer."
+  },
+  "delivery": {
+    "provider": "GitHub on established locvp98/BookManager work channel",
+    "fullUploadNotInScope": true
+  }
+}

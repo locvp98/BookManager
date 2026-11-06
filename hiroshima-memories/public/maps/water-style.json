@@ -1,0 +1,8 @@
+{
+  "method": "Actual Esri land imagery plus cartographically styled water. Water/coastline mask derived from actual GSI standard-map tiles at matching zoom, not invented topography or blurred geography. Uniform navy is a cartographic style, not observed sea color or depth.",
+  "source": "https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+  "zoom": 14,
+  "maskEdgeAntialiasPixels": 0.3,
+  "waterPixels": 4927336,
+  "noLandBlur": true
+}

@@ -1,0 +1,205 @@
+{
+  "fps": 30,
+  "frames": 1200,
+  "scope": "40-second opening preview",
+  "scenes": [
+    {
+      "id": "image-001",
+      "type": "illustration",
+      "startFrame": 0,
+      "endFrame": 202,
+      "srtCueIds": [
+        1
+      ],
+      "claim": "かつて広島には年間三十一万人が 訪れた花の公園があります。",
+      "newVisualInformation": "flower garden visitors in former busy period",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 0
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "assets": [
+        "public/scenes/image-001.png"
+      ],
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "durationFrames": 202,
+        "shake": false
+      }
+    },
+    {
+      "id": "image-002",
+      "type": "illustration",
+      "startFrame": 202,
+      "endFrame": 392,
+      "srtCueIds": [
+        2,
+        3
+      ],
+      "claim": "ところが今、 その自慢の大温室には入る ことさえできなくなっています。",
+      "newVisualInformation": "closed conservatory entrance; not an exact surveyed building reconstruction",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 12
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "assets": [
+        "public/scenes/image-002.png"
+      ],
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "durationFrames": 190,
+        "shake": false
+      }
+    },
+    {
+      "id": "map-001",
+      "type": "map",
+      "startFrame": 392,
+      "endFrame": 629,
+      "srtCueIds": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "claim": "宮島や原爆ドームの 賑わいを見ていると、 広島にそんな場所が あるのかと思うかもしれません。 でも、 その影では、",
+      "newVisualInformation": "Geographic relationship of Miyajima and Genbaku Dome; two distinct locality insets",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 12
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "mapDesign": {
+        "family": "satellite geographic locator plus paired locality detail insets",
+        "extent": {
+          "mainCenter": [
+            132.39,
+            34.345
+          ],
+          "mainLongitudeSpan": 0.38,
+          "miyajimaCenter": [
+            132.3198,
+            34.2959
+          ],
+          "domeCenter": [
+            132.4536,
+            34.3955
+          ]
+        },
+        "projection": "Web Mercator EPSG:3857",
+        "camera": "held overview; smooth sequential pin and inset reveals; fixed coordinates for all leaders",
+        "layout": "overview full frame, two independently georeferenced detail crops at right",
+        "dataLayers": [
+          "actual satellite imagery",
+          "two representative landmark coordinates"
+        ],
+        "explanationMechanism": "orient Hiroshima, reveal Miyajima then Genbaku Dome in narration order, expose larger detail of each geographic destination",
+        "notes": [
+          "広島",
+          "宮島",
+          "原爆ドーム"
+        ],
+        "meaningfulDifferences": [
+          "Only one map scene in40-second preview; no old-film map shot reused."
+        ],
+        "sourceResolution": {
+          "overviewZoom": 14,
+          "detailZoom": 17,
+          "minimumSourcePixelsPerOutputPixel": 1.51
+        }
+      },
+      "mapReview": {
+        "status": "static and encoded-frame sequence review accepted for preview; realtime interactive playback unavailable",
+        "pairCount": 0,
+        "otherMapScenesInPreview": 0
+      }
+    },
+    {
+      "id": "image-003",
+      "type": "illustration",
+      "startFrame": 629,
+      "endFrame": 759,
+      "srtCueIds": [
+        7,
+        8
+      ],
+      "claim": "その影では、 休日に家族で出かけた遊園地や",
+      "newVisualInformation": "family weekend at an ordinary seaside amusement park",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 12
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "assets": [
+        "public/scenes/image-003.png"
+      ],
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "durationFrames": 130,
+        "shake": false
+      }
+    },
+    {
+      "id": "image-004",
+      "type": "illustration",
+      "startFrame": 759,
+      "endFrame": 918,
+      "srtCueIds": [
+        9
+      ],
+      "claim": "友達と泊まった海辺の宿が ひっそりと姿を消してきました。",
+      "newVisualInformation": "friends staying at a regional seaside inn",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 12
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "assets": [
+        "public/scenes/image-004.png"
+      ],
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "durationFrames": 159,
+        "shake": false
+      }
+    },
+    {
+      "id": "image-005",
+      "type": "illustration",
+      "startFrame": 918,
+      "endFrame": 1200,
+      "srtCueIds": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "claim": "中には名前を聞いただけで、 あそこ昔よく行ったなと 懐かしくなる場所もあるはずです。 あの日、",
+      "newVisualInformation": "remembering a family holiday through a photograph",
+      "transitionIn": {
+        "type": "hold-dissolve",
+        "frames": 12
+      },
+      "status": "rendered in verified1200-frame preview; visual and encoded transition checks complete",
+      "assets": [
+        "public/scenes/image-005.png"
+      ],
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "durationFrames": 282,
+        "shake": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "seconds": 2,
+    "correlation": 0.9799480260186832
+  },
+  {
+    "seconds": 15,
+    "correlation": 0.982516323302654
+  },
+  {
+    "seconds": 30,
+    "correlation": 0.9999639082183371
+  }
+]

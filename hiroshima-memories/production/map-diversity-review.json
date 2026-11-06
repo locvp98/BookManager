@@ -1,0 +1,16 @@
+{
+  "previewMapCount": 1,
+  "pairCount": 0,
+  "pairs": [],
+  "source": "one independently designed Hiroshima overview with two separate geographic close-ups; no previous-film scene reused",
+  "reviewMethod": "rendered scene proof frames and subsequent decoded video sequence; no interactive playback tool exposed",
+  "status": "accepted for40-second preview from revised static proofs and actual encoded sequence checks",
+  "proofFrames": [
+    430,
+    510,
+    600
+  ],
+  "encodedReview": "production/encoded-motion-check.json",
+  "transitionEvidence": "production/encoded-transitions.jpg",
+  "limitations": "No realtime interactive playback tool exposed; no realtime playback claimed. All1200decoded frames analyzed and encoded transitions visually inspected."
+}

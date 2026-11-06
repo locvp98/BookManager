@@ -1,0 +1,72 @@
+[
+  {
+    "id": "image-001",
+    "path": "public/scenes/image-001.png",
+    "origin": "new independently generated illustrative reconstruction for this film",
+    "source": "OpenAI image generation tool, current session",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "79de52ffe2607e9d30d9a680fc6b9b03d98a6e4889428edcbf114615fff2f6c3",
+    "promptIntent": "flower garden visitors in former busy period; cinematic photorealistic original, Japanese period/context, landscape16:9, no writing/captions/logo/watermark/corner frame, safe margin for100to120percent push-in",
+    "exactPromptRecord": "Full generation prompts are preserved in the session tool calls; promptIntent here is a summary, not falsely presented as verbatim.",
+    "review": "accepted: checked hands, framing, period/context, no illustration text, no exact archival or architectural authenticity claimed"
+  },
+  {
+    "id": "image-002",
+    "path": "public/scenes/image-002.png",
+    "origin": "new independently generated illustrative reconstruction for this film",
+    "source": "OpenAI image generation tool, current session",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "35d81f7f024c54bdd6312a8080ad5d78647c746768e5b2860267a76af8b755ea",
+    "promptIntent": "closed conservatory entrance; not an exact surveyed building reconstruction; cinematic photorealistic original, Japanese period/context, landscape16:9, no writing/captions/logo/watermark/corner frame, safe margin for100to120percent push-in",
+    "exactPromptRecord": "Full generation prompts are preserved in the session tool calls; promptIntent here is a summary, not falsely presented as verbatim.",
+    "review": "accepted: checked hands, framing, period/context, no illustration text, no exact archival or architectural authenticity claimed"
+  },
+  {
+    "id": "image-003",
+    "path": "public/scenes/image-003.png",
+    "origin": "new independently generated illustrative reconstruction for this film",
+    "source": "OpenAI image generation tool, current session",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "d219ee4c326394966da29f93051adb4ce75ede7b40ea4c8e6f2211f436406f21",
+    "promptIntent": "family weekend at an ordinary seaside amusement park; cinematic photorealistic original, Japanese period/context, landscape16:9, no writing/captions/logo/watermark/corner frame, safe margin for100to120percent push-in",
+    "exactPromptRecord": "Full generation prompts are preserved in the session tool calls; promptIntent here is a summary, not falsely presented as verbatim.",
+    "review": "accepted: checked hands, framing, period/context, no illustration text, no exact archival or architectural authenticity claimed"
+  },
+  {
+    "id": "image-004",
+    "path": "public/scenes/image-004.png",
+    "origin": "new independently generated illustrative reconstruction for this film",
+    "source": "OpenAI image generation tool, current session",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "18f64be261fe4a42072c175ab6e0a806b017980d1f026e38633a6d047a3f6175",
+    "promptIntent": "friends staying at a regional seaside inn; cinematic photorealistic original, Japanese period/context, landscape16:9, no writing/captions/logo/watermark/corner frame, safe margin for100to120percent push-in",
+    "exactPromptRecord": "Full generation prompts are preserved in the session tool calls; promptIntent here is a summary, not falsely presented as verbatim.",
+    "review": "accepted: checked hands, framing, period/context, no illustration text, no exact archival or architectural authenticity claimed"
+  },
+  {
+    "id": "image-005",
+    "path": "public/scenes/image-005.png",
+    "origin": "new independently generated illustrative reconstruction for this film",
+    "source": "OpenAI image generation tool, current session",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "299d08605a4f7e49a73e7768c7665086273d7d4978a59f2d427aebf0974a2687",
+    "promptIntent": "remembering a family holiday through a photograph; cinematic photorealistic original, Japanese period/context, landscape16:9, no writing/captions/logo/watermark/corner frame, safe margin for100to120percent push-in",
+    "exactPromptRecord": "Full generation prompts are preserved in the session tool calls; promptIntent here is a summary, not falsely presented as verbatim.",
+    "review": "accepted: checked hands, framing, period/context, no illustration text, no exact archival or architectural authenticity claimed"
+  }
+]

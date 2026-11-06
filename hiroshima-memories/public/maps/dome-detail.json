@@ -1,0 +1,19 @@
+{
+  "zoom": 17,
+  "tileOrigin": [
+    113758,
+    52183
+  ],
+  "width": 1536,
+  "height": 1280,
+  "boundsRequested": [
+    132.447,
+    34.391,
+    132.461,
+    34.4
+  ],
+  "tileCount": 30,
+  "source": "Esri World Imagery",
+  "attribution": "Esri, Maxar, Earthstar Geographics and the GIS User Community",
+  "projection": "Web Mercator EPSG:3857"
+}

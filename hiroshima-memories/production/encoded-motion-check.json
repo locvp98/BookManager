@@ -1,0 +1,65 @@
+{
+  "framesDecoded": 1200,
+  "fps": 30,
+  "minimumMeanBrightness": 52.75865483539095,
+  "maximumAdjacentDifference": 8.361543209876544,
+  "meanAdjacentDifference": 1.763010413341708,
+  "transitions": [
+    {
+      "boundaryFrame": 202,
+      "maxAdjacentDifferenceAroundBoundary": 6.065203189300411,
+      "reviewFrames": [
+        201,
+        202,
+        208,
+        214,
+        226
+      ]
+    },
+    {
+      "boundaryFrame": 392,
+      "maxAdjacentDifferenceAroundBoundary": 4.587677469135802,
+      "reviewFrames": [
+        391,
+        392,
+        398,
+        404,
+        416
+      ]
+    },
+    {
+      "boundaryFrame": 629,
+      "maxAdjacentDifferenceAroundBoundary": 8.361543209876544,
+      "reviewFrames": [
+        628,
+        629,
+        635,
+        641,
+        653
+      ]
+    },
+    {
+      "boundaryFrame": 759,
+      "maxAdjacentDifferenceAroundBoundary": 5.574238683127572,
+      "reviewFrames": [
+        758,
+        759,
+        765,
+        771,
+        783
+      ]
+    },
+    {
+      "boundaryFrame": 918,
+      "maxAdjacentDifferenceAroundBoundary": 5.293276748971193,
+      "reviewFrames": [
+        917,
+        918,
+        924,
+        930,
+        942
+      ]
+    }
+  ],
+  "method": "native30fps decoded frame sequence statistics plus visual contact strips of actual encoded transitions; realtime interactive playback not claimed"
+}
