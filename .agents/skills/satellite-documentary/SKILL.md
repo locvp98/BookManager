@@ -39,8 +39,8 @@ markup, maps và render theo công việc cụ thể; không giả định mọi
   hay đổi hướng đột ngột. Không reset zoom/rung theo từng ảnh; xem clip chuyển động
   và điểm nối để kiểm tra, không chỉ duyệt ảnh tĩnh.
   Với ảnh phù hợp, ưu tiên cú camera tiến chậm về điểm chú ý (gentle push-in),
-  mặc định đã được người dùng chỉnh là 100% → 112% trong cả shot, tuyến tính
-  và liên tục; không hiểu 112% là tốc độ phát audio/video. Điều chỉnh khi người
+  mặc định đã được người dùng chỉnh là 100% → 120% trong cả shot, tuyến tính
+  và liên tục; không hiểu 120% là tốc độ phát audio/video. Điều chỉnh khi người
   dùng yêu cầu hoặc crop không an toàn, không thêm hiệu ứng rung hay nảy.
 - Mỗi lần trở lại map phải có phát hiện thị giác mới đúng lời thoại: vị trí, phạm
   vi, dòng chảy, đường đi, biến động, mật độ hoặc so sánh. Chỉ đổi zoom/màu/scan

@@ -130,7 +130,7 @@ Không cắt một contact sheet thành nhiều cảnh rồi gọi là các ản
 
 Chuyển động ngoài map phải nhẹ và mượt theo yêu cầu người dùng. Dùng pan/dolly
 chậm có tâm chú ý rõ, parallax nhẹ nếu có đủ lớp, ánh sáng hoặc đồ họa cơ chế
-chuyển động êm. Với ảnh tĩnh, mặc định hiện tại là tiến nhẹ từ 100% đến 112% trong cả shot, tuyến tính
+chuyển động êm. Với ảnh tĩnh, mặc định hiện tại là tiến nhẹ từ 100% đến 120% trong cả shot, tuyến tính
 và liên tục theo frame; đây là mức scale cuối, không phải tăng tốc audio/video. Điều chỉnh theo thời lượng, crop
 và nội dung; không ép mọi ảnh zoom cùng một công thức. Footage đã có chuyển động
 phù hợp có thể giữ nguyên camera.
