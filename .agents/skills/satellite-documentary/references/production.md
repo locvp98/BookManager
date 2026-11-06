@@ -70,6 +70,22 @@ Trước khi render dài, xem contact sheet toàn bộ cảnh map và các đo�
 cục và cùng cách giải thích lặp lại, phải thiết kế lại. Đồng thời kiểm tra lớp
 giải thích xuất hiện đúng nhịp lời thoại; ảnh chụp tĩnh không đủ chứng minh animation.
 
+### Cổng chống lặp bắt buộc và map chân thực
+
+Áp dụng [quy trình duyệt đa dạng map](map-diversity-review.md) trước khi render
+full và kiểm lại bản xuất. Đối chiếu toàn bộ map, kể cả khác chương. Không đánh
+dấu đạt chỉ vì khác ID, hash, màu, note, nguồn ảnh hay vài thông số camera.
+Cùng một vùng được dùng lại dữ liệu gốc, nhưng phải có thông tin mới **và** thay
+đổi đáng kể cách giải thích/bố cục. Lập bảng liên hệ các cảnh gần giống để sửa
+đúng cảnh, không tăng số map bằng biến thể trang trí.
+
+Khi lời thoại nói về núi, địa hình hoặc rào cản tự nhiên, ưu tiên một cảnh vệ tinh
+địa hình chân thực phù hợp: ảnh vệ tinh thật + DEM/hillshade có nguồn, camera
+nghiêng có phối cảnh, highlight theo đúng địa vật. Xem mẫu mới trong
+[nghiên cứu ảnh tham chiếu](map-reference-study.md#anh-mau-dia-hinh-chan-thuc-2026-11-06).
+Không dựng ảnh AI làm nền bản đồ chính xác, không kéo nghiêng ảnh phẳng rồi gọi
+là địa hình 3D. Phân biệt hillshade 2D, mesh DEM 3D và sơ đồ mặt cắt trong hồ sơ.
+
 ### Nghiên cứu ví dụ người dùng cung cấp
 
 Khi người dùng gửi video, link hoặc hình mẫu, xem tài liệu thật trước khi tuyên bố
@@ -114,8 +130,8 @@ Không cắt một contact sheet thành nhiều cảnh rồi gọi là các ản
 
 Chuyển động ngoài map phải nhẹ và mượt theo yêu cầu người dùng. Dùng pan/dolly
 chậm có tâm chú ý rõ, parallax nhẹ nếu có đủ lớp, ánh sáng hoặc đồ họa cơ chế
-chuyển động êm. Với ảnh tĩnh, mức zoom tổng khoảng 1–4% trong một shot là điểm
-khởi đầu để xem thử, không phải mức bắt buộc. Điều chỉnh theo thời lượng, crop
+chuyển động êm. Với ảnh tĩnh, mặc định hiện tại là tiến nhẹ từ 100% đến 112% trong cả shot, tuyến tính
+và liên tục theo frame; đây là mức scale cuối, không phải tăng tốc audio/video. Điều chỉnh theo thời lượng, crop
 và nội dung; không ép mọi ảnh zoom cùng một công thức. Footage đã có chuyển động
 phù hợp có thể giữ nguyên camera.
 
@@ -142,7 +158,9 @@ hiệu ứng đó và giữ hình ổn định, không thay bằng một hiệu 
 2. Asset: đường dẫn tồn tại, ảnh đọc được, đủ độ phân giải, không trùng hash ngoài
    những asset nền/lớp dùng chung được chủ đích cho phép.
 3. Story: từng cảnh gắn đúng câu, không tự dùng lại bộ cảnh chủ đề cũ.
-4. Map: dữ liệu đúng, mỗi lần trở lại có thêm thông tin; xem ít nhất đầu/giữa/cuối cảnh.
+4. Map: dữ liệu đúng, mỗi lần trở lại có thêm thông tin và thiết kế khác biệt;
+   hoàn tất duyệt mọi cặp theo `map-diversity-review.json`, không còn cảnh bị đánh
+   dấu lặp chưa sửa; xem đầu/giữa/cuối và các đoạn chuyển động thực.
 5. Full/preview: giữ hiệu ứng, màu, chuyển cảnh và độ nét đã duyệt; preview nhẹ
    không được dùng làm nguồn low-resolution cho full.
 6. Contact sheets: bản nhẹ xem được, timecode và mô tả ở báo cáo, không đốt vào phim.

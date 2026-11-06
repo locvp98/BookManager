@@ -39,7 +39,9 @@ markup, maps và render theo công việc cụ thể; không giả định mọi
   hay đổi hướng đột ngột. Không reset zoom/rung theo từng ảnh; xem clip chuyển động
   và điểm nối để kiểm tra, không chỉ duyệt ảnh tĩnh.
   Với ảnh phù hợp, ưu tiên cú camera tiến chậm về điểm chú ý (gentle push-in),
-  mức phóng nhẹ khoảng 1–3% trong một shot; không thêm hiệu ứng rung hay nảy.
+  mặc định đã được người dùng chỉnh là 100% → 112% trong cả shot, tuyến tính
+  và liên tục; không hiểu 112% là tốc độ phát audio/video. Điều chỉnh khi người
+  dùng yêu cầu hoặc crop không an toàn, không thêm hiệu ứng rung hay nảy.
 - Mỗi lần trở lại map phải có phát hiện thị giác mới đúng lời thoại: vị trí, phạm
   vi, dòng chảy, đường đi, biến động, mật độ hoặc so sánh. Chỉ đổi zoom/màu/scan
   trên cùng một bản đồ chưa đủ để được tính là thông tin mới.
@@ -91,8 +93,17 @@ nhét ảnh vào khoảng trống. Map dùng cho địa lý/so sánh không gian
 Đối chiếu toàn timeline để không có đoạn đen, khoảng không có tài sản hay ảnh lặp.
 Overlap có chủ đích để chuyển cảnh được ghi rõ; độ dài video không bị đổi do overlap.
 
-Map quay lại cùng vùng phải đổi câu hỏi hoặc lớp giải thích, giữ mạch địa lý cho người
-xem. Không cấm tái dùng tile/địa hình gốc; cấm lặp nguyên cảnh không có thông tin mới.
+Map quay lại cùng vùng phải có luận điểm mới và thiết kế thị giác mới, giữ mạch địa lý.
+Đổi câu hỏi/nhãn/lớp phủ đơn lẻ chưa đủ nếu người xem vẫn thấy cùng một cảnh.
+Được dùng chung tile/DEM/GeoJSON chính xác; không dùng chung clip đã render hoặc
+lặp template toàn đảo rồi đổi overlay để tính thành cảnh mới. Áp dụng cổng kiểm
+tra bắt buộc tại [kiểm soát trùng map](references/map-diversity-review.md) cho toàn
+bộ cảnh map, cả các cảnh cách xa nhau. Chưa đạt thì thiết kế lại trước render full.
+
+Bổ sung map vệ tinh địa hình chân thực theo ảnh mẫu mới: texture vệ tinh sắc nét,
+địa hình DEM, góc nghiêng và highlight bám dãy núi/vùng đang giải thích. Đây là
+một họ thiết kế bên cạnh map vector/dữ liệu, không thay toàn bộ phim bằng cùng
+một nền vệ tinh. Đọc [mẫu địa hình chân thực](references/map-reference-study.md#anh-mau-dia-hinh-chan-thuc-2026-11-06).
 
 ## 3. Tạo tài sản và dựng
 
@@ -121,6 +132,11 @@ cho từng đoạn; không dùng audio đầu phim cho cảnh ở giữa phim.
 Người dùng có thể xem preview nhẹ, nhưng full phải giữ cùng thiết kế, hiệu ứng,
 chuyển cảnh và độ nét. Áp dụng các chỉnh sửa đã thống nhất cho full. Nếu người dùng
 đã giao xuất full, tiếp tục xuất, không chờ thêm một vòng xác nhận mặc định.
+
+Hoàn thành `map-diversity-review.json`: đối chiếu mọi cặp map, không chỉ cảnh liền
+nhau; giải quyết toàn bộ cảnh bị đánh dấu giống nhau. Hash khác hoặc ID khác không
+chứng minh cảnh khác. Xem ảnh đầu/giữa/cuối và clip chuyển động theo
+[quy trình duyệt map](references/map-diversity-review.md).
 
 Chụp contact sheet map ở thời điểm hiệu ứng đã xuất hiện (không chỉ frame đầu),
 có timecode và tên cảnh trong báo cáo bên ngoài video. Xuất JPG nhẹ khoảng

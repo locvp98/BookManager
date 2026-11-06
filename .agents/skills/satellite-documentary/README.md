@@ -41,3 +41,11 @@ không được đóng cứng vào skill.
 Helper render không tự viết kịch bản, tạo 100 ảnh hay upload. Agent thực hiện các
 bước sáng tạo bằng công cụ đang được cấp và chỉ tải lên khi được yêu cầu. Những
 phần thiếu công cụ/quyền phải được báo đúng, không thay bằng ảnh cũ hay link workspace.
+
+
+Cập nhật 2026-11-06: chống lặp **thiết kế map**, kể cả các cảnh khác chương;
+kiểm tra mọi cặp map bằng ảnh và chuyển động trước full. Bổ sung họ map vệ tinh
+địa hình chân thực theo ảnh mẫu: texture thật, DEM, camera nghiêng và highlight
+địa vật đúng tọa độ. Xem `references/map-diversity-review.md` và phần ảnh mẫu mới
+trong `references/map-reference-study.md`. Quy tắc là yêu cầu cho các lần dựng
+sau; cập nhật skill không tự sửa các cảnh đã xuất trong phim trước.

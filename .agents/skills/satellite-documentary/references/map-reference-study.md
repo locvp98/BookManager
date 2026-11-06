@@ -55,3 +55,39 @@ Xem contact sheet để phát hiện lặp bố cục; xem clip chuyển động
 camera, nhãn trôi/va nhau và reveal sai nhịp narration. Kiểm tra độ nét ở zoom
 lớn nhất và khả năng đọc note trên preview điện thoại. Nếu các cảnh vẫn cùng ảnh,
 cùng góc và cùng bố cục chỉ đổi hiệu ứng, thiết kế lại phần đó.
+
+
+<a id="anh-mau-dia-hinh-chan-thuc-2026-11-06"></a>
+## Ảnh mẫu địa hình chân thực — 2026-11-06
+
+Nguồn: ảnh Hokkaido người dùng đính kèm khi yêu cầu cập nhật skill ngày 2026-11-06.
+Ảnh tĩnh cho thấy nền vệ tinh tự nhiên, biển xanh đậm có chi tiết đáy biển, góc
+nhìn nghiêng toàn đảo, địa hình có cảm giác nổi, và một dải núi trung tâm–đông nam
+được làm nổi bằng màu nâu vàng, sống núi sáng trắng. Không có khung bốn góc.
+Không thể xác định từ ảnh tĩnh nguồn tile/DEM, mức phóng đại chiều cao, hay cách
+camera/highlight chuyển động; không khẳng định đã xem animation của mẫu.
+
+Cách dựng được đề xuất cho phim mới:
+
+- Giữ texture tự nhiên rõ ở cỡ xuất, dùng nguồn vệ tinh hợp lệ và DEM phù hợp
+  zoom. Thể hiện sườn núi bằng ánh sáng/đổ bóng tiết chế; giữ bờ biển, thung lũng,
+  đồng bằng và tương quan địa lý đọc được. Không tối/blur nền để che thiếu nét.
+- Khi cần chiều cao/phối cảnh thật, dựng mesh từ DEM, drape texture cùng hệ tọa
+  độ, dùng camera 3D thật. Có thể dùng hillshade 2D cho cảnh nhìn thẳng nhưng ghi
+  đúng loại; không giả mesh bằng cách nghiêng hoặc bóp méo một ảnh raster.
+- Tách vùng núi cần giải thích bằng mask/geometry địa lý có nguồn; highlight
+  nâu vàng bán trong suốt, lõi biên/sống núi sắc và viền sáng mảnh. Không tạo
+  sống núi giả, không cho glow trắng dày nuốt chi tiết hoặc coi mask tùy ý là dữ liệu.
+- Nếu cường điệu chiều cao để dễ đọc, ghi hệ số trong hồ sơ và note ngắn khi
+  người xem có thể hiểu đó là tỉ lệ thật. Không bịa cao độ/vị trí đỉnh núi.
+- Đề xuất nhịp: định vị → dolly/orbit nhẹ đến góc nhìn rõ dãy núi → reveal lần
+  lượt vùng/sống núi → bổ sung đường gió, lưu vực, tuyến vượt núi hoặc note theo
+  lời thoại → giữ hình để đọc. Đây là phương án, không phải animation quan sát
+  từ ảnh. Các lớp bám tọa độ, kiểm tra occlusion và nhãn không xuyên địa hình.
+- Cảnh tiếp theo về cùng vùng phải đổi cách chứng minh: cận thung lũng, góc ngang
+  rào cản, mặt cắt, lưu vực hoặc đối chiếu hai sườn. Không quay lại cùng toàn đảo
+  chỉ đổi vùng sáng hoặc góc nghiêng vài độ rồi tính là thiết kế mới.
+
+Mẫu này bổ sung một họ map chân thực vào bộ lựa chọn; lựa chọn mỗi shot theo
+kịch bản, không áp cùng một ảnh/góc/highlight cho mọi luận điểm hoặc sao chép
+nguyên tài sản mẫu. Duyệt độ nét ở zoom lớn nhất và clip chuyển động thực.
