@@ -1,0 +1,15 @@
+{
+  "id": "image-039",
+  "path": "public/full/scenes/image-039.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Historical reconstruction of a 1923 Japanese coastal harbor with tsunami surge, safe distant wide angle, no visible casualties. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-512c8729-bbe3-4c06-af22-366d071396d5.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "d66688aa5c57371251f9a09bd775c4b907ad8915d5fb5db6bc10f83b17046857",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

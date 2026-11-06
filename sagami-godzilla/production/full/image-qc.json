@@ -1,0 +1,17 @@
+{
+  "planned": 116,
+  "created": 116,
+  "visuallyAccepted": 116,
+  "uniqueSHA256": 116,
+  "currentFilmPreviewAssetsUsedOnce": 3,
+  "newFullImages": 113,
+  "olderFilmIllustrationsUsed": 0,
+  "replacementsMade": 13,
+  "motion": {
+    "startScale": 1,
+    "endScale": 1.2,
+    "curve": "linear",
+    "shake": false
+  },
+  "assetHashesVerified": true
+}

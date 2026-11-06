@@ -1,0 +1,18 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "noEmit": false,
+    "outDir": "out/native",
+    "rootDir": "src",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/full/MapSVG.tsx",
+    "src/geo.ts",
+    "src/full/austria.ts",
+    "src/full/gsi-data.ts",
+    "src/full/pop-grid.ts"
+  ]
+}

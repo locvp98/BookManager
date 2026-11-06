@@ -1,0 +1,15 @@
+{
+  "id": "image-083",
+  "path": "public/full/scenes/image-083.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Original historical movie studio with a miniature harbor and vintage camera, no actors resembling real people, no film branding. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-ff79f536-3edd-4c94-bd45-33a6d4cd0a09.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "2380f2e494a270c5670cebc578f6962884fdc7c265b7feb4b7d127dc23304d51",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

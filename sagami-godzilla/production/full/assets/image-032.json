@@ -1,0 +1,15 @@
+{
+  "id": "image-032",
+  "path": "public/full/scenes/image-032.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Long sediment core displayed in a marine geology laboratory, subtle bands record deep time, no labels. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-f1909195-7926-40e4-929f-4d609082d849.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "3d8ba479280b87bfea4d4e01274a7dfb1262d6c3be9f51041a4fa1a23832d28d",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

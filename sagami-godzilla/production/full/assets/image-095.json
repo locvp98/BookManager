@@ -1,0 +1,15 @@
+{
+  "id": "image-095",
+  "path": "public/full/scenes/image-095.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Observer closes a blank notebook while watching the sea from a wooden seaside bench, contemplative synthesis. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-3dfcce88-d277-43b7-b061-8f6bcd7f884b.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "150b27cf83f5ed2b7c298972bd846231063ec1434c9656cf548514fa93e26891",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

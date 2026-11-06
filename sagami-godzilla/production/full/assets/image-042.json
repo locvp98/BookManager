@@ -1,0 +1,15 @@
+{
+  "id": "image-042",
+  "path": "public/full/scenes/image-042.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Respectful modern memorial flowers overlooking a Japanese coast, no readable inscriptions, quiet remembrance. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-88798951-f0fb-4b89-8d0a-97f2bcb202e2.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f00631b62c47b44f4b1911bc1711ce1f7f4ee735acf705d12865ad90bb812c2c",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

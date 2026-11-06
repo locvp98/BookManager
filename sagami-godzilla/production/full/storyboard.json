@@ -1,0 +1,4008 @@
+{
+  "fps": 30,
+  "frames": 44273,
+  "duration": 1475.7666666666667,
+  "scenes": [
+    {
+      "id": "image-001",
+      "cueStart": 1,
+      "type": "image",
+      "design": null,
+      "content": "PREVIEW: Godzilla emerging at water level, fictional ocean creature at dawn",
+      "startFrame": 0,
+      "endFrame": 249,
+      "srtCueIds": [
+        1,
+        2,
+        3
+      ],
+      "narration": "ゴジラが海から姿を現す\nその瞬間、\n私たちは巨大な怪獣に目を奪われ、",
+      "newVisualInformation": "PREVIEW: Godzilla emerging at water level, fictional ocean creature at dawn",
+      "status": "asset-ready",
+      "asset": "public/full/scenes/image-001.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-002",
+      "cueStart": 4,
+      "type": "image",
+      "design": null,
+      "content": "PREVIEW: ordinary sea and shoreline at morning",
+      "startFrame": 249,
+      "endFrame": 384,
+      "srtCueIds": [
+        4
+      ],
+      "narration": "海そのものについて考える\nことを忘れてしまいます。",
+      "newVisualInformation": "PREVIEW: ordinary sea and shoreline at morning",
+      "status": "asset-ready",
+      "asset": "public/full/scenes/image-002.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-003",
+      "cueStart": 5,
+      "type": "image",
+      "design": null,
+      "content": "PREVIEW: cinema audience and fictional creature screen",
+      "startFrame": 384,
+      "endFrame": 606,
+      "srtCueIds": [
+        5,
+        6,
+        7
+      ],
+      "narration": "新作映画ゴジラマイハン0.0が\n公開され、\n再び注目が集まるゴジラ。\nしかし、",
+      "newVisualInformation": "PREVIEW: cinema audience and fictional creature screen",
+      "status": "asset-ready",
+      "asset": "public/full/scenes/image-003.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-001",
+      "cueStart": 8,
+      "type": "map",
+      "design": "opening-locator",
+      "content": "Extend approved opening satellite shot: reveal Izu Peninsula and Izu Oshima after Miura, continuous camera and labels",
+      "startFrame": 606,
+      "endFrame": 1475,
+      "srtCueIds": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "narration": "地図を開いてみると、\n一つの疑問が浮かび上がります。\nもしゴジラが相模湾に\n現れたとしたら、\nなぜこの海なのでしょうか？\n相模湾は東京湾のすぐ西側、\n神奈川県の南に広がる海です。\n東には三浦半島、\n西には伊豆半島、\nそして南の沖合には\n火山島として知られる\n伊豆大島があります。",
+      "newVisualInformation": "Extend approved opening satellite shot: reveal Izu Peninsula and Izu Oshima after Miura, continuous camera and labels",
+      "status": "planned",
+      "mapDesign": {
+        "family": "opening-locator",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Extend approved opening satellite shot: reveal Izu Peninsula and Izu Oshima after Miura, continuous camera and labels",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-004",
+      "cueStart": 18,
+      "type": "image",
+      "design": null,
+      "content": "Enoshima small Japanese coastal island and urban Shonan shoreline, inviting daylight aerial illustration",
+      "startFrame": 1475,
+      "endFrame": 1693,
+      "srtCueIds": [
+        18,
+        19,
+        20
+      ],
+      "narration": "鎌倉や江の島、\n湘南の海岸を訪れた\nことがある人なら、\n決して遠い場所ではありません。",
+      "newVisualInformation": "Enoshima small Japanese coastal island and urban Shonan shoreline, inviting daylight aerial illustration",
+      "status": "planned",
+      "asset": "public/full/scenes/image-004.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-005",
+      "cueStart": 21,
+      "type": "image",
+      "design": null,
+      "content": "Shonan beach in summer with scattered distant beachgoers and colorful parasols, gentle sea, wide landscape",
+      "startFrame": 1693,
+      "endFrame": 1891,
+      "srtCueIds": [
+        21,
+        22
+      ],
+      "narration": "夏には海水浴客で賑わい、\n漁船が行き交うごく身近な海です。",
+      "newVisualInformation": "Shonan beach in summer with scattered distant beachgoers and colorful parasols, gentle sea, wide landscape",
+      "status": "planned",
+      "asset": "public/full/scenes/image-005.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-006",
+      "cueStart": 23,
+      "type": "image",
+      "design": null,
+      "content": "Tokyo metropolitan high-rise skyline seen from the water, ordinary populated city beside ocean, clear morning",
+      "startFrame": 1891,
+      "endFrame": 2081,
+      "srtCueIds": [
+        23,
+        24
+      ],
+      "narration": "東京の高層ビル群から遠く離れた\n誰も知らない秘境と\nいうわけではありません。",
+      "newVisualInformation": "Tokyo metropolitan high-rise skyline seen from the water, ordinary populated city beside ocean, clear morning",
+      "status": "planned",
+      "asset": "public/full/scenes/image-006.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-007",
+      "cueStart": 25,
+      "type": "image",
+      "design": null,
+      "content": "Quiet Kamakura seaside neighborhood lane opening onto the Pacific, bicycles, low houses, no signage",
+      "startFrame": 2081,
+      "endFrame": 2170,
+      "srtCueIds": [
+        25,
+        26
+      ],
+      "narration": "鎌倉や江の島。\nところが、",
+      "newVisualInformation": "Quiet Kamakura seaside neighborhood lane opening onto the Pacific, bicycles, low houses, no signage",
+      "status": "planned",
+      "asset": "public/full/scenes/image-007.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-008",
+      "cueStart": 27,
+      "type": "image",
+      "design": null,
+      "content": "Split waterline ocean view, quiet sunlight above and dark blue depth below, no creature or inaccurate seabed map",
+      "startFrame": 2170,
+      "endFrame": 2315,
+      "srtCueIds": [
+        27,
+        28
+      ],
+      "narration": "海面の下へ目を向けると、\n景色は一変します。",
+      "newVisualInformation": "Split waterline ocean view, quiet sunlight above and dark blue depth below, no creature or inaccurate seabed map",
+      "status": "planned",
+      "asset": "public/full/scenes/image-008.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-002",
+      "cueStart": 29,
+      "type": "map",
+      "design": "bathy-plunge",
+      "content": "Real bathymetric 3D camera descends from Odawara coast toward the deep bay, sea surface fades, topography remains geographically accurate",
+      "startFrame": 2315,
+      "endFrame": 2605,
+      "srtCueIds": [
+        29,
+        30,
+        31
+      ],
+      "narration": "海岸から少し離れただけで、\n海底は急に深くなり、\n巨大な谷や斜面が複雑に\n入り組んでいます。",
+      "newVisualInformation": "Real bathymetric 3D camera descends from Odawara coast toward the deep bay, sea surface fades, topography remains geographically accurate",
+      "status": "planned",
+      "mapDesign": {
+        "family": "bathy-plunge",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Real bathymetric 3D camera descends from Odawara coast toward the deep bay, sea surface fades, topography remains geographically accurate",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-003",
+      "cueStart": 32,
+      "type": "map",
+      "design": "trough-regional",
+      "content": "Regional Pacific and Sagami Trough locator on vector ocean chart, trace actual sourced plate boundary with offshore spatial context",
+      "startFrame": 2605,
+      "endFrame": 2851,
+      "srtCueIds": [
+        32,
+        33,
+        34
+      ],
+      "narration": "さらに、\nその沖合には相模トラフと\n呼ばれる地球のプレートが\n沈み込む場所が伸びています。",
+      "newVisualInformation": "Regional Pacific and Sagami Trough locator on vector ocean chart, trace actual sourced plate boundary with offshore spatial context",
+      "status": "planned",
+      "mapDesign": {
+        "family": "trough-regional",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Regional Pacific and Sagami Trough locator on vector ocean chart, trace actual sourced plate boundary with offshore spatial context",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-009",
+      "cueStart": 35,
+      "type": "image",
+      "design": null,
+      "content": "Scientific geological cutaway of sedimentary rock layers beneath a quiet seabed, long-term deformation implied, no text",
+      "startFrame": 2851,
+      "endFrame": 3140,
+      "srtCueIds": [
+        35,
+        36,
+        37
+      ],
+      "narration": "静かな海の底では、\n途方もなく長い時間を\nかけて大地の形を変える\n力が働き続けているのです。",
+      "newVisualInformation": "Scientific geological cutaway of sedimentary rock layers beneath a quiet seabed, long-term deformation implied, no text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-009.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-010",
+      "cueStart": 38,
+      "type": "image",
+      "design": null,
+      "content": "Marine geologist examining a real-looking rock sample on research vessel deck, restrained scientific documentary photograph",
+      "startFrame": 3140,
+      "endFrame": 3407,
+      "srtCueIds": [
+        38,
+        39,
+        40
+      ],
+      "narration": "ここで大切なのは、\nこうした地形が\nゴジラの出現を説明する\n証拠ではないということです。",
+      "newVisualInformation": "Marine geologist examining a real-looking rock sample on research vessel deck, restrained scientific documentary photograph",
+      "status": "planned",
+      "asset": "public/full/scenes/image-010.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-011",
+      "cueStart": 41,
+      "type": "image",
+      "design": null,
+      "content": "Behind-the-scenes miniature creature model in an original film studio water tank, clearly an imaginative filmmaking environment",
+      "startFrame": 3407,
+      "endFrame": 3544,
+      "srtCueIds": [
+        41,
+        42
+      ],
+      "narration": "怪獣は映画の中の存在です。\nそれでも、",
+      "newVisualInformation": "Behind-the-scenes miniature creature model in an original film studio water tank, clearly an imaginative filmmaking environment",
+      "status": "planned",
+      "asset": "public/full/scenes/image-011.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-012",
+      "cueStart": 43,
+      "type": "image",
+      "design": null,
+      "content": "Concept artist at a desk with blank story sheets and an original ocean creature sculpture, imagination inspired by sea",
+      "startFrame": 3544,
+      "endFrame": 3809,
+      "srtCueIds": [
+        43,
+        44
+      ],
+      "narration": "相模湾が持つ地理的な\n特徴を知れば、\nこの海を舞台に想像を\n広げたくなる理由が見えてきます。",
+      "newVisualInformation": "Concept artist at a desk with blank story sheets and an original ocean creature sculpture, imagination inspired by sea",
+      "status": "planned",
+      "asset": "public/full/scenes/image-012.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-013",
+      "cueStart": 45,
+      "type": "image",
+      "design": null,
+      "content": "Coastal railway beside dense Japanese urban waterfront, mountains and ocean both visible, metropolitan coast is nearby",
+      "startFrame": 3809,
+      "endFrame": 3989,
+      "srtCueIds": [
+        45,
+        46
+      ],
+      "narration": "首都圏のすぐ隣にありながら、\n深い海と動く大地を抱える場所、",
+      "newVisualInformation": "Coastal railway beside dense Japanese urban waterfront, mountains and ocean both visible, metropolitan coast is nearby",
+      "status": "planned",
+      "asset": "public/full/scenes/image-013.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-014",
+      "cueStart": 47,
+      "type": "image",
+      "design": null,
+      "content": "Sagami Bay viewed from an elevated rocky headland at soft dusk, layers of coast and ocean, contemplative composition",
+      "startFrame": 3989,
+      "endFrame": 4163,
+      "srtCueIds": [
+        47,
+        48
+      ],
+      "narration": "相模湾は、\n私たちが思う以上に\n特別な海なのです。",
+      "newVisualInformation": "Sagami Bay viewed from an elevated rocky headland at soft dusk, layers of coast and ocean, contemplative composition",
+      "status": "planned",
+      "asset": "public/full/scenes/image-014.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-015",
+      "cueStart": 49,
+      "type": "image",
+      "design": null,
+      "content": "Back view of a lone observer looking across sea from a safe promenade, broad blue water, question and curiosity",
+      "startFrame": 4163,
+      "endFrame": 4324,
+      "srtCueIds": [
+        49,
+        50
+      ],
+      "narration": "では、\nその特別さは一体どこから\n生まれたのでしょうか？",
+      "newVisualInformation": "Back view of a lone observer looking across sea from a safe promenade, broad blue water, question and curiosity",
+      "status": "planned",
+      "asset": "public/full/scenes/image-015.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-004",
+      "cueStart": 51,
+      "type": "map",
+      "design": "japan-globe",
+      "content": "True textured globe from East Asia to Japan, coastline context with Kanto locator; differs from opening local satellite map",
+      "startFrame": 4324,
+      "endFrame": 4969,
+      "srtCueIds": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "narration": "まずは\n地図の上から確かめて\nいきましょう。\nそれでは日本列島を上から\n見下ろしてみましょう。\n東京の南に広がる東京湾。\nその西側へ視線を移すと、\n三浦半島を挟んでもう\n一つの大きな海が現れます。\n相模湾です。",
+      "newVisualInformation": "True textured globe from East Asia to Japan, coastline context with Kanto locator; differs from opening local satellite map",
+      "status": "planned",
+      "mapDesign": {
+        "family": "japan-globe",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "True textured globe from East Asia to Japan, coastline context with Kanto locator; differs from opening local satellite map",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-005",
+      "cueStart": 58,
+      "type": "map",
+      "design": "coastal-cities",
+      "content": "North shore city chain on locally cropped satellite strip, individually reveal Kamakura Fujisawa Hiratsuka Odawara westward, coordinate anchoring",
+      "startFrame": 4969,
+      "endFrame": 5197,
+      "srtCueIds": [
+        58,
+        59,
+        60,
+        61
+      ],
+      "narration": "北側の海岸には\n鎌倉、藤沢、\n平塚、\n小田原といった街が並びます。",
+      "newVisualInformation": "North shore city chain on locally cropped satellite strip, individually reveal Kamakura Fujisawa Hiratsuka Odawara westward, coordinate anchoring",
+      "status": "planned",
+      "mapDesign": {
+        "family": "coastal-cities",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "North shore city chain on locally cropped satellite strip, individually reveal Kamakura Fujisawa Hiratsuka Odawara westward, coordinate anchoring",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-006",
+      "cueStart": 62,
+      "type": "map",
+      "design": "coastal-gateways",
+      "content": "Three geographic cutouts at common scale: Miura, Izu and Oshima, orientation and relative positions preserved in locator inset",
+      "startFrame": 5197,
+      "endFrame": 5526,
+      "srtCueIds": [
+        62,
+        63,
+        64
+      ],
+      "narration": "東には三浦半島、\n西には真鶴半島から伊豆半島へ\n続く陸地、、そして海。\nの向こうには伊豆諸島の\n島々が浮かんでいます。",
+      "newVisualInformation": "Three geographic cutouts at common scale: Miura, Izu and Oshima, orientation and relative positions preserved in locator inset",
+      "status": "planned",
+      "mapDesign": {
+        "family": "coastal-gateways",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Three geographic cutouts at common scale: Miura, Izu and Oshima, orientation and relative positions preserved in locator inset",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-016",
+      "cueStart": 65,
+      "type": "image",
+      "design": null,
+      "content": "Mount Fuji beyond Sagami Bay on a clear day, distant snow cone, broad beach foreground and blue ocean",
+      "startFrame": 5526,
+      "endFrame": 5805,
+      "srtCueIds": [
+        65,
+        66,
+        67
+      ],
+      "narration": "晴れた日には海岸から富士山を\n望める場所もあります。\nこれだけを見ると、\n美しい観光地の風景に\nしか見えません。",
+      "newVisualInformation": "Mount Fuji beyond Sagami Bay on a clear day, distant snow cone, broad beach foreground and blue ocean",
+      "status": "planned",
+      "asset": "public/full/scenes/image-016.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-017",
+      "cueStart": 68,
+      "type": "image",
+      "design": null,
+      "content": "Long curving sandy Shonan shoreline seen obliquely, sand texture and soft shore break, calm natural color",
+      "startFrame": 5805,
+      "endFrame": 6025,
+      "srtCueIds": [
+        68,
+        69
+      ],
+      "narration": "北側の海岸線も\n一様ではありません。\n湘南では砂浜が長く続き、",
+      "newVisualInformation": "Long curving sandy Shonan shoreline seen obliquely, sand texture and soft shore break, calm natural color",
+      "status": "planned",
+      "asset": "public/full/scenes/image-017.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-007",
+      "cueStart": 70,
+      "type": "map",
+      "design": "river-catchments",
+      "content": "Tanzawa to coast real land DEM with mouth locators of Sagami and Sakawa rivers; river connections explicitly schematic",
+      "startFrame": 6025,
+      "endFrame": 6180,
+      "srtCueIds": [
+        70
+      ],
+      "narration": "相模川や酒匂川が平野を\n横切って海に注ぎます。",
+      "newVisualInformation": "Tanzawa to coast real land DEM with mouth locators of Sagami and Sakawa rivers; river connections explicitly schematic",
+      "status": "planned",
+      "mapDesign": {
+        "family": "river-catchments",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Tanzawa to coast real land DEM with mouth locators of Sagami and Sakawa rivers; river connections explicitly schematic",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-018",
+      "cueStart": 71,
+      "type": "image",
+      "design": null,
+      "content": "Hakone green foothills descending close to the western bay shoreline, rock and forest meet the water",
+      "startFrame": 6180,
+      "endFrame": 6302,
+      "srtCueIds": [
+        71
+      ],
+      "narration": "西へ進むと箱根の山地が海に迫り、",
+      "newVisualInformation": "Hakone green foothills descending close to the western bay shoreline, rock and forest meet the water",
+      "status": "planned",
+      "asset": "public/full/scenes/image-018.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-019",
+      "cueStart": 72,
+      "type": "image",
+      "design": null,
+      "content": "Manazuru rocky coastal outcrop with dark textured stones and pine trees, sea-level view, bright water",
+      "startFrame": 6302,
+      "endFrame": 6615,
+      "srtCueIds": [
+        72,
+        73,
+        74
+      ],
+      "narration": "真鶴半島の周辺では岩の\n多い海岸が目立ちます。\n同じ湾に面していながら、\n風景は少しずつ\n変わっていくのです。",
+      "newVisualInformation": "Manazuru rocky coastal outcrop with dark textured stones and pine trees, sea-level view, bright water",
+      "status": "planned",
+      "asset": "public/full/scenes/image-019.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-008",
+      "cueStart": 75,
+      "type": "map",
+      "design": "shore-profiles",
+      "content": "Sandy plain and mountain coast compared using two actual land-sea DEM transects, shared axes and no invented depth detail",
+      "startFrame": 6615,
+      "endFrame": 6862,
+      "srtCueIds": [
+        75,
+        76,
+        77
+      ],
+      "narration": "この違いは、\n海岸の先に続く\n海底地形を考えるための\n大切な手がかりにもなります。",
+      "newVisualInformation": "Sandy plain and mountain coast compared using two actual land-sea DEM transects, shared axes and no invented depth detail",
+      "status": "planned",
+      "mapDesign": {
+        "family": "shore-profiles",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Sandy plain and mountain coast compared using two actual land-sea DEM transects, shared axes and no invented depth detail",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-009",
+      "cueStart": 78,
+      "type": "map",
+      "design": "bay-nada-boundary",
+      "content": "Draw Manazuru to Jogashima geographic division, reveal Sagami Bay north and Sagami-nada south, Oshima outside bay on same progressing shot",
+      "startFrame": 6862,
+      "endFrame": 7861,
+      "srtCueIds": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ],
+      "narration": "相模湾と相模灘は\n同じ海なのでしょうか。\n実は、\n一般的な地理上の区分では、\n神奈川県の城ヶ島と真鶴半島を\n結ぶ線より北を相模湾、\nその南の広い海域を\n相模灘と呼びます。\n伊豆大島はその相模灘の\n南側に位置する島です。\nつまり、\n相模湾の近くにある島と\n相模湾の中にある島は\n必ずしも同じ意味ではありません。",
+      "newVisualInformation": "Draw Manazuru to Jogashima geographic division, reveal Sagami Bay north and Sagami-nada south, Oshima outside bay on same progressing shot",
+      "status": "planned",
+      "mapDesign": {
+        "family": "bay-nada-boundary",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Draw Manazuru to Jogashima geographic division, reveal Sagami Bay north and Sagami-nada south, Oshima outside bay on same progressing shot",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-020",
+      "cueStart": 87,
+      "type": "image",
+      "design": null,
+      "content": "Open water without any visible human boundary, low horizon and small coastal fishing boat far away, gentle afternoon",
+      "startFrame": 7861,
+      "endFrame": 8291,
+      "srtCueIds": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "narration": "地名の境界は\n海面に線が\n引かれているわけではありません。\nしかし、\n場所を正確に知ることは、\nその海で\n何が起きているのかを\n考える第一歩になります。",
+      "newVisualInformation": "Open water without any visible human boundary, low horizon and small coastal fishing boat far away, gentle afternoon",
+      "status": "planned",
+      "asset": "public/full/scenes/image-020.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-010",
+      "cueStart": 93,
+      "type": "map",
+      "design": "tanzawa-hakone-terrain",
+      "content": "Real DEM tilted view from bay toward Tanzawa and Hakone, satellite drape, restrained mountain highlight and clear elevations if sourced",
+      "startFrame": 8291,
+      "endFrame": 8633,
+      "srtCueIds": [
+        93,
+        94,
+        95,
+        96,
+        97
+      ],
+      "narration": "さらに、\n地図を立体的にしてみると、\n別の特徴が見えてきます。\n北には丹沢の山々、\n西には箱根の火山地形。",
+      "newVisualInformation": "Real DEM tilted view from bay toward Tanzawa and Hakone, satellite drape, restrained mountain highlight and clear elevations if sourced",
+      "status": "planned",
+      "mapDesign": {
+        "family": "tanzawa-hakone-terrain",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Real DEM tilted view from bay toward Tanzawa and Hakone, satellite drape, restrained mountain highlight and clear elevations if sourced",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-021",
+      "cueStart": 98,
+      "type": "image",
+      "design": null,
+      "content": "River plume carrying brown sediment into blue coastal water, realistic mixing edge, oblique aerial scientific illustration",
+      "startFrame": 8633,
+      "endFrame": 8792,
+      "srtCueIds": [
+        98,
+        99
+      ],
+      "narration": "山から流れ出した川は、\n土砂や栄養を海へ運びます。",
+      "newVisualInformation": "River plume carrying brown sediment into blue coastal water, realistic mixing edge, oblique aerial scientific illustration",
+      "status": "planned",
+      "asset": "public/full/scenes/image-021.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-011",
+      "cueStart": 100,
+      "type": "map",
+      "design": "warm-cold-section",
+      "content": "Ocean section attached to local coastline, qualitative warm offshore inflow and cold deep water, animated arrows with schematic label",
+      "startFrame": 8792,
+      "endFrame": 9091,
+      "srtCueIds": [
+        100,
+        101,
+        102
+      ],
+      "narration": "一方、\n沖合には黒潮につながる\n温かい海水が入り、\n深いところには冷たい\n海水も広がっています。",
+      "newVisualInformation": "Ocean section attached to local coastline, qualitative warm offshore inflow and cold deep water, animated arrows with schematic label",
+      "status": "planned",
+      "mapDesign": {
+        "family": "warm-cold-section",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Ocean section attached to local coastline, qualitative warm offshore inflow and cold deep water, animated arrows with schematic label",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-022",
+      "cueStart": 103,
+      "type": "image",
+      "design": null,
+      "content": "Underwater mixing zone with suspended plankton and tiny particles illuminated softly, rich water without neon glow",
+      "startFrame": 9091,
+      "endFrame": 9427,
+      "srtCueIds": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "narration": "山と川、\n暖かな海流と冷たい深層水、\n異なる自然の働きが、\nこの比較的狭い海域で\n重なっているのです。",
+      "newVisualInformation": "Underwater mixing zone with suspended plankton and tiny particles illuminated softly, rich water without neon glow",
+      "status": "planned",
+      "asset": "public/full/scenes/image-022.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-023",
+      "cueStart": 107,
+      "type": "image",
+      "design": null,
+      "content": "Research submersible suspended safely above the sea beside ship stern crane, engineering details, blue dawn",
+      "startFrame": 9427,
+      "endFrame": 9685,
+      "srtCueIds": [
+        107,
+        108,
+        109,
+        110
+      ],
+      "narration": "そして、\nその海の底には、\n地上の地図だけでは決して\n見えてこないもう一つの\n地形が横たわっています。",
+      "newVisualInformation": "Research submersible suspended safely above the sea beside ship stern crane, engineering details, blue dawn",
+      "status": "planned",
+      "asset": "public/full/scenes/image-023.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-012",
+      "cueStart": 111,
+      "type": "map",
+      "design": "water-removal",
+      "content": "Oblique real bathymetric terrain of full bay, lower translucent sea surface to reveal surveyed seafloor; vertical exaggeration declared",
+      "startFrame": 9685,
+      "endFrame": 10166,
+      "srtCueIds": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "narration": "次に見るのは、\n海面を取り払った相模湾の姿です。\nもし相模湾の海水をすべて\n取り除くことができたら、\n私たちの目の前にはどのような\n景色が現れるのでしょうか。",
+      "newVisualInformation": "Oblique real bathymetric terrain of full bay, lower translucent sea surface to reveal surveyed seafloor; vertical exaggeration declared",
+      "status": "planned",
+      "mapDesign": {
+        "family": "water-removal",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Oblique real bathymetric terrain of full bay, lower translucent sea surface to reveal surveyed seafloor; vertical exaggeration declared",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-013",
+      "cueStart": 115,
+      "type": "map",
+      "design": "canyon-low-flight",
+      "content": "Close low-angle flight along actual bathymetric slope and canyon, clay relief texture, distinct crop and camera from whole-bay reveal",
+      "startFrame": 10166,
+      "endFrame": 10499,
+      "srtCueIds": [
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "narration": "そこに広がるのは、\nなだらかな砂の\n平原ではありません。\n切り立った斜面、\n深く刻まれた谷、\nそして海底から盛り上がる丘。",
+      "newVisualInformation": "Close low-angle flight along actual bathymetric slope and canyon, clay relief texture, distinct crop and camera from whole-bay reveal",
+      "status": "planned",
+      "mapDesign": {
+        "family": "canyon-low-flight",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Close low-angle flight along actual bathymetric slope and canyon, clay relief texture, distinct crop and camera from whole-bay reveal",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-024",
+      "cueStart": 120,
+      "type": "image",
+      "design": null,
+      "content": "Conceptual physical model of an inverted mountain-like depression under water, high-quality scientific cutaway, no location claim or text",
+      "startFrame": 10499,
+      "endFrame": 10688,
+      "srtCueIds": [
+        120,
+        121
+      ],
+      "narration": "まるで巨大な山岳地帯をそのまま\n海の中へ沈めたような地形で。\nす。",
+      "newVisualInformation": "Conceptual physical model of an inverted mountain-like depression under water, high-quality scientific cutaway, no location claim or text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-024.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-014",
+      "cueStart": 122,
+      "type": "map",
+      "design": "three-deep-bays",
+      "content": "Sagami Suruga Toyama real geographic bathymetry small multiples, common depth scale and same geographic scale, no reused full-bay view",
+      "startFrame": 10688,
+      "endFrame": 10928,
+      "srtCueIds": [
+        122,
+        123,
+        124,
+        125
+      ],
+      "narration": "相模湾は\n駿河湾、\n富山湾と並んで\n日本を代表する深い湾の一つです。",
+      "newVisualInformation": "Sagami Suruga Toyama real geographic bathymetry small multiples, common depth scale and same geographic scale, no reused full-bay view",
+      "status": "planned",
+      "mapDesign": {
+        "family": "three-deep-bays",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Sagami Suruga Toyama real geographic bathymetry small multiples, common depth scale and same geographic scale, no reused full-bay view",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-015",
+      "cueStart": 126,
+      "type": "map",
+      "design": "odawara-depth",
+      "content": "Actual Odawara coastal transect with depth profile and growing vertical depth ruler, highlight observed minus1000m crossing if grid supports it",
+      "startFrame": 10928,
+      "endFrame": 11467,
+      "srtCueIds": [
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "narration": "とりわけ小田原沖では、\n岸からそれほど離れない場所で\n水深が千メートルを超えます。\n地上で考えれば、\n海岸のすぐ先に高さ千メートル級の\n山を逆さまにしたような\n落差があるということです。",
+      "newVisualInformation": "Actual Odawara coastal transect with depth profile and growing vertical depth ruler, highlight observed minus1000m crossing if grid supports it",
+      "status": "planned",
+      "mapDesign": {
+        "family": "odawara-depth",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Actual Odawara coastal transect with depth profile and growing vertical depth ruler, highlight observed minus1000m crossing if grid supports it",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-025",
+      "cueStart": 131,
+      "type": "image",
+      "design": null,
+      "content": "Research vessel near a mountainous Japanese coast preparing a survey, long view across ordinary blue sea",
+      "startFrame": 11467,
+      "endFrame": 11632,
+      "srtCueIds": [
+        131,
+        132
+      ],
+      "narration": "では、\nなぜこの海はこんなにも\n急に深くなるのでしょうか？",
+      "newVisualInformation": "Research vessel near a mountainous Japanese coast preparing a survey, long view across ordinary blue sea",
+      "status": "planned",
+      "asset": "public/full/scenes/image-025.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-016",
+      "cueStart": 133,
+      "type": "map",
+      "design": "east-west-shelf",
+      "content": "Two east and west Sagami shelf transects sampled from same bathymetry, synchronized reveal of narrow versus broad shelf, quantitative axes",
+      "startFrame": 11632,
+      "endFrame": 12392,
+      "srtCueIds": [
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "narration": "海底地形図を見てみましょう。\n湾の東側には比較的浅い\n大陸棚が広がっています。\nしかし、西へ進み、\n平塚から小田原にかけての\n沖合に目を向けると、\nその棚は狭くなり、\n海底が一気に深みへ\n落ち込んでいきます。\n同じ湾の中でも、\n海の底の姿は大きく異なるのです。",
+      "newVisualInformation": "Two east and west Sagami shelf transects sampled from same bathymetry, synchronized reveal of narrow versus broad shelf, quantitative axes",
+      "status": "planned",
+      "mapDesign": {
+        "family": "east-west-shelf",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Two east and west Sagami shelf transects sampled from same bathymetry, synchronized reveal of narrow versus broad shelf, quantitative axes",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-017",
+      "cueStart": 141,
+      "type": "map",
+      "design": "canyon-network",
+      "content": "Hillshade close-up of actual bay-floor grid with contour reveal, branching valleys only where real resolution supports them, no invented channels",
+      "startFrame": 12392,
+      "endFrame": 12883,
+      "srtCueIds": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "narration": "さらに注目したいのが、\n海底に刻まれた無数の谷です。\n平塚沖の海底や\n相模トラフへ向かって伸びる谷筋。\n陸上の川と同じように\n枝分かれしたように\n見える場所もあります。",
+      "newVisualInformation": "Hillshade close-up of actual bay-floor grid with contour reveal, branching valleys only where real resolution supports them, no invented channels",
+      "status": "planned",
+      "mapDesign": {
+        "family": "canyon-network",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Hillshade close-up of actual bay-floor grid with contour reveal, branching valleys only where real resolution supports them, no invented channels",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-026",
+      "cueStart": 147,
+      "type": "image",
+      "design": null,
+      "content": "Scientific conceptual turbidity current flowing down an underwater slope, dense sediment cloud follows gravity, no labels",
+      "startFrame": 12883,
+      "endFrame": 13199,
+      "srtCueIds": [
+        147,
+        148,
+        149
+      ],
+      "narration": "こうした谷の形成には、\n長い時間をかけて土砂が\n海底斜面を流れ下る現象や、\n地殻の動きなどが関わっています。",
+      "newVisualInformation": "Scientific conceptual turbidity current flowing down an underwater slope, dense sediment cloud follows gravity, no labels",
+      "status": "planned",
+      "asset": "public/full/scenes/image-026.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-027",
+      "cueStart": 150,
+      "type": "image",
+      "design": null,
+      "content": "Calm sea surface seen from the bow, deep blue sunlight, hidden world below, no scene reuse",
+      "startFrame": 13199,
+      "endFrame": 13326,
+      "srtCueIds": [
+        150
+      ],
+      "narration": "これらの地形は海面から\n眺めても見えません。",
+      "newVisualInformation": "Calm sea surface seen from the bow, deep blue sunlight, hidden world below, no scene reuse",
+      "status": "planned",
+      "asset": "public/full/scenes/image-027.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-028",
+      "cueStart": 151,
+      "type": "image",
+      "design": null,
+      "content": "Cutaway illustration of a survey ship using fan-shaped multibeam sound paths to the seabed, beautiful physically coherent model, no text",
+      "startFrame": 13326,
+      "endFrame": 13469,
+      "srtCueIds": [
+        151,
+        152
+      ],
+      "narration": "調査船が音波を海底へ送り、\nその反射を測ることで、",
+      "newVisualInformation": "Cutaway illustration of a survey ship using fan-shaped multibeam sound paths to the seabed, beautiful physically coherent model, no text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-028.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-018",
+      "cueStart": 153,
+      "type": "map",
+      "design": "sonar-reconstruction",
+      "content": "Local bay grid is progressively sampled by a schematic survey swath, real bathymetry resolves into relief; clearly modeled measurement demonstration",
+      "startFrame": 13469,
+      "endFrame": 13576,
+      "srtCueIds": [
+        153
+      ],
+      "narration": "初めて立体的な姿が\n明らかになります。",
+      "newVisualInformation": "Local bay grid is progressively sampled by a schematic survey swath, real bathymetry resolves into relief; clearly modeled measurement demonstration",
+      "status": "planned",
+      "mapDesign": {
+        "family": "sonar-reconstruction",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Local bay grid is progressively sampled by a schematic survey swath, real bathymetry resolves into relief; clearly modeled measurement demonstration",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-029",
+      "cueStart": 154,
+      "type": "image",
+      "design": null,
+      "content": "Research ROV hovering above rocky seabed in darkness, two soft white headlights reveal rugged natural floor",
+      "startFrame": 13576,
+      "endFrame": 13847,
+      "srtCueIds": [
+        154,
+        155
+      ],
+      "narration": "私たちが普段見ている\n青い海の下には、\n想像以上に複雑な起伏が\n隠されているのです。",
+      "newVisualInformation": "Research ROV hovering above rocky seabed in darkness, two soft white headlights reveal rugged natural floor",
+      "status": "planned",
+      "asset": "public/full/scenes/image-029.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-019",
+      "cueStart": 156,
+      "type": "map",
+      "design": "trough-path-section",
+      "content": "Actual offshore trough or boundary line from Sagami toward Pacific with inset transverse depression profile, scale and source qualified",
+      "startFrame": 13847,
+      "endFrame": 14624,
+      "srtCueIds": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164
+      ],
+      "narration": "そして、\n湾の中央から沖へ伸びているのが\n相模トラフです。\nトラフとは\n細長く伸びる海底の窪地のこと。\n相模湾の深い部分から、\n伊豆大島と房総半島の間を抜け、\n太平洋側へと続いています。\nその長さは三百キロメートルを\n超えるとされています。",
+      "newVisualInformation": "Actual offshore trough or boundary line from Sagami toward Pacific with inset transverse depression profile, scale and source qualified",
+      "status": "planned",
+      "mapDesign": {
+        "family": "trough-path-section",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Actual offshore trough or boundary line from Sagami toward Pacific with inset transverse depression profile, scale and source qualified",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-020",
+      "cueStart": 165,
+      "type": "map",
+      "design": "seafloor-hills",
+      "content": "Independent bathymetric perspective isolating natural hill-and-valley relief; named knolls only if coordinates independently verified",
+      "startFrame": 14624,
+      "endFrame": 15007,
+      "srtCueIds": [
+        165,
+        166,
+        167,
+        168,
+        169
+      ],
+      "narration": "この海底には\nもう一つ\n興味深いものがあります。\n真鶴海丘や\n相模海丘と呼ばれる\n海の底の高まりです。",
+      "newVisualInformation": "Independent bathymetric perspective isolating natural hill-and-valley relief; named knolls only if coordinates independently verified",
+      "status": "planned",
+      "mapDesign": {
+        "family": "seafloor-hills",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Independent bathymetric perspective isolating natural hill-and-valley relief; named knolls only if coordinates independently verified",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-030",
+      "cueStart": 170,
+      "type": "image",
+      "design": null,
+      "content": "Underwater rock hill beside a steep shadowed slope, low camera shows varied natural seabed topography",
+      "startFrame": 15007,
+      "endFrame": 15316,
+      "srtCueIds": [
+        170,
+        171,
+        172
+      ],
+      "narration": "深い谷のそばに丘があり、\nまたその先には急な斜面が続く。\n海底は決して単純な\n地形ではありません。",
+      "newVisualInformation": "Underwater rock hill beside a steep shadowed slope, low camera shows varied natural seabed topography",
+      "status": "planned",
+      "asset": "public/full/scenes/image-030.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-031",
+      "cueStart": 173,
+      "type": "image",
+      "design": null,
+      "content": "Close view of naturally fractured seabed stone and settled sediment, no footprints or creature markings",
+      "startFrame": 15316,
+      "endFrame": 15549,
+      "srtCueIds": [
+        173,
+        174,
+        175
+      ],
+      "narration": "しかし、\nこれらの谷や丘は、\n何者かが海底を歩き回った\n痕跡ではありません。",
+      "newVisualInformation": "Close view of naturally fractured seabed stone and settled sediment, no footprints or creature markings",
+      "status": "planned",
+      "asset": "public/full/scenes/image-031.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-032",
+      "cueStart": 176,
+      "type": "image",
+      "design": null,
+      "content": "Long sediment core displayed in a marine geology laboratory, subtle bands record deep time, no labels",
+      "startFrame": 15549,
+      "endFrame": 15827,
+      "srtCueIds": [
+        176,
+        177
+      ],
+      "narration": "長い地球の歴史が\n作り上げた自然の地形です。\n長い地球の歴史が\n作り上げた自然の地形です。。",
+      "newVisualInformation": "Long sediment core displayed in a marine geology laboratory, subtle bands record deep time, no labels",
+      "status": "planned",
+      "asset": "public/full/scenes/image-032.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-033",
+      "cueStart": 178,
+      "type": "image",
+      "design": null,
+      "content": "Researcher holding a layered stone against the horizon on a ship deck, thoughtful hands-only composition",
+      "startFrame": 15827,
+      "endFrame": 16033,
+      "srtCueIds": [
+        178,
+        179,
+        180
+      ],
+      "narration": "では、、\nその地形を\n生み出すほど-の巨大な力は\nどこから来るのでしょうか。",
+      "newVisualInformation": "Researcher holding a layered stone against the horizon on a ship deck, thoughtful hands-only composition",
+      "status": "planned",
+      "asset": "public/full/scenes/image-033.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-034",
+      "cueStart": 181,
+      "type": "image",
+      "design": null,
+      "content": "Scientific unlabeled cutaway of Earth's layered lithosphere beneath ocean, simple coherent geological materials, no geographic map claim",
+      "startFrame": 16033,
+      "endFrame": 16298,
+      "srtCueIds": [
+        181,
+        182,
+        183
+      ],
+      "narration": "答えを探すためには、\n海底のさらに下へ、\n地球の内部へと視線を\n向ける必要があります。",
+      "newVisualInformation": "Scientific unlabeled cutaway of Earth's layered lithosphere beneath ocean, simple coherent geological materials, no geographic map claim",
+      "status": "planned",
+      "asset": "public/full/scenes/image-034.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-021",
+      "cueStart": 184,
+      "type": "map",
+      "design": "sagami-subduction",
+      "content": "3D schematic cross-section from sea toward land, Philippine Sea plate slowly descends beneath land-side plate; source and schematic note",
+      "startFrame": 16298,
+      "endFrame": 16935,
+      "srtCueIds": [
+        184,
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "narration": "海底のさらに下へ目を向けると、\n相模湾の本当の姿が見えてきます。\nここは二つの巨大な\nプレートが出会う場所です。\n南から移動してきた\nフィリピン海プレートが、\n日本列島のある\n陸側のプレートの下へ\nゆっくりと沈み込んでいます。",
+      "newVisualInformation": "3D schematic cross-section from sea toward land, Philippine Sea plate slowly descends beneath land-side plate; source and schematic note",
+      "status": "planned",
+      "mapDesign": {
+        "family": "sagami-subduction",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "3D schematic cross-section from sea toward land, Philippine Sea plate slowly descends beneath land-side plate; source and schematic note",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-035",
+      "cueStart": 190,
+      "type": "image",
+      "design": null,
+      "content": "Precision geodetic measuring instrument anchored on coastal bedrock, subtle slow Earth movement studied over years, no readable figures",
+      "startFrame": 16935,
+      "endFrame": 17207,
+      "srtCueIds": [
+        190,
+        191,
+        192,
+        193
+      ],
+      "narration": "移動する速さは\n一年間にわずか数センチほど。\n人間の目にはほとんど\n動いていないように\n見えるでしょう。",
+      "newVisualInformation": "Precision geodetic measuring instrument anchored on coastal bedrock, subtle slow Earth movement studied over years, no readable figures",
+      "status": "planned",
+      "asset": "public/full/scenes/image-035.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-036",
+      "cueStart": 194,
+      "type": "image",
+      "design": null,
+      "content": "Sweeping exposed stratified coastal cliff, many layers of geological time, pale natural morning light",
+      "startFrame": 17207,
+      "endFrame": 17411,
+      "srtCueIds": [
+        194,
+        195,
+        196,
+        197
+      ],
+      "narration": "しかし、\n地球にとって百年、\n千年という時間は\n決して長くありません。",
+      "newVisualInformation": "Sweeping exposed stratified coastal cliff, many layers of geological time, pale natural morning light",
+      "status": "planned",
+      "asset": "public/full/scenes/image-036.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-022",
+      "cueStart": 198,
+      "type": "map",
+      "design": "locked-fault-cycle",
+      "content": "Side-on mechanical schematic of locked plate contact, elastic deformation builds then releases, no forecast clock or actual event simulation",
+      "startFrame": 17411,
+      "endFrame": 18053,
+      "srtCueIds": [
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205
+      ],
+      "narration": "プレートの境界は\nいつも滑らかに\n動いているわけではありません。\n互いに強くくっついて\n動きにくくなった場所では、\n地面が少しずつ引きずられ、\nひずみがたまっていきます。\nそして、\n限界に達した時、\nそのひずみが一気に\n解放されるのです。",
+      "newVisualInformation": "Side-on mechanical schematic of locked plate contact, elastic deformation builds then releases, no forecast clock or actual event simulation",
+      "status": "planned",
+      "mapDesign": {
+        "family": "locked-fault-cycle",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Side-on mechanical schematic of locked plate contact, elastic deformation builds then releases, no forecast clock or actual event simulation",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "map-023",
+      "cueStart": 206,
+      "type": "map",
+      "design": "kanto-two-slabs",
+      "content": "Rotated volumetric Kanto cutaway showing Philippine Sea and deeper Pacific slabs from different directions, separate depth layering and source caveats",
+      "startFrame": 18053,
+      "endFrame": 18736,
+      "srtCueIds": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211
+      ],
+      "narration": "しかも、\n関東の地下は一枚の\nプレートだけで説明できません。\nさらに深い場所では、\n東から太平洋プレートも\n沈み込んでいます。\n異なる方向から入り込む巨大な\n岩盤が重なり合うため、\nこの地域の地下構造は日本の\n中でも特に複雑なのです。",
+      "newVisualInformation": "Rotated volumetric Kanto cutaway showing Philippine Sea and deeper Pacific slabs from different directions, separate depth layering and source caveats",
+      "status": "planned",
+      "mapDesign": {
+        "family": "kanto-two-slabs",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Rotated volumetric Kanto cutaway showing Philippine Sea and deeper Pacific slabs from different directions, separate depth layering and source caveats",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-037",
+      "cueStart": 212,
+      "type": "image",
+      "design": null,
+      "content": "Reconstruction of a quiet Tokyo street in 1923 before earthquake, period wooden buildings and tram, small distant adults, no readable signs",
+      "startFrame": 18736,
+      "endFrame": 18932,
+      "srtCueIds": [
+        212
+      ],
+      "narration": "その巨大な力を関東地方の\n人々は実際に経験しています。",
+      "newVisualInformation": "Reconstruction of a quiet Tokyo street in 1923 before earthquake, period wooden buildings and tram, small distant adults, no readable signs",
+      "status": "planned",
+      "asset": "public/full/scenes/image-037.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-024",
+      "cueStart": 213,
+      "type": "map",
+      "design": "kanto-1923-event",
+      "content": "Date time and JMA magnitude with sourced epicenter on a regional historic locator, no invented intensity contours or precise rupture map",
+      "startFrame": 18932,
+      "endFrame": 19448,
+      "srtCueIds": [
+        213,
+        214,
+        215,
+        216
+      ],
+      "narration": "1923年9月1日午前11時58分、\nマグニチュード7.9の\n大正関東地震が発生しました。\n震源は神奈川県西部、\n相模トラフ沿いの\nプレート境界が大きくずれ、",
+      "newVisualInformation": "Date time and JMA magnitude with sourced epicenter on a regional historic locator, no invented intensity contours or precise rupture map",
+      "status": "planned",
+      "mapDesign": {
+        "family": "kanto-1923-event",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Date time and JMA magnitude with sourced epicenter on a regional historic locator, no invented intensity contours or precise rupture map",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-038",
+      "cueStart": 217,
+      "type": "image",
+      "design": null,
+      "content": "Respectful reconstruction of Yokohama damaged wooden buildings after 1923 earthquake, distant rescuers, no visible injured people or bodies",
+      "startFrame": 19448,
+      "endFrame": 19702,
+      "srtCueIds": [
+        217,
+        218,
+        219,
+        220
+      ],
+      "narration": "東京、\n横浜をはじめ、\n広い地域を激しい\n揺れが襲いました。\n建物の倒壊だけではありません。",
+      "newVisualInformation": "Respectful reconstruction of Yokohama damaged wooden buildings after 1923 earthquake, distant rescuers, no visible injured people or bodies",
+      "status": "planned",
+      "asset": "public/full/scenes/image-038.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-039",
+      "cueStart": 221,
+      "type": "image",
+      "design": null,
+      "content": "Historical reconstruction of a 1923 Japanese coastal harbor with tsunami surge, safe distant wide angle, no visible casualties",
+      "startFrame": 19702,
+      "endFrame": 19849,
+      "srtCueIds": [
+        221,
+        222
+      ],
+      "narration": "地震によって津波が発生し、\n沿岸の町々に押し寄せました。",
+      "newVisualInformation": "Historical reconstruction of a 1923 Japanese coastal harbor with tsunami surge, safe distant wide angle, no visible casualties",
+      "status": "planned",
+      "asset": "public/full/scenes/image-039.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-040",
+      "cueStart": 223,
+      "type": "image",
+      "design": null,
+      "content": "1920s Japanese household preparing midday food beside a traditional hearth, quiet period reconstruction, no readable text",
+      "startFrame": 19849,
+      "endFrame": 19992,
+      "srtCueIds": [
+        223,
+        224
+      ],
+      "narration": "そして、\n昼食の準備をしていた\n時間帯と重なったこともあり、",
+      "newVisualInformation": "1920s Japanese household preparing midday food beside a traditional hearth, quiet period reconstruction, no readable text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-040.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-041",
+      "cueStart": 225,
+      "type": "image",
+      "design": null,
+      "content": "Distant view of smoke and fires spreading over low-rise 1923 city roofs, historical reconstruction, no graphic human injury",
+      "startFrame": 19992,
+      "endFrame": 20067,
+      "srtCueIds": [
+        225
+      ],
+      "narration": "各地で火災が拡大します。",
+      "newVisualInformation": "Distant view of smoke and fires spreading over low-rise 1923 city roofs, historical reconstruction, no graphic human injury",
+      "status": "planned",
+      "asset": "public/full/scenes/image-041.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-042",
+      "cueStart": 226,
+      "type": "image",
+      "design": null,
+      "content": "Respectful modern memorial flowers overlooking a Japanese coast, no readable inscriptions, quiet remembrance",
+      "startFrame": 20067,
+      "endFrame": 20331,
+      "srtCueIds": [
+        226,
+        227,
+        228
+      ],
+      "narration": "地震とその後の災害によって\n十万人を超える人々が命を落とし、\nあるいは行方不明となりました。",
+      "newVisualInformation": "Respectful modern memorial flowers overlooking a Japanese coast, no readable inscriptions, quiet remembrance",
+      "status": "planned",
+      "asset": "public/full/scenes/image-042.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-025",
+      "cueStart": 229,
+      "type": "map",
+      "design": "historical-earthquakes",
+      "content": "1703 and 1923 coastal event chronology with distinct geographic locations and evidence cards; no periodic recurrence claim or fabricated rupture extents",
+      "startFrame": 20331,
+      "endFrame": 20790,
+      "srtCueIds": [
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "narration": "しかも、\nこの海域で起きた大地震は\n1923年だけではありません。\nさらに時代を遡ると、1703年にも\n元禄関東地震が発生しています。",
+      "newVisualInformation": "1703 and 1923 coastal event chronology with distinct geographic locations and evidence cards; no periodic recurrence claim or fabricated rupture extents",
+      "status": "planned",
+      "mapDesign": {
+        "family": "historical-earthquakes",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "1703 and 1923 coastal event chronology with distinct geographic locations and evidence cards; no periodic recurrence claim or fabricated rupture extents",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-043",
+      "cueStart": 234,
+      "type": "image",
+      "design": null,
+      "content": "Edo-period coastal village facing powerful sea surge in 1703, historically plausible architecture, distant non-graphic reconstruction",
+      "startFrame": 20790,
+      "endFrame": 20999,
+      "srtCueIds": [
+        234
+      ],
+      "narration": "この時も相模湾や房総半島の\n沿岸で強い揺れと津波が起こり、",
+      "newVisualInformation": "Edo-period coastal village facing powerful sea surge in 1703, historically plausible architecture, distant non-graphic reconstruction",
+      "status": "planned",
+      "asset": "public/full/scenes/image-043.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-044",
+      "cueStart": 235,
+      "type": "image",
+      "design": null,
+      "content": "Uplifted marine terrace and old wave-cut rock above present shoreline, geologic field photograph style, no labels",
+      "startFrame": 20999,
+      "endFrame": 21293,
+      "srtCueIds": [
+        235,
+        236,
+        237
+      ],
+      "narration": "海岸の一部では地面が\n隆起しました。。\n海はその底だ-けでなく、\n周囲の陸地の形まで\n変えてしまったのです。",
+      "newVisualInformation": "Uplifted marine terrace and old wave-cut rock above present shoreline, geologic field photograph style, no labels",
+      "status": "planned",
+      "asset": "public/full/scenes/image-044.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-045",
+      "cueStart": 238,
+      "type": "image",
+      "design": null,
+      "content": "Modern seismologist watching clean unlabeled instrument waveforms in a laboratory, no countdown, no prediction claim",
+      "startFrame": 21293,
+      "endFrame": 21493,
+      "srtCueIds": [
+        238,
+        239
+      ],
+      "narration": "ただし、\n地震が一定の間隔で必ず\n起きるわけではありません。",
+      "newVisualInformation": "Modern seismologist watching clean unlabeled instrument waveforms in a laboratory, no countdown, no prediction claim",
+      "status": "planned",
+      "asset": "public/full/scenes/image-045.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-046",
+      "cueStart": 240,
+      "type": "image",
+      "design": null,
+      "content": "Archivist examining historical coastal documents and monochrome photographs with writing turned away, records not prediction",
+      "startFrame": 21493,
+      "endFrame": 21771,
+      "srtCueIds": [
+        240,
+        241
+      ],
+      "narration": "過去の記録は危険を知る\n手がかりになりますが、\n次にいつ揺れるかを正確に\n予言することはできません。",
+      "newVisualInformation": "Archivist examining historical coastal documents and monochrome photographs with writing turned away, records not prediction",
+      "status": "planned",
+      "asset": "public/full/scenes/image-046.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-047",
+      "cueStart": 242,
+      "type": "image",
+      "design": null,
+      "content": "Quiet Sagami shoreline at pastel sunrise from a new eastern viewpoint, still sea and fishing village, not preview composition",
+      "startFrame": 21771,
+      "endFrame": 21949,
+      "srtCueIds": [
+        242,
+        243
+      ],
+      "narration": "ここで思い出してください。\n最初に見た相模湾は\n穏やかな海でした。",
+      "newVisualInformation": "Quiet Sagami shoreline at pastel sunrise from a new eastern viewpoint, still sea and fishing village, not preview composition",
+      "status": "planned",
+      "asset": "public/full/scenes/image-047.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-115",
+      "cueStart": 244,
+      "type": "image",
+      "design": null,
+      "content": "Close realistic documentary view of a coastal geodetic sensor firmly bolted to old bedrock near a quiet Japanese bay. Calm sea and distant ordinary waterfront behind, a buried monitoring cable and practical field instrument in foreground, no readable displays. Suggest hidden Earth forces through scientific observation, not a repeated underground diagram.",
+      "startFrame": 21949,
+      "endFrame": 22167,
+      "srtCueIds": [
+        244,
+        245
+      ],
+      "narration": "そのすぐ下には、\n長い時間をかけて力を溜める\n地球の境界が隠されています。",
+      "newVisualInformation": "Close realistic documentary view of a coastal geodetic sensor firmly bolted to old bedrock near a quiet Japanese bay. Calm sea and distant ordinary waterfront behind, a buried monitoring cable and practical field instrument in foreground, no readable displays. Suggest hidden Earth forces through scientific observation, not a repeated underground diagram.",
+      "status": "planned",
+      "asset": "public/full/scenes/image-115.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-027",
+      "cueStart": 246,
+      "type": "map",
+      "design": "oshima-approach",
+      "content": "Real island terrain approached from Sagami direction; reveal shortest indicative Izu-Oshima distance line and geographic position, distinct island camera",
+      "startFrame": 22167,
+      "endFrame": 22975,
+      "srtCueIds": [
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252
+      ],
+      "narration": "では、\nこの複雑な地質のすぐ南に\n浮かぶ伊豆大島はどうでしょうか。\nそこには海底の動きと深く関わる\nもう一つの地球の姿があります。\n相模湾から南へ視線を移すと、\n太平洋に一つの大きな\n島が浮かんでいます。\n伊豆大島です。\n伊豆半島から\nおよそ二十五キロメートル。",
+      "newVisualInformation": "Real island terrain approached from Sagami direction; reveal shortest indicative Izu-Oshima distance line and geographic position, distinct island camera",
+      "status": "planned",
+      "mapDesign": {
+        "family": "oshima-approach",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Real island terrain approached from Sagami direction; reveal shortest indicative Izu-Oshima distance line and geographic position, distinct island camera",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-048",
+      "cueStart": 253,
+      "type": "image",
+      "design": null,
+      "content": "Izu Oshima Motomachi-style small harbor town with low houses and green volcanic slope, peaceful daylight, no signs",
+      "startFrame": 22975,
+      "endFrame": 23259,
+      "srtCueIds": [
+        253,
+        254,
+        255
+      ],
+      "narration": "行政上は東京都に属していますが、\n東京の中心部から眺める\n都会の風景とは全く違う\n世界が広がっています。",
+      "newVisualInformation": "Izu Oshima Motomachi-style small harbor town with low houses and green volcanic slope, peaceful daylight, no signs",
+      "status": "planned",
+      "asset": "public/full/scenes/image-048.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-028",
+      "cueStart": 256,
+      "type": "map",
+      "design": "oshima-full-cone",
+      "content": "Actual island DEM and offshore bathymetry show volcanic edifice across sea level in a cutaway perspective, true scale noted",
+      "startFrame": 23259,
+      "endFrame": 23960,
+      "srtCueIds": [
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262
+      ],
+      "narration": "この島の正体は一つの\n巨大な火山です。\n私たちが海の上に見ている島は、\n海底から積み重なった火山の\n頂上部分に過ぎません。\n島の最高地点は\n標高七百五十八メートル。\nしかし、\n海面の下まで含めれば、\n火山の姿はさらに大きくなります。",
+      "newVisualInformation": "Actual island DEM and offshore bathymetry show volcanic edifice across sea level in a cutaway perspective, true scale noted",
+      "status": "planned",
+      "mapDesign": {
+        "family": "oshima-full-cone",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Actual island DEM and offshore bathymetry show volcanic edifice across sea level in a cutaway perspective, true scale noted",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-049",
+      "cueStart": 263,
+      "type": "image",
+      "design": null,
+      "content": "Mihara crater landscape on Izu Oshima, broad volcanic basin and dark central cone, daylight illustrative aerial",
+      "startFrame": 23960,
+      "endFrame": 24052,
+      "srtCueIds": [
+        263
+      ],
+      "narration": "島の中央にある三原山。",
+      "newVisualInformation": "Mihara crater landscape on Izu Oshima, broad volcanic basin and dark central cone, daylight illustrative aerial",
+      "status": "planned",
+      "asset": "public/full/scenes/image-049.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-050",
+      "cueStart": 264,
+      "type": "image",
+      "design": null,
+      "content": "Ground-level black basalt lava field with twisted cooled rock textures, sparse resilient vegetation, no active lava",
+      "startFrame": 24052,
+      "endFrame": 24304,
+      "srtCueIds": [
+        264,
+        265,
+        266
+      ],
+      "narration": "黒い溶岩に覆われた斜面と\n大きく口を開けた火口が、\nこの島の成り立ちを\n物語っています。",
+      "newVisualInformation": "Ground-level black basalt lava field with twisted cooled rock textures, sparse resilient vegetation, no active lava",
+      "status": "planned",
+      "asset": "public/full/scenes/image-050.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-051",
+      "cueStart": 267,
+      "type": "image",
+      "design": null,
+      "content": "Lush island forest path opening toward black volcanic ground, clear transition between ecology and lava landscape",
+      "startFrame": 24304,
+      "endFrame": 24361,
+      "srtCueIds": [
+        267
+      ],
+      "narration": "緑の森を抜けると、",
+      "newVisualInformation": "Lush island forest path opening toward black volcanic ground, clear transition between ecology and lava landscape",
+      "status": "planned",
+      "asset": "public/full/scenes/image-051.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-052",
+      "cueStart": 268,
+      "type": "image",
+      "design": null,
+      "content": "Open black ash desert on a Japanese volcanic island, grasses at edges and distant low cone, restrained natural daylight",
+      "startFrame": 24361,
+      "endFrame": 24635,
+      "srtCueIds": [
+        268,
+        269
+      ],
+      "narration": "突然黒い火山灰や岩石の\n大地が広がります。\nその光景はまるで\n別の惑星のようです。",
+      "newVisualInformation": "Open black ash desert on a Japanese volcanic island, grasses at edges and distant low cone, restrained natural daylight",
+      "status": "planned",
+      "asset": "public/full/scenes/image-052.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-053",
+      "cueStart": 270,
+      "type": "image",
+      "design": null,
+      "content": "Macro of cooled lava surface with rope-like basalt texture, sharp natural detail, no molten glow",
+      "startFrame": 24635,
+      "endFrame": 24923,
+      "srtCueIds": [
+        270,
+        271,
+        272
+      ],
+      "narration": "かつて流れ出した\n溶岩は冷え固まり、\n次の噴火が長い時間をかけて\n噴火を繰り返しながら\n形作られてきたのです。",
+      "newVisualInformation": "Macro of cooled lava surface with rope-like basalt texture, sharp natural detail, no molten glow",
+      "status": "planned",
+      "asset": "public/full/scenes/image-053.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-054",
+      "cueStart": 273,
+      "type": "image",
+      "design": null,
+      "content": "Older volcanic strata cut by a younger dark lava tongue, coherent scientific natural landscape illustration",
+      "startFrame": 24923,
+      "endFrame": 25135,
+      "srtCueIds": [
+        273,
+        274
+      ],
+      "narration": "伊豆大島は長い時間をかけて\n噴火を繰り返しながら\n形作られてきたのです。",
+      "newVisualInformation": "Older volcanic strata cut by a younger dark lava tongue, coherent scientific natural landscape illustration",
+      "status": "planned",
+      "asset": "public/full/scenes/image-054.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-055",
+      "cueStart": 275,
+      "type": "image",
+      "design": null,
+      "content": "Volcanologist collecting a basalt sample on safe dormant slope, gloves and field kit, no readable markings",
+      "startFrame": 25135,
+      "endFrame": 25270,
+      "srtCueIds": [
+        275,
+        276
+      ],
+      "narration": "では、\nなぜここに火山が\nあるのでしょうか？",
+      "newVisualInformation": "Volcanologist collecting a basalt sample on safe dormant slope, gloves and field kit, no readable markings",
+      "status": "planned",
+      "asset": "public/full/scenes/image-055.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-029",
+      "cueStart": 277,
+      "type": "map",
+      "design": "subduction-contrast",
+      "content": "Two clearly separated tectonic sections: Sagami Philippine-under-land versus east-of-Izu Pacific-under-Philippine; timed arrows then magma path schematic",
+      "startFrame": 25270,
+      "endFrame": 26348,
+      "srtCueIds": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ],
+      "narration": "前に見た相模トラフでは、\nフィリピン海プレートが\n陸側のプレートの下へ\n沈み込んでいました。\nところが、\n伊豆大島の火山活動を考えるとき、\n重要になるのは\nさらに東側で、\n太平洋プレートが\nフィリピン海プレートの\n下へ沈み込む仕組みです。\nその過程で生じるマグマが\n伊豆諸島に連なる火山を\n育ててきました。\n地図では、\n近くに見える地震の場所と\n火山の場所も、\n地下では異なる仕組みで\n動いているのです。。",
+      "newVisualInformation": "Two clearly separated tectonic sections: Sagami Philippine-under-land versus east-of-Izu Pacific-under-Philippine; timed arrows then magma path schematic",
+      "status": "planned",
+      "mapDesign": {
+        "family": "subduction-contrast",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Two clearly separated tectonic sections: Sagami Philippine-under-land versus east-of-Izu Pacific-under-Philippine; timed arrows then magma path schematic",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-056",
+      "cueStart": 292,
+      "type": "image",
+      "design": null,
+      "content": "1986 Izu Oshima eruption reconstruction seen far from crater at night, orange fountain against dark cone, no human injury",
+      "startFrame": 26348,
+      "endFrame": 26564,
+      "srtCueIds": [
+        292,
+        293,
+        294
+      ],
+      "narration": "この島の力一を。\n人々が目の当たりにしたのが\n千九百八六年の噴火でした。",
+      "newVisualInformation": "1986 Izu Oshima eruption reconstruction seen far from crater at night, orange fountain against dark cone, no human injury",
+      "status": "planned",
+      "asset": "public/full/scenes/image-056.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-057",
+      "cueStart": 295,
+      "type": "image",
+      "design": null,
+      "content": "Closer reconstructed Mihara crater lava fountain in November 1986, coherent volcanic rocks, no town destruction or date text",
+      "startFrame": 26564,
+      "endFrame": 26786,
+      "srtCueIds": [
+        295,
+        296,
+        297
+      ],
+      "narration": "月十五日、\n三原山の火口で噴火が始まり、\n赤い溶岩が噴き上がりました。",
+      "newVisualInformation": "Closer reconstructed Mihara crater lava fountain in November 1986, coherent volcanic rocks, no town destruction or date text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-057.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-058",
+      "cueStart": 298,
+      "type": "image",
+      "design": null,
+      "content": "Reconstruction of volcanic fissure opening on island slope and emitting lava, wide safe viewpoint, no claim of modern active eruption",
+      "startFrame": 26786,
+      "endFrame": 27036,
+      "srtCueIds": [
+        298,
+        299
+      ],
+      "narration": "そして二十一日には山の\n斜面に新しい割れ目が生まれ、\nそこからも溶岩が流れ出しました。",
+      "newVisualInformation": "Reconstruction of volcanic fissure opening on island slope and emitting lava, wide safe viewpoint, no claim of modern active eruption",
+      "status": "planned",
+      "asset": "public/full/scenes/image-058.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-059",
+      "cueStart": 300,
+      "type": "image",
+      "design": null,
+      "content": "1986 island residents boarding a passenger ferry at night during evacuation, period clothing and luggage, orderly non-graphic reconstruction",
+      "startFrame": 27036,
+      "endFrame": 27262,
+      "srtCueIds": [
+        300,
+        301
+      ],
+      "narration": "島の人々\nおよそ一万人が船などで島外へ\n避難する事態となったのです。",
+      "newVisualInformation": "1986 island residents boarding a passenger ferry at night during evacuation, period clothing and luggage, orderly non-graphic reconstruction",
+      "status": "planned",
+      "asset": "public/full/scenes/image-059.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-060",
+      "cueStart": 302,
+      "type": "image",
+      "design": null,
+      "content": "Island evacuation ferry leaving harbor under dawn sky, reconstructed 1980s vessel and calm passengers seen distantly",
+      "startFrame": 27262,
+      "endFrame": 27476,
+      "srtCueIds": [
+        302,
+        303
+      ],
+      "narration": "もちろん、\nこれは映画の時代より後に\n起きた実際の自然現象です。",
+      "newVisualInformation": "Island evacuation ferry leaving harbor under dawn sky, reconstructed 1980s vessel and calm passengers seen distantly",
+      "status": "planned",
+      "asset": "public/full/scenes/image-060.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-061",
+      "cueStart": 304,
+      "type": "image",
+      "design": null,
+      "content": "Miniature ocean film set with creature maquette and practical lighting, clear filmmaking context separates imagination from geology",
+      "startFrame": 27476,
+      "endFrame": 27640,
+      "srtCueIds": [
+        304,
+        305
+      ],
+      "narration": "ゴジラと噴火の\n間に科学的な因果関係が\nあるわけではありません。",
+      "newVisualInformation": "Miniature ocean film set with creature maquette and practical lighting, clear filmmaking context separates imagination from geology",
+      "status": "planned",
+      "asset": "public/full/scenes/image-061.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-062",
+      "cueStart": 306,
+      "type": "image",
+      "design": null,
+      "content": "Volcanic island silhouette across tranquil blue Pacific water, strong landform and quiet atmosphere, new south-facing composition",
+      "startFrame": 27640,
+      "endFrame": 27823,
+      "srtCueIds": [
+        306,
+        307
+      ],
+      "narration": "しかし、\n静かな海の向こうに海底から\n成長した火山島がある。",
+      "newVisualInformation": "Volcanic island silhouette across tranquil blue Pacific water, strong landform and quiet atmosphere, new south-facing composition",
+      "status": "planned",
+      "asset": "public/full/scenes/image-062.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-063",
+      "cueStart": 308,
+      "type": "image",
+      "design": null,
+      "content": "Scientist using portable volcano monitoring equipment on a safe green ridge, practical fieldwork, no readable instrument text",
+      "startFrame": 27823,
+      "endFrame": 28067,
+      "srtCueIds": [
+        308,
+        309
+      ],
+      "narration": "その事実だけでも、\nこの一帯が地球の活動を間近に\n感じられる場所だと分かります。",
+      "newVisualInformation": "Scientist using portable volcano monitoring equipment on a safe green ridge, practical fieldwork, no readable instrument text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-063.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-064",
+      "cueStart": 310,
+      "type": "image",
+      "design": null,
+      "content": "Deep-sea ROV being lowered through the surface from a research ship crane, mechanical detail and soft blue sea",
+      "startFrame": 28067,
+      "endFrame": 28304,
+      "srtCueIds": [
+        310,
+        311,
+        312,
+        313
+      ],
+      "narration": "そして、\n海底の世界には、\n火山や地震とは別の\nもう一つの謎が残されています。",
+      "newVisualInformation": "Deep-sea ROV being lowered through the surface from a research ship crane, mechanical detail and soft blue sea",
+      "status": "planned",
+      "asset": "public/full/scenes/image-064.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-065",
+      "cueStart": 314,
+      "type": "image",
+      "design": null,
+      "content": "Submersible descending into deep dark ocean, narrow cone of white light and fine marine snow, no fantasy creatures",
+      "startFrame": 28304,
+      "endFrame": 28482,
+      "srtCueIds": [
+        314,
+        315
+      ],
+      "narration": "深い暗闇の中で、\n一体どのような生き物たちが\n暮らしているのでしょうか。",
+      "newVisualInformation": "Submersible descending into deep dark ocean, narrow cone of white light and fine marine snow, no fantasy creatures",
+      "status": "planned",
+      "asset": "public/full/scenes/image-065.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-030",
+      "cueStart": 316,
+      "type": "map",
+      "design": "depth-light-pressure",
+      "content": "Coast-attached vertical ocean column shows diminishing sunlight and rising pressure with depth, hydrostatic relation rather than invented temperature observations",
+      "startFrame": 28482,
+      "endFrame": 29279,
+      "srtCueIds": [
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325
+      ],
+      "narration": "火山の島から再び相模湾の\n海へ戻ってみましょう。\n今度は海面を通り抜け、\n光の届かない深さまで\n降りていきます。\n水深が増すにつれて、\n太陽の光は弱くなり、\nやがて周囲は\n暗闇に包まれます。\n水圧は高まり、\n水温も低くなります。\n人間にとっては過酷な環境です。",
+      "newVisualInformation": "Coast-attached vertical ocean column shows diminishing sunlight and rising pressure with depth, hydrostatic relation rather than invented temperature observations",
+      "status": "planned",
+      "mapDesign": {
+        "family": "depth-light-pressure",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Coast-attached vertical ocean column shows diminishing sunlight and rising pressure with depth, hydrostatic relation rather than invented temperature observations",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-066",
+      "cueStart": 326,
+      "type": "image",
+      "design": null,
+      "content": "Tiny deep-ocean animals and marine snow visible in a narrow submersible light beam, subtle realistic life in darkness",
+      "startFrame": 29279,
+      "endFrame": 29470,
+      "srtCueIds": [
+        326,
+        327
+      ],
+      "narration": "しかし、\nこの深い海には確かに\n命の営みがあります。",
+      "newVisualInformation": "Tiny deep-ocean animals and marine snow visible in a narrow submersible light beam, subtle realistic life in darkness",
+      "status": "planned",
+      "asset": "public/full/scenes/image-066.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-031",
+      "cueStart": 328,
+      "type": "map",
+      "design": "rare-shark-records",
+      "content": "Coastal records locator with three scientific silhouette callouts for goblin frilled and megamouth sharks; regional not exact invented catch coordinates",
+      "startFrame": 29470,
+      "endFrame": 29725,
+      "srtCueIds": [
+        328,
+        329,
+        330,
+        331
+      ],
+      "narration": "相模湾の沿岸では、\nミツクリザメや\nラブカ、\nメガマウスといった珍しい\nサメが記録されています。",
+      "newVisualInformation": "Coastal records locator with three scientific silhouette callouts for goblin frilled and megamouth sharks; regional not exact invented catch coordinates",
+      "status": "planned",
+      "mapDesign": {
+        "family": "rare-shark-records",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Coastal records locator with three scientific silhouette callouts for goblin frilled and megamouth sharks; regional not exact invented catch coordinates",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-067",
+      "cueStart": 332,
+      "type": "image",
+      "design": null,
+      "content": "Scientifically plausible goblin shark side profile with long flattened rostrum, pale pink gray skin, deep blue water, mouth relaxed",
+      "startFrame": 29725,
+      "endFrame": 29832,
+      "srtCueIds": [
+        332
+      ],
+      "narration": "長く突き出た吻を\n持つミツクリザメ、",
+      "newVisualInformation": "Scientifically plausible goblin shark side profile with long flattened rostrum, pale pink gray skin, deep blue water, mouth relaxed",
+      "status": "planned",
+      "asset": "public/full/scenes/image-067.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-068",
+      "cueStart": 333,
+      "type": "image",
+      "design": null,
+      "content": "Scientifically plausible frilled shark with long eel-like body and six gill slits, natural underwater side view, no aggression",
+      "startFrame": 29832,
+      "endFrame": 29952,
+      "srtCueIds": [
+        333
+      ],
+      "narration": "ウナギを思わせる\n細長い体のラブカ、",
+      "newVisualInformation": "Scientifically plausible frilled shark with long eel-like body and six gill slits, natural underwater side view, no aggression",
+      "status": "planned",
+      "asset": "public/full/scenes/image-068.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-069",
+      "cueStart": 334,
+      "type": "image",
+      "design": null,
+      "content": "Scientifically plausible megamouth shark front three-quarter view, huge broad head and mouth, natural low light, no attack scene",
+      "startFrame": 29952,
+      "endFrame": 30229,
+      "srtCueIds": [
+        334,
+        335,
+        336
+      ],
+      "narration": "巨大な口を持つメガマウス。\nどれも普段\n私たちが目にする魚とは\n大きく異なる姿をしています。",
+      "newVisualInformation": "Scientifically plausible megamouth shark front three-quarter view, huge broad head and mouth, natural low light, no attack scene",
+      "status": "planned",
+      "asset": "public/full/scenes/image-069.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-070",
+      "cueStart": 337,
+      "type": "image",
+      "design": null,
+      "content": "Scientist examining a seawater sample through a microscope, deep-sea curiosity beyond strange fish, no readable displays",
+      "startFrame": 30229,
+      "endFrame": 30431,
+      "srtCueIds": [
+        337,
+        338,
+        339
+      ],
+      "narration": "けれども、\nこの海の本当の不思議は、\n奇妙な姿を\nした魚だけではありません。",
+      "newVisualInformation": "Scientist examining a seawater sample through a microscope, deep-sea curiosity beyond strange fish, no readable displays",
+      "status": "planned",
+      "asset": "public/full/scenes/image-070.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-032",
+      "cueStart": 340,
+      "type": "map",
+      "design": "hatsushima-seep",
+      "content": "Local Hatsushima offshore bathymetric site locator with published depth interval and broad position, no fake survey coordinates",
+      "startFrame": 30431,
+      "endFrame": 30664,
+      "srtCueIds": [
+        340,
+        341
+      ],
+      "narration": "伊豆半島に近い初島の沖、\n水深およそ千百メートルから\n千二百メートルの海底。",
+      "newVisualInformation": "Local Hatsushima offshore bathymetric site locator with published depth interval and broad position, no fake survey coordinates",
+      "status": "planned",
+      "mapDesign": {
+        "family": "hatsushima-seep",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Local Hatsushima offshore bathymetric site locator with published depth interval and broad position, no fake survey coordinates",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-071",
+      "cueStart": 342,
+      "type": "image",
+      "design": null,
+      "content": "Dense colony of white Calyptogena-type clams on cold seep seabed, ROV-style light, realistic shells and sediment, no hydrothermal chimney",
+      "startFrame": 30664,
+      "endFrame": 30886,
+      "srtCueIds": [
+        342,
+        343
+      ],
+      "narration": "ここでは白い貝が密集して\n生きる場所が発見されています。\nシロウリガイの仲間です。",
+      "newVisualInformation": "Dense colony of white Calyptogena-type clams on cold seep seabed, ROV-style light, realistic shells and sediment, no hydrothermal chimney",
+      "status": "planned",
+      "asset": "public/full/scenes/image-071.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-072",
+      "cueStart": 344,
+      "type": "image",
+      "design": null,
+      "content": "Close pair of white deep-sea clams partly buried in dark sediment, soft research lamp lighting, fine shell detail",
+      "startFrame": 30886,
+      "endFrame": 31036,
+      "srtCueIds": [
+        344,
+        345
+      ],
+      "narration": "光が届かない深海で\nどうやって\n生きているのでしょうか。",
+      "newVisualInformation": "Close pair of white deep-sea clams partly buried in dark sediment, soft research lamp lighting, fine shell detail",
+      "status": "planned",
+      "asset": "public/full/scenes/image-072.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-073",
+      "cueStart": 346,
+      "type": "image",
+      "design": null,
+      "content": "Sunlight filtering through the upper ocean onto a cloud of natural phytoplankton, scientific documentary macro ambience",
+      "startFrame": 31036,
+      "endFrame": 31331,
+      "srtCueIds": [
+        346,
+        347,
+        348
+      ],
+      "narration": "私たちの知る多くの生態系は、\n植物や植物プランクトンが\n太陽の光を使う光合成を\n出発点としています。",
+      "newVisualInformation": "Sunlight filtering through the upper ocean onto a cloud of natural phytoplankton, scientific documentary macro ambience",
+      "status": "planned",
+      "asset": "public/full/scenes/image-073.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-033",
+      "cueStart": 349,
+      "type": "map",
+      "design": "two-energy-paths",
+      "content": "Compare sun-based ocean food chain with chemical energy below Hatsushima; two spatial columns linked to real local section, qualitative mechanism",
+      "startFrame": 31331,
+      "endFrame": 31546,
+      "srtCueIds": [
+        349,
+        350,
+        351,
+        352
+      ],
+      "narration": "ところが、\nこの貝たちを支えるのは\n光ではなく、\n化学反応のエネルギーです。。",
+      "newVisualInformation": "Compare sun-based ocean food chain with chemical energy below Hatsushima; two spatial columns linked to real local section, qualitative mechanism",
+      "status": "planned",
+      "mapDesign": {
+        "family": "two-energy-paths",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Compare sun-based ocean food chain with chemical energy below Hatsushima; two spatial columns linked to real local section, qualitative mechanism",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-074",
+      "cueStart": 353,
+      "type": "image",
+      "design": null,
+      "content": "Scientific conceptual sediment cutaway with clear seep fluid, microbial layers and small white clams above, no black smokers or lava",
+      "startFrame": 31546,
+      "endFrame": 31822,
+      "srtCueIds": [
+        353,
+        354,
+        355
+      ],
+      "narration": "海底から染み出すメタンを\n含む流体と。\n海底の微生物の働きによって\n硫化水素が生まれます。",
+      "newVisualInformation": "Scientific conceptual sediment cutaway with clear seep fluid, microbial layers and small white clams above, no black smokers or lava",
+      "status": "planned",
+      "asset": "public/full/scenes/image-074.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-075",
+      "cueStart": 356,
+      "type": "image",
+      "design": null,
+      "content": "Unlabeled scientific macro illustration of clam gill folds and symbiotic bacteria, explicitly conceptual in production record, natural restrained colors",
+      "startFrame": 31822,
+      "endFrame": 32153,
+      "srtCueIds": [
+        356,
+        357,
+        358,
+        359
+      ],
+      "narration": "貝のエラに共生する細菌は、\nその硫化水素を利用して\n栄養となる有機物を作ります。\nこれを化学合成と呼びます。",
+      "newVisualInformation": "Unlabeled scientific macro illustration of clam gill folds and symbiotic bacteria, explicitly conceptual in production record, natural restrained colors",
+      "status": "planned",
+      "asset": "public/full/scenes/image-075.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-076",
+      "cueStart": 360,
+      "type": "image",
+      "design": null,
+      "content": "Wide cold-seep community of white clams and small benthic animals on sediment in darkness, coherent ecology and quiet research light",
+      "startFrame": 32153,
+      "endFrame": 32443,
+      "srtCueIds": [
+        360,
+        361,
+        362,
+        363
+      ],
+      "narration": "つまり、\n太陽の光が届かない場所でも、\n地下から供給される物質を\nもとに生き物の集まりが\n成り立っているのです。",
+      "newVisualInformation": "Wide cold-seep community of white clams and small benthic animals on sediment in darkness, coherent ecology and quiet research light",
+      "status": "planned",
+      "asset": "public/full/scenes/image-076.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-077",
+      "cueStart": 364,
+      "type": "image",
+      "design": null,
+      "content": "Scientific manned submersible with round viewing ports approaching natural seabed, detailed plausible engineering, no logos",
+      "startFrame": 32443,
+      "endFrame": 32548,
+      "srtCueIds": [
+        364,
+        365
+      ],
+      "narration": "研究者たちは、\n潜水調査船や",
+      "newVisualInformation": "Scientific manned submersible with round viewing ports approaching natural seabed, detailed plausible engineering, no logos",
+      "status": "planned",
+      "asset": "public/full/scenes/image-077.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-078",
+      "cueStart": 366,
+      "type": "image",
+      "design": null,
+      "content": "Autonomous deep-sea lander with instruments and sample chambers resting on seabed, practical research apparatus, no readable screen text",
+      "startFrame": 32548,
+      "endFrame": 32719,
+      "srtCueIds": [
+        366,
+        367
+      ],
+      "narration": "海底観測装置を使い、\nこうした生態系を調べてきました。",
+      "newVisualInformation": "Autonomous deep-sea lander with instruments and sample chambers resting on seabed, practical research apparatus, no readable screen text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-078.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-079",
+      "cueStart": 368,
+      "type": "image",
+      "design": null,
+      "content": "Marine researcher in dim ship control room watching an original clam-colony image on a monitor, no data text or captions",
+      "startFrame": 32719,
+      "endFrame": 33014,
+      "srtCueIds": [
+        368,
+        369,
+        370,
+        371
+      ],
+      "narration": "そこに見つかったのは、\n海獣の証拠ではなく、\n私たちがまだ十分に理解していない\n生命の仕組みでした。",
+      "newVisualInformation": "Marine researcher in dim ship control room watching an original clam-colony image on a monitor, no data text or captions",
+      "status": "planned",
+      "asset": "public/full/scenes/image-079.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-116",
+      "cueStart": 372,
+      "type": "image",
+      "design": null,
+      "content": "Research ROV manipulator gently sampling a small carbonate rock beside a few white Calyptogena clams at a deep cold seep. Tight foreground view of the robotic tool, mineral texture and living shells connects geology with life. Dark1100m deep water lit only by research lamps, no sunlight, lava or hydrothermal chimney. Different composition from previous wide clam colonies.",
+      "startFrame": 33014,
+      "endFrame": 33278,
+      "srtCueIds": [
+        372,
+        373,
+        374,
+        375
+      ],
+      "narration": "相模湾は\n地球が動く場所であると同時に、\n暗闇の中で\n命がつながる場所でもあります。",
+      "newVisualInformation": "Research ROV manipulator gently sampling a small carbonate rock beside a few white Calyptogena clams at a deep cold seep. Tight foreground view of the robotic tool, mineral texture and living shells connects geology with life. Dark1100m deep water lit only by research lamps, no sunlight, lava or hydrothermal chimney. Different composition from previous wide clam colonies.",
+      "status": "planned",
+      "asset": "public/full/scenes/image-116.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-080",
+      "cueStart": 376,
+      "type": "image",
+      "design": null,
+      "content": "Broad deep ocean geological wall and cold-seep life in one evocative scientific illustration, restrained lighting, no location accuracy claim",
+      "startFrame": 33278,
+      "endFrame": 33516,
+      "srtCueIds": [
+        376,
+        377,
+        378,
+        379,
+        380
+      ],
+      "narration": "では、\n地震、\n火山、\n深い谷、\nそして未知のように\n見える生物たち。",
+      "newVisualInformation": "Broad deep ocean geological wall and cold-seep life in one evocative scientific illustration, restrained lighting, no location accuracy claim",
+      "status": "planned",
+      "asset": "public/full/scenes/image-080.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-081",
+      "cueStart": 381,
+      "type": "image",
+      "design": null,
+      "content": "Film concept artist viewing an ocean creature sculpture against blue window light, imaginative worlds inspired by reality",
+      "startFrame": 33516,
+      "endFrame": 33807,
+      "srtCueIds": [
+        381,
+        382,
+        383
+      ],
+      "narration": "こうした特徴を重ねた時、\nなぜ私たちは\nこの海にゴジラの姿を\n想像してしまうのでしょうか。",
+      "newVisualInformation": "Film concept artist viewing an ocean creature sculpture against blue window light, imaginative worlds inspired by reality",
+      "status": "planned",
+      "asset": "public/full/scenes/image-081.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-035",
+      "cueStart": 384,
+      "type": "map",
+      "design": "geography-imagination",
+      "content": "Real depth profile paired with a separately framed fictional creature silhouette, physical setting versus storytelling, no causal geology-to-monster arrow",
+      "startFrame": 33807,
+      "endFrame": 34414,
+      "srtCueIds": [
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391
+      ],
+      "narration": "ここまで見てきた相模湾の地形を\nもう一度\n映画の世界に重ねてみましょう。\n深い海底の谷、\n大地が動くプレートの境界、\n南に浮かぶ火山島、\nそして\n光の届かない場所に\n広がる生命の世界。",
+      "newVisualInformation": "Real depth profile paired with a separately framed fictional creature silhouette, physical setting versus storytelling, no causal geology-to-monster arrow",
+      "status": "planned",
+      "mapDesign": {
+        "family": "geography-imagination",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Real depth profile paired with a separately framed fictional creature silhouette, physical setting versus storytelling, no causal geology-to-monster arrow",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-082",
+      "cueStart": 392,
+      "type": "image",
+      "design": null,
+      "content": "Coastal observer at an oceanographic lookout seeing ordinary sea with new curiosity, distinct telescope and wide daylight view",
+      "startFrame": 34414,
+      "endFrame": 34654,
+      "srtCueIds": [
+        392,
+        393
+      ],
+      "narration": "こうした特徴を知ると、\n相模湾はただ怪獣が現れるだけの\n海には見えなくなってきます。",
+      "newVisualInformation": "Coastal observer at an oceanographic lookout seeing ordinary sea with new curiosity, distinct telescope and wide daylight view",
+      "status": "planned",
+      "asset": "public/full/scenes/image-082.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-083",
+      "cueStart": 394,
+      "type": "image",
+      "design": null,
+      "content": "Original historical movie studio with a miniature harbor and vintage camera, no actors resembling real people, no film branding",
+      "startFrame": 34654,
+      "endFrame": 34859,
+      "srtCueIds": [
+        394,
+        395,
+        396
+      ],
+      "narration": "しかし、\n映画とのつながりを考える上で、\nもっと直接的な理由があります。",
+      "newVisualInformation": "Original historical movie studio with a miniature harbor and vintage camera, no actors resembling real people, no film branding",
+      "status": "planned",
+      "asset": "public/full/scenes/image-083.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-084",
+      "cueStart": 397,
+      "type": "image",
+      "design": null,
+      "content": "Screenwriter hands beside miniature ships and blank storyboard cards, original fictional naval sequence, no readable text or accurate map",
+      "startFrame": 34859,
+      "endFrame": 35152,
+      "srtCueIds": [
+        397,
+        398,
+        399
+      ],
+      "narration": "実は相模湾は\n前作ゴジラマイナスイン点ゼロの\n時点で\n物語の重要な舞台に\nなっていました。",
+      "newVisualInformation": "Screenwriter hands beside miniature ships and blank storyboard cards, original fictional naval sequence, no readable text or accurate map",
+      "status": "planned",
+      "asset": "public/full/scenes/image-084.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-085",
+      "cueStart": 400,
+      "type": "image",
+      "design": null,
+      "content": "1940s-style ship crew discussing a model vessel on deck, cinematic fictional reconstruction, no film still imitation or readable uniforms",
+      "startFrame": 35152,
+      "endFrame": 35334,
+      "srtCueIds": [
+        400,
+        401
+      ],
+      "narration": "覚えているでしょうか。\nゴジラを止めるために\n立てられたウミガメ作戦です。",
+      "newVisualInformation": "1940s-style ship crew discussing a model vessel on deck, cinematic fictional reconstruction, no film still imitation or readable uniforms",
+      "status": "planned",
+      "asset": "public/full/scenes/image-085.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-036",
+      "cueStart": 402,
+      "type": "map",
+      "design": "fictional-buoyancy-plan",
+      "content": "Explicit film schematic: bubbles reduce buoyancy, fictional creature descends toward1500m then rises; physical backdrop not a verified effective weapon",
+      "startFrame": 35334,
+      "endFrame": 35942,
+      "srtCueIds": [
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408
+      ],
+      "narration": "人々はゴジラを相模湾の\n深い海へ誘い込み、\nフロンガスの泡を利用して\n一気に沈めようとしました。\n目標とされた深さは\nおよそ千五百メートル、\nさらに\n急浮上させることで\n水圧の変化を利用する\n計画も用意されていました。",
+      "newVisualInformation": "Explicit film schematic: bubbles reduce buoyancy, fictional creature descends toward1500m then rises; physical backdrop not a verified effective weapon",
+      "status": "planned",
+      "mapDesign": {
+        "family": "fictional-buoyancy-plan",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Explicit film schematic: bubbles reduce buoyancy, fictional creature descends toward1500m then rises; physical backdrop not a verified effective weapon",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-086",
+      "cueStart": 409,
+      "type": "image",
+      "design": null,
+      "content": "Fictional ship captain looking out across deep blue sea from bridge, original cinema illustration, no known actor likeness",
+      "startFrame": 35942,
+      "endFrame": 36098,
+      "srtCueIds": [
+        409,
+        410
+      ],
+      "narration": "ここで初めて\n地理が物語の鍵になります。",
+      "newVisualInformation": "Fictional ship captain looking out across deep blue sea from bridge, original cinema illustration, no known actor likeness",
+      "status": "planned",
+      "asset": "public/full/scenes/image-086.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-037",
+      "cueStart": 411,
+      "type": "map",
+      "design": "depth-operational-window",
+      "content": "Actual local depth bands reveal deep-water setting near coast with1500m contour if supported, distinct oblique north-south view and factual source",
+      "startFrame": 36098,
+      "endFrame": 36465,
+      "srtCueIds": [
+        411,
+        412,
+        413
+      ],
+      "narration": "なぜ別の海ではなく\n相模湾だったのか。\nそれは東京から近いだけでなく、\n作戦に必要な深い海域が\n存在していたからです。",
+      "newVisualInformation": "Actual local depth bands reveal deep-water setting near coast with1500m contour if supported, distinct oblique north-south view and factual source",
+      "status": "planned",
+      "mapDesign": {
+        "family": "depth-operational-window",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Actual local depth bands reveal deep-water setting near coast with1500m contour if supported, distinct oblique north-south view and factual source",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-087",
+      "cueStart": 414,
+      "type": "image",
+      "design": null,
+      "content": "Controlled laboratory glass water tank and neutral buoyancy sphere experiment, physical science separated from monster fiction, no text",
+      "startFrame": 36465,
+      "endFrame": 36763,
+      "srtCueIds": [
+        414,
+        415,
+        416
+      ],
+      "narration": "もちろん、\n映画に描かれた方法で巨大な\n怪獣を倒せるかどうかは、\n現実の科学とは分けて\n考える必要があります。",
+      "newVisualInformation": "Controlled laboratory glass water tank and neutral buoyancy sphere experiment, physical science separated from monster fiction, no text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-087.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-088",
+      "cueStart": 417,
+      "type": "image",
+      "design": null,
+      "content": "Close original film prop pressure vessel beside a miniature ship, warm studio lighting and shallow depth of field",
+      "startFrame": 36763,
+      "endFrame": 36962,
+      "srtCueIds": [
+        417,
+        418,
+        419,
+        420
+      ],
+      "narration": "しかし、、\n脚本の中で\n海の深さが意味を持ってい。\nたことは確かです。",
+      "newVisualInformation": "Close original film prop pressure vessel beside a miniature ship, warm studio lighting and shallow depth of field",
+      "status": "planned",
+      "asset": "public/full/scenes/image-088.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-089",
+      "cueStart": 421,
+      "type": "image",
+      "design": null,
+      "content": "Back view of fictional postwar Japanese ship crew facing the sea with hope, quiet restrained cinematic staging",
+      "startFrame": 36962,
+      "endFrame": 37203,
+      "srtCueIds": [
+        421,
+        422
+      ],
+      "narration": "相模湾は単なる背景ではなく、\n登場人物たちが希望を\n託した場所だったのです。",
+      "newVisualInformation": "Back view of fictional postwar Japanese ship crew facing the sea with hope, quiet restrained cinematic staging",
+      "status": "planned",
+      "asset": "public/full/scenes/image-089.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-090",
+      "cueStart": 423,
+      "type": "image",
+      "design": null,
+      "content": "Close view of a cinema projector lens throwing a blue beam into darkness, original image, no film title or writing",
+      "startFrame": 37203,
+      "endFrame": 37482,
+      "srtCueIds": [
+        423,
+        424,
+        425
+      ],
+      "narration": "そして、\n続編ゴジラマイハム０.０でも、\n相模湾が再び物語の\n焦点になります。",
+      "newVisualInformation": "Close view of a cinema projector lens throwing a blue beam into darkness, original image, no film title or writing",
+      "status": "planned",
+      "asset": "public/full/scenes/image-090.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-091",
+      "cueStart": 426,
+      "type": "image",
+      "design": null,
+      "content": "Godzilla jagged dorsal silhouette just beneath dark ocean surface, new underwater fictional composition, no emergence-frame reuse",
+      "startFrame": 37482,
+      "endFrame": 37822,
+      "srtCueIds": [
+        426,
+        427,
+        428,
+        429
+      ],
+      "narration": "一度は怪獣を沈めようとした海から\n再び脅威が姿を現す。\nこの展開には、\n前作を覚えている人ほど\n強く引き込まれるでしょう。",
+      "newVisualInformation": "Godzilla jagged dorsal silhouette just beneath dark ocean surface, new underwater fictional composition, no emergence-frame reuse",
+      "status": "planned",
+      "asset": "public/full/scenes/image-091.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-092",
+      "cueStart": 430,
+      "type": "image",
+      "design": null,
+      "content": "Scientist holding a real rock sample beside an obviously miniature fictional creature model, distinction between evidence and imagination",
+      "startFrame": 37822,
+      "endFrame": 37964,
+      "srtCueIds": [
+        430,
+        431
+      ],
+      "narration": "ただし、\nここで一つ線を\n引かなければなりません。",
+      "newVisualInformation": "Scientist holding a real rock sample beside an obviously miniature fictional creature model, distinction between evidence and imagination",
+      "status": "planned",
+      "asset": "public/full/scenes/image-092.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-038",
+      "cueStart": 432,
+      "type": "map",
+      "design": "causality-boundary",
+      "content": "Two separate evidence chains: earthquakes and volcanism versus film setting; no scientific causal link to Godzilla, clear labels and crossed unsupported link",
+      "startFrame": 37964,
+      "endFrame": 38526,
+      "srtCueIds": [
+        432,
+        433,
+        434,
+        435,
+        436
+      ],
+      "narration": "相模トラフの地震や\n伊豆大島の火山活動が\nゴジラを目覚めさせた、と科学的に\n説明できるわけではありません。\nそれは映画の設定と\n私たちが現実の\n地図から読み取る事実を\n混同することになります。",
+      "newVisualInformation": "Two separate evidence chains: earthquakes and volcanism versus film setting; no scientific causal link to Godzilla, clear labels and crossed unsupported link",
+      "status": "planned",
+      "mapDesign": {
+        "family": "causality-boundary",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Two separate evidence chains: earthquakes and volcanism versus film setting; no scientific causal link to Godzilla, clear labels and crossed unsupported link",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-093",
+      "cueStart": 437,
+      "type": "image",
+      "design": null,
+      "content": "Filmmaker and marine geologist talking beside ocean with sketchpad turned away, creative geography discussion, no known people",
+      "startFrame": 38526,
+      "endFrame": 38771,
+      "srtCueIds": [
+        437,
+        438
+      ],
+      "narration": "むしろ注目すべきなのは、\n現実の地形が架空の物語に\n説得力を与えているという点です。",
+      "newVisualInformation": "Filmmaker and marine geologist talking beside ocean with sketchpad turned away, creative geography discussion, no known people",
+      "status": "planned",
+      "asset": "public/full/scenes/image-093.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-039",
+      "cueStart": 439,
+      "type": "map",
+      "design": "shore-depth-reveal",
+      "content": "Narrow Shonan-to-deep-bay real terrain curtain with satellite surface and sampled profile, horizontal depth reveal instead of previous whole-bay view",
+      "startFrame": 38771,
+      "endFrame": 38987,
+      "srtCueIds": [
+        439,
+        440
+      ],
+      "narration": "穏やかな湘南の海を\n見ているだけではわからない、\n千メートルを超える深さ。",
+      "newVisualInformation": "Narrow Shonan-to-deep-bay real terrain curtain with satellite surface and sampled profile, horizontal depth reveal instead of previous whole-bay view",
+      "status": "planned",
+      "mapDesign": {
+        "family": "shore-depth-reveal",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "Narrow Shonan-to-deep-bay real terrain curtain with satellite surface and sampled profile, horizontal depth reveal instead of previous whole-bay view",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-094",
+      "cueStart": 441,
+      "type": "image",
+      "design": null,
+      "content": "Distant ambiguous shadow beneath otherwise calm blue ocean, explicitly imagined cinematic mood, not geographic evidence",
+      "startFrame": 38987,
+      "endFrame": 39270,
+      "srtCueIds": [
+        441,
+        442,
+        443
+      ],
+      "narration": "その目に見えない\n落差を知った瞬間、\n海の向こうに\n何かが潜んでいるかもしれない、と\nいう想像が生まれます。",
+      "newVisualInformation": "Distant ambiguous shadow beneath otherwise calm blue ocean, explicitly imagined cinematic mood, not geographic evidence",
+      "status": "planned",
+      "asset": "public/full/scenes/image-094.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-095",
+      "cueStart": 444,
+      "type": "image",
+      "design": null,
+      "content": "Observer closes a blank notebook while watching the sea from a wooden seaside bench, contemplative synthesis",
+      "startFrame": 39270,
+      "endFrame": 39603,
+      "srtCueIds": [
+        444,
+        445,
+        446,
+        447,
+        448
+      ],
+      "narration": "では最後に\n地図から見えてきた\n相模湾の姿を一つの\n答えとして整理してみましょう。\nでは、\n最初の問いに戻りましょう。",
+      "newVisualInformation": "Observer closes a blank notebook while watching the sea from a wooden seaside bench, contemplative synthesis",
+      "status": "planned",
+      "asset": "public/full/scenes/image-095.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-096",
+      "cueStart": 449,
+      "type": "image",
+      "design": null,
+      "content": "Sagami coastal panorama with island silhouette far offshore, soft bright morning and fishing village, new foreground composition",
+      "startFrame": 39603,
+      "endFrame": 40018,
+      "srtCueIds": [
+        449,
+        450,
+        451,
+        452,
+        453
+      ],
+      "narration": "なぜゴジラの物語と相模湾は\nこれほど強く\n結びつくのでしょうか。\n地図の上で見る相模湾は、\n東京のすぐ南にある\nごく身近な海です。",
+      "newVisualInformation": "Sagami coastal panorama with island silhouette far offshore, soft bright morning and fishing village, new foreground composition",
+      "status": "planned",
+      "asset": "public/full/scenes/image-096.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-097",
+      "cueStart": 454,
+      "type": "image",
+      "design": null,
+      "content": "Footprints on broad Shonan sand beside soft wavelets, warm morning, no text",
+      "startFrame": 40018,
+      "endFrame": 40071,
+      "srtCueIds": [
+        454
+      ],
+      "narration": "湘南の砂浜、",
+      "newVisualInformation": "Footprints on broad Shonan sand beside soft wavelets, warm morning, no text",
+      "status": "planned",
+      "asset": "public/full/scenes/image-097.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-098",
+      "cueStart": 455,
+      "type": "image",
+      "design": null,
+      "content": "Kamakura narrow residential lane with traditional roofs and distant temple greenery, calm local life, no readable signs",
+      "startFrame": 40071,
+      "endFrame": 40127,
+      "srtCueIds": [
+        455
+      ],
+      "narration": "鎌倉の街並み、",
+      "newVisualInformation": "Kamakura narrow residential lane with traditional roofs and distant temple greenery, calm local life, no readable signs",
+      "status": "planned",
+      "asset": "public/full/scenes/image-098.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-099",
+      "cueStart": 456,
+      "type": "image",
+      "design": null,
+      "content": "Izu Oshima silhouette low on distant sea horizon seen from a different elevated coastal path, soft atmosphere",
+      "startFrame": 40127,
+      "endFrame": 40414,
+      "srtCueIds": [
+        456,
+        457
+      ],
+      "narration": "水平線の向こうに浮かぶ伊豆大島。\nそこには私たちが知る穏やかな\n日本の風景が広がっています。",
+      "newVisualInformation": "Izu Oshima silhouette low on distant sea horizon seen from a different elevated coastal path, soft atmosphere",
+      "status": "planned",
+      "asset": "public/full/scenes/image-099.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "map-040",
+      "cueStart": 458,
+      "type": "map",
+      "design": "final-exploded-layers",
+      "content": "New exploded geographic stack: real satellite coast, real bathymetry, schematic tectonic interface and volcanic arc, cumulative synthesis in separated3D layers",
+      "startFrame": 40414,
+      "endFrame": 40959,
+      "srtCueIds": [
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464
+      ],
+      "narration": "ところが、\n視線を海底へ移した瞬間、\nその印象は一変します。\n千メートルを超える深さ、\n斜面を刻む海底域、\nフィリピン海プレートが\n沈み込む相模トラフ、\nそしてその南に連なる火山の",
+      "newVisualInformation": "New exploded geographic stack: real satellite coast, real bathymetry, schematic tectonic interface and volcanic arc, cumulative synthesis in separated3D layers",
+      "status": "planned",
+      "mapDesign": {
+        "family": "final-exploded-layers",
+        "extent": "to be recorded with actual data",
+        "camera": "to be authored per scene",
+        "dataLayers": [],
+        "explanationMechanism": "New exploded geographic stack: real satellite coast, real bathymetry, schematic tectonic interface and volcanic arc, cumulative synthesis in separated3D layers",
+        "similarSceneIds": [],
+        "meaningfulDifferences": []
+      },
+      "mapReview": {
+        "status": "pending",
+        "proofFrames": [],
+        "motionClip": null
+      }
+    },
+    {
+      "id": "image-100",
+      "cueStart": 465,
+      "type": "image",
+      "design": null,
+      "content": "Quiet memorial flowers near an old coastal stone wall, respectful remembrance of1923, no inscriptions or historical victim imagery",
+      "startFrame": 40959,
+      "endFrame": 41302,
+      "srtCueIds": [
+        465,
+        466
+      ],
+      "narration": "島々。\n１９２３年の大正関東地震は、\nこの海域に潜む地球の力を\n私たちに痛ましい形で示しました。",
+      "newVisualInformation": "Quiet memorial flowers near an old coastal stone wall, respectful remembrance of1923, no inscriptions or historical victim imagery",
+      "status": "planned",
+      "asset": "public/full/scenes/image-100.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-101",
+      "cueStart": 467,
+      "type": "image",
+      "design": null,
+      "content": "White cold-seep clams with delicate siphons in dark sediment, close low-angle research view distinct from previous colony images",
+      "startFrame": 41302,
+      "endFrame": 41594,
+      "srtCueIds": [
+        467,
+        468,
+        469,
+        470
+      ],
+      "narration": "一方、\n初島沖の深海では、\n太陽の光に頼らず生きる貝たちが\n今も静かに命をつないでいます。",
+      "newVisualInformation": "White cold-seep clams with delicate siphons in dark sediment, close low-angle research view distinct from previous colony images",
+      "status": "planned",
+      "asset": "public/full/scenes/image-101.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-102",
+      "cueStart": 471,
+      "type": "image",
+      "design": null,
+      "content": "Cold seep fluid subtly rising beside white clams on a rocky sediment boundary, earth processes and living community, no lava or smoker",
+      "startFrame": 41594,
+      "endFrame": 41854,
+      "srtCueIds": [
+        471,
+        472,
+        473,
+        474
+      ],
+      "narration": "この海には、\n破壊につながる力と\n生命を支える仕組みが\n同時に存在しているのです。",
+      "newVisualInformation": "Cold seep fluid subtly rising beside white clams on a rocky sediment boundary, earth processes and living community, no lava or smoker",
+      "status": "planned",
+      "asset": "public/full/scenes/image-102.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-103",
+      "cueStart": 475,
+      "type": "image",
+      "design": null,
+      "content": "Research team on open ship deck at golden afternoon, ocean breeze and scientific equipment, ordinary human curiosity",
+      "startFrame": 41854,
+      "endFrame": 42060,
+      "srtCueIds": [
+        475,
+        476
+      ],
+      "narration": "地上からは見えないその対象こそ、\n相模湾の\n不思議さなのかもしれません。。",
+      "newVisualInformation": "Research team on open ship deck at golden afternoon, ocean breeze and scientific equipment, ordinary human curiosity",
+      "status": "planned",
+      "asset": "public/full/scenes/image-103.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-104",
+      "cueStart": 477,
+      "type": "image",
+      "design": null,
+      "content": "Soft close-up of calm ocean ripples catching pale evening light, serene water texture, no scene reuse",
+      "startFrame": 42060,
+      "endFrame": 42197,
+      "srtCueIds": [
+        477,
+        478
+      ],
+      "narration": "海は静かに見えても\n止まっているわけません。\nではありません。",
+      "newVisualInformation": "Soft close-up of calm ocean ripples catching pale evening light, serene water texture, no scene reuse",
+      "status": "planned",
+      "asset": "public/full/scenes/image-104.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-105",
+      "cueStart": 479,
+      "type": "image",
+      "design": null,
+      "content": "Long-exposure-style clouds above ancient layered coastal rocks, visual geological time, natural restrained color",
+      "startFrame": 42197,
+      "endFrame": 42585,
+      "srtCueIds": [
+        479,
+        480,
+        481,
+        482
+      ],
+      "narration": "地球の時間は、\n私たちの日常よりもはるかに\nゆっくりと流れています。\n毎幕\nゴジラマイナス一条よりもはるかに\nゆっくりと流れています。",
+      "newVisualInformation": "Long-exposure-style clouds above ancient layered coastal rocks, visual geological time, natural restrained color",
+      "status": "planned",
+      "asset": "public/full/scenes/image-105.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-106",
+      "cueStart": 483,
+      "type": "image",
+      "design": null,
+      "content": "Traveler by a coastal train window looking toward Sagami-like ocean, hands and window reflection, quiet personal connection",
+      "startFrame": 42585,
+      "endFrame": 42839,
+      "srtCueIds": [
+        483,
+        484,
+        485
+      ],
+      "narration": "だからこそ、\n相模湾という地名には、\n物語を知る人にとって\n特別な響きがあります。",
+      "newVisualInformation": "Traveler by a coastal train window looking toward Sagami-like ocean, hands and window reflection, quiet personal connection",
+      "status": "planned",
+      "asset": "public/full/scenes/image-106.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-107",
+      "cueStart": 486,
+      "type": "image",
+      "design": null,
+      "content": "Geologist studying natural coastal stone with a magnifying lens, no monster, no claim that earthquakes create creatures",
+      "startFrame": 42839,
+      "endFrame": 42983,
+      "srtCueIds": [
+        486,
+        487
+      ],
+      "narration": "ただし、\n地震が怪獣を\n生み出したわけではありませんし、",
+      "newVisualInformation": "Geologist studying natural coastal stone with a magnifying lens, no monster, no claim that earthquakes create creatures",
+      "status": "planned",
+      "asset": "public/full/scenes/image-107.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-108",
+      "cueStart": 488,
+      "type": "image",
+      "design": null,
+      "content": "Empty deep seafloor surveyed by two small white ROV beams, only natural sediment and rocks, no sleeping creature or tracks",
+      "startFrame": 42983,
+      "endFrame": 43104,
+      "srtCueIds": [
+        488
+      ],
+      "narration": "海底にゴジラが眠っていると\nいう証拠もありません。",
+      "newVisualInformation": "Empty deep seafloor surveyed by two small white ROV beams, only natural sediment and rocks, no sleeping creature or tracks",
+      "status": "planned",
+      "asset": "public/full/scenes/image-108.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-109",
+      "cueStart": 489,
+      "type": "image",
+      "design": null,
+      "content": "Film editing room with original imagined creature scene on one monitor and a real-looking sea image on another, no text or branding",
+      "startFrame": 43104,
+      "endFrame": 43276,
+      "srtCueIds": [
+        489
+      ],
+      "narration": "映画の想像力と地理学が明らかに\nした事実は別のものです。",
+      "newVisualInformation": "Film editing room with original imagined creature scene on one monitor and a real-looking sea image on another, no text or branding",
+      "status": "planned",
+      "asset": "public/full/scenes/image-109.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-110",
+      "cueStart": 490,
+      "type": "image",
+      "design": null,
+      "content": "Traveler holding a closed field notebook on a coastal walking path, landscape appears vivid through observation",
+      "startFrame": 43276,
+      "endFrame": 43529,
+      "srtCueIds": [
+        490,
+        491,
+        492
+      ],
+      "narration": "それでも、\n現実の地形を知ることで、\n物語の舞台は以前よりはるかに\n鮮やかに見えてきます。",
+      "newVisualInformation": "Traveler holding a closed field notebook on a coastal walking path, landscape appears vivid through observation",
+      "status": "planned",
+      "asset": "public/full/scenes/image-110.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-111",
+      "cueStart": 493,
+      "type": "image",
+      "design": null,
+      "content": "Visitor standing safely at the waterline imagining the unseen sea below, bright blue horizon and gentle waves",
+      "startFrame": 43529,
+      "endFrame": 43738,
+      "srtCueIds": [
+        493,
+        494
+      ],
+      "narration": "次に相模湾を訪れる時は、\nぜひ海面の下を\n想像してみてください。",
+      "newVisualInformation": "Visitor standing safely at the waterline imagining the unseen sea below, bright blue horizon and gentle waves",
+      "status": "planned",
+      "asset": "public/full/scenes/image-111.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-112",
+      "cueStart": 495,
+      "type": "image",
+      "design": null,
+      "content": "Conceptual underwater descent from blue daylight toward naturally sculpted seafloor canyon, evocative illustration not a geographic map",
+      "startFrame": 43738,
+      "endFrame": 44014,
+      "srtCueIds": [
+        495,
+        496,
+        497
+      ],
+      "narration": "目の前の青い海の奥には、\n長い年月をかけて形作られた\nもう一つの日本が広がっています。",
+      "newVisualInformation": "Conceptual underwater descent from blue daylight toward naturally sculpted seafloor canyon, evocative illustration not a geographic map",
+      "status": "planned",
+      "asset": "public/full/scenes/image-112.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-113",
+      "cueStart": 498,
+      "type": "image",
+      "design": null,
+      "content": "View from a submersible round window toward a quiet deep seabed, practical bolts and dim instrument glow without labels",
+      "startFrame": 44014,
+      "endFrame": 44163,
+      "srtCueIds": [
+        498,
+        499
+      ],
+      "narration": "地図には描かれていても、\n私たちがまだ知らない世界。",
+      "newVisualInformation": "View from a submersible round window toward a quiet deep seabed, practical bolts and dim instrument glow without labels",
+      "status": "planned",
+      "asset": "public/full/scenes/image-113.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    },
+    {
+      "id": "image-114",
+      "cueStart": 500,
+      "type": "image",
+      "design": null,
+      "content": "Ocean research ship heading toward a pale sunrise horizon, hopeful final wide composition, no writing or watermark",
+      "startFrame": 44163,
+      "endFrame": 44273,
+      "srtCueIds": [
+        500,
+        501
+      ],
+      "narration": "その謎をたどる旅は\nこれからも続きます。",
+      "newVisualInformation": "Ocean research ship heading toward a pale sunrise horizon, hopeful final wide composition, no writing or watermark",
+      "status": "planned",
+      "asset": "public/full/scenes/image-114.png",
+      "motion": {
+        "scaleStart": 1,
+        "scaleEnd": 1.2,
+        "curve": "linear",
+        "shake": false
+      }
+    }
+  ]
+}

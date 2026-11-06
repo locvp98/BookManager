@@ -1,0 +1,16 @@
+{
+  "id": "image-062",
+  "path": "public/full/scenes/image-062.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one original premium photorealistic cinematic documentary illustration, full bleed16:9, natural detailed materials, controlled natural color, no words, labels, subtitles, logos, watermarks, border or corner frame. Safe composition for100–120% camera push-in. Illustrative coastal view of IZU OSHIMA from far across calm blue sea. A very broad LOW shield-shaped volcanic island, gently sloping forested flanks and a subdued wide caldera upland, roughly15km wide and less than800m high. It must look wide and relatively flat, NOT a steep symmetrical Mount Fuji cone, NOT Sakurajima, not a towering tropical volcano. Quiet clear morning, no eruption, no smoke plume, no lava. Natural Japanese ocean documentary photography.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-b16bf042-b231-4018-921c-64cb8c308ef5.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "dfbc743f2bb70923cff276b53a29a3bb19d22ebc35801f2c61a0306b121cbcc3",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted",
+  "corrected": true
+}

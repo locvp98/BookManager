@@ -1,0 +1,176 @@
+1|I|PREVIEW: Godzilla emerging at water level, fictional ocean creature at dawn
+4|I|PREVIEW: ordinary sea and shoreline at morning
+5|I|PREVIEW: cinema audience and fictional creature screen
+8|M|opening-locator|Extend approved opening satellite shot: reveal Izu Peninsula and Izu Oshima after Miura, continuous camera and labels
+18|I|Enoshima small Japanese coastal island and urban Shonan shoreline, inviting daylight aerial illustration
+21|I|Shonan beach in summer with scattered distant beachgoers and colorful parasols, gentle sea, wide landscape
+22|I|Japanese fishing vessel returning across calm blue water at Sagami Bay, fishermen in distant silhouette, documentary wide view
+23|I|Tokyo metropolitan high-rise skyline seen from the water, ordinary populated city beside ocean, clear morning
+25|I|Quiet Kamakura seaside neighborhood lane opening onto the Pacific, bicycles, low houses, no signage
+27|I|Split waterline ocean view, quiet sunlight above and dark blue depth below, no creature or inaccurate seabed map
+29|M|bathy-plunge|Real bathymetric 3D camera descends from Odawara coast toward the deep bay, sea surface fades, topography remains geographically accurate
+32|M|trough-regional|Regional Pacific and Sagami Trough locator on vector ocean chart, trace actual sourced plate boundary with offshore spatial context
+35|I|Scientific geological cutaway of sedimentary rock layers beneath a quiet seabed, long-term deformation implied, no text
+38|I|Marine geologist examining a real-looking rock sample on research vessel deck, restrained scientific documentary photograph
+41|I|Behind-the-scenes miniature creature model in an original film studio water tank, clearly an imaginative filmmaking environment
+43|I|Concept artist at a desk with blank story sheets and an original ocean creature sculpture, imagination inspired by sea
+45|I|Coastal railway beside dense Japanese urban waterfront, mountains and ocean both visible, metropolitan coast is nearby
+47|I|Sagami Bay viewed from an elevated rocky headland at soft dusk, layers of coast and ocean, contemplative composition
+49|I|Back view of a lone observer looking across sea from a safe promenade, broad blue water, question and curiosity
+51|M|japan-globe|True textured globe from East Asia to Japan, coastline context with Kanto locator; differs from opening local satellite map
+58|M|coastal-cities|North shore city chain on locally cropped satellite strip, individually reveal Kamakura Fujisawa Hiratsuka Odawara westward, coordinate anchoring
+62|M|coastal-gateways|Three geographic cutouts at common scale: Miura, Izu and Oshima, orientation and relative positions preserved in locator inset
+65|I|Mount Fuji beyond Sagami Bay on a clear day, distant snow cone, broad beach foreground and blue ocean
+68|I|Long curving sandy Shonan shoreline seen obliquely, sand texture and soft shore break, calm natural color
+70|M|river-catchments|Tanzawa to coast real land DEM with mouth locators of Sagami and Sakawa rivers; river connections explicitly schematic
+71|I|Hakone green foothills descending close to the western bay shoreline, rock and forest meet the water
+72|I|Manazuru rocky coastal outcrop with dark textured stones and pine trees, sea-level view, bright water
+73|I|Close study of rounded beach pebbles transitioning into sand at the waterline, natural variation within one coast
+75|M|shore-profiles|Sandy plain and mountain coast compared using two actual land-sea DEM transects, shared axes and no invented depth detail
+78|M|bay-nada-boundary|Draw Manazuru to Jogashima geographic division, reveal Sagami Bay north and Sagami-nada south, Oshima outside bay on same progressing shot
+87|I|Open water without any visible human boundary, low horizon and small coastal fishing boat far away, gentle afternoon
+89|I|Navigator examining a chart aboard a research ship, only blank back of chart visible, accurate instruments without readable display text
+93|M|tanzawa-hakone-terrain|Real DEM tilted view from bay toward Tanzawa and Hakone, satellite drape, restrained mountain highlight and clear elevations if sourced
+98|I|River plume carrying brown sediment into blue coastal water, realistic mixing edge, oblique aerial scientific illustration
+100|M|warm-cold-section|Ocean section attached to local coastline, qualitative warm offshore inflow and cold deep water, animated arrows with schematic label
+103|I|Underwater mixing zone with suspended plankton and tiny particles illuminated softly, rich water without neon glow
+107|I|Research submersible suspended safely above the sea beside ship stern crane, engineering details, blue dawn
+109|I|View down through clear water following a research light descending into blue depth, no monster
+111|M|water-removal|Oblique real bathymetric terrain of full bay, lower translucent sea surface to reveal surveyed seafloor; vertical exaggeration declared
+115|M|canyon-low-flight|Close low-angle flight along actual bathymetric slope and canyon, clay relief texture, distinct crop and camera from whole-bay reveal
+120|I|Conceptual physical model of an inverted mountain-like depression under water, high-quality scientific cutaway, no location claim or text
+122|M|three-deep-bays|Sagami Suruga Toyama real geographic bathymetry small multiples, common depth scale and same geographic scale, no reused full-bay view
+126|M|odawara-depth|Actual Odawara coastal transect with depth profile and growing vertical depth ruler, highlight observed minus1000m crossing if grid supports it
+128|I|Human-sized survey instrument beside a dramatic scale model of an inverted mountain cutaway, no text or numerical scale
+131|I|Research vessel near a mountainous Japanese coast preparing a survey, long view across ordinary blue sea
+133|M|east-west-shelf|Two east and west Sagami shelf transects sampled from same bathymetry, synchronized reveal of narrow versus broad shelf, quantitative axes
+139|I|Sediment-covered steep seafloor slope illuminated by a submersible beam, marine snow, natural geology not creature traces
+141|M|canyon-network|Hillshade close-up of actual bay-floor grid with contour reveal, branching valleys only where real resolution supports them, no invented channels
+147|I|Scientific conceptual turbidity current flowing down an underwater slope, dense sediment cloud follows gravity, no labels
+149|I|Detailed folded and faulted sedimentary rock core held by gloved scientist, laboratory macro photography
+150|I|Calm sea surface seen from the bow, deep blue sunlight, hidden world below, no scene reuse
+151|I|Cutaway illustration of a survey ship using fan-shaped multibeam sound paths to the seabed, beautiful physically coherent model, no text
+153|M|sonar-reconstruction|Local bay grid is progressively sampled by a schematic survey swath, real bathymetry resolves into relief; clearly modeled measurement demonstration
+154|I|Research ROV hovering above rocky seabed in darkness, two soft white headlights reveal rugged natural floor
+156|M|trough-path-section|Actual offshore trough or boundary line from Sagami toward Pacific with inset transverse depression profile, scale and source qualified
+165|M|seafloor-hills|Independent bathymetric perspective isolating natural hill-and-valley relief; named knolls only if coordinates independently verified
+170|I|Underwater rock hill beside a steep shadowed slope, low camera shows varied natural seabed topography
+173|I|Close view of naturally fractured seabed stone and settled sediment, no footprints or creature markings
+176|I|Long sediment core displayed in a marine geology laboratory, subtle bands record deep time, no labels
+177|I|Macro of mineral grains and layered marine sediment under laboratory side lighting, separate view of geological history
+178|I|Researcher holding a layered stone against the horizon on a ship deck, thoughtful hands-only composition
+181|I|Scientific unlabeled cutaway of Earth's layered lithosphere beneath ocean, simple coherent geological materials, no geographic map claim
+184|M|sagami-subduction|3D schematic cross-section from sea toward land, Philippine Sea plate slowly descends beneath land-side plate; source and schematic note
+190|I|Precision geodetic measuring instrument anchored on coastal bedrock, subtle slow Earth movement studied over years, no readable figures
+194|I|Sweeping exposed stratified coastal cliff, many layers of geological time, pale natural morning light
+198|M|locked-fault-cycle|Side-on mechanical schematic of locked plate contact, elastic deformation builds then releases, no forecast clock or actual event simulation
+206|M|kanto-two-slabs|Rotated volumetric Kanto cutaway showing Philippine Sea and deeper Pacific slabs from different directions, separate depth layering and source caveats
+212|I|Reconstruction of a quiet Tokyo street in 1923 before earthquake, period wooden buildings and tram, small distant adults, no readable signs
+213|M|kanto-1923-event|Date time and JMA magnitude with sourced epicenter on a regional historic locator, no invented intensity contours or precise rupture map
+217|I|Respectful reconstruction of Yokohama damaged wooden buildings after 1923 earthquake, distant rescuers, no visible injured people or bodies
+220|I|Close architectural view of collapsed timber house frame and roof tiles, historical reconstruction, no gore or readable signage
+221|I|Historical reconstruction of a 1923 Japanese coastal harbor with tsunami surge, safe distant wide angle, no visible casualties
+223|I|1920s Japanese household preparing midday food beside a traditional hearth, quiet period reconstruction, no readable text
+225|I|Distant view of smoke and fires spreading over low-rise 1923 city roofs, historical reconstruction, no graphic human injury
+226|I|Respectful modern memorial flowers overlooking a Japanese coast, no readable inscriptions, quiet remembrance
+229|M|historical-earthquakes|1703 and 1923 coastal event chronology with distinct geographic locations and evidence cards; no periodic recurrence claim or fabricated rupture extents
+234|I|Edo-period coastal village facing powerful sea surge in 1703, historically plausible architecture, distant non-graphic reconstruction
+235|I|Uplifted marine terrace and old wave-cut rock above present shoreline, geologic field photograph style, no labels
+236|I|Close detail of raised coastal rock notch and shells recording changing land-sea level, natural coastal geology
+238|I|Modern seismologist watching clean unlabeled instrument waveforms in a laboratory, no countdown, no prediction claim
+240|I|Archivist examining historical coastal documents and monochrome photographs with writing turned away, records not prediction
+242|I|Quiet Sagami shoreline at pastel sunrise from a new eastern viewpoint, still sea and fishing village, not preview composition
+244|M|hidden-stress-city|Vertical urban-sea-ground section with qualitative stored strain below the coast, spatial relationship rather than earthquake forecast
+246|M|oshima-approach|Real island terrain approached from Sagami direction; reveal shortest indicative Izu-Oshima distance line and geographic position, distinct island camera
+253|I|Izu Oshima Motomachi-style small harbor town with low houses and green volcanic slope, peaceful daylight, no signs
+254|I|Tokyo dense urban crossing seen from an elevated walkway, everyday metropolis contrasts small island, no readable billboards
+256|M|oshima-full-cone|Actual island DEM and offshore bathymetry show volcanic edifice across sea level in a cutaway perspective, true scale noted
+263|I|Mihara crater landscape on Izu Oshima, broad volcanic basin and dark central cone, daylight illustrative aerial
+264|I|Ground-level black basalt lava field with twisted cooled rock textures, sparse resilient vegetation, no active lava
+265|I|Looking across the rim into a dark volcanic crater, subtle natural vapor, realistic rock, no eruption claim
+267|I|Lush island forest path opening toward black volcanic ground, clear transition between ecology and lava landscape
+268|I|Open black ash desert on a Japanese volcanic island, grasses at edges and distant low cone, restrained natural daylight
+270|I|Macro of cooled lava surface with rope-like basalt texture, sharp natural detail, no molten glow
+271|I|Exposed stacked basalt flows in a volcanic roadside cliff, many separate layers, no signs or labels
+273|I|Older volcanic strata cut by a younger dark lava tongue, coherent scientific natural landscape illustration
+275|I|Volcanologist collecting a basalt sample on safe dormant slope, gloves and field kit, no readable markings
+277|M|subduction-contrast|Two clearly separated tectonic sections: Sagami Philippine-under-land versus east-of-Izu Pacific-under-Philippine; timed arrows then magma path schematic
+292|I|1986 Izu Oshima eruption reconstruction seen far from crater at night, orange fountain against dark cone, no human injury
+295|I|Closer reconstructed Mihara crater lava fountain in November 1986, coherent volcanic rocks, no town destruction or date text
+298|I|Reconstruction of volcanic fissure opening on island slope and emitting lava, wide safe viewpoint, no claim of modern active eruption
+300|I|1986 island residents boarding a passenger ferry at night during evacuation, period clothing and luggage, orderly non-graphic reconstruction
+302|I|Island evacuation ferry leaving harbor under dawn sky, reconstructed 1980s vessel and calm passengers seen distantly
+304|I|Miniature ocean film set with creature maquette and practical lighting, clear filmmaking context separates imagination from geology
+306|I|Volcanic island silhouette across tranquil blue Pacific water, strong landform and quiet atmosphere, new south-facing composition
+308|I|Scientist using portable volcano monitoring equipment on a safe green ridge, practical fieldwork, no readable instrument text
+310|I|Deep-sea ROV being lowered through the surface from a research ship crane, mechanical detail and soft blue sea
+314|I|Submersible descending into deep dark ocean, narrow cone of white light and fine marine snow, no fantasy creatures
+316|M|depth-light-pressure|Coast-attached vertical ocean column shows diminishing sunlight and rising pressure with depth, hydrostatic relation rather than invented temperature observations
+326|I|Tiny deep-ocean animals and marine snow visible in a narrow submersible light beam, subtle realistic life in darkness
+328|M|rare-shark-records|Coastal records locator with three scientific silhouette callouts for goblin frilled and megamouth sharks; regional not exact invented catch coordinates
+332|I|Scientifically plausible goblin shark side profile with long flattened rostrum, pale pink gray skin, deep blue water, mouth relaxed
+333|I|Scientifically plausible frilled shark with long eel-like body and six gill slits, natural underwater side view, no aggression
+334|I|Scientifically plausible megamouth shark front three-quarter view, huge broad head and mouth, natural low light, no attack scene
+335|I|Marine biologist comparing unlabeled anatomical shark models in a laboratory, diverse real-looking forms, no creature fiction
+337|I|Scientist examining a seawater sample through a microscope, deep-sea curiosity beyond strange fish, no readable displays
+340|M|hatsushima-seep|Local Hatsushima offshore bathymetric site locator with published depth interval and broad position, no fake survey coordinates
+342|I|Dense colony of white Calyptogena-type clams on cold seep seabed, ROV-style light, realistic shells and sediment, no hydrothermal chimney
+344|I|Close pair of white deep-sea clams partly buried in dark sediment, soft research lamp lighting, fine shell detail
+346|I|Sunlight filtering through the upper ocean onto a cloud of natural phytoplankton, scientific documentary macro ambience
+347|I|Microscopic diatoms and phytoplankton in a drop of seawater, realistic translucent structures, natural microscopy look, no labels
+349|M|two-energy-paths|Compare sun-based ocean food chain with chemical energy below Hatsushima; two spatial columns linked to real local section, qualitative mechanism
+353|I|Scientific conceptual sediment cutaway with clear seep fluid, microbial layers and small white clams above, no black smokers or lava
+356|I|Unlabeled scientific macro illustration of clam gill folds and symbiotic bacteria, explicitly conceptual in production record, natural restrained colors
+359|I|Macro microscopy-style view of sulfur-oxidizing microbial colony near white clam tissue, conceptual biological illustration, no text
+360|I|Wide cold-seep community of white clams and small benthic animals on sediment in darkness, coherent ecology and quiet research light
+364|I|Scientific manned submersible with round viewing ports approaching natural seabed, detailed plausible engineering, no logos
+366|I|Autonomous deep-sea lander with instruments and sample chambers resting on seabed, practical research apparatus, no readable screen text
+368|I|Marine researcher in dim ship control room watching an original clam-colony image on a monitor, no data text or captions
+370|I|Gloved hands pipetting a marine sample into clear vial beside microscope, quiet evidence-based biological research
+372|M|earth-to-life|Spatial network from seafloor chemistry through microbes to clams, geological fluid supply shown without connecting monster fiction
+376|I|Broad deep ocean geological wall and cold-seep life in one evocative scientific illustration, restrained lighting, no location accuracy claim
+381|I|Film concept artist viewing an ocean creature sculpture against blue window light, imaginative worlds inspired by reality
+384|M|geography-imagination|Real depth profile paired with a separately framed fictional creature silhouette, physical setting versus storytelling, no causal geology-to-monster arrow
+392|I|Coastal observer at an oceanographic lookout seeing ordinary sea with new curiosity, distinct telescope and wide daylight view
+394|I|Original historical movie studio with a miniature harbor and vintage camera, no actors resembling real people, no film branding
+397|I|Screenwriter hands beside miniature ships and blank storyboard cards, original fictional naval sequence, no readable text or accurate map
+400|I|1940s-style ship crew discussing a model vessel on deck, cinematic fictional reconstruction, no film still imitation or readable uniforms
+402|M|fictional-buoyancy-plan|Explicit film schematic: bubbles reduce buoyancy, fictional creature descends toward1500m then rises; physical backdrop not a verified effective weapon
+409|I|Fictional ship captain looking out across deep blue sea from bridge, original cinema illustration, no known actor likeness
+411|M|depth-operational-window|Actual local depth bands reveal deep-water setting near coast with1500m contour if supported, distinct oblique north-south view and factual source
+414|I|Controlled laboratory glass water tank and neutral buoyancy sphere experiment, physical science separated from monster fiction, no text
+417|I|Close original film prop pressure vessel beside a miniature ship, warm studio lighting and shallow depth of field
+421|I|Back view of fictional postwar Japanese ship crew facing the sea with hope, quiet restrained cinematic staging
+423|I|Close view of a cinema projector lens throwing a blue beam into darkness, original image, no film title or writing
+426|I|Godzilla jagged dorsal silhouette just beneath dark ocean surface, new underwater fictional composition, no emergence-frame reuse
+428|I|Close human eyes reflecting an abstract ocean cinema image, fascination with a story, no actor likeness or text
+430|I|Scientist holding a real rock sample beside an obviously miniature fictional creature model, distinction between evidence and imagination
+432|M|causality-boundary|Two separate evidence chains: earthquakes and volcanism versus film setting; no scientific causal link to Godzilla, clear labels and crossed unsupported link
+437|I|Filmmaker and marine geologist talking beside ocean with sketchpad turned away, creative geography discussion, no known people
+439|M|shore-depth-reveal|Narrow Shonan-to-deep-bay real terrain curtain with satellite surface and sampled profile, horizontal depth reveal instead of previous whole-bay view
+441|I|Distant ambiguous shadow beneath otherwise calm blue ocean, explicitly imagined cinematic mood, not geographic evidence
+444|I|Observer closes a blank notebook while watching the sea from a wooden seaside bench, contemplative synthesis
+447|I|Original creature maquette beside a globe and ship model in a softly lit studio, storytelling question, no readable writing
+449|I|Sagami coastal panorama with island silhouette far offshore, soft bright morning and fishing village, new foreground composition
+451|I|Japanese metropolitan waterfront with commuter train and blue bay beyond, geographic closeness through everyday landscape
+454|I|Footprints on broad Shonan sand beside soft wavelets, warm morning, no text
+455|I|Kamakura narrow residential lane with traditional roofs and distant temple greenery, calm local life, no readable signs
+456|I|Izu Oshima silhouette low on distant sea horizon seen from a different elevated coastal path, soft atmosphere
+457|I|Family group strolling a seaside promenade under gentle daylight, ordinary familiar Japanese coast, wide respectful composition
+458|M|final-exploded-layers|New exploded geographic stack: real satellite coast, real bathymetry, schematic tectonic interface and volcanic arc, cumulative synthesis in separated3D layers
+465|I|Quiet memorial flowers near an old coastal stone wall, respectful remembrance of1923, no inscriptions or historical victim imagery
+467|I|White cold-seep clams with delicate siphons in dark sediment, close low-angle research view distinct from previous colony images
+471|I|Cold seep fluid subtly rising beside white clams on a rocky sediment boundary, earth processes and living community, no lava or smoker
+475|I|Research team on open ship deck at golden afternoon, ocean breeze and scientific equipment, ordinary human curiosity
+477|I|Soft close-up of calm ocean ripples catching pale evening light, serene water texture, no scene reuse
+479|I|Long-exposure-style clouds above ancient layered coastal rocks, visual geological time, natural restrained color
+481|I|Vintage film reel and original creature sculpture on an editing desk, symbolic cinema reference during imperfect narration, no text
+483|I|Traveler by a coastal train window looking toward Sagami-like ocean, hands and window reflection, quiet personal connection
+486|I|Geologist studying natural coastal stone with a magnifying lens, no monster, no claim that earthquakes create creatures
+488|I|Empty deep seafloor surveyed by two small white ROV beams, only natural sediment and rocks, no sleeping creature or tracks
+489|I|Film editing room with original imagined creature scene on one monitor and a real-looking sea image on another, no text or branding
+490|I|Traveler holding a closed field notebook on a coastal walking path, landscape appears vivid through observation
+493|I|Visitor standing safely at the waterline imagining the unseen sea below, bright blue horizon and gentle waves
+495|I|Conceptual underwater descent from blue daylight toward naturally sculpted seafloor canyon, evocative illustration not a geographic map
+498|I|View from a submersible round window toward a quiet deep seabed, practical bolts and dim instrument glow without labels
+500|I|Ocean research ship heading toward a pale sunrise horizon, hopeful final wide composition, no writing or watermark

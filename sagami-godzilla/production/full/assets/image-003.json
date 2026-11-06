@@ -1,0 +1,13 @@
+{
+  "id": "image-003",
+  "path": "public/full/scenes/image-003.png",
+  "origin": "same-film-approved-preview-used-once",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. PREVIEW: cinema audience and fictional creature screen. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "1a79eed41309b45e65f2528067910b821b762512da431b3fbe66a177eec32c20",
+  "status": "reviewed: accepted",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence."
+}

@@ -1,0 +1,5 @@
+import React from 'react';
+import {AbsoluteFill,CanvasImage,Freeze,interpolate,staticFile,useCurrentFrame,useVideoConfig} from 'remotion';
+import {FullMap} from './FullMap';
+const FullPhoto=({asset,frames}:{asset:string;frames:number})=>{const f=useCurrentFrame(),{fps}=useVideoConfig();return <AbsoluteFill style={{overflow:'hidden',background:'#07121d'}}><CanvasImage src={staticFile(asset)} premountFor={fps} style={{width:'100%',height:'100%',objectFit:'cover',transformOrigin:'50% 50%',scale:interpolate(f,[0,frames-1],[1,1.2],{extrapolateLeft:'clamp',extrapolateRight:'clamp'})}}/></AbsoluteFill>};
+export const HoldingScene=({id,frames,asset,fadeIn}:{id:string;frames:number;asset?:string;fadeIn:boolean})=>{const f=useCurrentFrame();return <AbsoluteFill style={{opacity:fadeIn?interpolate(f,[0,12],[0,1],{extrapolateLeft:'clamp',extrapolateRight:'clamp'}):1}}><Freeze frame={Math.min(f,frames-1)}>{asset?<FullPhoto asset={asset} frames={frames}/>:<FullMap mapId={id} durationFrames={frames}/>}</Freeze></AbsoluteFill>};

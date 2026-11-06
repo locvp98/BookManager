@@ -1,0 +1,20 @@
+{
+  "zoom": 13,
+  "tileOrigin": [
+    7259,
+    3240
+  ],
+  "width": 1792,
+  "height": 2048,
+  "tiles": 56,
+  "source": "Esri World Imagery",
+  "urlTemplate": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+  "attribution": "Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+  "projection": "Web Mercator EPSG:3857",
+  "boundsRequested": [
+    139.03,
+    34.91,
+    139.3,
+    35.14
+  ]
+}

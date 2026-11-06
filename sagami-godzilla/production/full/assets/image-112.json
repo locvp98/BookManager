@@ -1,0 +1,15 @@
+{
+  "id": "image-112",
+  "path": "public/full/scenes/image-112.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Conceptual underwater descent from blue daylight toward naturally sculpted seafloor canyon, evocative illustration not a geographic map. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-39400cb2-1dbd-45a2-8b2d-c1a8a47e24bf.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "ba62356950832fed82c696891fe9518240d5ea445cdcd2b259ad5cc548722a84",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

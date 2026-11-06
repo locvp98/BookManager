@@ -1,0 +1,16 @@
+{
+  "id": "image-092",
+  "path": "public/full/scenes/image-092.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "One original premium photorealistic cinematic documentary still, full bleed16:9, no readable text, labels, captions, logo, watermark, frame or corner brackets, safe composition for slow100–120% push-in. Marine scientist seated in a laboratory holding a real layered rock sample in one hand; beside the scientist stands an obviously artificial miniature GODZILLA model with upright bipedal charcoal reptile shape, thick tail and big jagged dorsal plates. Clearly contrasts geological evidence and fictional cinema. No shrimp, crab, fish, crocodile or insect model. Neutral lab background with ocean visible through window, original ordinary person, no known actor, no readable displays.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-69f67fb6-3840-452f-9da3-c684c37a262e.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f0b98d9b84f80e2d080add13a929d55a0971c76785795aedb4a554de417d2c9d",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted",
+  "corrected": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": "image-013",
+  "path": "public/full/scenes/image-013.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Coastal railway beside dense Japanese urban waterfront, mountains and ocean both visible, metropolitan coast is nearby. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-bddb321b-4eac-4280-9e95-b2e091d7a585.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "4185f39a2031645bda6b53d6ec1e71e25ab1b6ae96f34c67f1c174a8c345485f",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

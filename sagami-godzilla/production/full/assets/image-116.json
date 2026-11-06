@@ -1,0 +1,15 @@
+{
+  "id": "image-116",
+  "path": "public/full/scenes/image-116.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "One independently composed premium photorealistic cinematic documentary illustration, full bleed16:9, restrained natural color, no text, labels, captions, watermark, logos, corner brackets, panels or borders. Safe margins for100–120% forward camera. Original conceptual illustration, not claimed as archival or specific geolocation evidence. Research ROV manipulator gently sampling a small carbonate rock beside a few white Calyptogena clams at a deep cold seep. Tight foreground view of the robotic tool, mineral texture and living shells connects geology with life. Dark1100m deep water lit only by research lamps, no sunlight, lava or hydrothermal chimney. Different composition from previous wide clam colonies.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-fea99876-17c8-47cc-a534-a4f1f2b52e41.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f314e8e160148a23a03009eaea8ae8980ae9a7b94010800c2533e269cfce67fd",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

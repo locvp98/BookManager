@@ -1,0 +1,7 @@
+{
+  "usgs-1923.json": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=1923-09-01&endtime=1923-09-02&minmagnitude=7&maxlatitude=38&minlatitude=32&minlongitude=136&maxlongitude=143",
+  "erc-sagami.html": "https://www.jishin.go.jp/regional_seismicity/rs_kaiko/k_sagami/",
+  "jma-oshima-overview.html": "https://www.data.jma.go.jp/vois/data/tokyo/317_Izu-Oshima/317_index.html",
+  "jamstec-seep.html": "https://www.jamstec.go.jp/j/about/press_release/20150128/",
+  "godzilla-official.html": "https://godzilla-movie2026.toho.co.jp/"
+}

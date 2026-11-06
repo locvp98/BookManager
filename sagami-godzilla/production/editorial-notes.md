@@ -4,4 +4,4 @@ Narration is preserved. Generated monster/cinema images are fictional illustrati
 
 Potential transcript/audio issues to check before full: cue 5 and 424 film title spelling; 176–177 repeated sentence; 271–274 repeated/broken wording; 295 missing month; 477–482 broken/repeated ending. Do not silently fix narration.
 
-Only first 40s requested and authorized for rendering at this stage.
+Full production authorized after preview approval. Original narration remains master; suspected transcript/audio issues are being audited and will not be silently rewritten.

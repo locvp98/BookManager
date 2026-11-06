@@ -1,0 +1,15 @@
+{
+  "id": "image-031",
+  "path": "public/full/scenes/image-031.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Close view of naturally fractured seabed stone and settled sediment, no footprints or creature markings. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-f98f668d-929d-4dfc-b0bf-17fcb71482ca.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "6447e8dd547e7d366b8ca399b32693dd118388c01edc0ec92945423d65eabe6a",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

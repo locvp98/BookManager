@@ -1,0 +1,117 @@
+{
+  "method": "Local faster-whisper-small Japanese recognition; imperfect machine transcription, not a human listening certificate",
+  "audioPreserved": true,
+  "clips": [
+    {
+      "clip": "title",
+      "sourceRange": [
+        12.8,
+        20
+      ],
+      "segments": [
+        {
+          "start": 12.8,
+          "end": 19.8,
+          "text": "新作映画、ゴジラ毎版0.0が公開され、再び注目が集まるゴジラ。",
+          "averageLogProbability": -0.2530307736661699
+        }
+      ]
+    },
+    {
+      "clip": "repeated-geology",
+      "sourceRange": [
+        510.5,
+        527.5
+      ],
+      "segments": [
+        {
+          "start": 510.5,
+          "end": 518.1,
+          "text": "しかし、これらの谷や岡は何者かが海底を歩き回った痕跡ではありません。",
+          "averageLogProbability": -0.16275544225433727
+        },
+        {
+          "start": 518.1,
+          "end": 522.7,
+          "text": "長い地球の歴史が作り上げた自然の地形です。",
+          "averageLogProbability": -0.16275544225433727
+        },
+        {
+          "start": 522.7,
+          "end": 527.5,
+          "text": "長い地球の歴史が作り上げた自然の地形です。",
+          "averageLogProbability": -0.16275544225433727
+        }
+      ]
+    },
+    {
+      "clip": "repeated-volcano",
+      "sourceRange": [
+        821,
+        837
+      ],
+      "segments": [
+        {
+          "start": 821.0,
+          "end": 830.5,
+          "text": "かつて流れ出した溶岩は冷え固まり、次の墳加が長い時間をかけて墳加を繰り返しながら形作られてきたのです。",
+          "averageLogProbability": -0.16170344383201815
+        },
+        {
+          "start": 830.5,
+          "end": 837.0,
+          "text": "伊豆大島は長い時間をかけて墳加を繰り返しながら形作られてきたのです。",
+          "averageLogProbability": -0.16170344383201815
+        }
+      ]
+    },
+    {
+      "clip": "eruption-date",
+      "sourceRange": [
+        878.2,
+        893
+      ],
+      "segments": [
+        {
+          "start": 878.2,
+          "end": 885.32,
+          "text": "この島の力を人々が間のあたりにしたのが、1986年の墳加でした。",
+          "averageLogProbability": -0.2173032837383675
+        },
+        {
+          "start": 885.32,
+          "end": 892.76,
+          "text": "11月15日、見原さんの加工で墳加が始まり、赤い溶岩が吹き上がりました。",
+          "averageLogProbability": -0.2173032837383675
+        }
+      ]
+    },
+    {
+      "clip": "broken-ending",
+      "sourceRange": [
+        1402,
+        1419.5
+      ],
+      "segments": [
+        {
+          "start": 1402.0,
+          "end": 1407.28,
+          "text": "海は静かに見えても止まっている わけではありません地球の時間",
+          "averageLogProbability": -0.21327214052037494
+        },
+        {
+          "start": 1407.28,
+          "end": 1412.84,
+          "text": "は私たちの日常よりも遥かに ゆっくりと流れています",
+          "averageLogProbability": -0.21327214052037494
+        },
+        {
+          "start": 1412.84,
+          "end": 1418.44,
+          "text": "眉幕ゴジラマイナシュ市場よりも 遥かにゆっくりと流れています",
+          "averageLogProbability": -0.21327214052037494
+        }
+      ]
+    }
+  ]
+}

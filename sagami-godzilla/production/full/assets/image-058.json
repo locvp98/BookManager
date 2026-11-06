@@ -1,0 +1,16 @@
+{
+  "id": "image-058",
+  "path": "public/full/scenes/image-058.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one original premium photorealistic cinematic documentary illustration, full bleed16:9, natural detailed materials, controlled natural color, no words, labels, subtitles, logos, watermarks, border or corner frame. Safe composition for100–120% camera push-in. Scientific historical reconstruction of the1986 Izu Oshima flank fissure eruption: a long orange glowing eruptive fissure across INLAND barren black volcanic slopes, small separate lava fountains along the fracture, older caldera ridge in the background. Entire scene is inland volcanic ash and lava rock. No coastline or ocean in the image, no lava pouring over sea cliffs, no town destruction, no Mount Fuji in background. Restrained realistic lava and volcanic smoke, safe distant oblique viewpoint, not actual archival footage.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-a7d7be40-d470-4d07-8e97-9267bc855647.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "a90e787edf1f7d3c153163684ba68626504970daef6fedb8c82362b2410d36d0",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted",
+  "corrected": true
+}

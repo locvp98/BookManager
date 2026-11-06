@@ -1,0 +1,15 @@
+{
+  "id": "image-046",
+  "path": "public/full/scenes/image-046.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Archivist examining historical coastal documents and monochrome photographs with writing turned away, records not prediction. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-989ba096-d2d0-45ca-ab69-54428c125ad8.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "bfc2b0bc63bec15216f06280f19f96143a6bf5f7d52f61fe3cdfb57e1f119bb2",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

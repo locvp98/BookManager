@@ -1,0 +1,15 @@
+{
+  "id": "image-064",
+  "path": "public/full/scenes/image-064.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Deep-sea ROV being lowered through the surface from a research ship crane, mechanical detail and soft blue sea. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-ebe57bcc-c6ab-430f-a84b-b23bf1ccc7c5.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f58846c7cac1d60c48c0294f3e7a8da8305d44aadef6638ebc7a49b03f342fc2",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

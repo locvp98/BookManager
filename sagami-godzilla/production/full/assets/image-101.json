@@ -1,0 +1,15 @@
+{
+  "id": "image-101",
+  "path": "public/full/scenes/image-101.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. White cold-seep clams with delicate siphons in dark sediment, close low-angle research view distinct from previous colony images. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-77e479d7-6b88-4664-8dc7-1f210167e572.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "6b07569469c600bfb72520f8ddf8fa010efc400c9dfa3bf671d9a71a8e33dac8",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

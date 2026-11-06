@@ -1,0 +1,9 @@
+{
+  "method": "Georeferenced multi-resolution mosaic; high-resolution land, seamless water from source z11 image",
+  "waterMask": "photographic blue-water classification with2pixel coast protection and0.6pixel source-edge feather; not an authoritative shoreline dataset",
+  "rawHdSource": "production/full/sources/raw-kanto-hd-satellite.jpg",
+  "baseWaterSource": "public/maps/kanto-satellite.jpg",
+  "metadata": "kanto-hd-satellite.json",
+  "geographicCoordinatesUnchanged": true,
+  "noInventedGeographicFeatures": true
+}

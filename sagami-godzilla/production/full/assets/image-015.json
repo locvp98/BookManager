@@ -1,0 +1,15 @@
+{
+  "id": "image-015",
+  "path": "public/full/scenes/image-015.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Back view of a lone observer looking across sea from a safe promenade, broad blue water, question and curiosity. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-a61d1b23-d2d9-47a1-9840-3301659dc243.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "0fc354b48ec70e487358126ba4847e291f5a00ff116930593afa8598f30b13bd",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

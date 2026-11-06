@@ -1,0 +1,15 @@
+{
+  "id": "image-020",
+  "path": "public/full/scenes/image-020.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Open water without any visible human boundary, low horizon and small coastal fishing boat far away, gentle afternoon. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-2a46636b-436b-4756-be60-573bfeb537d4.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "910f0c8c22a92ad90e36d8eb61c5f2e401a6e64bf46debd753a6eb6173f6d44e",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

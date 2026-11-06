@@ -1,0 +1,15 @@
+{
+  "replacedMaps": [
+    [
+      "map-026",
+      "image-115",
+      "Close realistic documentary view of a coastal geodetic sensor firmly bolted to old bedrock near a quiet Japanese bay. Calm sea and distant ordinary waterfront behind, a buried monitoring cable and practical field instrument in foreground, no readable displays. Suggest hidden Earth forces through scientific observation, not a repeated underground diagram."
+    ],
+    [
+      "map-034",
+      "image-116",
+      "Research ROV manipulator gently sampling a small carbonate rock beside a few white Calyptogena clams at a deep cold seep. Tight foreground view of the robotic tool, mineral texture and living shells connects geology with life. Dark1100m deep water lit only by research lamps, no sunlight, lava or hydrothermal chimney. Different composition from previous wide clam colonies."
+    ]
+  ],
+  "reason": "Repeated narration without a new geographic claim should use a fresh cutaway rather than another similar map. Existing image and map IDs remain unchanged, preserving valid clip checkpoints."
+}

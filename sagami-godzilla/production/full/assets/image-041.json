@@ -1,0 +1,15 @@
+{
+  "id": "image-041",
+  "path": "public/full/scenes/image-041.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Distant view of smoke and fires spreading over low-rise 1923 city roofs, historical reconstruction, no graphic human injury. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-99ce4f04-e18e-4e1d-a40b-6528fda14953.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "3b3b7dd33228b4d4df5b415a0f520d6aa21543e6105e90c29cf7d2f7d60a838b",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

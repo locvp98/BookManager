@@ -1,0 +1,16 @@
+{
+  "id": "image-043",
+  "path": "public/full/scenes/image-043.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one original premium photorealistic cinematic documentary illustration, full bleed16:9, natural detailed materials, controlled natural color, no words, labels, subtitles, logos, watermarks, border or corner frame. Safe composition for100–120% camera push-in. Historical reconstruction of an Edo-period1703 Japanese coastal fishing village as seawater begins surging into the harbor. Ground-level viewpoint from a low wooden pier with close mooring rope, barrels and a traditional wooden fishing boat in foreground; tiled wooden low houses across water behind. Gray daylight, strong water flow but no bodies, no graphic injury or huge breaking wall of water. No elevated hillside overview, no tree framing from above. No modern buildings, utility lines, cars or ships.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-7c5ed9a7-ae26-46ea-971e-f45b5e441468.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "2dbb13f383d3c5c1e1feec2c5076f413953e8edd50663babbd16645b917b7fdf",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted",
+  "corrected": true
+}

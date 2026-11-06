@@ -1,0 +1,15 @@
+{
+  "id": "image-097",
+  "path": "public/full/scenes/image-097.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Footprints on broad Shonan sand beside soft wavelets, warm morning, no text. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-83f5a74c-453e-4242-a0ce-3a69bf2dd420.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "deef2d4526f02c82f53cf48c04e73dc595832380fecadc50b69c96bc916ab233",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "image-019",
+  "path": "public/full/scenes/image-019.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Manazuru rocky coastal outcrop with dark textured stones and pine trees, sea-level view, bright water. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-a6712dce-592c-4cd5-9426-384597e14df0.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "8a39e19203e35f9f00b56b64464b8a883120d0ee0905a86a4b6f2dd47f8db9b3",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

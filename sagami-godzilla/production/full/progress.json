@@ -1,0 +1,22 @@
+{
+  "updatedUnix": 1793966690.8561976,
+  "stage": "map clip rendering and quality review",
+  "groups": {
+    "image": {
+      "verified": 116,
+      "total": 116,
+      "frames": 25584
+    },
+    "map": {
+      "verified": 25,
+      "total": 38,
+      "frames": 11482
+    }
+  },
+  "verifiedSourceFrames": 37066,
+  "totalFrames": 44273,
+  "verifiedSourceSeconds": 1235.5333333333333,
+  "sourcePercent": 83.72,
+  "finalVerified": false,
+  "note": "Source coverage is distributed across the timeline, not a continuous playable final. Markers originate from full decode and SHA validation; this status reader checks size and frame count only."
+}

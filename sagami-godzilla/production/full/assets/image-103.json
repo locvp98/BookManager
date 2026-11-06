@@ -1,0 +1,15 @@
+{
+  "id": "image-103",
+  "path": "public/full/scenes/image-103.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Research team on open ship deck at golden afternoon, ocean breeze and scientific equipment, ordinary human curiosity. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-d6ffc624-1918-4aa4-8452-79404fb69479.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "e0e87157b1c3128a4c04f2dd584a4877db9824d8d55361e93fad68611b5397cc",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

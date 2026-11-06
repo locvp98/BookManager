@@ -1,0 +1,15 @@
+{
+  "id": "image-007",
+  "path": "public/full/scenes/image-007.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Quiet Kamakura seaside neighborhood lane opening onto the Pacific, bicycles, low houses, no signage. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-a6b3b7cf-2105-4036-9563-02d36abe1a5c.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "f39d340ea56f297ec9881d643d247b2e7e8c766c6ae4ee207afafcf49e0893dd",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

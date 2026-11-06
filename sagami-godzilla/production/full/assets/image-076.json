@@ -1,0 +1,15 @@
+{
+  "id": "image-076",
+  "path": "public/full/scenes/image-076.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Wide cold-seep community of white clams and small benthic animals on sediment in darkness, coherent ecology and quiet research light. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-6b27d240-16cc-4a61-9983-009d82b9811d.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "1aa750921cf543159fffb2174e830d166a197822988b1c2f869bab4e2df89222",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

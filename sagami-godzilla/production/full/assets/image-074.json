@@ -1,0 +1,16 @@
+{
+  "id": "image-074",
+  "path": "public/full/scenes/image-074.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "One original premium photorealistic cinematic documentary still, full bleed16:9, no readable text, labels, captions, logo, watermark, frame or corner brackets, safe composition for slow100–120% push-in. Scientific conceptual cross-section of a COLD SEEP at1100m ocean depth near Japan. Pitch-dark deep water above; the scene is illuminated only by soft white ROV lamps. In the foreground a clean cutaway through brown seabed sediment reveals thin microbial layers and clear methane-bearing pore fluids moving upward toward a small colony of white Calyptogena clams at the surface. Subtle cool natural tones. No sunlight or blue sun rays, no shallow turquoise surface, no lava, no hot hydrothermal chimney, no black smoker. A qualitative biological illustration, no exact measurement claim.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-4f48ab4c-e38b-46be-8cd1-a93f1716caed.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "3b95cfbf933737bee213bf5a552f3b5e414410c18621db1850050b1abc6cdca0",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted",
+  "corrected": true
+}

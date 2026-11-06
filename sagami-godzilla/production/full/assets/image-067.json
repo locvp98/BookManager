@@ -1,0 +1,15 @@
+{
+  "id": "image-067",
+  "path": "public/full/scenes/image-067.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Scientifically plausible goblin shark side profile with long flattened rostrum, pale pink gray skin, deep blue water, mouth relaxed. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-a5b9ac43-82fb-4d8d-b9eb-b90b4fad08ca.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "11aa2475696ae578249791b4c596b48c7b3c168d57cd73035227ed8a508f0c66",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

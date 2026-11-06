@@ -1,0 +1,15 @@
+{
+  "id": "image-088",
+  "path": "public/full/scenes/image-088.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Close original film prop pressure vessel beside a miniature ship, warm studio lighting and shallow depth of field. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-7757428f-7832-4c3a-8551-e6cb502a2385.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "7ef324c1434c80185b4e0269017039a9faa28121e366b36724e2102c201ef7aa",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

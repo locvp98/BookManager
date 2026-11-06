@@ -1,0 +1,15 @@
+{
+  "id": "image-011",
+  "path": "public/full/scenes/image-011.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Behind-the-scenes miniature creature model in an original film studio water tank, clearly an imaginative filmmaking environment. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-342577da-9739-4557-adb2-5470f6d6e548.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "e484b476dc488184413c9b1658a870fe9b96be5e462bbea06ad118b4d5dcb39c",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

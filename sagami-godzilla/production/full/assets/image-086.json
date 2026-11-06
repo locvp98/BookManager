@@ -1,0 +1,15 @@
+{
+  "id": "image-086",
+  "path": "public/full/scenes/image-086.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Fictional ship captain looking out across deep blue sea from bridge, original cinema illustration, no known actor likeness. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-4d936f8f-1ad7-483e-98a7-6fc0f47b3c3c.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "d7b69e77167f74adf9aec282fdc359ec15aaf020534355f7d60605e08f680bce",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

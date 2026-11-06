@@ -1,0 +1,15 @@
+{
+  "id": "image-085",
+  "path": "public/full/scenes/image-085.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. 1940s-style ship crew discussing a model vessel on deck, cinematic fictional reconstruction, no film still imitation or readable uniforms. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-416288c4-38f7-4d2a-ab8a-187e022187b5.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "1d9ddb11e11c251cf6861526cf06cbf8ec370ff55682a59b09efc7f388dfa068",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}

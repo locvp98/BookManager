@@ -1,0 +1,15 @@
+{
+  "id": "image-082",
+  "path": "public/full/scenes/image-082.png",
+  "origin": "generated-new-for-sagami-full",
+  "prompt": "Create one independently composed premium cinematic documentary still, full bleed widescreen 16:9, photorealistic detail and coherent physical forms, restrained natural color, balanced readable composition, plenty of edge margin for a smooth 100 to 120 percent forward camera move. No text, captions, labels, letters, title, watermark, logos, corner brackets, decorative frame, panels, collage or letterbox bars. This is an original illustrative reconstruction for a Japanese-language ocean documentary, not a copy of existing footage or a claim to historical photographic evidence. Coastal observer at an oceanographic lookout seeing ordinary sea with new curiosity, distinct telescope and wide daylight view. Respect the stated period and scientific context; no dramatic elements not specified.",
+  "sourceGeneratedFile": "/workspace/generated_images/exec-afa144ce-d802-4078-a7bc-8838b11303e1.png",
+  "dimensions": [
+    1672,
+    941
+  ],
+  "sha256": "0c19dbd9b247cbce545187f93aa634ea81e14934a46aca8a246c92600089447a",
+  "review": "Visually reviewed across contact sheets and corrected-image sheets; accepted final asset. Fictional/history/biological reconstructions remain labeled in production notes, not claimed as real film or archival evidence.",
+  "fictionalOrConceptualIllustration": true,
+  "status": "reviewed: accepted"
+}
